@@ -1,0 +1,37 @@
+{
+  "name": "animes-season-addon",
+  "version": "1.0.0",
+  "description": "Stremio Catalog Addon that provides information about the latest anime seasons based on Anilist's open data",
+  "main": "build/src/index.js",
+  "scripts": {
+    "start": "tsc && node build/src/index.js",
+    "test": "tsc && jest build",
+    "build": "tsc",
+    "clean": "rm -rf build",
+    "hard-clean": "rm -rf build node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/victorgveloso/animes-season-addon.git"
+  },
+  "keywords": [
+    "Open",
+    "Data",
+    "Stremio",
+    "Addon"
+  ],
+  "author": "Victor Guerra Veloso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorgveloso/animes-season-addon/issues"
+  },
+  "homepage": "https://github.com/victorgveloso/animes-season-addon#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "name-to-imdb": "^3.0.4"
+  }
+}
