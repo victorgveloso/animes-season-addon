@@ -1,4 +1,4 @@
-import { monthToSeason, Season } from '../src/query';
+import { monthToSeason, Season, createSortedSeasonList } from '../src/query';
 
 describe('monthToSeason', () => {
     it('should return WINTER for December, January, and February', () => {
@@ -30,3 +30,15 @@ describe('monthToSeason', () => {
       expect(() => monthToSeason(12)).toThrow('Month must be between 0 and 11');
     });
   });
+
+  describe.each([...Array(12).keys()])('createSortedSeasonList', (month: number) => {
+    let seasons: Season[];
+      beforeEach(() => {
+        let season = monthToSeason(month);
+        seasons = createSortedSeasonList(season);
+      });
+      it.each([...Array(4).keys()])('should return a list with all seasons in order from %s', (threshold: number) => {
+        const m = (month + (3 * threshold)) % 12;
+        expect(seasons[threshold]).toEqual(monthToSeason(m));
+      });
+    });

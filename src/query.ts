@@ -57,6 +57,26 @@ export function monthToSeason(month: number): Season {
 }
 
 /**
+ * Create a sorted list of seasons based on the first season provided
+ * @param firstSeason current season of the year that should be first in the list of seasons
+ * @returns Sorted list of seasons with the first season being the one passed as argument
+ */
+export function createSortedSeasonList(firstSeason: Season): Season[] {
+  switch (firstSeason) {
+    case Season.WINTER:
+      return [Season.WINTER, Season.SPRING, Season.SUMMER, Season.FALL];
+    case Season.SPRING:
+      return [Season.SPRING, Season.SUMMER, Season.FALL, Season.WINTER];
+    case Season.SUMMER:
+      return [Season.SUMMER, Season.FALL, Season.WINTER, Season.SPRING];
+    case Season.FALL:
+      return [Season.FALL, Season.WINTER, Season.SPRING, Season.SUMMER];
+    default:
+      throw new Error("Invalid season");
+  }
+}
+
+/**
  * Generate query string for GraphQL based on template and arguments
  * @param year Queried year
  * @param season Queried season
@@ -69,6 +89,7 @@ export function query(year: number, season: Season, sorting: Sorting): string{
         Page(perPage: 50, page: 1) {
           media(seasonYear:${year}, season:${season}, sort:${sorting}) {
             genres
+            synonyms
             tags {
               name
               isGeneralSpoiler
@@ -99,6 +120,10 @@ export function query(year: number, season: Season, sorting: Sorting): string{
             description
             seasonYear
             episodes
+            bannerImage
+            coverImage {
+              medium
+            }
             nextAiringEpisode {
               timeUntilAiring
               airingAt
