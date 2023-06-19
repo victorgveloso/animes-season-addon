@@ -1,0 +1,54 @@
+
+{
+    "id": "animes-season-addon",
+    "version": "1.0.0",
+    "name": "Animes' season",
+    "description": "A catalog addon for the latest anime seasons",
+    "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
+    "resources": ["catalog"],
+    "types": ["movie","series"],
+    "catalogs": [
+        {
+          "type": "series",
+          "id": "archive_anime_seasons",
+          "name": "Previous Years' Anime Seasons (TV)",
+          "extra": [
+              { "name": "genre", "options": [
+                "2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022"
+              ], "isRequired": true }
+          ],
+          "extraSupported": ["genre"]
+        },
+        {
+          "type": "movie",
+          "id": "archive_anime_seasons",
+          "name": "Previous Years' Anime Seasons (Movies)",
+          "extra": [
+              { "name": "genre", "options": [
+                "2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022"
+              ], "isRequired": true }
+          ],
+          "extraSupported": ["genre"]
+        },
+      {
+        "type": "series",
+        "id": "latest_anime_seasons",
+        "name": "Current Year's Anime Seasons (TV)",
+        "extra": [
+            { "name": "genre", "options": ["Summer", "Fall", "Winter", "Spring"], "isRequired": true }
+        ],
+        "extraSupported": ["genre"]
+      },
+      {
+        "type": "movie",
+        "id": "latest_anime_seasons",
+        "name": "Current Year's Anime Seasons (Movies)",
+        "extra": [
+            { "name": "genre", "options": ["Summer", "Fall", "Winter", "Spring"], "isRequired": true }
+        ],
+        "extraSupported": ["genre"]
+      }
+    ],
+    "idPrefixes": ["tt"]
+  }
+  
