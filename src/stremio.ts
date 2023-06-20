@@ -33,7 +33,13 @@ export class Catalog {
         for (const anime of results) {
             const originalName = anime.title.english ?? anime.title.romaji;
             const name = Stremio.removeSeasonDetails(originalName);
-            const id = await Imdb.getIdFromName(name, anime.seasonYear, type) ?? await Imdb.getIdFromName(originalName, anime.seasonYear, type);
+            let id = await Imdb.getIdFromName(name, anime.seasonYear, type) ?? await Imdb.getIdFromName(originalName, anime.seasonYear, type);
+            let nextName: string = originalName;
+            let maxRetry = nextName.match(/ /g)?.length ?? 0;
+            while (!id && maxRetry--) {
+                nextName = nextName.substring(0, nextName.lastIndexOf(" "));
+                id = await Imdb.getIdFromName(nextName, anime.seasonYear, type);
+            };
             const poster = anime.coverImage.medium ?? anime.bannerImage;
             this.addMeta({id,type,name:originalName,poster} as Meta);
         }
@@ -75,6 +81,9 @@ export class Manifest implements AbstractManifest {
         for (const catalog of this.catalogs) {
             if (catalog.name == "Anime Years") {
                 catalog.extra[0].options = this.years;
+            }
+            else if (catalog.name == "Anime Seasons") {
+                catalog.extra[0].options = this.seasons;
             }
         }
         await this.writeToFile();
@@ -238,6 +247,6 @@ export class Stremio {
             stopWords.push(`${index}`);
             stopWords.push(`${index}th`);
         }
-        return base.toLowerCase().split(/\b/).map(word => word.trim()).filter(word => !stopWords.includes(word)).join(" ");
+        return base.toLowerCase().split(" ").map(word => word.trim()).filter(word => !stopWords.includes(word)).join(" ");
     }
 }

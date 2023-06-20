@@ -13,6 +13,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146065-1hTpwsW2fQIA.jpg"
     },
     {
+      "id": "tt13103134",
       "type": "series",
       "name": "Horimiya: The Missing Pieces",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163132-C220CO5UrTxY.jpg"
@@ -24,7 +25,6 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159322-FK5tyOowXPHE.jpg"
     },
     {
-      "id": "tt11547244",
       "type": "series",
       "name": "Masamune-kun's Revenge R",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146953-80YtZNkpbhIA.jpg"
@@ -42,6 +42,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154745-f8JCDLAWhOpK.jpg"
     },
     {
+      "id": "tt21689900",
       "type": "series",
       "name": "Suki na Ko ga Megane wo Wasureta",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx160188-4RvYLaru3vKj.jpg"
@@ -59,6 +60,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163263-uz881pFAyi7P.jpg"
     },
     {
+      "id": "tt20247288",
       "type": "series",
       "name": "Hataraku Maou-sama!! 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155168-xOoY1YNvZdRl.jpg"
@@ -76,11 +78,6 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142598-0jpRK2h0v1hd.jpg"
     },
     {
-      "type": "series",
-      "name": "Shinigami Bocchan to Kuro Maid 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139435-BBcB2gjT6kVC.jpg"
-    },
-    {
       "id": "tt22249034",
       "type": "series",
       "name": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
@@ -88,10 +85,16 @@
     },
     {
       "type": "series",
+      "name": "Shinigami Bocchan to Kuro Maid 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139435-BBcB2gjT6kVC.jpg"
+    },
+    {
+      "type": "series",
       "name": "Go-toubun no Hanayome∽",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163327-xBQznOwq6emq.jpg"
     },
     {
+      "id": "tt26351388",
       "type": "series",
       "name": "Fate/strange Fake -Whispers of Dawn-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154966-eQRCmSrCh96j.png"
@@ -103,6 +106,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153360-0c0Bu5xnwiSL.jpg"
     },
     {
+      "id": "tt14206996",
       "type": "series",
       "name": "Eiyuu Kyoushitsu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139606-LrYkytn7fVwt.jpg"
@@ -114,6 +118,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146646-RMrHipfzvfTM.jpg"
     },
     {
+      "id": "tt17372734",
       "type": "series",
       "name": "Saint Cecilia and Pastor Lawrence",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150972-7tORPT78CYKG.jpg"
@@ -125,6 +130,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155730-r9iGbzJ6wxgO.jpg"
     },
     {
+      "id": "tt23902454",
       "type": "series",
       "name": "Am I Actually the Strongest?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154391-IEyLPkJBsMxO.jpg"
@@ -153,6 +159,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157397-uOgUBNe8W65v.jpg"
     },
     {
+      "id": "tt27545715",
       "type": "series",
       "name": "Hibike! Euphonium: Ensemble Contest-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150429-5KvbB5BBt2Yz.jpg"
@@ -182,15 +189,16 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162983-lCgJWVooDdfV.jpg"
     },
     {
+      "id": "tt15715052",
+      "type": "series",
+      "name": "Record of Ragnarok II Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165356-MnzKLWZOx7av.jpg"
+    },
+    {
       "id": "tt25697580",
       "type": "series",
       "name": "Spy Kyoushitsu 2nd season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163542-SYrNfoXnb9kp.jpg"
-    },
-    {
-      "type": "series",
-      "name": "Record of Ragnarok II Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165356-MnzKLWZOx7av.jpg"
     },
     {
       "id": "tt27571647",
@@ -223,6 +231,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158530-qQ28EMTRLICp.jpg"
     },
     {
+      "id": "tt2235759",
       "type": "series",
       "name": "The Great Cleric",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155418-wLWulAHYVrE5.jpg"
@@ -246,6 +255,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163205-wj5WDFn0i8dK.jpg"
     },
     {
+      "id": "tt17736234",
       "type": "series",
       "name": "BASTARD!! -Heavy Metal, Dark Fantasy- Hell’s Requiem Arc",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159926-OJ7FwFjiOpIQ.jpg"
@@ -257,6 +267,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154643-NbuhZQCxgKMj.jpg"
     },
     {
+      "id": "tt14586350",
       "type": "series",
       "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: NEXT SKY",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157654-lTjK7QTs0YDX.jpg"
@@ -267,17 +278,19 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/98875-DaOUqpdr99ng.jpg"
     },
     {
+      "id": "tt12311976",
+      "type": "series",
+      "name": "TONIKAWA: Over The Moon For You ~High School Days~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166104-0oRQjclE7X3S.jpg"
+    },
+    {
       "id": "tt27250301",
       "type": "series",
       "name": "Ōoku: The Inner Chambers",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163137-t2AEjAehvvTg.jpg"
     },
     {
-      "type": "series",
-      "name": "TONIKAWA: Over The Moon For You ~High School Days~",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166104-0oRQjclE7X3S.jpg"
-    },
-    {
+      "id": "tt26346647",
       "type": "series",
       "name": "OVA Azur Lane: Queen's Orders",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154525-OjUVWaLifLHS.png"

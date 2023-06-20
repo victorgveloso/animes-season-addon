@@ -1,3 +1,4 @@
+import { monthToSeason } from "./query";
 import { Stremio } from "./stremio";
 import { TitleType } from 'name-to-imdb';
 
@@ -24,7 +25,8 @@ async function main() {
             }
         }
     }
-    if (currentYear > manifest.getLastUpdate().getFullYear()) {
+    if (currentYear > manifest.getLastUpdate().getFullYear() || manifest.getSeasons()[0] != monthToSeason(today.getMonth())) {
+        console.log(`Updating manifest`);
         await manifest.update(today);
     }
     await Promise.all(promises);
