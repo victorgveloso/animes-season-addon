@@ -1,6 +1,5 @@
-import { Sorting, query, monthToSeason, createSortedSeasonList } from "./query";
-import { Anilist, Imdb } from "./request";
-import { Stremio, Meta } from "./stremio";
+import { monthToSeason, createSortedSeasonList } from "./query";
+import { Stremio } from "./stremio";
 import { TitleType } from 'name-to-imdb';
 
 async function main() {
@@ -14,35 +13,13 @@ async function main() {
     for (const titleType of ["series", "movie"] as TitleType[]) {
         for (const season of seasons) {
             const catalog = await stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season.toLowerCase()}.json`);
-            const q = query(currentYear, season, Sorting.POPULARITY_DESC, titleType);
-            const anilist = new Anilist();
-            const response = await anilist.fetch(q);
-            const results = response?.data?.Page?.media;
-            if (!results) continue;
-            for (const anime of results) {
-                const originalName = anime.title.english ?? anime.title.romaji;
-                const name = Stremio.removeSeasonDetails(originalName);
-                const id = await Imdb.getIdFromName(name, anime.seasonYear, titleType);
-                const poster = anime.coverImage.medium ?? anime.bannerImage;
-                catalog.addMeta({id,type:titleType,name:originalName,poster} as Meta);
-            }
+            catalog.populate(currentYear, season, titleType);
             promises.push(catalog.writeToFile());
         }
         for (let year = 2001; year < currentYear; year++) {
             const catalog = await stremio.createCatalogIfNotExists(`${titleType}/archive_anime_seasons/genre=${year}.json`);
             for (const season of seasons) {
-                const q = query(year, season, Sorting.POPULARITY_DESC, titleType);
-                const anilist = new Anilist();
-                const response = await anilist.fetch(q);
-                const results = response?.data?.Page?.media;
-                if (!results) continue;
-                for (const anime of results) {
-                    const originalName = anime.title.english ?? anime.title.romaji;
-                    const name = Stremio.removeSeasonDetails(originalName);
-                    const id = await Imdb.getIdFromName(name, anime.seasonYear, titleType);
-                    const poster = anime.coverImage.medium ?? anime.bannerImage;
-                    catalog.addMeta({id,type:titleType,name:originalName,poster} as Meta);
-                }
+                catalog.populate(year, season, titleType);
             }
             promises.push(catalog.writeToFile());
         }
