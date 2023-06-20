@@ -44,7 +44,7 @@ export class Catalog {
 }
 
 export class Stremio {
-    async createCatalogIfNotExists(filePath: string) : Promise<Catalog> {
+    static async createCatalogIfNotExists(filePath: string) : Promise<Catalog> {
         const baseDir = "catalog";
         const dir = path.dirname(`${baseDir}/${filePath}`);
         try {
