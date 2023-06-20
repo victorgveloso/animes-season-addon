@@ -1,0 +1,1017 @@
+{
+  "metas": [
+    {
+      "type": "series",
+      "name": "Spice and Wolf",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2966-BDusgFy0UzDy.png"
+    },
+    {
+      "id": "tt1161684",
+      "type": "series",
+      "name": "Rosario + Vampire",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2993.jpg"
+    },
+    {
+      "id": "tt1634209",
+      "type": "series",
+      "name": "Kiss x Sis",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5042-FZ8XdXStvn0u.png"
+    },
+    {
+      "type": "series",
+      "name": "True Tears",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2129-5TX1vWYYe2MT.png"
+    },
+    {
+      "type": "series",
+      "name": "Baccano! Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3901-uUj3GeGsebmj.png"
+    },
+    {
+      "type": "series",
+      "name": "ARIA The ORIGINATION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3297-FHuyO7uiefNg.png"
+    },
+    {
+      "type": "series",
+      "name": "RIN ~Daughters of Mnemosyne~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3342-py3qPHF7NK3c.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Zoku Sayonara Zetsubou Sensei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3228-6Oo8fgfTlFm2.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Shigofumi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3420-ZHbQqYUJCcUn.png"
+    },
+    {
+      "type": "series",
+      "name": "Kimi ga Aruji de Shitsuji ga Ore de",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3229-patebR065mMD.jpg"
+    },
+    {
+      "type": "series",
+      "name": "The Familiar of Zero: \"Rondo\" of Princesses - Seductive Beach",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5764.jpg"
+    },
+    {
+      "type": "series",
+      "name": "H2O: Footprints in the Sand",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3299-E3PTKYMS6DnB.png"
+    },
+    {
+      "type": "series",
+      "name": "Persona -trinity soul-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3366.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Minami-ke: Okawari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3225-o0alpa3uDh0S.png"
+    },
+    {
+      "type": "series",
+      "name": "Major S4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3226-fMXH8ydO3BmF.png"
+    },
+    {
+      "type": "series",
+      "name": "School Days: Valentine Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3759.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Naruto Shippuden: Konoha Gakuen - Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4134.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Gunslinger Girl -Il Teatrino-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/n3231-MP0WwB4XBx6u.png"
+    },
+    {
+      "type": "series",
+      "name": "Code Geass: Lelouch of the Rebellion Special Edition Black Rebellion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4596.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kirepapa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3375.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Shakugan no Shana II (Second) Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3956.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3965.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Hatenkou Yugi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3298.jpg"
+    },
+    {
+      "type": "series",
+      "name": "BUS GAMER",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3389.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Yes! Precure 5 GoGo!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3692-3RdrjBpgq1E2.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3674-M61nw5jhN016.png"
+    },
+    {
+      "type": "series",
+      "name": "Big Windup!: The Basics of Basics",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3887-kfIgQKaJQUXC.png"
+    },
+    {
+      "type": "series",
+      "name": "D.C.if: Da Capo if",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5216.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Dinosaur King Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5725-i8OOHFuaMisS.png"
+    },
+    {
+      "type": "series",
+      "name": "Graveyard Kitaro",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3710-TGAjCIMRcQKT.jpg"
+    },
+    {
+      "type": "series",
+      "name": "The Idolm@ster: Live for You!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4033.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Alignment You! You! THE ANIMATION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4010.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Yotsunoha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3011.jpg"
+    },
+    {
+      "type": "series",
+      "name": "My-Otome 0: S.ifr",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3268.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Pussycat",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/11687-1WMqmk5QQjkx.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Princess Resurrection Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4082.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Outlaw Star Pilot",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4650.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Shakugan no  SHANA: Naze Nani Shana 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/14957.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Urusei Yatsura: The Obstacle Course Swim Meet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6567.jpg"
+    },
+    {
+      "type": "series",
+      "name": "SEXUAL CONQUEST",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6041.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kamen no Maid Guy OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5045.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kyou no Go no Ni Kagai Jugyou: Mizukake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4078.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3417.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Renketsu Houshiki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3679.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Ramen Tenshi Pretty Menma",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7882.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Yatterman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3295-NmY28wKQFvS1.png"
+    },
+    {
+      "type": "series",
+      "name": "The Orphans of Simitra",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3424.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Saimin Ryoujoku Gakuen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b5743-DHkKztTfyalF.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Hakushaku to Yousei Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7083.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Sisters of Wellber Zwei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3501.jpg"
+    },
+    {
+      "id": "tt1214085",
+      "type": "series",
+      "name": "Soul Eater",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3588-CA8LE5gjm9Qx.png"
+    },
+    {
+      "type": "series",
+      "name": "Code Geass: Lelouch of the Rebellion R2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx2904-xdm9EZ46VGCs.jpg"
+    },
+    {
+      "id": "tt1216222",
+      "type": "series",
+      "name": "To Love Ru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3455-oNiJmsZZTAAj.png"
+    },
+    {
+      "type": "series",
+      "name": "Vampire Knight",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3457-owSEHJYvflx5.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Special A",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx3470-L3BUDBujYi7G.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kaiba",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3701-IKmPkBHPIukF.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kanokon: The Girl Who Cried Fox",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3503.jpg"
+    },
+    {
+      "type": "series",
+      "name": "ItaKiss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3731-aCN5LnCn08qm.png"
+    },
+    {
+      "type": "series",
+      "name": "Junjo Romantica",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3092-HjwfgrWFiUlu.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Darker than Black: Beneath Cherry Blossoms in Full Bloom",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4182-Sj5g5kz2WPuT.jpg"
+    },
+    {
+      "id": "tt1196094",
+      "type": "series",
+      "name": "Yu-Gi-Oh! 5D's",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3972-bSmlWKXrVvDv.png"
+    },
+    {
+      "type": "series",
+      "name": "Macross Frontier",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3572-qYJhokKdsnZR.png"
+    },
+    {
+      "type": "series",
+      "name": "Nabari no Ou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3655-ZoJpTjrNaYa5.jpg"
+    },
+    {
+      "type": "series",
+      "name": "xxxHOLiC Kei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3091-97Yr9KdWI3Ou.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Tower of Druaga: The Aegis of Uruk",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3230-Dd9HXot3osii.png"
+    },
+    {
+      "type": "series",
+      "name": "Kurenai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3358-Pvigwmxm5sBV.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Candy☆Boy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4535-5BgYPK9MfJaR.png"
+    },
+    {
+      "type": "series",
+      "name": "Library War",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3613-b066tE3vNUAQ.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Blassreiter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3407-y7VtUyaY6PlG.png"
+    },
+    {
+      "id": "tt1276525",
+      "type": "series",
+      "name": "Chi's Sweet Home",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3841-PSDYqPPpBVBC.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Psychic Squad",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4038-V0dciw1wKPkP.png"
+    },
+    {
+      "type": "series",
+      "name": "School Days: Magical Heart☆Kokoro-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3328.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Golgo 13 (TV)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4039-oClm06wOAmog.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Saint Seiya: The Hades Chapter - Elysion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3515-g6kdTI901fhw.png"
+    },
+    {
+      "type": "series",
+      "name": "Allison & Lillia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3549-rPLyNXaQ5T4M.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Monochrome Factor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3656-RtFbmfXPPxQY.png"
+    },
+    {
+      "type": "series",
+      "name": "Soul Eater: Late Night Show",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21687-UCt418ZNhBMu.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Amatsuki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3359-OOtP9boQF7IE.png"
+    },
+    {
+      "type": "series",
+      "name": "The Daughter of 20 Faces",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3673-Fos7rHpTdnnf.png"
+    },
+    {
+      "type": "series",
+      "name": "Kamen no Maid Guy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3616-KRPpU5y0Hhzz.png"
+    },
+    {
+      "type": "series",
+      "name": "Kite Liberator",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3323-uFCuwJI5Lym3.png"
+    },
+    {
+      "type": "series",
+      "name": "The Prince of Tennis: The National Tournament Final",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4053-a88b1q1pBSjQ.png"
+    },
+    {
+      "type": "series",
+      "name": "RD Sennou Chousashitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3363-PvwVmOrXVHuV.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kyouran Kazoku Nikki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3577-NcHhhGJk3kcz.jpg"
+    },
+    {
+      "type": "series",
+      "name": "D.C.II S.S.: Da Capo II Second Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3627-wbFO19SGqK9e.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Our Home's Fox Deity",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3322.jpg"
+    },
+    {
+      "type": "series",
+      "name": "ef: a tale of melodies. - prologue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6401.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kyo Kara Maoh! Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4080-TcGSCwBQIN1q.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Neo Angelique Abyss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3615.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Himitsu: Top Secret - The Revelation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3859-vVJrx02pHzHm.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Lover-in-Law",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4358.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Zombie-Loan Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3354.jpg"
+    },
+    {
+      "type": "series",
+      "name": "ARIA The ORIGINATION Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx5196-r6nL4W4aPMfG.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Blue Dragon: The Seven Dragons of the Heavens",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4197.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Penguin Musume♥Heart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4136.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Crystal Blaze",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3840.jpg"
+    },
+    {
+      "type": "series",
+      "name": "True Tears Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6234-0k6ZLKKqkYrO.png"
+    },
+    {
+      "type": "series",
+      "name": "Lupin III: GREEN vs RED",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4320-rSyB0AEmArwt.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Case Closed Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b5348-tE3vO3tcPVcR.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Fireball",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4362-FQXr9Ds459IK.jpg"
+    },
+    {
+      "id": "tt1352421",
+      "type": "series",
+      "name": "Natsume's Book of Friends",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4081-33BLrdaPdZjP.jpg"
+    },
+    {
+      "type": "series",
+      "name": "The Familiar of Zero: \"Rondo\" of Princesses",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3712-zt0ac4fjixWl.jpg"
+    },
+    {
+      "id": "tt1339238",
+      "type": "series",
+      "name": "Sekirei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4063-ZP7agutiaOCf.png"
+    },
+    {
+      "type": "series",
+      "name": "Clannad: Another World, Tomoyo Chapter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b4059-mrA0Wky7bTgz.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Time of Eve",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3167-IBEzQTk9wvbr.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Detroit Metal City",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3702-TCo0UYxWQzYj.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Strike Witches",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3667-9ftVhhCHTRLs.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Xam'd: Lost Memories",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4177-olqlJzn1DNN0.png"
+    },
+    {
+      "type": "series",
+      "name": "Haruka Nogizaka's Secret",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3467.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Birdy the Mighty: Decode",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3974-Gb9WK53nSsPz.png"
+    },
+    {
+      "type": "series",
+      "name": "Blade of the Immortal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4151-7kcnkt5iisJX.png"
+    },
+    {
+      "type": "series",
+      "name": "School Rumble Third Term",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b4015-hYmGm0Dv4jPx.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Ikki Tousen: Great Guardians",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4196-plcopaKXIbCS.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Hidamari Sketch x 365",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3604-kQzUwfzAcgTF.png"
+    },
+    {
+      "type": "series",
+      "name": "Koihime†Musou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4262-O8yfbzjIef0a.png"
+    },
+    {
+      "type": "series",
+      "name": "Sands of Destruction",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4415-j8tqWgsVqWII.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5163.jpg"
+    },
+    {
+      "type": "series",
+      "name": "ARIA The ORIGINATION: That Little Secret Place...",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4772-ybpWwYAbFfVo.png"
+    },
+    {
+      "type": "series",
+      "name": "Mahou Sensei Negima! Shiroki Tsubasa ALA ALBA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4188-Iv82sjbW5V9M.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kanokon Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4760.jpg"
+    },
+    {
+      "type": "series",
+      "name": "The Slayers Revolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4028-M65wEjtfP8rO.png"
+    },
+    {
+      "type": "series",
+      "name": "Candy☆Boy EX01 - Forecast of the Future",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5116.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Antique Bakery",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4021-wDG34KiOIegl.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Someday's Dreamers II Sora",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4483-TFQXbx7NmL0C.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Batman: Gotham Knight",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4094.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Shoujo Sect",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4473.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Inuyasha: Kuroi Tessaiga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4886-xzcW3fD6rmoK.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Detroit Metal City: Birth of the Metal Devil",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5065.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Ryoko's Case File",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3614-W6pFCNZcXiFX.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9591.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Ranma 1/2: Akumu! Shunmin Kou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5493-qsjGrDAxI11R.png"
+    },
+    {
+      "type": "series",
+      "name": "Quiz Magic Academy: The Original Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5080.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kimikiss pure rouge Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4205.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8317-K72865KpOjQC.png"
+    },
+    {
+      "type": "series",
+      "name": "Neo Angelique Abyss: Second Age",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4662.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Chocolate Underground",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3962.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Square Sisters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5194.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Telepathy Shoujo Ran",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3668.jpg"
+    },
+    {
+      "type": "series",
+      "name": "It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6566-2vCBGgyUl4CS.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kaitou Tenshi Twin Angel (OVA)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3805.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Ultraviolet: Code 044",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4264-5jdwiLMET49D.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Pikachu Koori no Daibouken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8709-kGoA3daEboUO.png"
+    },
+    {
+      "type": "series",
+      "name": "COBRA THE ANIMATION: The Psycho-Gun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4646.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Lupin III: sweet lost night - Mahou no Lamp wa Akumu no Yokan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5019-4BC3MrSgmvqn.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Love Selection: THE ANIMATION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5172.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Eromanga Mitai na Koi Shiyo: LET'S FALL IN LOVE THE ERO-MANGA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5315.jpg"
+    },
+    {
+      "type": "series",
+      "name": "HypnoLove",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5212.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Shin Bible Black: Kanzenban - Restored ~ Rinne",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b13223-vBiSAgE1LlxX.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Toshi Densetsu Monogatari Hikiko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6809.jpg"
+    },
+    {
+      "type": "series",
+      "name": "MISSION-E",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4209.jpg"
+    },
+    {
+      "id": "tt1279024",
+      "type": "series",
+      "name": "Toradora!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4224-3Bh0rm99N6Vl.jpg"
+    },
+    {
+      "id": "tt1316554",
+      "type": "series",
+      "name": "Black Butler",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx4898-mW4gabZvwmLC.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Clannad: After Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4181-V1LCtX1rJgbR.png"
+    },
+    {
+      "id": "tt1308089",
+      "type": "series",
+      "name": "A Certain Magical Index",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4654-HX1Y1R1EfYJr.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Rosario + Vampire Capu2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4214.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Michiko & Hatchin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4087-TMc9A0GSKiJf.png"
+    },
+    {
+      "id": "tt2189248",
+      "type": "series",
+      "name": "Inazuma Eleven",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5231-LOB6lgM2Coto.png"
+    },
+    {
+      "type": "series",
+      "name": "One Outs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5040-OpWkR6shhDv1.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Vampire Knight: Guilty",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4752-U4EZI6gwWsXX.jpg"
+    },
+    {
+      "type": "series",
+      "name": "ChäoS;HEAd",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4975-89ESCZZNG4yZ.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Ga-Rei-Zero",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4725-LWoB14AbUyaA.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Skip Beat!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4722-haxa25k1oSxU.png"
+    },
+    {
+      "type": "series",
+      "name": "Casshern Sins",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4981-V6MbMiJUqdvP.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Yozakura Quartet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b4548-MscKClt97d7N.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kannagi: Crazy Shrine Maidens",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx3958-SztG03yWCG5G.jpg"
+    },
+    {
+      "type": "series",
+      "name": "ef ~ A Tale of Melodies",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4789-zpt5UsK70dJh.png"
+    },
+    {
+      "type": "series",
+      "name": "Lucky☆Star OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4472-I4r5rkEdA6zK.png"
+    },
+    {
+      "type": "series",
+      "name": "Mobile Suit Gundam 00 Second Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3927-PtFPKRrcDFeM.png"
+    },
+    {
+      "type": "series",
+      "name": "Junjo Romantica 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4814-p0o6nYsrDA81.png"
+    },
+    {
+      "type": "series",
+      "name": "The Hill Dyed Rose Madder",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4744-ojHpFzrbKc3j.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Corpse Princess: Aka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4581-RT3vGrNYCVqY.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Nodame Cantabile: Paris-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx4477-Qg9EwJP1f5NF.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Tales of the Abyss",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4884-RKYr7ktcToPE.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Hell Girl: Three Vessels",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3713-2towyfV3GTM6.png"
+    },
+    {
+      "type": "series",
+      "name": "Earl and Fairy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4551-zfBV7wHjmviU.png"
+    },
+    {
+      "type": "series",
+      "name": "Kurozuka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5039-F9HXvMsrQGP8.png"
+    },
+    {
+      "type": "series",
+      "name": "Shugo Chara!! Doki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5262-QdR7ooiQfYLY.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Goku Sayonara Zetsubou Sensei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4872-4TEsaUG8uoYl.png"
+    },
+    {
+      "type": "series",
+      "name": "Mouryou no Hako",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4879-RghPtiuK2DHi.jpg"
+    },
+    {
+      "type": "series",
+      "name": "One Piece: Romance Dawn Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5252.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Dragon Ball: Yo! Son Goku and His Friends Return!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5152-tcimIQ3XcuPf.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Pico x CoCo x Chico",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4866.jpg"
+    },
+    {
+      "type": "series",
+      "name": "My Bride is a Mermaid OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4163.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Initial D Extra Stage 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5228.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Zero no Tsukaima: Princesses no Rondo Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6489.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Hyakko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4550.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kemeko DX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3464.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Kyou no Go no Ni (2008)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4903.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Linebarrels of Iron",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3653-sG3ytahSdlyl.png"
+    },
+    {
+      "type": "series",
+      "name": "Macademi WAsshoi!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3654.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Tentai Senshi Sunred",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5005.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Gunslinger Girl: Il Teatrino OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx4765-h3AwHcF2UEM7.png"
+    },
+    {
+      "id": "tt0072574",
+      "type": "series",
+      "name": "Switch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3574-4q1dkH3Fra0U.png"
+    },
+    {
+      "type": "series",
+      "name": "Vampire Knight: Gekiai no Portrait",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8422.jpg"
+    },
+    {
+      "type": "series",
+      "name": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/100719-PLIlnSxjACLV.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Shigofumi: And Then...",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4715.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Master of Martial Hearts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5020-5oL8hMhdY7ER.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Tytania",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4066-4JZkk2H7zLC1.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4232.jpg"
+    },
+    {
+      "type": "series",
+      "name": "Ikkitousen: Great Guardians Battle Tour Club: Sexy Cosplay♥Kikenna Arubaito♥",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5333-7KI0MknKaXbA.jpg"
+    }
+  ]
+}

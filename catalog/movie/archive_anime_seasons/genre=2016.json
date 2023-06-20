@@ -1,0 +1,415 @@
+{
+  "metas": [
+    {
+      "type": "movie",
+      "name": "Kizumonogatari Part 1: Tekketsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9260-tbZARfVq8JoX.png"
+    },
+    {
+      "type": "movie",
+      "name": "Doukyuusei -Classmates-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21096-1wIOxpjtXb7J.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Code Geass: Akito the Exiled - To Beloved Ones",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21178-jmxNhcsEELFt.png"
+    },
+    {
+      "type": "movie",
+      "name": "Persona 3 the Movie: #4 Winter of Rebirth",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b21248-nze05fa3smqI.png"
+    },
+    {
+      "type": "movie",
+      "name": "Digimon Adventure tri. Chapter 2: Determination",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21500-hC4Nhs2kNnZ3.png"
+    },
+    {
+      "type": "movie",
+      "name": "Garakowa -Restore the World-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21042-CQprtsf0iq2H.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Initial D Legend 3: Dream",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21289-I7nSDuCtf8gE.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "selector destructed WIXOSS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21274-5JNLfvf3qNHS.png"
+    },
+    {
+      "type": "movie",
+      "name": "KING OF PRISM by Pretty Rhythm",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21409-F2Hpn9bGn23c.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b21314-KEI9jZ7p08dx.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Precure All Stars: Minna de Utau♪ Kiseki no Mahou!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21504-xEdWrwCKNWeH.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Last Exile: Ginyoku no Fam - Over the Wishes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21469-yUZJL5YJn5WU.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Doraemon: Shin Nobita no Nippon Tanjou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx87438-GcZMWkkCFL2S.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Kaze no Matasaburou (Movie)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21398-27jR37AWxxjk.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "PriPara Movie: Mi~nna no Akogare♪ Let's Go☆PriParis",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21454-TZATT2zrtPQh.png"
+    },
+    {
+      "type": "movie",
+      "name": "UTOPA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21396-pNve6hUGKsf1.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Kacchikenee!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21397-wuQ94TdaWeSN.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Colorful Ninja Iromaki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21395-InmUg8yf4ORN.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Fuyu no Chikai, Natsu no Matsuri: Takeo no Ookusu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21605-oxWabSBOjRt8.png"
+    },
+    {
+      "type": "movie",
+      "name": "Sinbad: The Magic Lamp and the Moving Islands",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21368-RY90qsP1PdAv.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Yakusoku no Utsuwa: Arita no Hatsukoi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21606-Fv2qkOzTuZrD.png"
+    },
+    {
+      "type": "movie",
+      "name": "Shimajirou to Ehon no Kuni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131641-35KWBM0yFFGg.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Chieri and Cherry",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145680-V3rJ7I75qCPM.png"
+    },
+    {
+      "type": "movie",
+      "name": "I've Always Liked You",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21296-WtdIXdg64GCK.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Yu-Gi-Oh!: The Dark Side of Dimensions",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21265-KN6KhEtx81wc.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Sound! Euphonium the Movie: Welcome to the Kitauji High School Concert Band",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21638-sQ9UPJ4OtsDY.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Case Closed: The Darkest Nightmare",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21470-huY2vyX3Ej2z.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Mobile Suit Gundam Thunderbolt: December Sky",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21893-iuu8D51Go2oI.png"
+    },
+    {
+      "type": "movie",
+      "name": "Ajin: Shoutotsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21505-YEf3cFuxgOix.jpg"
+    },
+    {
+      "id": "tt5271582",
+      "type": "movie",
+      "name": "GARO: Divine Flame",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21426-VXIooRCA91lv.png"
+    },
+    {
+      "type": "movie",
+      "name": "Tamayura: Sotsugyou Shashin Part 4 - Ashita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21554-4KCPSTois6HX.png"
+    },
+    {
+      "type": "movie",
+      "name": "Phantom of the Kill: ZERO Kara no Hangyaku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21449-btqxsUBS1pnD.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Meiji Tokyo Renka: Hanakagami no Fantasia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21794-oyeJJD1MrlZk.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx100289-azWAQip0SRbc.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "\"Parade\" de Satie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/101905-j7UJdMHBWtkN.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Sinbad: Night at High Noon and the Wonder Gate",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b100658-x8wUnwFk3ivs.png"
+    },
+    {
+      "type": "movie",
+      "name": "Moving Colors",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b101904-T1mzQiOp0od4.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Naze Ikiru: Rennyo Shounin to Yoshizaki Enjou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21779-TO1Vww3APGOx.jpg"
+    },
+    {
+      "id": "tt5311514",
+      "type": "movie",
+      "name": "Your Name.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21519-XIr3PeczUjjF.png"
+    },
+    {
+      "type": "movie",
+      "name": "A Silent Voice",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20954-UMb6Kl7ZL8Ke.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Kizumonogatari Part 2: Nekketsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21399-VTAdAqc8u5AE.png"
+    },
+    {
+      "id": "tt5251328",
+      "type": "movie",
+      "name": "One Piece Film: Gold",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21335-XsXdE0AeOkkZ.jpg"
+    },
+    {
+      "id": "tt5923132",
+      "type": "movie",
+      "name": "Accel World: Infinite∞Burst",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21404-2jkb1Gidfb18.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Digimon Adventure tri. Chapter 3: Confession",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21596-KnjJA2qwVtdI.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Kingsglaive Final Fantasy XV",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21729-dmAZg7PgJuwj.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Planetarian: Storyteller of the Stars",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21771-z6TmqixjGJrU.png"
+    },
+    {
+      "type": "movie",
+      "name": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21651-VtWkaIPJLDT1.png"
+    },
+    {
+      "type": "movie",
+      "name": "Winter Cup Highlights Episode 1 – Winter Cup Highlights -Shadow and Light-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx102093-mp80CViGFQeU.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Ajin: Shougeki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21681-y8IqknWY6oNp.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Yowamushi Pedal: SPARE BIKE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21806-hyCrjRqpjpMV.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Aikatsu Stars! The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21697-BKgWaeZjrWZq.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98332-a7C5eIwq1WIo.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Kaze no You ni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105974-6I0DVKQf2Meg.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Rudolf to Ippaiattena",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/102058-QUKo3pXEiDUR.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Taka no Tsume 8: Yoshida-kun no Batten File",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b117287-BnlcnrQ3QpAy.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Mirai ni Mukete: Bousai wo Kangaeru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/97977-tkEsxhJco3Pn.png"
+    },
+    {
+      "type": "movie",
+      "name": "Cheburashka: Doubutsuen e Iku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145704-L47dduUJxVcX.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "In This Corner of the World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx15227-1tG3lhprG0A9.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Orange: Future",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx97669-7nJlcraO2dwm.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Assassination Classroom the Movie: 365 Days‘ Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101102-3J3GRv1D9MGL.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "The Moment You Fall in Love",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21757-zH78HtS4b0GU.png"
+    },
+    {
+      "id": "tt5923962",
+      "type": "movie",
+      "name": "GANTZ:O",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21496-b6R9F3FtIgWJ.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "KanColle Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21295-ZGSdLZRHg3Hr.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Kabaneri of the Iron Fortress: Light That Gathers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98662-v6GbQ4FvbY8N.png"
+    },
+    {
+      "type": "movie",
+      "name": "Chain Chronicle: Haecceitas no Hikari Part 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87505-m17RlCojRKO1.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Koro-sensei Q!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21864-actKCLrWSMaA.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Winter Cup Highlights Episode 2 – Winter Cup Highlights -Beyond the Tears-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx102836-dd3IsyfTSdD1.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Winter Cup Highlights Episode 3 – Winter Cup Highlights -Crossing the Door-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx102839-c16NGYAOE1gQ.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Kagerou Daze: in a days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21793-acc5gP6Mogau.jpg"
+    },
+    {
+      "id": "tt5585826",
+      "type": "movie",
+      "name": "Pop in Q",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b21412-YDE1DB7WJebN.png"
+    },
+    {
+      "type": "movie",
+      "name": "Mobile Police Patlabor REBOOT",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87487-C9wB9Y9CEfg7.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Majestic Prince: Genetic Awakening",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21750-7mzYKil5CSom.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Maho Girls Precure! The Movie: Miraculous Transformation! Cure Mofurun!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98746-FIqCqF5dlkNd.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "CYBORG009 CALL OF JUSTICE 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87481-YvwsTEs20ZaO.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Monster Strike The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx87499-nWirX2NgtiPA.png"
+    },
+    {
+      "type": "movie",
+      "name": "The Great Tongari Island Treasure Hunting Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b126649-sbuKTAghtsln.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "CYBORG009 CALL OF JUSTICE 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87482-tyYz2J8C9KYc.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Cyborg009 Call Of Justice 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87483-GIAGPPUYCG0U.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "Zegapain ADP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21766-SzZQDdl10LbH.png"
+    },
+    {
+      "type": "movie",
+      "name": "Norman the Snowman: Nagareboshi no Furu Yoru ni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b128020-KIIYHdJX9tj2.jpg"
+    },
+    {
+      "type": "movie",
+      "name": "The Snack World: Hitogirai no Lenny",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145492-H95ALNmxT6YL.png"
+    }
+  ]
+}
