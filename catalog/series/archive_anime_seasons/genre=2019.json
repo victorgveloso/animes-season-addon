@@ -1,6 +1,7 @@
 {
   "metas": [
     {
+      "id": "tt8788458",
       "type": "series",
       "name": "The Promised Neverland",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101759-NhSwxv7HY9y9.jpg"
@@ -29,6 +30,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101347-2J2p8qJpxpfZ.jpg"
     },
     {
+      "id": "tt9584920",
       "type": "series",
       "name": "The Quintessential Quintuplets",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103572-2MXV30htoCSh.png"
@@ -607,6 +609,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107956-bYR4EjoV6TFu.jpg"
     },
     {
+      "id": "tt10417572",
       "type": "series",
       "name": "The Demon Girl Next Door",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107490-wolT0UvNSetx.png"
@@ -672,7 +675,6 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21512-I6e1ms2cDpCE.png"
     },
     {
-      "id": "tt10423424",
       "type": "series",
       "name": "BEM",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107876-dzJ7Cur0Xzka.png"
@@ -758,6 +760,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103048-f3hrT5ZmVPKr.jpg"
     },
     {
+      "id": "tt6908976",
       "type": "series",
       "name": "Knights of the Zodiac: Saint Seiya",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx102427-r2oTRWE3rVuv.jpg"
@@ -790,6 +793,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108928-DuyUzi0JyPIr.jpg"
     },
     {
+      "id": "tt10974198",
       "type": "series",
       "name": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105156-ZVtxISdoUqnY.png"

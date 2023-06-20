@@ -1,6 +1,7 @@
 {
   "metas": [
     {
+      "id": "tt1572781",
       "type": "movie",
       "name": "The Disappearance of Haruhi Suzumiya",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7311-2Qu6rQgl7Aqi.jpg"
@@ -56,6 +57,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/13511.jpg"
     },
     {
+      "id": "tt1636780",
       "type": "movie",
       "name": "Gintama - The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7472-RveDgQsIZUNG.jpg"
@@ -122,6 +124,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8243.jpg"
     },
     {
+      "id": "tt1568921",
       "type": "movie",
       "name": "The Secret World of Arrietty",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7711-IDDzqp6d3tQz.jpg"
@@ -177,6 +180,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9282.jpg"
     },
     {
+      "id": "tt1453967",
       "type": "movie",
       "name": "CJ7: The Cartoon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9558.jpg"
@@ -192,11 +196,13 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121835-f8XIMjaSe8bH.jpg"
     },
     {
+      "id": "tt1785394",
       "type": "movie",
       "name": "Bleach the Movie: Hell Verse",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8247-VppsQKlgXoXr.png"
     },
     {
+      "id": "tt1754177",
       "type": "movie",
       "name": "Mardock Scramble: The First Compression",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8100-ta0O3nZxySqe.jpg"

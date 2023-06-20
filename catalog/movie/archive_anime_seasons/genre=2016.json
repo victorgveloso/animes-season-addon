@@ -1,6 +1,7 @@
 {
   "metas": [
     {
+      "id": "tt3138698",
       "type": "movie",
       "name": "Kizumonogatari Part 1: Tekketsu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9260-tbZARfVq8JoX.png"
@@ -121,6 +122,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21296-WtdIXdg64GCK.jpg"
     },
     {
+      "id": "tt4273562",
       "type": "movie",
       "name": "Yu-Gi-Oh!: The Dark Side of Dimensions",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21265-KN6KhEtx81wc.jpg"
@@ -203,6 +205,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20954-UMb6Kl7ZL8Ke.jpg"
     },
     {
+      "id": "tt5084196",
       "type": "movie",
       "name": "Kizumonogatari Part 2: Nekketsu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21399-VTAdAqc8u5AE.png"
@@ -225,6 +228,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21596-KnjJA2qwVtdI.jpg"
     },
     {
+      "id": "tt5595168",
       "type": "movie",
       "name": "Kingsglaive Final Fantasy XV",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21729-dmAZg7PgJuwj.jpg"
@@ -305,6 +309,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101102-3J3GRv1D9MGL.jpg"
     },
     {
+      "id": "tt6327570",
       "type": "movie",
       "name": "The Moment You Fall in Love",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21757-zH78HtS4b0GU.png"

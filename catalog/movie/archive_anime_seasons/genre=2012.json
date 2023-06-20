@@ -1,6 +1,7 @@
 {
   "metas": [
     {
+      "id": "tt2210479",
       "type": "movie",
       "name": "Berserk: The Golden Age Arc I - The Egg of the King",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10218-QJgUwiua9tB0.jpg"
@@ -26,6 +27,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10690-FLQZI0L3CCuj.jpg"
     },
     {
+      "id": "tt1709652",
       "type": "movie",
       "name": "Dragon Age: Dawn of the Seeker",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/11705.jpg"
@@ -42,6 +44,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12355-wNsvhEsXEgrH.png"
     },
     {
+      "id": "tt1941466",
       "type": "movie",
       "name": "BLOOD-C: The Last Dark",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b10681-uogOpLtvaUX2.jpg"
@@ -102,11 +105,13 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158700-hqyLBKRucTZy.jpg"
     },
     {
+      "id": "tt2290828",
       "type": "movie",
       "name": "Road to Ninja: Naruto the Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx13667-gAKuIXI2avRq.jpg"
     },
     {
+      "id": "tt2358911",
       "type": "movie",
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12113-cIF2NXNRX1iB.jpg"
@@ -193,6 +198,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121823-UmNsGPBz4bzO.jpg"
     },
     {
+      "id": "tt0860907",
       "type": "movie",
       "name": "Evangelion: 3.0 You Can (Not) Redo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3785-OG857YhQalvS.png"
@@ -204,6 +210,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12859-uQFENDPzMWz6.jpg"
     },
     {
+      "id": "tt3028018",
       "type": "movie",
       "name": "Blue Exorcist: The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11737-49ya7CBO5wEq.jpg"

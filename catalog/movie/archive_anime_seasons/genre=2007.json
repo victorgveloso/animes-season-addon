@@ -1,6 +1,7 @@
 {
   "metas": [
     {
+      "id": "tt0983213",
       "type": "movie",
       "name": "5 Centimeters per Second",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx1689-hlkAI78WBahK.jpg"
@@ -11,6 +12,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3603-IWC5VmxmSjNm.jpg"
     },
     {
+      "id": "tt0465657",
       "type": "movie",
       "name": "Highlander: The Search for Vengeance",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2178.jpg"
@@ -106,6 +108,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/13507.jpg"
     },
     {
+      "id": "tt0923811",
       "type": "movie",
       "name": "Evangelion: 1.0 You Are (Not) Alone",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2759-z07kq8Pnw5B1.jpg"
@@ -188,6 +191,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2593-irF8xIuAOKUc.jpg"
     },
     {
+      "id": "tt1121794",
       "type": "movie",
       "name": "Sword of the Stranger",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx2418-AoLtfG2da5yo.jpg"
