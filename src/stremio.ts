@@ -33,7 +33,7 @@ export class Catalog {
         for (const anime of results) {
             const originalName = anime.title.english ?? anime.title.romaji;
             const name = Stremio.removeSeasonDetails(originalName);
-            const id = await Imdb.getIdFromName(name, anime.seasonYear, type);
+            const id = await Imdb.getIdFromName(name, anime.seasonYear, type) ?? await Imdb.getIdFromName(originalName, anime.seasonYear, type);
             const poster = anime.coverImage.medium ?? anime.bannerImage;
             this.addMeta({id,type,name:originalName,poster} as Meta);
         }
@@ -161,7 +161,9 @@ export class Manifest implements AbstractManifest {
     }
     static async fromFile(filePath: string) : Promise<Manifest> {
         const manifest = await fs.readFile(filePath, "utf-8");
-        return Manifest.fromObject(filePath, JSON.parse(manifest));
+        const obj = JSON.parse(manifest);
+        obj.lastUpdatedAt = new Date(obj.lastUpdatedAt);
+        return Manifest.fromObject(filePath, obj);
     }
     getSeasons() : Season[] {
         return this.seasons;
