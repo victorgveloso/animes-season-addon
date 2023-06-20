@@ -1,6 +1,7 @@
 {
   "metas": [
     {
+      "id": "tt26684398",
       "type": "movie",
       "name": "SPY x FAMILY Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158928-GOKy49FY46vg.jpg"
@@ -16,31 +17,37 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132420-kF35jIINUzrE.jpg"
     },
     {
+      "id": "tt23951384",
       "type": "movie",
       "name": "Kimi no Iro",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158166-Wpw6sHdj29Ya.jpg"
     },
     {
+      "id": "tt16369708",
       "type": "movie",
       "name": "The Imaginary",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142494-VOhyizFWRrAM.jpg"
     },
     {
+      "id": "tt27626792",
       "type": "movie",
       "name": "Komada - A Whisky Family",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164293-ZewcTcHWGS29.jpg"
     },
     {
+      "id": "tt16270512",
       "type": "movie",
       "name": "Kitarou Tanjou: Gegege no Nazo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130622-sNFjHqDSscc4.jpg"
     },
     {
+      "id": "tt28055106",
       "type": "movie",
       "name": "Kaina of the Great Snow Sea: Star Sage",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159886-dV4gugSsKsXU.jpg"
     },
     {
+      "id": "tt22474136",
       "type": "movie",
       "name": "Digimon Adventure 02 THE BEGINNING",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137310-qNfVFVDY6SDk.jpg"
@@ -51,6 +58,7 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164226-OL6ZFw5jdjAZ.jpg"
     },
     {
+      "id": "tt27187061",
       "type": "movie",
       "name": "Precure All Stars F",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159429-1PIrdKbEH9LR.jpg"
