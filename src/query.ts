@@ -1,3 +1,5 @@
+import { TitleType } from "name-to-imdb";
+
 export enum Season {
     WINTER = "WINTER", // December to February
     SPRING = "SPRING", // March to May
@@ -83,11 +85,12 @@ export function createSortedSeasonList(firstSeason: Season): Season[] {
  * @param sorting Sorting algorithm
  * @returns The query string
  */
-export function query(year: number, season: Season, sorting: Sorting): string{
+export function query(year: number, season: Season, sorting: Sorting, format: TitleType = "movie"): string{
     if (year < 2000 || year > (new Date()).getFullYear()) throw new Error("Year must be between 2000 and now");
+    const formatFilter = format === "movie" ? "format:MOVIE" : "format_in:[TV,TV_SHORT,OVA,SPECIAL,ONA]";
     return `query {
         Page(perPage: 50, page: 1) {
-          media(seasonYear:${year}, season:${season}, sort:${sorting}) {
+          media(seasonYear:${year}, season:${season}, sort:${sorting}, type:ANIME, ${formatFilter}) {
             genres
             synonyms
             tags {
