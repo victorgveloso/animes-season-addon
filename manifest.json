@@ -20,10 +20,10 @@
         {
           "name": "genre",
           "options": [
-            "WINTER",
-            "SPRING",
             "SUMMER",
-            "FALL"
+            "FALL",
+            "WINTER",
+            "SPRING"
           ],
           "isRequired": true
         }
@@ -40,10 +40,10 @@
         {
           "name": "genre",
           "options": [
-            "WINTER",
-            "SPRING",
             "SUMMER",
-            "FALL"
+            "FALL",
+            "WINTER",
+            "SPRING"
           ],
           "isRequired": true
         }
@@ -132,5 +132,5 @@
   "idPrefixes": [
     "tt"
   ],
-  "lastUpdatedAt": "2023-06-20T06:19:19.570Z"
+  "lastUpdatedAt": "2023-06-20T09:41:59.303Z"
 }
