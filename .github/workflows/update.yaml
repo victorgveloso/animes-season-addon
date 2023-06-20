@@ -3,10 +3,6 @@ name: Node.js CI
 on:
   schedule:
     - cron:  '30 4 * * *'
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   build:
@@ -28,7 +24,7 @@ jobs:
       - name: Commit detected changes
         uses: EndBug/add-and-commit@v9
         with:
-          add: '["manifest.json"]'
+          add: '["manifest.json","catalog"]'
           author_name: "Victor Guerra Veloso"
           author_email: "victorgvbh@gmail.com"
           default_author: user_info
