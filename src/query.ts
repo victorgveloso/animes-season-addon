@@ -91,46 +91,15 @@ export function query(year: number, season: Season, sorting: Sorting, format: Ti
     return `query {
         Page(perPage: 50, page: 1) {
           media(seasonYear:${year}, season:${season}, sort:${sorting}, type:ANIME, ${formatFilter}) {
-            genres
-            synonyms
-            tags {
-              name
-              isGeneralSpoiler
-            }
             title {
               romaji
               english
-              native
-            }
-            startDate {
-              year
-              month
-              day
-            }
-            idMal
-            id
-            type
-            source
-            popularity
-            trending
-            averageScore
-            rankings {
-              rank
-              context
-              year
-              season
             }
             description
             seasonYear
-            episodes
             bannerImage
             coverImage {
               medium
-            }
-            nextAiringEpisode {
-              timeUntilAiring
-              airingAt
-              episode
             }
           }
         }
