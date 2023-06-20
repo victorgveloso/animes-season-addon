@@ -7,70 +7,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7311-2Qu6rQgl7Aqi.jpg"
     },
     {
-      "type": "movie",
-      "name": "Fate/stay night: Unlimited Blade Works (Movie)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6922-g3hsIYOWGXL8.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Yu-Gi-Oh! 3D: Bonds Beyond Time",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6951-v1SyAUSXOJXD.png"
-    },
-    {
-      "type": "movie",
-      "name": "Magical Girl Lyrical Nanoha: The Movie 1st",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4985-3eEPbpZiMWKB.png"
-    },
-    {
-      "type": "movie",
-      "name": "Welcome to THE SPACE SHOW",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8115-qrLeUTMHOxiQ.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Sergeant Keroro: The Super Duper Movie 5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8134-mXWFfToczIbd.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "A Sumo Wrestler's Tail",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8632-wbS7P2vHB1Wp.png"
-    },
-    {
-      "type": "movie",
-      "name": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8132.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Himitsukessha Taka no Tsume THE MOVIE 3: http://takanotsume.jp wa Eien ni",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8357.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Pleasant Goat and Big Big Wolf: The Tiger Prowess",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9973.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tumulus Gal Coffy ~Cofunderella~",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/13511.jpg"
-    },
-    {
       "id": "tt1636780",
       "type": "movie",
       "name": "Gintama - The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7472-RveDgQsIZUNG.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Eden of The East the Movie II: Paradise Lost",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6637-26qRqL3enXYB.png"
-    },
-    {
-      "type": "movie",
-      "name": "Time of Eve: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7465-gBh82FNppI9h.png"
     },
     {
       "id": "tt1703049",
@@ -79,121 +19,16 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4106-hkczeGBjOzI6.jpg"
     },
     {
-      "type": "movie",
-      "name": "Broken Blade",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6772.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Bungaku Shoujo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6408-UsXM2RcYTCZd.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Case Closed: The Lost Ship in the Sky",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6467-P24FJYtNRpyE.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Hetalia Axis Powers: Paint it, White!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7337-qorkho8BDAo5.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Precure All Stars DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8133-XlBoDplQefLt.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8369.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Doraemon: Nobita's Great Mermaid Naval Battle",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6988-K1aNb0ZgVoO2.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Planzet",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8297.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Mizuki Shigeru no Toono Monogatari",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8243.jpg"
-    },
-    {
       "id": "tt1568921",
       "type": "movie",
       "name": "The Secret World of Arrietty",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7711-IDDzqp6d3tQz.jpg"
     },
     {
-      "type": "movie",
-      "name": "Colorful ~ The Motion Picture",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8142-C8NvVbzJz7hN.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Naruto Shippuden the Movie: The Lost Tower",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8246-KAi3bLLdJ4OI.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Pokémon: Zoroark—Master of Illusions",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7695-bgE6h1GXxWMG.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Broken Blade 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8514.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Loups=Garous",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7598.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Metal Fight Beyblade VS Taiyou: Shakunetsu no Shinryakusha Sol Blaze",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8245.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Akage no Anne: Green Gables e no Michi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8950.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Umi kara no Shisha",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9566.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8141.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Duel Masters Movie 3: Honoo no Kizuna XX",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9282.jpg"
-    },
-    {
       "id": "tt1453967",
       "type": "movie",
       "name": "CJ7: The Cartoon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9558.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Anpanman: Blacknose and the Magical Song",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9007-4bkoLC2gxpdi.png"
-    },
-    {
-      "type": "movie",
-      "name": "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121835-f8XIMjaSe8bH.jpg"
     },
     {
       "id": "tt1785394",
@@ -208,100 +43,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8100-ta0O3nZxySqe.jpg"
     },
     {
-      "type": "movie",
-      "name": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b6288-I4jOmHgNyOvg.png"
-    },
-    {
-      "type": "movie",
-      "name": "Broken Blade 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9252.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Broken Blade 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9465.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b9032-lV20OIXWzh0Y.png"
-    },
-    {
       "id": "tt1734113",
       "type": "movie",
       "name": "Heart and Yummie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9204-3mUQHY46RZp7.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Kowarekake no Orgel (Movie)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10918.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Fafner: Heaven and Earth",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8098-AVGxx4gEfNkI.png"
-    },
-    {
-      "type": "movie",
-      "name": "Heartcatch Precure! Hana no Miyako de Fashion Show... Desu ka!?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9288-KBl1SCRhk7Xn.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tsuki no Sango",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12867-W69RpK1X1BdX.png"
-    },
-    {
-      "type": "movie",
-      "name": "Mr. Dough and the Egg Princess",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b9798-XeVYGkub0oFT.png"
-    },
-    {
-      "type": "movie",
-      "name": "Anime Tenchou Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9861.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Wake up!! TAMALA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/98208-JqpxOWZGZLQL.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Cheburashka",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9340.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Junod",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9525.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Straight into the Universe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/20507.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku♪Haha Dai Bousou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9796.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Loups=Garous Pilot",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/12723.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Mahou Tsukai Haley no Speed Story",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8495.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Kuma no Gakkou: Jackie to Katie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9339.jpg"
     }
   ]
 }

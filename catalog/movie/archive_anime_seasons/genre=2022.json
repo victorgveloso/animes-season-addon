@@ -1,11 +1,6 @@
 {
   "metas": [
     {
-      "type": "movie",
-      "name": "Fruits Basket -prelude-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136192-hxeNRzBHizBZ.jpg"
-    },
-    {
       "id": "tt11417856",
       "type": "movie",
       "name": "The Deer King",
@@ -18,30 +13,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136302-4R03xBOGWrcq.jpg"
     },
     {
-      "type": "movie",
-      "name": "Blue Thermal",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138379-9oCYnGuO5bud.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "DEEMO: Memorial Keys",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113345-ce2bg0cSiizt.jpg"
-    },
-    {
       "id": "tt14294724",
       "type": "movie",
       "name": "BanG Dream! Poppin' Dream!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117765-R9vazugUMUE0.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Ensemble Stars!!: Road to Show!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx141907-LojaaOGhDGTU.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Doraemon: Nobita no Little Star Wars 2021",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126783-sgkzDqBL7Gb0.jpg"
     },
     {
       "id": "tt15721650",
@@ -56,21 +31,6 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx133898-KdQ7fWTG06n4.png"
     },
     {
-      "type": "movie",
-      "name": "Isekai Quartet The Movie: Another World",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117074-kgucq8a1ZeOw.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Teasing Master Takagi-san: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138425-G5F2O4hHkPII.png"
-    },
-    {
-      "type": "movie",
-      "name": "ODDTAXI In The Woods",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143080-VZ6A3PwelawC.jpg"
-    },
-    {
       "id": "tt10540510",
       "type": "movie",
       "name": "Inu-Oh",
@@ -83,35 +43,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx133124-7tVG14qsfI2W.png"
     },
     {
-      "type": "movie",
-      "name": "RE:cycle of the PENGUINDRUM Part 1: Your Train Is the Survival Tactic",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132232-AxAKvTTCWHB6.jpg"
-    },
-    {
       "id": "tt12093860",
       "type": "movie",
       "name": "Meitantei Conan: Halloween no Hanayome",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142219-Nu9bWFhIKn0q.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Mobile Suit Gundam: Cucuruz Doan's Island",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139273-kbmCBAROf7r7.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tongari Atama no Gonta: Futatsu no Namae wo Ikita Fukushima Hisai Inu no Monogatari ",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130705-DxuaJgpBjXOh.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Crayon Shinchan the Movie: The Tornado Legend of Ninja Mononoke",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142549-SNJu3dSJrM9l.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Oshiri Tantei: SHIRIARTY",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142806-u2LeYVSmZozu.jpg"
     },
     {
       "id": "tt16183464",
@@ -130,71 +65,6 @@
       "type": "movie",
       "name": "Laid-Back Camp The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx104460-EwUV9ZJMCtnR.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tsurune The Movie - The First Shot -",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx125261-Sh9fN2heZ1rm.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Backflip!! The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136064-QGODtauftkFb.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "RE:cycle of the PENGUINDRUM Part 2 I Love You",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx148179-l9UNkc5WlOML.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Utano☆Princesama Maji LOVE ST☆RISH Tours",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132055-HK87BHlrfWYE.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Delicious Party♡Precure: Yumemiru♡Okosama Lunch!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx144687-b2piUr5WSdYb.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Osomatsu-san: Hipipo-Zoku to Kagayaku Kajitsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135177-wCKkr4zjmFPI.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Gundam: G no Reconguista IV - Gekitou Ni Sakebu Ai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146631-dAoArwmB8UCg.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Aikatsu! 10th STORY: Mirai e no STARWAY",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx148960-WQpnU8I4lTQn.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Gundam: G no Reconguista V - Shisen wo Koete",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146632-sPKVurrvpARa.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "IDOL bu SHOW Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145916-XkQ9CSdKepBQ.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Aikatsu Planet! The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155525-cN3SUvjpq5Nl.png"
-    },
-    {
-      "type": "movie",
-      "name": "Zannen na Ikimono Jiten The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132804-xyWGFlRyHYVe.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Sore Ike! Anpanman: Dororin to Bakeru Carnival",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx160856-qDvHSW1lYOGi.jpg"
     },
     {
       "id": "tt16428256",
@@ -221,40 +91,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139310-OM1RKpk5YH7g.jpg"
     },
     {
-      "type": "movie",
-      "name": "To Me, The One Who Loved You",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139311-5iHY459iwQ46.jpg"
-    },
-    {
       "id": "tt15242330",
       "type": "movie",
       "name": "THE FIRST SLAM DUNK",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx128207-IndYn57okYmk.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Lonely Castle in the Mirror",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145739-M28GhqugtiJE.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "WATATEN!: an Angel Flew Down to Me -Precious Friends-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126425-B3OYzuImCJtK.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Break of Dawn",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146489-i6jZdzrSYaJa.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "ETERNITY",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145440-0lmZE3cWLJiH.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "A Turtle's Shell is a Human's Ribs",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154979-u0EFgYK2Moie.jpg"
     }
   ]
 }

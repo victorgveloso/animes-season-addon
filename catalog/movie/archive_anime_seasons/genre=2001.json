@@ -1,11 +1,6 @@
 {
   "metas": [
     {
-      "type": "movie",
-      "name": "Initial D 3rd Stage",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx187-QyCAlBGY3EWw.jpg"
-    },
-    {
       "id": "tt0293416",
       "type": "movie",
       "name": "Metropolis",
@@ -18,35 +13,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx460-p9HObfGUhWn0.jpg"
     },
     {
-      "type": "movie",
-      "name": "Case Closed: Countdown to Heaven",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1364-tlZLDeDo8W0z.jpg"
-    },
-    {
       "id": "tt0804905",
       "type": "movie",
       "name": "Digimon Adventure 02: Revenge of Diaboromon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2398.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Crayon Shin-chan: Fierceness That Invites Storm! The Adult Empire Strikes Back",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2450-0Iwi4jr32Xe8.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Doraemon: Nobita's Winged Heroes",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2654.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Doraemon: Ganbare! Gian!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2653.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Dorami & Doraemons: Space Land's Critical Event!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2645.jpg"
     },
     {
       "id": "tt0245429",
@@ -55,120 +25,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx199-ehguwq1mPvtN.jpg"
     },
     {
-      "type": "movie",
-      "name": "Cowboy Bebop: The Movie - Knockin' on Heaven's Door",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5-NozHwXWdNLCz.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Pokémon 4Ever",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx1119-Vz0ohBLmZ5uP.jpg"
-    },
-    {
       "id": "tt0173840",
       "type": "movie",
       "name": "Final Fantasy: The Spirits Within",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx1361-jyjigHHRkzMO.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Digimon Tamers: Battle of Adventurers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3032.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Princess Arete",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1028-LCh8HKOSdwmm.png"
-    },
-    {
-      "type": "movie",
-      "name": "Motto! Ojamajo Doremi Kaeru Seki no Himitsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2948-T0FzYDKPtQcP.png"
-    },
-    {
-      "type": "movie",
-      "name": "Saiyuki Requiem",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/484.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Gundam Neo Experience 0087: Green Divers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8839.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "The Summer of Dioxin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9495.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Blue Remains",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b4733-kSMKJwd2TXSQ.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Kinnikuman II Sei",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6310.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tetsuwan Atom: Chikyuu Saigo no Hi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b17961-d0m0yhlQI9qY.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx119836-KyUh8jSVwAN8.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Sore Ike! Anpanman: Gomira no Hoshi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121837-dSi7JljzcneD.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Slayers Premium",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx866-FBIvZY0F5aik.png"
-    },
-    {
-      "type": "movie",
-      "name": "Sakura Wars: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx608-5bum3N50uw9O.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Di Gi Charat Movie: A Trip To The Planet",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/1752.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "The Whale Hunt",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2895.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Hamtaro Movie 1: Ham Ham Land Big Adventure",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7329.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Koro's Big Day Out",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx6975-IGMgKdc8UnJo.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Shenmue: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4524.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "The Siamese: First Mission",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx15399-u3gzuahtYxub.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "McDull: Gushi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9817.jpg"
     }
   ]
 }

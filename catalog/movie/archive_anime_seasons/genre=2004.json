@@ -13,45 +13,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx451-t0IlENS6jPDG.png"
     },
     {
-      "type": "movie",
-      "name": "Saint Seiya: The Heaven Chapter - Overture",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1259-To3xqSUc49gn.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "NITABOH: Tsugaru Shamisen Shiso Gaibun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/1203.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tetsuwan Atom Tokubetsu-hen: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/17963.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Fuichin-san",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/n107302-MhnCeEAlrDnb.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Liang Shan Po yu Zhu Ying Tai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b108279-h3IU5RPnENcr.jpg"
-    },
-    {
       "id": "tt0347246",
       "type": "movie",
       "name": "Ghost in the Shell 2: Innocence",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx468-rfiX1uY8bsPp.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "One Piece: The Curse of the Sacred Sword",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx463-QDnETPoHp9oD.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Case Closed: Magician of the Silver Sky",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1367-cJLBjSfqBmRY.jpg"
     },
     {
       "id": "tt0401233",
@@ -60,25 +25,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx54-EIMIUlH3FuJb.jpg"
     },
     {
-      "type": "movie",
-      "name": "Doraemon: Nobita's Wannyan Space-Time Legend",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2656.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8364.jpg"
-    },
-    {
       "id": "tt0476680",
       "type": "movie",
       "name": "Naruto the Movie: Ninja Clash in the Land of Snow",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx442-VJbmIVTgmne3.png"
-    },
-    {
-      "type": "movie",
-      "name": "Pokémon: Destiny Deoxys",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1122-HCkAs0hqlJwK.jpg"
     },
     {
       "id": "tt0452039",
@@ -99,26 +49,6 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/1894.jpg"
     },
     {
-      "type": "movie",
-      "name": "Zatch Bell! 101st Devil",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/844.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Chou Henshin Cosprayers VS Ankoku Uchuu Shougun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/705.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "McDull",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9818.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Hi no Tori: Hagoromo-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158699-kyjlYbdz0JEb.jpg"
-    },
-    {
       "id": "tt0347149",
       "type": "movie",
       "name": "Howl‘s Moving Castle",
@@ -129,26 +59,6 @@
       "type": "movie",
       "name": "The Place Promised in Our Early Days",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx433-bU0c8iHxoL2G.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Kakurenbo: Hide and Seek",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1192-rVDQZAHn6zxB.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Blade of the Phantom Master",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/884.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "sound / phantasma / mirror",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4091.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Hamtaro: The Mysterious Ogre's Picture Book Tower",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8109.jpg"
     }
   ]
 }

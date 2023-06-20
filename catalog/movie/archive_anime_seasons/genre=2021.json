@@ -1,136 +1,16 @@
 {
   "metas": [
     {
-      "type": "movie",
-      "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3786-FPo09WTuoTCV.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Gintama: THE VERY FINAL",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114129-RLgSuh6YbeYx.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Princess Principal: ~Crown Handler~ 1",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101595-j3Q3RiRYTFFV.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Seitokai Yakuindomo Movie 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113692-N7hUICpi9sIa.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx124132-1CMeg6ZKv09Q.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Pretty Guardian Sailor Moon Eternal The Movie Part 1",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103713-GZ5LKEkW7Lz2.png"
-    },
-    {
-      "type": "movie",
-      "name": "Pretty Guardian Sailor Moon Eternal The Movie Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103712-631ErMZsKSpp.png"
-    },
-    {
-      "type": "movie",
-      "name": "ARIA The CREPUSCOLO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117556-SbGBjNw0MDp2.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tokyo 7th Sisters: Bokura wa Aozora ni Naru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116069-W773lKgeElXP.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Meitantei Conan: Hiiro no Fuzai Shoumei",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131770-thmn0mH6eDS7.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "The Prince of Tennis II Hyotei vs. Rikkai Game of Future OVAs",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123476-XuSWViuKvndL.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Santa Company: Manatsu no Merry Christmas",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx129123-ntClioaA2UZ5.png"
-    },
-    {
-      "type": "movie",
-      "name": "Fate/Grand Order Divine Realm of the Round Table: Camelot - Paladin; Agateram",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103277-BuAfaC3dKOUp.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Pompo: The Cinéphile",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99900-YpWbTgc4wr7A.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Revue Starlight: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113024-nYBWjqoI4ZVc.png"
-    },
-    {
       "id": "tt13288678",
       "type": "movie",
       "name": "Mobile Suit Gundam Hathaway",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105595-40ugr6S9NfOb.jpg"
     },
     {
-      "type": "movie",
-      "name": "Girls und Panzer das Finale – Part 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx124115-Rob17qmn3tBP.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Knights of Sidonia: Love Woven in the Stars",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99730-pG6lazHo6pKG.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Case Closed: The Scarlet Bullet",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113653-HY0suLnhIlA6.png"
-    },
-    {
-      "type": "movie",
-      "name": "The Journey",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx110224-lham5kQX7UGu.png"
-    },
-    {
-      "type": "movie",
-      "name": "Farewell, My Dear Cramer: First Touch",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123645-gaFgdv8Sx8mX.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "BanG Dream! Episode of Roselia I: Promise",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117763-BJO4XkX1xQxK.jpg"
-    },
-    {
       "id": "tt13758684",
       "type": "movie",
       "name": "Fortune Favors Lady Nikuko",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127958-AxJzNaz3tFqO.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Healin' Good♥Precure: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121026-IdeSxOsJ84HB.png"
-    },
-    {
-      "type": "movie",
-      "name": "\"Uchuu Senkan Yamato\" to Iu Jidai: Seireki 2202-nen no Sentaku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126275-NCVA9l61bWS9.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tropical-Rouge! Precure Petit Tobikome! Collabo♡Dance Party!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131045-ELfl5Op2XbJH.png"
     },
     {
       "id": "tt13544716",
@@ -157,115 +37,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx128740-xpjfCO2kpFdz.png"
     },
     {
-      "type": "movie",
-      "name": "Free! the Final Stroke: The First Volume",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b107203-Mxm9faqiRlAQ.png"
-    },
-    {
-      "type": "movie",
-      "name": "Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116756-jIU2HrnEsDjR.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "KAKUSHIGOTO Theatrical Edition",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127227-tEJFrD2XfvTz.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118743-T2Zm7kA33pnj.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "The House of the Lost on the Cape",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx125838-QEkGEEIA3xfC.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "KINMOZA The Movie: Thank you!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116676-SmbBAKOS6XUw.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "BanG Dream! Episode of Roselia II: Song I am",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117764-oRXvH4cc5Ux2.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "BanG Dream! FILM LIVE 2nd Stage",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116610-CliKhWCWvvKc.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "VOY@GER",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137075-EW0wiADgbSlk.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Ryoma! The Prince of Tennis",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113254-XmphpjR4LO7f.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tomorrow’s Leaves",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136706-HWaXNgTNjJmh.png"
-    },
-    {
-      "type": "movie",
-      "name": "Reconguista in G the Movie III Legacy from Space",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132324-xAuecCQM2wFN.png"
-    },
-    {
-      "type": "movie",
-      "name": "100-Nichikan Ikita Wani",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116740-NNO02wfF2j4w.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Crayon Shin-chan: Nazo Meki! Hana no Tenkasu Gakuen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127331-QvPf0RvbGSo9.png"
-    },
-    {
-      "type": "movie",
-      "name": "Sore Ike! Anpanman: Fuwa Fuwa Fuwari to Kumo no Kuni",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx115895-aqWHCnEwT0XC.png"
-    },
-    {
-      "type": "movie",
-      "name": "Shinkai no Survival!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132444-SPOZrzdhmfQ2.png"
-    },
-    {
-      "type": "movie",
-      "name": "Blink in the Desert",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140114-2Lq8Fvvb73gk.png"
-    },
-    {
-      "type": "movie",
-      "name": "Polar Bear Bears Boredom",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b143380-QvoRtZILOgBZ.png"
-    },
-    {
-      "type": "movie",
-      "name": "Oshiri Tantei: Sufuure-tou no Himitsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132698-x6sU5wFSxmFN.jpg"
-    },
-    {
       "id": "tt14331144",
       "type": "movie",
       "name": "JUJUTSU KAISEN 0",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131573-rpl82vDEDRm6.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx124140-HNL0CpH6ig6y.png"
-    },
-    {
-      "type": "movie",
-      "name": "Summer Ghost",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130050-7tcgvLV2w3xH.jpg"
     },
     {
       "id": "tt13064272",
@@ -274,95 +49,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123899-AimlRWzAqpHC.jpg"
     },
     {
-      "type": "movie",
-      "name": "Dakaretai Otoko 1-i ni Odosarete Imasu.: Spain-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132545-nENYhlJhAohn.jpg"
-    },
-    {
       "id": "tt13057626",
       "type": "movie",
       "name": "Child of Kamiari Month",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118390-PEZaKViELb9y.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Princess Principal: ~Crown Handler~ 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx129759-4ZQ5MPyE52Py.png"
-    },
-    {
-      "type": "movie",
-      "name": "ARIA The BENEDIZIONE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130558-8M8TeqrmQAbq.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "EUREKA: Eureka Seven Hi-Evolution",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98471-i813DFIJJHTR.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Macross Δ: Zettai LIVE!!!!!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118126-kcHtcMuSH3P6.png"
-    },
-    {
-      "type": "movie",
-      "name": "Hula Fulla Dance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx125841-UODyqabwgKEb.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Ghost in the Shell: SAC_2045 Sustainable War",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138899-mtjPqyGw7Yxf.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Macross Frontier: Toki no Meikyuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx129549-Prl1evRaGCvK.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Tropical-Rouge! Precure: Yuki no Princess to Kiseki no Yubiwa!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135864-pdE2Ur3cb6gn.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Dozens of Norths",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx141056-yzFFotXG9DqT.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Sumikkogurashi: The Little Wizard in the Blue Moonlight",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx125931-yS9UvZoFLjSQ.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "A Bite of Bone",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140601-zSJJVdQIdXit.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Argonavis Movie: Ryuusei no Obligato",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b154974-HziKpHwjO3ls.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Youkai Watch ♪: Keita to Orecchi no Deai Hen da Nyan ♪ Wa, Watakushi mo ♪♪",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b145958-LV5TiIiXFGAS.png"
-    },
-    {
-      "type": "movie",
-      "name": "Riku wa Yowakunai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136221-5Y6fo3ECwQf6.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Otoppe: Papa Don't Cry",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132300-K9BBf0wWMocO.jpg"
-    },
-    {
-      "type": "movie",
-      "name": "Nomino Sukune",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147013-OpDtNzMIRAOt.jpg"
     }
   ]
 }

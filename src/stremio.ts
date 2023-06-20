@@ -21,7 +21,7 @@ export class Catalog {
      * Create a file at path with the contents of metas
      */
     async writeToFile() {
-        await fs.writeFile(this.pathFile, JSON.stringify({metas: this.metas}, null, 2));
+        await fs.writeFile(this.pathFile, JSON.stringify({metas: this.metas.filter((m) => m?.id?.startsWith("tt"))}, null, 2));
     }
 
     async populate(year:number, season:Season, type:TitleType) {

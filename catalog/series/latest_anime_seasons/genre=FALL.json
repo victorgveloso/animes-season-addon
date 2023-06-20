@@ -61,11 +61,6 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154116-JAVIME9SBdfe.jpg"
     },
     {
-      "type": "series",
-      "name": "Kamonohashi Ron no Kindan Suiri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158926-PfOGyTRzxqZu.png"
-    },
-    {
       "id": "tt22818494",
       "type": "series",
       "name": "I'm in Love with the Villainess",
@@ -76,11 +71,6 @@
       "type": "series",
       "name": "Shangri-La Frontier",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151970-qGhkXKWD9enA.png"
-    },
-    {
-      "type": "series",
-      "name": "Hikikomari Kyuuketsuki no Monmon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159808-QtmFeA4G8a5l.jpg"
     },
     {
       "id": "tt27187053",
@@ -111,11 +101,6 @@
       "type": "series",
       "name": "Tensei Shitara Slime Datta Ken: Coleus no Yume",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx161802-Ra8acfv0cSov.jpg"
-    },
-    {
-      "type": "series",
-      "name": "Hoshikuzu Telepath",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155419-1I89V5wkGBrS.png"
     },
     {
       "id": "tt27460264",
@@ -166,16 +151,6 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150077-40T50Llw8RyV.png"
     },
     {
-      "type": "series",
-      "name": "Dekoboko Majo no Oyako Jijou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154454-u2Z5RSa0zTBY.jpg"
-    },
-    {
-      "type": "series",
-      "name": "KamiErabi GOD.app",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162984-CsFs8QttUAz1.jpg"
-    },
-    {
       "id": "tt28102247",
       "type": "series",
       "name": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
@@ -200,25 +175,10 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130706-pSTEGJZc25Fm.jpg"
     },
     {
-      "type": "series",
-      "name": "Toaru Ossan no VRMMO Katsudouki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx161364-Fa2KXLNziqTl.png"
-    },
-    {
-      "type": "series",
-      "name": "Jashin-chan Dropkick [Seikimatsu-hen]",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164551-QysYBZwUrpYv.png"
-    },
-    {
       "id": "tt27212605",
       "type": "series",
       "name": "Captain Tsubasa: Junior Youth Arc",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163024-nP2yPek1hoeB.jpg"
-    },
-    {
-      "type": "series",
-      "name": "Yuzuki-san Chi no Yon Kyoudai.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164312-4rstdsgYFA9X.jpg"
     },
     {
       "id": "tt8526920",
@@ -255,11 +215,6 @@
       "type": "series",
       "name": "BEYBLADE X",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png"
-    },
-    {
-      "type": "series",
-      "name": "Ensemble Stars!!: Tsuioku Selection - Crossroad",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164241-3LCKu7xL0o6g.png"
     }
   ]
 }
