@@ -9,7 +9,7 @@ async function main() {
     for (const titleType of ["series", "movie"] as TitleType[]) {
         for (const season of manifest.getSeasons()) {
             console.log(`Generating catalog for season ${season} ${titleType}`);
-            const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season.toLowerCase()}.json`);
+            const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season}.json`);
             await catalog.populate(currentYear, season, titleType);
             promises.push(catalog.writeToFile());
         }
