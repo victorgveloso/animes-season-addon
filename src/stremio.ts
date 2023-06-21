@@ -41,9 +41,10 @@ export class Catalog {
             let maxRetry = nextName.match(/ /g)?.length ?? 0;
             while (!id && maxRetry--) {
                 nextName = nextName.substring(0, nextName.lastIndexOf(" "));
+                if (nextName.trim().length == 0) break;
                 id = await Imdb.getIdFromName(nextName, anime.seasonYear, type);
             };
-            const poster = anime.coverImage.medium ?? anime.bannerImage;
+            const poster = anime.coverImage.extraLarge ?? anime.coverImage.large ?? anime.coverImage.medium ?? anime.bannerImage;
             this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}} as Meta);
         }
     }
@@ -79,6 +80,8 @@ type AbstractManifest = {
 export class Manifest implements AbstractManifest {
     async update(today: Date) {
         this.lastUpdatedAt = today;
+        let [major, minor, patch] = this.version.split(".");
+        this.version = `${major}.${Number.parseInt(minor)+1}.${patch}`;
         this.years = Manifest.dateToYears(today);
         this.seasons = Manifest.dateToSeasons(today);
         for (const catalog of this.catalogs) {
@@ -161,7 +164,7 @@ export class Manifest implements AbstractManifest {
     static default(pathFile: string) : Manifest {
         return Manifest.fromObject(pathFile, {
             id: "animes-season-addon",
-            version: "1.1.0",
+            version: "1.2.0",
             name: "Animes' season",
             description: "A catalog addon for the latest anime seasons",
             logo: "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",

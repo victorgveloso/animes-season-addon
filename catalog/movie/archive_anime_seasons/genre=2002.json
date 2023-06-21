@@ -5,8 +5,134 @@
       "type": "movie",
       "name": "InuYasha the Movie: Affections Touching Across Time",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx452-8Gc0rCcsXwLj.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0322645"
+      }
+    },
+    {
+      "id": "tt0180052",
+      "type": "movie",
+      "name": "Mt. Head",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1370-LE3i3DKLVfz3.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0180052"
+      }
+    },
+    {
+      "id": "tt4130762",
+      "type": "movie",
+      "name": "∀ Gundam I: Earth Light",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3963.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4130762"
+      }
+    },
+    {
+      "id": "tt4130788",
+      "type": "movie",
+      "name": "∀ Gundam II: Moonlight Butterfly",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3964.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4130788"
+      }
+    },
+    {
+      "id": "tt0240900",
+      "type": "movie",
+      "name": "Ecchan no Sensou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19907.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0240900"
+      }
+    },
+    {
+      "id": "tt0997084",
+      "type": "movie",
+      "name": "One Piece: Chopper’s Kingdom on the Island of Strange Animals",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx461-DC9fMDl3AaK1.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0997084"
+      }
+    },
+    {
+      "id": "tt0990372",
+      "type": "movie",
+      "name": "Case Closed: The Phantom of Baker Street",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1365-FLEpMCC8Ghhk.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0990372"
+      }
+    },
+    {
+      "id": "tt0810831",
+      "type": "movie",
+      "name": "Digimon Tamers: Runaway Locomon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3033.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0810831"
+      }
+    },
+    {
+      "id": "tt5182844",
+      "type": "movie",
+      "name": "Mobile Police Patlabor: WXIII",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1290-EpimlnTcvT2i.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5182844"
+      }
+    },
+    {
+      "id": "tt0311618",
+      "type": "movie",
+      "name": "A Tree of Palme",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1141-vhjeoRdDlJG1.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0311618"
+      }
+    },
+    {
+      "id": "tt1147526",
+      "type": "movie",
+      "name": "Doraemon: Nobita to Robot Oukoku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2655-Q5IKupd2pN98.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1147526"
+      }
+    },
+    {
+      "id": "tt2180443",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Arashi wo Yobu Appare! Sengoku Daikassen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3744.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2180443"
+      }
+    },
+    {
+      "id": "tt1086280",
+      "type": "movie",
+      "name": "éX-Driver the Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b378-u7B4XiCIHHRs.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1086280"
+      }
+    },
+    {
+      "id": "tt0359692",
+      "type": "movie",
+      "name": "Doraemon: The Day When I Was Born",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2652.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0359692"
+      }
+    },
+    {
+      "id": "tt1147526",
+      "type": "movie",
+      "name": "The☆Doraemons: Goal! Goal! Goal!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2631.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1147526"
       }
     },
     {
@@ -14,7 +140,7 @@
       "type": "movie",
       "name": "The Cat Returns",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx597-sGQ5YXPMF0AS.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0347618"
       }
     },
@@ -23,8 +149,152 @@
       "type": "movie",
       "name": "Millennium Actress",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1033-d5p1pbd5qa4L.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0291350"
+      }
+    },
+    {
+      "id": "tt0347791",
+      "type": "movie",
+      "name": "Pokémon Heroes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1120-dSMPMrXYWlER.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0347791"
+      }
+    },
+    {
+      "id": "tt0287717",
+      "type": "movie",
+      "name": "Digimon Frontier: Island of Lost Digimon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3031-K7KEKEcMdpVM.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0287717"
+      }
+    },
+    {
+      "id": "tt0318034",
+      "type": "movie",
+      "name": "Armitage III: Dual Matrix",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx492-s8gMCJIBAGfR.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0318034"
+      }
+    },
+    {
+      "id": "tt0459080",
+      "type": "movie",
+      "name": "Beyblade the Movie: Decisive Battle! Takao VS Daichi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1670-D76DiH1UwcMF.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0459080"
+      }
+    },
+    {
+      "id": "tt0339256",
+      "type": "movie",
+      "name": "Kinnikuman II Sei Muscle: Ninjin Soudatsu sen! Choujin Daisensou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12279.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0339256"
+      }
+    },
+    {
+      "id": "tt0347791",
+      "type": "movie",
+      "name": "Gekitou! Crush Gear TURBO: Kaiservern no Chousen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19271.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0347791"
+      }
+    },
+    {
+      "id": "tt0233559",
+      "type": "movie",
+      "name": "Xevious",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12799.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0233559"
+      }
+    },
+    {
+      "id": "tt20834228",
+      "type": "movie",
+      "name": "Sore Ike! Anpanman: Roll to Laura - Ukigumojou no Himitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17219.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt20834228"
+      }
+    },
+    {
+      "id": "tt8081176",
+      "type": "movie",
+      "name": "BONOBONO: Kumomo no Ki no Koto",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8403.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8081176"
+      }
+    },
+    {
+      "id": "tt15864378",
+      "type": "movie",
+      "name": "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20113.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15864378"
+      }
+    },
+    {
+      "id": "tt0482364",
+      "type": "movie",
+      "name": "Gekijouban Saru Gecchu: Golden no Pipo Helmet - Ukkii Battle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140879-SWL67FuI100j.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0482364"
+      }
+    },
+    {
+      "id": "tt2752960",
+      "type": "movie",
+      "name": "Mei and the Baby Cat Bus",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2488.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2752960"
+      }
+    },
+    {
+      "id": "tt0374262",
+      "type": "movie",
+      "name": "TAMALA2010: a punk cat in space",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2033.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0374262"
+      }
+    },
+    {
+      "id": "tt1345450",
+      "type": "movie",
+      "name": "Blue Gender: The Warrior",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1380.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1345450"
+      }
+    },
+    {
+      "id": "tt1178592",
+      "type": "movie",
+      "name": "Welcome to Pia Carrot! Sayaka's Love Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/216.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1178592"
+      }
+    },
+    {
+      "id": "tt1625545",
+      "type": "movie",
+      "name": "Tottoko Hamtaro Movie 2: Ham Ham Ham~Jya! Maboroshi no Princess",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7330.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1625545"
       }
     }
   ]

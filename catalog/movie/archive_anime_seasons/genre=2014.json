@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Giovanni's Island",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19115-FWAqQnzxnyQf.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3178174"
       }
     },
@@ -14,7 +14,7 @@
       "type": "movie",
       "name": "Tamako -love story-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20519-YdNUizVJJIWI.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3413018"
       }
     },
@@ -23,8 +23,17 @@
       "type": "movie",
       "name": "Ghost in the Shell: Arise - Border:3 Ghost Tears",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19193-9CnVIn6gGye7.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3579524"
+      }
+    },
+    {
+      "id": "tt0862748",
+      "type": "movie",
+      "name": "Lupin the 3rd: Jigen's Gravestone",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20978-GgWJz6NMHtln.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0862748"
       }
     },
     {
@@ -32,7 +41,7 @@
       "type": "movie",
       "name": "When Marnie Was There",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20555-QGbWQC3Kfpok.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3398268"
       }
     },
@@ -41,7 +50,7 @@
       "type": "movie",
       "name": "K: MISSING KINGS",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16904-MqA6kzSdRDsK.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3794204"
       }
     },
@@ -49,8 +58,8 @@
       "id": "tt3331846",
       "type": "movie",
       "name": "STAND BY ME Doraemon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/20515.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20515.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt3331846"
       }
     },
@@ -59,7 +68,7 @@
       "type": "movie",
       "name": "Ghost in the Shell: Arise - Border:4 Ghost Stands Alone",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19195-649F6wuytP5T.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4016942"
       }
     },
@@ -68,7 +77,7 @@
       "type": "movie",
       "name": "Saint Seiya: LEGEND of SANCTUARY",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10687-iDNjbDXrZQ2U.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2231489"
       }
     },
@@ -77,7 +86,7 @@
       "type": "movie",
       "name": "Appleseed Alpha",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20786-0vaNh7UD3vx4.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3638012"
       }
     },
@@ -85,8 +94,8 @@
       "id": "tt3482378",
       "type": "movie",
       "name": "Avengers Confidential: Black Widow & Punisher",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b108815-VV6kFhrZZ8ma.png",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108815-VV6kFhrZZ8ma.png",
+      "behaviorHints": {
         "defaultVideoId": "tt3482378"
       }
     },
@@ -95,7 +104,7 @@
       "type": "movie",
       "name": "The Last: Naruto the Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16870-Wg0XQKHcwV1r.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3717532"
       }
     }

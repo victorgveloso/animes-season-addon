@@ -5,8 +5,26 @@
       "type": "movie",
       "name": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx450-7uVVkg9N3uMF.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0366621"
+      }
+    },
+    {
+      "id": "tt1726779",
+      "type": "movie",
+      "name": "Life no Color",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6305.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1726779"
+      }
+    },
+    {
+      "id": "tt1006926",
+      "type": "movie",
+      "name": "One Piece The Movie: The Dead End Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx462-Ig8zfdsFWcql.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1006926"
       }
     },
     {
@@ -14,8 +32,98 @@
       "type": "movie",
       "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx731-aoWO30cMR4yO.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0368667"
+      }
+    },
+    {
+      "id": "tt1133935",
+      "type": "movie",
+      "name": "Case Closed: Crossroad in the Ancient Capital",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1366-76LNoYLEqaxv.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1133935"
+      }
+    },
+    {
+      "id": "tt0145487",
+      "type": "movie",
+      "name": "RahXephon: The Motion Picture",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx758-R2tugDULnRIL.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0145487"
+      }
+    },
+    {
+      "id": "tt0473474",
+      "type": "movie",
+      "name": "Doraemon: Nobita and the Strange Wind Rider",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2393-V99a2di8AMbj.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0473474"
+      }
+    },
+    {
+      "id": "tt0377556",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Honor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8363.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0377556"
+      }
+    },
+    {
+      "id": "tt0251127",
+      "type": "movie",
+      "name": "Pa-Pa-Pa the ★ Movie: Paaman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20185.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0251127"
+      }
+    },
+    {
+      "id": "tt0420076",
+      "type": "movie",
+      "name": "Pokémon: Jirachi Wish Maker",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1121-yGTHBrWFTiBm.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0420076"
+      }
+    },
+    {
+      "id": "tt0382868",
+      "type": "movie",
+      "name": "Nasu: Summer in Andalusia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1209-oqLWeJ8KlAiw.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0382868"
+      }
+    },
+    {
+      "id": "tt0829238",
+      "type": "movie",
+      "name": "My Sister Momoko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7877-ZxE6qmEHSh9z.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0829238"
+      }
+    },
+    {
+      "id": "tt21448334",
+      "type": "movie",
+      "name": "My Son Goku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20189.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt21448334"
+      }
+    },
+    {
+      "id": "tt20834228",
+      "type": "movie",
+      "name": "Sore Ike! Anpanman: Ruby no Negai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11791-PjuCKEKLrNBz.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt20834228"
       }
     },
     {
@@ -23,8 +131,71 @@
       "type": "movie",
       "name": "Tokyo Godfathers",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx759-vaiRxznGCi9T.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0388473"
+      }
+    },
+    {
+      "id": "tt1608499",
+      "type": "movie",
+      "name": "Winter Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3215.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1608499"
+      }
+    },
+    {
+      "id": "tt0380165",
+      "type": "movie",
+      "name": "Aquarian Age: Saga II - Don`t forget me...",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1268.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0380165"
+      }
+    },
+    {
+      "id": "tt0391886",
+      "type": "movie",
+      "name": "Ham Ham Grand Prix - The Miracle of Aurora Valley ~Ribon-chan's Close Call~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8108.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0391886"
+      }
+    },
+    {
+      "id": "tt7722178",
+      "type": "movie",
+      "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo THE MOVIE 2: UFO Shuurai! Tornado Daisakusen!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3547.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7722178"
+      }
+    },
+    {
+      "id": "tt5477298",
+      "type": "movie",
+      "name": "ASTRO BOY Tetsuwan Atom Tokubetsu-hen: Ivan no Wakusei - Robot to Ningen no Yuujou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18637-mIj2qtXtSYIw.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5477298"
+      }
+    },
+    {
+      "id": "tt1010436",
+      "type": "movie",
+      "name": "The Golden Laws",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3496.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1010436"
+      }
+    },
+    {
+      "id": "tt1298836",
+      "type": "movie",
+      "name": "Atashin'chi Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9795.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1298836"
       }
     }
   ]

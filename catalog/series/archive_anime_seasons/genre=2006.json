@@ -5,8 +5,53 @@
       "type": "series",
       "name": "Hellsing Ultimate",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx777-wviqUSUoSXAl.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0495212"
+      }
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1074.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0409591"
+      }
+    },
+    {
+      "id": "tt0972713",
+      "type": "series",
+      "name": "Shakugan no Shana: Koi to Onsen no Kougai Gakushuu! ",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1531.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0972713"
+      }
+    },
+    {
+      "id": "tt0972713",
+      "type": "series",
+      "name": "Shakugan no Shana Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1066.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0972713"
+      }
+    },
+    {
+      "id": "tt0972713",
+      "type": "series",
+      "name": "Shakugan no Shana: Naze Nani Shana",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6330.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0972713"
+      }
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikomatic Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10948.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
       }
     },
     {
@@ -14,7 +59,7 @@
       "type": "series",
       "name": "Gintama",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-hRbQHIkRUebX.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0988818"
       }
     },
@@ -23,7 +68,7 @@
       "type": "series",
       "name": "Ouran High School Host Club",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx853-OGmpjzPaRfz5.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0816397"
       }
     },
@@ -32,7 +77,7 @@
       "type": "series",
       "name": "Black Lagoon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx889-Wf4GZRnHv6Dp.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0962826"
       }
     },
@@ -41,7 +86,7 @@
       "type": "series",
       "name": "The Melancholy of Haruhi Suzumiya",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx849-uXOftsjBDz2T.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0816407"
       }
     },
@@ -50,7 +95,7 @@
       "type": "series",
       "name": "When They Cry",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx934-EOn2UlXaLUtj.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0845738"
       }
     },
@@ -59,7 +104,7 @@
       "type": "series",
       "name": "NANA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx877-rgaDbTMM9R59.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0810705"
       }
     },
@@ -68,7 +113,7 @@
       "type": "series",
       "name": "xxxHOLiC",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx861-rbZNhIXwS4JE.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0488477"
       }
     },
@@ -77,8 +122,44 @@
       "type": "series",
       "name": "Utawarerumono",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx856-lawtNdvqvgwd.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0978215"
+      }
+    },
+    {
+      "id": "tt0434665",
+      "type": "series",
+      "name": "BLEACH: The Sealed Sword Frenzy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0434665"
+      }
+    },
+    {
+      "id": "tt0421357",
+      "type": "series",
+      "name": "Fullmetal Alchemist: Premium OVA Collection",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/908.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0421357"
+      }
+    },
+    {
+      "id": "tt0328739",
+      "type": "series",
+      "name": "Full Metal Panic! The Second Raid: A Relatively Leisurely Day in the Life of a Fleet Captain",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1015-GKd8zzF8I3H7.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0328739"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Jack 21",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2214-b3Y4OOWHHW0i.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
       }
     },
     {
@@ -86,8 +167,53 @@
       "type": "series",
       "name": "The Familiar of Zero",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1195-7BOXEWYAv1WN.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0978553"
+      }
+    },
+    {
+      "id": "tt0374407",
+      "type": "series",
+      "name": "Mobile Suit Gundam Seed C.E.73: Stargazer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1215-TXSO3ljTDKjw.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0374407"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Cat: The Distant Cat",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2589.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
+      }
+    },
+    {
+      "id": "tt0978215",
+      "type": "series",
+      "name": "Utawarerumono Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1830.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0978215"
+      }
+    },
+    {
+      "id": "tt0063962",
+      "type": "series",
+      "name": "UFO Ultramaiden Valkyrie 4: Banquet of Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1648.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0063962"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Jack TV: Lost Episodes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4071.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
       }
     },
     {
@@ -95,8 +221,17 @@
       "type": "series",
       "name": "Death Note",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0877057"
+      }
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: Lelouch of the Rebellion",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-ZJYlg8yjvMKI.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0994314"
       }
     },
     {
@@ -104,8 +239,17 @@
       "type": "series",
       "name": "D.Gray-man",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1482-3IT5wm5AK9tF.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0899258"
+      }
+    },
+    {
+      "id": "tt0962826",
+      "type": "series",
+      "name": "Black Lagoon: The Second Barrage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1519-cScqJxQW3LNL.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0962826"
       }
     },
     {
@@ -113,7 +257,7 @@
       "type": "series",
       "name": "REBORN!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1604-H53bcO7VSWGU.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1224144"
       }
     },
@@ -122,8 +266,35 @@
       "type": "series",
       "name": "Kenichi: The Mightiest Disciple",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1559-7ZlyZxtBNo8g.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1424037"
+      }
+    },
+    {
+      "id": "tt0962740",
+      "type": "series",
+      "name": "Hell Girl: Two Mirrors",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1594-bFUqsv7hu3La.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0962740"
+      }
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1566-FSNFIcsT91Ni.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Blood Brothers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1498-Un9KTrfUKkVj.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
       }
     }
   ]

@@ -100,6 +100,8 @@ export function query(year: number, season: Season, sorting: Sorting, format: Ti
             bannerImage
             coverImage {
               medium
+              large
+              extraLarge
             }
           }
         }

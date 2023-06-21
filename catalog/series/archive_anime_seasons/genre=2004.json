@@ -1,11 +1,56 @@
 {
   "metas": [
     {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
+      }
+    },
+    {
+      "id": "tt0426711",
+      "type": "series",
+      "name": "Hikaru no Go: Hokuto Hai e no Michi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx645-pyWfd1NkNDdB.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0426711"
+      }
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex - Interval",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10949.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
+      }
+    },
+    {
+      "id": "tt0162065",
+      "type": "series",
+      "name": "Angel Blade Punish!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2325.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0162065"
+      }
+    },
+    {
+      "id": "tt0318895",
+      "type": "series",
+      "name": "Hamtaro: Ham-Ham Games",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8966.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0318895"
+      }
+    },
+    {
       "id": "tt0434706",
       "type": "series",
       "name": "Monster",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-ham53gnijfiN.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0434706"
       }
     },
@@ -14,7 +59,7 @@
       "type": "series",
       "name": "Samurai Champloo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205-xxonQKyJtVcw.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0423731"
       }
     },
@@ -23,8 +68,53 @@
       "type": "series",
       "name": "Gantz",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-lQAVKHazrxDc.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0434685"
+      }
+    },
+    {
+      "id": "tt4415288",
+      "type": "series",
+      "name": "Mermaid Melody: Pichi Pichi Pitch Pure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1110-gpnHMe07kbpg.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4415288"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2490-AL4WmnCJ5zvE.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt9251798",
+      "type": "series",
+      "name": "Ragnarok the Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/417.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9251798"
+      }
+    },
+    {
+      "id": "tt0374407",
+      "type": "series",
+      "name": "Mobile Suit Gundam Seed: After-Phase Between the Stars",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2298-zhSqhUyGbmBn.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0374407"
+      }
+    },
+    {
+      "id": "tt0374407",
+      "type": "series",
+      "name": "Mobile Suit Gundam Seed MSV Astray",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx864-Y8eQpwC6JGUC.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0374407"
       }
     },
     {
@@ -32,8 +122,62 @@
       "type": "series",
       "name": "Elfen Lied",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx226-vqteB2impeYH.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0480489"
+      }
+    },
+    {
+      "id": "tt0434685",
+      "type": "series",
+      "name": "Gantz: Second Stage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx395-vNu8TEbEL6qI.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0434685"
+      }
+    },
+    {
+      "id": "tt1723816",
+      "type": "series",
+      "name": "Girls Bravo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx241-8D6mfBUZBsjc.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1723816"
+      }
+    },
+    {
+      "id": "tt0423731",
+      "type": "series",
+      "name": "Samurai 7",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166-aKHPMNS3oGQW.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0423731"
+      }
+    },
+    {
+      "id": "tt0374407",
+      "type": "series",
+      "name": "Mobile Suit Gundam Seed Special Edition",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2269-SIy7CZiOnDSs.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0374407"
+      }
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin the 3rd: Swallowtail Tattoo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1429-t5zqVgaMNqIo.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2531336"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Gate: Kanin no Gakuen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2145.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
       }
     },
     {
@@ -41,7 +185,7 @@
       "type": "series",
       "name": "Bleach",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0434665"
       }
     },
@@ -50,7 +194,7 @@
       "type": "series",
       "name": "Yu-Gi-Oh! GX",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx482-4xEMeLHzYcgk.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0493334"
       }
     },
@@ -59,8 +203,53 @@
       "type": "series",
       "name": "Magical Girl Lyrical Nanoha",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx76-wRwZobrx9MPj.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0808082"
+      }
+    },
+    {
+      "id": "tt0374407",
+      "type": "series",
+      "name": "Mobile Suit Gundam Seed Destiny",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/94.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0374407"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Jack (TV)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2213-wemXPc8z0r6a.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
+      }
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikomatic Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3485.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
+      }
+    },
+    {
+      "id": "tt0434665",
+      "type": "series",
+      "name": "BLEACH: memories in the rain",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0434665"
+      }
+    },
+    {
+      "id": "tt0214354",
+      "type": "series",
+      "name": "Zoids Fuzors",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1746.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0214354"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "name": "Animes' season",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
@@ -132,5 +132,5 @@
   "idPrefixes": [
     "tt"
   ],
-  "lastUpdatedAt": "2023-06-20T09:41:59.303Z"
+  "lastUpdatedAt": "2023-06-21T15:00:33.106Z"
 }

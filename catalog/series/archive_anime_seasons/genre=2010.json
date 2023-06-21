@@ -5,8 +5,17 @@
       "type": "series",
       "name": "Durarara!!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6746-Q4EmstN2fy0R.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1584000"
+      }
+    },
+    {
+      "id": "tt1655610",
+      "type": "series",
+      "name": "Baka and Test - Summon the Beasts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6347-wmkZ4HD6EG8O.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1655610"
       }
     },
     {
@@ -14,8 +23,35 @@
       "type": "series",
       "name": "The Qwaser of Stigmata",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6500-RQxUgnApAqqn.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3443306"
+      }
+    },
+    {
+      "id": "tt1410218",
+      "type": "series",
+      "name": "K-ON!: Live House!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6862.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1410218"
+      }
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin the 3rd: The Last Job",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8097-stQ6zkxk7YWo.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2531336"
+      }
+    },
+    {
+      "id": "tt0162065",
+      "type": "series",
+      "name": "Angel Beats!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-3jWzWyXg34Et.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0162065"
       }
     },
     {
@@ -23,7 +59,7 @@
       "type": "series",
       "name": "Maid-Sama!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7054-GW4D7VAZG19W.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1634208"
       }
     },
@@ -32,7 +68,7 @@
       "type": "series",
       "name": "K-ON! Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7791-kkyTqv0HI7D7.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1410218"
       }
     },
@@ -41,8 +77,125 @@
       "type": "series",
       "name": "Demon King Daimao",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7088-Y38q7jaBwlTZ.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1636694"
+      }
+    },
+    {
+      "id": "tt0412142",
+      "type": "series",
+      "name": "House of Five Leaves",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7588-iXCwrmgHGJbd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0412142"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "ONE PIECE FILM: STRONG WORLD - EPISODE:0",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8740-oZajT3brPn7b.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt0328733",
+      "type": "series",
+      "name": "Beyblade: Metal Masters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8410-fXa60HqVggen.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0328733"
+      }
+    },
+    {
+      "id": "tt0488477",
+      "type": "series",
+      "name": "xxxHOLiC Rou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6864-tbc8T8lbYY69.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0488477"
+      }
+    },
+    {
+      "id": "tt1655610",
+      "type": "series",
+      "name": "Baka and Test - Summon the Beasts Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7870.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1655610"
+      }
+    },
+    {
+      "id": "tt0988818",
+      "type": "series",
+      "name": "Gintama: Dai Hanseikai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10643.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0988818"
+      }
+    },
+    {
+      "id": "tt0486171",
+      "type": "series",
+      "name": "Ikki Tousen: Xtreme Xecutor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7580-dt2waY2ZK8SN.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0486171"
+      }
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8728.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0994314"
+      }
+    },
+    {
+      "id": "tt1224144",
+      "type": "series",
+      "name": "REBORN!: Here Comes a Vongola Family-Style School Trip!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8532.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1224144"
+      }
+    },
+    {
+      "id": "tt3443306",
+      "type": "series",
+      "name": "The Qwaser Of Stigmata Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8668.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3443306"
+      }
+    },
+    {
+      "id": "tt1642495",
+      "type": "series",
+      "name": "Jewelpet Twinkle☆",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8217-0AdC5k7zWMwu.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1642495"
+      }
+    },
+    {
+      "id": "tt1356878",
+      "type": "series",
+      "name": "Hetalia Axis Powers Fan Disc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9865.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1356878"
+      }
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: Hangyaku no Lelouch - Kiseki no BABA Gekijou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18881.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0994314"
       }
     },
     {
@@ -50,8 +203,17 @@
       "type": "series",
       "name": "Seitokai Yakuindomo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8675-5H2QSLvXA7bH.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1694038"
+      }
+    },
+    {
+      "id": "tt1316554",
+      "type": "series",
+      "name": "Black Butler II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx6707-eZvzqWlu51DD.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1316554"
       }
     },
     {
@@ -59,8 +221,17 @@
       "type": "series",
       "name": "Amagami SS",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx8676-rpRpE8lD4tbw.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1685397"
+      }
+    },
+    {
+      "id": "tt0962826",
+      "type": "series",
+      "name": "Black Lagoon: Roberta's Blood Trail",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4901-evMxxc1A8pCF.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0962826"
       }
     },
     {
@@ -68,16 +239,142 @@
       "type": "series",
       "name": "Nura: Rise of the Yokai Clan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7592-28Qy7SBbSquT.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2716982"
+      }
+    },
+    {
+      "id": "tt1339238",
+      "type": "series",
+      "name": "Sekirei: Pure Engagement",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5277-FVXhVU8xoY6z.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1339238"
+      }
+    },
+    {
+      "id": "tt1584000",
+      "type": "series",
+      "name": "Durarara!! Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8408-ty3umDE46vVK.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1584000"
+      }
+    },
+    {
+      "id": "tt1634208",
+      "type": "series",
+      "name": "Maid-Sama! LaLa Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10298-mnM3kWmFb2TP.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1634208"
+      }
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "NARUTO: Soyokazeden - Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10659.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0409591"
+      }
+    },
+    {
+      "id": "tt1410218",
+      "type": "series",
+      "name": "K-ON! Season 2 Shorts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9203-Dvr3qxjibGHK.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1410218"
+      }
+    },
+    {
+      "id": "tt1339238",
+      "type": "series",
+      "name": "Sekirei: Pure Engagement Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9355.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1339238"
+      }
+    },
+    {
+      "id": "tt1308089",
+      "type": "series",
+      "name": "A Certain Magical Index II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8937-i3AW4QZxQHMy.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1308089"
+      }
+    },
+    {
+      "id": "tt1743681",
+      "type": "series",
+      "name": "Yosuga no Sora: In Solitude Where We are Least Alone",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8861-DZKseZpdtBwp.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1743681"
+      }
+    },
+    {
+      "id": "tt0162065",
+      "type": "series",
+      "name": "Angel Beats! Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9062-x3XnEGxK4eqh.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0162065"
+      }
+    },
+    {
+      "id": "tt0162065",
+      "type": "series",
+      "name": "Angel Beats!: Another Epilogue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10067-83dhqo4TcbTs.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0162065"
+      }
+    },
+    {
+      "id": "tt1528567",
+      "type": "series",
+      "name": "Heaven's Lost Property: Forte",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8407-lgUv2tUNTONy.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1528567"
+      }
+    },
+    {
+      "id": "tt1528567",
+      "type": "series",
+      "name": "Heaven's Lost Property OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7858-C9CsqYxmzhvc.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1528567"
+      }
+    },
+    {
+      "id": "tt1316554",
+      "type": "series",
+      "name": "Black Butler II: OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx9136-ya8hYWZUmNMW.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1316554"
+      }
+    },
+    {
+      "id": "tt1882240",
+      "type": "series",
+      "name": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9120.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1882240"
       }
     },
     {
       "id": "tt0115218",
       "type": "series",
       "name": "Iron Man",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/6875.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6875.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt0115218"
       }
     }

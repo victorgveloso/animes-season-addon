@@ -5,7 +5,7 @@
       "type": "series",
       "name": "ERASED",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21234-v2NMgPyoVRoM.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5249462"
       }
     },
@@ -14,7 +14,7 @@
       "type": "series",
       "name": "KONOSUBA -God's blessing on this wonderful world!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-TfzXuWQf2oLQ.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5370118"
       }
     },
@@ -23,8 +23,17 @@
       "type": "series",
       "name": "Assassination Classroom 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-aDHIDkp1L2jC.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3837246"
+      }
+    },
+    {
+      "id": "tt5537534",
+      "type": "series",
+      "name": "AJIN: Demi-Human",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21341-Pyc7SkMEuGsl.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5537534"
       }
     },
     {
@@ -32,8 +41,107 @@
       "type": "series",
       "name": "Gate 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21364-6ikYd5J46dt0.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4958580"
+      }
+    },
+    {
+      "id": "tt4542568",
+      "type": "series",
+      "name": "Snow White with the Red Hair Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21258-6UnmYMTMH0f7.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4542568"
+      }
+    },
+    {
+      "id": "tt1584000",
+      "type": "series",
+      "name": "Durarara!! X2 The Third Arc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20880-WsvmgSdL8lhP.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1584000"
+      }
+    },
+    {
+      "id": "tt4508902",
+      "type": "series",
+      "name": "One-Punch Man OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21416-IwCJBh54K3iw.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4508902"
+      }
+    },
+    {
+      "id": "tt4917066",
+      "type": "series",
+      "name": "Prison School: Mad Wax",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21565-PsQEFVGXs1fX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4917066"
+      }
+    },
+    {
+      "id": "tt1723816",
+      "type": "series",
+      "name": "Girls Beyond the Wasteland",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21444-kxk0XqUb5CgX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1723816"
+      }
+    },
+    {
+      "id": "tt1216222",
+      "type": "series",
+      "name": "To LOVE-Ru Darkness 2nd OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21853-HlLe8mC4qG15.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1216222"
+      }
+    },
+    {
+      "id": "tt4219258",
+      "type": "series",
+      "name": "The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21489-mz0SQkCiXCcO.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4219258"
+      }
+    },
+    {
+      "id": "tt4542568",
+      "type": "series",
+      "name": "Snow White with the Red Hair: Nandemonai Takaramono, Kono Page",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21313-CRB0vR5CXLco.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4542568"
+      }
+    },
+    {
+      "id": "tt3115338",
+      "type": "series",
+      "name": "Nisekoi: OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119947-yU16iRo7CPAM.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3115338"
+      }
+    },
+    {
+      "id": "tt4584326",
+      "type": "series",
+      "name": "Seraph of the End: Battle in Nagoya - Owaranai Seraph Battle in Nagoya",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21765-ecyvqRcGhM5m.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4584326"
+      }
+    },
+    {
+      "id": "tt5373222",
+      "type": "series",
+      "name": "My Wife is the Student Council President OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21490-mb2tBQfXocPa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5373222"
       }
     },
     {
@@ -41,7 +149,7 @@
       "type": "series",
       "name": "My Hero Academia",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5626028"
       }
     },
@@ -50,7 +158,7 @@
       "type": "series",
       "name": "Re:ZERO -Starting Life in Another World-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-IHaS50pvLYd0.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5607616"
       }
     },
@@ -59,8 +167,17 @@
       "type": "series",
       "name": "Bungo Stray Dogs",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5679720"
+      }
+    },
+    {
+      "id": "tt2359704",
+      "type": "series",
+      "name": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21450-VsNSWuTsHBMR.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2359704"
       }
     },
     {
@@ -68,8 +185,17 @@
       "type": "series",
       "name": "Kabaneri of the Iron Fortress",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21196-2PfPfIDrxKki.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5556656"
+      }
+    },
+    {
+      "id": "tt5370118",
+      "type": "series",
+      "name": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21574-CTRsdAGe4mDp.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5370118"
       }
     },
     {
@@ -77,7 +203,7 @@
       "type": "series",
       "name": "Twin Star Exorcists",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21499-JCxvIXc27mVT.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5637108"
       }
     },
@@ -86,8 +212,26 @@
       "type": "series",
       "name": "Ace Attorney",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21360-H6yRBVYEEodS.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5603356"
+      }
+    },
+    {
+      "id": "tt4584326",
+      "type": "series",
+      "name": "Seraph of the End: Kyuuketsuki Shahal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21586-Fhcf7PklKZ5O.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt4584326"
+      }
+    },
+    {
+      "id": "tt4731072",
+      "type": "series",
+      "name": "Food Wars! Shokugeki no Soma OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21691-9RejHe6U6vLK.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4731072"
       }
     },
     {
@@ -95,8 +239,26 @@
       "type": "series",
       "name": "Ushio and Tora 2 (TV)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21241-Avzz7tcb0yTy.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4801510"
+      }
+    },
+    {
+      "id": "tt3894916",
+      "type": "series",
+      "name": "Terra Formars: Revenge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21300-zetpWksKrHJv.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3894916"
+      }
+    },
+    {
+      "id": "tt1584000",
+      "type": "series",
+      "name": "Durarara!! X2 The Third Arc: DuFuFuFu!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21695-A79FUWY7ZVbw.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1584000"
       }
     },
     {
@@ -104,8 +266,35 @@
       "type": "series",
       "name": "Sailor Moon Crystal Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21462-bRbgZYf4Sgxj.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3124992"
+      }
+    },
+    {
+      "id": "tt4379632",
+      "type": "series",
+      "name": "Blood Blockade Battlefront: King of Kings Restaurant Fit for a King",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21640-JN2902wooMoC.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4379632"
+      }
+    },
+    {
+      "id": "tt5537534",
+      "type": "series",
+      "name": "Ajin OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21487-Va4pPFXsysWF.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5537534"
+      }
+    },
+    {
+      "id": "tt2294076",
+      "type": "series",
+      "name": "Girls und Panzer der Film: Arisu War!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21649-EWxvephGWVAX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2294076"
       }
     },
     {
@@ -113,7 +302,7 @@
       "type": "series",
       "name": "Mob Psycho 100",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5897304"
       }
     },
@@ -122,8 +311,26 @@
       "type": "series",
       "name": "The Disastrous Life of Saiki K.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21804-AAjWfz9JY1EO.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt6354518"
+      }
+    },
+    {
+      "id": "tt4731072",
+      "type": "series",
+      "name": "Food Wars! The Second Plate",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21518-uBqzDGIuSxJ5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4731072"
+      }
+    },
+    {
+      "id": "tt5839706",
+      "type": "series",
+      "name": "91 Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21711-RVlLD3BOAzzV.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5839706"
       }
     },
     {
@@ -131,8 +338,17 @@
       "type": "series",
       "name": "NEW GAME!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21455-XZTQ8Fmii75j.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5862798"
+      }
+    },
+    {
+      "id": "tt7326322",
+      "type": "series",
+      "name": "The Ancient Magus' Bride: Those Awaiting a Star",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21688-DOc6RxTYfXEr.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7326322"
       }
     },
     {
@@ -140,8 +356,89 @@
       "type": "series",
       "name": "Berserk (2016)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21560-6iifjdssfebJ.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0318871"
+      }
+    },
+    {
+      "id": "tt3647998",
+      "type": "series",
+      "name": "Taboo Tattoo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21031-9UQTsZfReeP6.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3647998"
+      }
+    },
+    {
+      "id": "tt0899258",
+      "type": "series",
+      "name": "D.Gray-man HALLOW",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21558-K9iLPLz1gDGY.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0899258"
+      }
+    },
+    {
+      "id": "tt5023666",
+      "type": "series",
+      "name": "The Heroic Legend of Arslan: Dust Storm Dance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21424-B87p1XofzerH.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5023666"
+      }
+    },
+    {
+      "id": "tt0988818",
+      "type": "series",
+      "name": "Gintama: Love Incense Arc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21588-4stDE0RbC9jL.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0988818"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece: Heart of Gold",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21831-VoDhEVaTaGEq.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt8010544",
+      "type": "series",
+      "name": "Persona 5 The Animation -the Day Breakers-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21432-Cedi86Cv5hOS.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8010544"
+      }
+    },
+    {
+      "id": "tt4869896",
+      "type": "series",
+      "name": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87489-rizr4yabatdV.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4869896"
+      }
+    },
+    {
+      "id": "tt3114358",
+      "type": "series",
+      "name": "Non Non Biyori: Repeat - Hotaru ga Tanoshinda",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21585-7JLUZe4iooea.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3114358"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "ONE PIECE FILM: GOLD - episode 0 711ver.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21880-uxsZ880LXSdY.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
       }
     },
     {
@@ -149,7 +446,7 @@
       "type": "series",
       "name": "HAIKYU!! 3rd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3398540"
       }
     },
@@ -158,7 +455,7 @@
       "type": "series",
       "name": "Bungo Stray Dogs 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21679-9MKdz1A7YLV7.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5679720"
       }
     },
@@ -167,8 +464,44 @@
       "type": "series",
       "name": "March comes in like a lion",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21366-qp94AxKx6ZaM.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt6074794"
+      }
+    },
+    {
+      "id": "tt2703720",
+      "type": "series",
+      "name": "My Teen Romantic Comedy SNAFU TOO! OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21769-ZBoT6szJKGZv.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2703720"
+      }
+    },
+    {
+      "id": "tt5537534",
+      "type": "series",
+      "name": "AJIN: Demi-Human 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21799-0WB0vWJJ7mFX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5537534"
+      }
+    },
+    {
+      "id": "tt2789238",
+      "type": "series",
+      "name": "Strike the Blood II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21815-q8Jm7tx70N0H.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2789238"
+      }
+    },
+    {
+      "id": "tt4728568",
+      "type": "series",
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21660-ulujIFzucKf1.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4728568"
       }
     },
     {
@@ -176,8 +509,17 @@
       "type": "series",
       "name": "My Wife is the Student Council President+!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21610-fXJmOc3wQQoX.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5373222"
+      }
+    },
+    {
+      "id": "tt2235759",
+      "type": "series",
+      "name": "The Great Passage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21703-rXiXsRgiIO12.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2235759"
       }
     },
     {
@@ -185,8 +527,35 @@
       "type": "series",
       "name": "Natsume's Book of Friends 5",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21710-Y20fKQviC3hL.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1352421"
+      }
+    },
+    {
+      "id": "tt0434706",
+      "type": "series",
+      "name": "Monster Musume: Everyday Life With Monster Girls OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21650-qFjRMXrw1jku.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0434706"
+      }
+    },
+    {
+      "id": "tt2320220",
+      "type": "series",
+      "name": "Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98033-9fwilTwhdKB2.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2320220"
+      }
+    },
+    {
+      "id": "tt7441658",
+      "type": "series",
+      "name": "Black Clover: Jump Festa 2016 Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87528-parADBBGJOVP.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7441658"
       }
     }
   ]

@@ -5,8 +5,44 @@
       "type": "series",
       "name": "Naruto: Shippuden",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0988824"
+      }
+    },
+    {
+      "id": "tt0486171",
+      "type": "series",
+      "name": "Ikki Tousen: Dragon Destiny",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1956-qayV3luUKfkg.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0486171"
+      }
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: Hangyaku no Lelouch Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1953.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0994314"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "ONE PIECE: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106572-k1gqIsDcqGaV.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt0955346",
+      "type": "series",
+      "name": "MOONLIGHT MILE 1st Season -Lift off-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1941-trygRz5pWQ5a.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0955346"
       }
     },
     {
@@ -14,7 +50,7 @@
       "type": "series",
       "name": "Gurren Lagann",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-7cvz7Jf8viMT.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0948103"
       }
     },
@@ -23,7 +59,7 @@
       "type": "series",
       "name": "Moribito: Guardian of the Spirit",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1827-snIp62SY7ZFK.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1029248"
       }
     },
@@ -32,17 +68,44 @@
       "type": "series",
       "name": "Bakugan Battle Brawlers",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2156-z3AqxkRNfxov.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1114855"
+      }
+    },
+    {
+      "id": "tt0808082",
+      "type": "series",
+      "name": "Magical Girl Lyrical Nanoha StrikerS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1915-IKthftm6s36b.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0808082"
       }
     },
     {
       "id": "tt1238937",
       "type": "series",
       "name": "Blue Dragon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/2142.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2142.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1238937"
+      }
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10870.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
+      }
+    },
+    {
+      "id": "tt0872309",
+      "type": "series",
+      "name": "Genesis of Aquarion OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2170.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0872309"
       }
     },
     {
@@ -50,8 +113,62 @@
       "type": "series",
       "name": "School Days (TV)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2476-GSeJUpMGnj40.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1068993"
+      }
+    },
+    {
+      "id": "tt0845738",
+      "type": "series",
+      "name": "When They Cry Kai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1889-NqhWV3QwBXZl.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0845738"
+      }
+    },
+    {
+      "id": "tt0978553",
+      "type": "series",
+      "name": "The Familiar of Zero: Knight of the Twin Moons",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1840-AYZXdXUCpqpR.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0978553"
+      }
+    },
+    {
+      "id": "tt0877057",
+      "type": "series",
+      "name": "Death Note: Relight",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2994-mlofkz5GpkIu.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0877057"
+      }
+    },
+    {
+      "id": "tt0466352",
+      "type": "series",
+      "name": "The Prince of Tennis: The National Tournament Semifinals",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2752-GAemR7Gsk9n4.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0466352"
+      }
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex: Uchikomatic Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3447.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
+      }
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin the 3rd: The Elusiveness of the Fog",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3019-11WTVYnyiUbx.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2531336"
       }
     },
     {
@@ -59,8 +176,26 @@
       "type": "series",
       "name": "Clannad",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-ubU2875AFRTH.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1118804"
+      }
+    },
+    {
+      "id": "tt0972713",
+      "type": "series",
+      "name": "Shakugan no Shana: Season II ",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2787-ACpKjLdA6T5Z.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0972713"
+      }
+    },
+    {
+      "id": "tt0972713",
+      "type": "series",
+      "name": "Shakugan no Shana Movie Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3221.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0972713"
       }
     }
   ]

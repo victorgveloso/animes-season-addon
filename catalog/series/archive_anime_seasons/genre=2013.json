@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Chihayafuru 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14397-k2mzAGlUthAb.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2150751"
       }
     },
@@ -14,8 +14,71 @@
       "type": "series",
       "name": "Senran Kagura: Ninja Flash!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15119-rcnXA3JFYvU1.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2360110"
+      }
+    },
+    {
+      "id": "tt2348803",
+      "type": "series",
+      "name": "Kuroko's Basketball: Tip Off",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16916.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2348803"
+      }
+    },
+    {
+      "id": "tt2321542",
+      "type": "series",
+      "name": "Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15879.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2321542"
+      }
+    },
+    {
+      "id": "tt1528406",
+      "type": "series",
+      "name": "Fairy Tail the Movie: Prologue - The First Morning",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17535-9WPwCKsR2S5W.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1528406"
+      }
+    },
+    {
+      "id": "tt2294076",
+      "type": "series",
+      "name": "Girls und Panzer OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15811-xa6AKWptSjG1.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2294076"
+      }
+    },
+    {
+      "id": "tt2622974",
+      "type": "series",
+      "name": "The \"Hentai\" Prince and the Stony Cat.: Henneko BBS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20608.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2622974"
+      }
+    },
+    {
+      "id": "tt2549176",
+      "type": "series",
+      "name": "Cardfight!! Vanguard Link Joker",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15611-gz8DLFwKLzpk.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2549176"
+      }
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: Oz the Reflection Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17277.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0994314"
       }
     },
     {
@@ -23,7 +86,7 @@
       "type": "series",
       "name": "Attack on Titan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2560140"
       }
     },
@@ -32,7 +95,7 @@
       "type": "series",
       "name": "The Devil is a Part-Timer!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15809-5Ddu3w7wq9F9.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2622982"
       }
     },
@@ -41,7 +104,7 @@
       "type": "series",
       "name": "My Teen Romantic Comedy SNAFU",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14813-BC8aanHK9fju.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2703720"
       }
     },
@@ -50,7 +113,7 @@
       "type": "series",
       "name": "Date A Live",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15583-Sxd2J4RJdRhj.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2575684"
       }
     },
@@ -59,8 +122,26 @@
       "type": "series",
       "name": "The \"Hentai\" Prince and the Stony Cat.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15225-Bmi8gyIc4JIb.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2622974"
+      }
+    },
+    {
+      "id": "tt1515996",
+      "type": "series",
+      "name": "A Certain Scientific Railgun S",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx16049-FbOhOsQAuisF.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1515996"
+      }
+    },
+    {
+      "id": "tt2189248",
+      "type": "series",
+      "name": "Inazuma Eleven Go: Galaxy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18097-dAqYhaGafOqS.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2189248"
       }
     },
     {
@@ -68,17 +149,80 @@
       "type": "series",
       "name": "Danganronpa: The Animation",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16592-HeCjZni3xgPy.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2902582"
       }
     },
     {
-      "id": "tt2904426",
+      "id": "tt2230051",
       "type": "series",
-      "name": "Fate/kaleid liner Prisma☆Illya",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14829-PZVOr1ZxwOJV.png",
-      "behaviourHints": {
-        "defaultVideoId": "tt2904426"
+      "name": "High School DxD NEW",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx15451-A5T54vmxUq9t.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2230051"
+      }
+    },
+    {
+      "id": "tt0482855",
+      "type": "series",
+      "name": "Blood Lad",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11633-vIjtabJq64Xt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0482855"
+      }
+    },
+    {
+      "id": "tt2069441",
+      "type": "series",
+      "name": "The Future Diary: Redial",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16762.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2069441"
+      }
+    },
+    {
+      "id": "tt2321542",
+      "type": "series",
+      "name": "Love, Chunibyo & Other Delusions: Glimmering...Explosive Festival (Slapstick Noel)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16934-tq1Ytb82cwwa.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2321542"
+      }
+    },
+    {
+      "id": "tt8068860",
+      "type": "series",
+      "name": "Servant x Service",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18119-L4l1JsqrzATj.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt8068860"
+      }
+    },
+    {
+      "id": "tt1528406",
+      "type": "series",
+      "name": "FAIRY TAIL × RAVE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18393-aYbUsy5YeL1M.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1528406"
+      }
+    },
+    {
+      "id": "tt2309302",
+      "type": "series",
+      "name": "Tonari no Kaibutsu-kun: Tonari no Gokudou-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16866-t5yHiGnGitSF.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2309302"
+      }
+    },
+    {
+      "id": "tt2320220",
+      "type": "series",
+      "name": "Kamisama Hajimemashita OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18661-HkN94pt43WUQ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2320220"
       }
     },
     {
@@ -86,8 +230,35 @@
       "type": "series",
       "name": "Kingdom Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17389-KcR0AiBMuvzg.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2404499"
+      }
+    },
+    {
+      "id": "tt2560140",
+      "type": "series",
+      "name": "Attack on Titan Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19391.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2560140"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece: Episode of Merry - The Tale of One More Friend",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19123-leET1CrSJknT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt1515996",
+      "type": "series",
+      "name": "A Certain Scientific Railgun S Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19697-0Apv7863NWeU.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1515996"
       }
     },
     {
@@ -95,7 +266,7 @@
       "type": "series",
       "name": "Kill la Kill",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18679-zE07Y4SFaOiO.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3114390"
       }
     },
@@ -104,7 +275,7 @@
       "type": "series",
       "name": "Log Horizon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17265-95SA9keO8Jtv.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2942218"
       }
     },
@@ -113,7 +284,7 @@
       "type": "series",
       "name": "Kuroko's Basketball 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16894-iXt8GDs1L6dr.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2348803"
       }
     },
@@ -122,8 +293,17 @@
       "type": "series",
       "name": "Strike the Blood",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18277-Vwm314Nr6vsg.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2789238"
+      }
+    },
+    {
+      "id": "tt2560140",
+      "type": "series",
+      "name": "Attack on Titan OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2560140"
       }
     },
     {
@@ -131,7 +311,7 @@
       "type": "series",
       "name": "Non Non Biyori",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17549-n5m9PEt8SKIW.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3114358"
       }
     },
@@ -139,9 +319,27 @@
       "id": "tt1929675",
       "type": "series",
       "name": "Infinite Stratos 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/18247.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18247.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1929675"
+      }
+    },
+    {
+      "id": "tt2250192",
+      "type": "series",
+      "name": "Sword Art Online EXTRA EDITION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20021-BZA5XTwahXPj.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2250192"
+      }
+    },
+    {
+      "id": "tt2703720",
+      "type": "series",
+      "name": "My Teen Romantic Comedy SNAFU OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18753-0UHzxB54fYHY.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2703720"
       }
     },
     {
@@ -149,7 +347,7 @@
       "type": "series",
       "name": "Ace of the Diamond",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18689-HrvWZjpWvxMr.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3105422"
       }
     },
@@ -158,8 +356,53 @@
       "type": "series",
       "name": "Yowamushi Pedal",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18179-IVG3RMuEgHsQ.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2942228"
+      }
+    },
+    {
+      "id": "tt0481256",
+      "type": "series",
+      "name": "Fighting Spirit: Rising",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0481256"
+      }
+    },
+    {
+      "id": "tt1909463",
+      "type": "series",
+      "name": "Freezing Vibration",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18001-ORF1Yuxt1z0I.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1909463"
+      }
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "NARUTO: Shippuuden - Sunny Side Battle!!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n19511-8DIUleQ5KUgq.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0409591"
+      }
+    },
+    {
+      "id": "tt2904426",
+      "type": "series",
+      "name": "Fate/Kaleid liner Prisma Illya Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19109.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2904426"
+      }
+    },
+    {
+      "id": "tt2150751",
+      "type": "series",
+      "name": "Chihayafuru 2: Waga Mi Yo ni Furu Nagame Seshi Ma ni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18745.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2150751"
       }
     }
   ]

@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "The Deer King",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102891-lVsBWszCtTxd.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11417856"
       }
     },
@@ -14,17 +14,8 @@
       "type": "movie",
       "name": "Goodbye, Don Glees!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136302-4R03xBOGWrcq.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt14967958"
-      }
-    },
-    {
-      "id": "tt14294724",
-      "type": "movie",
-      "name": "BanG Dream! Poppin' Dream!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117765-R9vazugUMUE0.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt14294724"
       }
     },
     {
@@ -32,7 +23,7 @@
       "type": "movie",
       "name": "The Quintessential Quintuplets Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-kCOY9XBAbMcX.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt15721650"
       }
     },
@@ -41,35 +32,8 @@
       "type": "movie",
       "name": "Dragon Ball Super: SUPER HERO",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133898-KdQ7fWTG06n4.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt14614892"
-      }
-    },
-    {
-      "id": "tt10540510",
-      "type": "movie",
-      "name": "Inu-Oh",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109928-DWUN0zrDJfuv.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt10540510"
-      }
-    },
-    {
-      "id": "tt19849494",
-      "type": "movie",
-      "name": "Free! the Final Stroke: The Second Volume",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133124-7tVG14qsfI2W.png",
-      "behaviourHints": {
-        "defaultVideoId": "tt19849494"
-      }
-    },
-    {
-      "id": "tt12093860",
-      "type": "movie",
-      "name": "Meitantei Conan: Halloween no Hanayome",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142219-Nu9bWFhIKn0q.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt12093860"
       }
     },
     {
@@ -77,7 +41,7 @@
       "type": "movie",
       "name": "One Piece Film: Red",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt16183464"
       }
     },
@@ -86,7 +50,7 @@
       "type": "movie",
       "name": "The Tunnel to Summer, the Exit of Goodbyes",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142769-kNyyqpwC9gGV.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt17382524"
       }
     },
@@ -95,8 +59,17 @@
       "type": "movie",
       "name": "Laid-Back Camp The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104460-EwUV9ZJMCtnR.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt14364238"
+      }
+    },
+    {
+      "id": "tt10738536",
+      "type": "movie",
+      "name": "Delicious Party♡Precure: Yumemiru♡Okosama Lunch!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144687-b2piUr5WSdYb.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt10738536"
       }
     },
     {
@@ -104,7 +77,7 @@
       "type": "movie",
       "name": "Suzume",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-sG9FZa5JxlmE.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt16428256"
       }
     },
@@ -113,7 +86,7 @@
       "type": "movie",
       "name": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt15467380"
       }
     },
@@ -122,17 +95,8 @@
       "type": "movie",
       "name": "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140999-8nRYAPkywhbl.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt15830702"
-      }
-    },
-    {
-      "id": "tt15439344",
-      "type": "movie",
-      "name": "To Every You I’ve Loved Before",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt15439344"
       }
     },
     {
@@ -140,7 +104,7 @@
       "type": "movie",
       "name": "THE FIRST SLAM DUNK",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128207-IndYn57okYmk.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt15242330"
       }
     }

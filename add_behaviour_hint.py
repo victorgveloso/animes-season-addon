@@ -5,8 +5,8 @@ for i in glob.iglob("catalog/*/*/*.json"):
     with open(i, "r") as f:
         data = json.load(f)["metas"]
     for anime in data:
-        if "behaviourHints" not in anime:
-            anime["behaviourHints"] = {}
-        anime["behaviourHints"]["defaultVideoId"] = anime["id"]
+        if "behaviorHints" not in anime:
+            anime["behaviorHints"] = {}
+        anime["behaviorHints"]["defaultVideoId"] = anime["id"]
     with open(i, "w") as f:
         json.dump({"metas": data}, f, indent=2, ensure_ascii=False)

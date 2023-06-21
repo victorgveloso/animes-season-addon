@@ -4,8 +4,8 @@
       "id": "tt0439533",
       "type": "movie",
       "name": "Dead Leaves",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/n974-SiHTxDZkUpxY.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n974-SiHTxDZkUpxY.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt0439533"
       }
     },
@@ -14,8 +14,26 @@
       "type": "movie",
       "name": "InuYasha the Movie 3: Swords of an Honorable Ruler",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx451-t0IlENS6jPDG.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0396659"
+      }
+    },
+    {
+      "id": "tt0805605",
+      "type": "movie",
+      "name": "Saint Seiya: The Heaven Chapter - Overture",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1259-To3xqSUc49gn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0805605"
+      }
+    },
+    {
+      "id": "tt1863338",
+      "type": "movie",
+      "name": "NITABOH: Tsugaru Shamisen Shiso Gaibun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1203.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1863338"
       }
     },
     {
@@ -23,7 +41,7 @@
       "type": "movie",
       "name": "Ghost in the Shell 2: Innocence",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx468-rfiX1uY8bsPp.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0347246"
       }
     },
@@ -32,7 +50,7 @@
       "type": "movie",
       "name": "Appleseed (Movie)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx54-EIMIUlH3FuJb.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0401233"
       }
     },
@@ -41,7 +59,7 @@
       "type": "movie",
       "name": "Naruto the Movie: Ninja Clash in the Land of Snow",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0476680"
       }
     },
@@ -50,7 +68,7 @@
       "type": "movie",
       "name": "Mind Game",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx875-kvQVUKDPcAKl.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0452039"
       }
     },
@@ -59,7 +77,7 @@
       "type": "movie",
       "name": "Steamboy",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx565-2ANuvDHG7SHf.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0348121"
       }
     },
@@ -67,18 +85,9 @@
       "id": "tt0403703",
       "type": "movie",
       "name": "Yu-Gi-Oh! The Movie: Pyramid of Light",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/1894.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1894.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt0403703"
-      }
-    },
-    {
-      "id": "tt0347149",
-      "type": "movie",
-      "name": "Howl‘s Moving Castle",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx431-dDgk19xDZjVX.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt0347149"
       }
     },
     {
@@ -86,7 +95,7 @@
       "type": "movie",
       "name": "The Place Promised in Our Early Days",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx433-bU0c8iHxoL2G.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0381348"
       }
     }

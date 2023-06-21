@@ -1,11 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt3398540",
+      "type": "series",
+      "name": "HAIKYU!! TO THE TOP",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3398540"
+      }
+    },
+    {
       "id": "tt11428630",
       "type": "series",
       "name": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106479-JmPk1F5ubMtm.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11428630"
       }
     },
@@ -14,7 +23,7 @@
       "type": "series",
       "name": "Dorohedoro",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105228-9KSgNMIX3kPa.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11147852"
       }
     },
@@ -23,8 +32,17 @@
       "type": "series",
       "name": "In/Spectre",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107201-XwayV7vVveFS.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11328872"
+      }
+    },
+    {
+      "id": "tt3398540",
+      "type": "series",
+      "name": "HAIKYU!! LAND VS. AIR",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3398540"
       }
     },
     {
@@ -32,7 +50,7 @@
       "type": "series",
       "name": "Plunderer",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101168-LY3XA61byAVo.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11418324"
       }
     },
@@ -41,7 +59,7 @@
       "type": "series",
       "name": "Science Fell in Love, So I Tried to Prove It",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107067-UOEanLoeuvYh.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10635210"
       }
     },
@@ -50,8 +68,17 @@
       "type": "series",
       "name": "Interspecies Reviewers",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110270-4NVRRcffK70k.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11595706"
+      }
+    },
+    {
+      "id": "tt1515996",
+      "type": "series",
+      "name": "A Certain Scientific Railgun T",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104462-KrVWRvPcR7ci.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1515996"
       }
     },
     {
@@ -59,8 +86,44 @@
       "type": "series",
       "name": "Magia Record: Puella Magi Madoka Magica Side Story",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104051-tFMIbiffwBLs.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9547400"
+      }
+    },
+    {
+      "id": "tt12453442",
+      "type": "series",
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to Go Searching for Herbs on a Deserted Island?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112125-iho4D7GD13at.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt12453442"
+      }
+    },
+    {
+      "id": "tt10885406",
+      "type": "series",
+      "name": "Ascendance of a Bookworm Side Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113811-DxnS7eOL5zfn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt10885406"
+      }
+    },
+    {
+      "id": "tt2789238",
+      "type": "series",
+      "name": "Strike the Blood: Kieta Seisou-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112324-RM9uxYAFhi3c.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2789238"
+      }
+    },
+    {
+      "id": "tt8372010",
+      "type": "series",
+      "name": "Tsugumomo OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108267-x0xwGxioqKbh.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8372010"
       }
     },
     {
@@ -68,7 +131,7 @@
       "type": "series",
       "name": "Kaguya-sama: Love is War?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112641-zoGC8d6FaPXU.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9522300"
       }
     },
@@ -77,7 +140,7 @@
       "type": "series",
       "name": "Tower of God",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12057106"
       }
     },
@@ -86,7 +149,7 @@
       "type": "series",
       "name": "Great Pretender",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110349-59hhZ9CNHVdk.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11680468"
       }
     },
@@ -95,8 +158,17 @@
       "type": "series",
       "name": "Fruits Basket Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111762-C8TNf5uRlVNQ.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9304350"
+      }
+    },
+    {
+      "id": "tt4731072",
+      "type": "series",
+      "name": "Food Wars! The Fifth Plate",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114043-QkgiycojrojN.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4731072"
       }
     },
     {
@@ -104,7 +176,7 @@
       "type": "series",
       "name": "My Next Life as a Villainess: All Routes Lead to Doom!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104647-dMGZSavRxHcM.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11821792"
       }
     },
@@ -113,8 +185,35 @@
       "type": "series",
       "name": "Ascendance of a Bookworm Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113693-3tHbslFxD47R.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10885406"
+      }
+    },
+    {
+      "id": "tt6357658",
+      "type": "series",
+      "name": "Baki: The Great Raitai Tournament Saga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108522-5tT5S4MplV0Y.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6357658"
+      }
+    },
+    {
+      "id": "tt2379308",
+      "type": "series",
+      "name": "PSYCHO-PASS 3: First Inspector",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113917-lmW1flyIYU78.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2379308"
+      }
+    },
+    {
+      "id": "tt2789238",
+      "type": "series",
+      "name": "Strike the Blood IV",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112296-fkwRQQpfNJX2.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2789238"
       }
     },
     {
@@ -122,8 +221,17 @@
       "type": "series",
       "name": "Digimon Adventure:",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114811-SLZ6cMMhx6Im.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11645760"
+      }
+    },
+    {
+      "id": "tt11147852",
+      "type": "series",
+      "name": "Dorohedoro: Ma no Omake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114622-mpMhXM8JqCjc.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt11147852"
       }
     },
     {
@@ -131,7 +239,7 @@
       "type": "series",
       "name": "7SEEDS Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112686-vZCeCpw9oYB4.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9348718"
       }
     },
@@ -140,7 +248,7 @@
       "type": "series",
       "name": "Kingdom Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113108-ArjAmFLubVyu.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2404499"
       }
     },
@@ -149,7 +257,7 @@
       "type": "series",
       "name": "Re:ZERO -Starting Life in Another World- Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5607616"
       }
     },
@@ -158,7 +266,7 @@
       "type": "series",
       "name": "Rent-a-Girlfriend",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-UCgSIGyWvLgl.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11448214"
       }
     },
@@ -167,8 +275,35 @@
       "type": "series",
       "name": "The God of High School",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116006-Wt8JSA1ZQxlM.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12227418"
+      }
+    },
+    {
+      "id": "tt12432936",
+      "type": "series",
+      "name": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112301-P1K5zjiQfacn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt12432936"
+      }
+    },
+    {
+      "id": "tt2703720",
+      "type": "series",
+      "name": "My Teen Romantic Comedy SNAFU Climax!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108489-UqIzSjJ4eOMD.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2703720"
+      }
+    },
+    {
+      "id": "tt2250192",
+      "type": "series",
+      "name": "Sword Art Online: Alicization - War of Underworld Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114308-8UBiS7U9buzu.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2250192"
       }
     },
     {
@@ -176,8 +311,26 @@
       "type": "series",
       "name": "Uzaki-chan Wants to Hang Out!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115113-bJDZV7kP0XrP.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12464182"
+      }
+    },
+    {
+      "id": "tt0434706",
+      "type": "series",
+      "name": "Monster Girl Doctor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113286-AUS3PAJ5n6BU.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0434706"
+      }
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "name": "My Hero Academia: Make It! Do-or-Die Survival Training",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122349-DkEdG7N1231n.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5626028"
       }
     },
     {
@@ -185,7 +338,7 @@
       "type": "series",
       "name": "Aggretsuko: Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110857-hrnuyBLnnCDX.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8019444"
       }
     },
@@ -194,8 +347,17 @@
       "type": "series",
       "name": "No Guns Life Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112803-GTBPrkKvlyV5.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10981954"
+      }
+    },
+    {
+      "id": "tt2861424",
+      "type": "series",
+      "name": "Rick and Morty vs. Genocider",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122536-XijayOJsswIZ.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2861424"
       }
     },
     {
@@ -203,8 +365,17 @@
       "type": "series",
       "name": "JUJUTSU KAISEN",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12343534"
+      }
+    },
+    {
+      "id": "tt3398540",
+      "type": "series",
+      "name": "HAIKYU‼ TO THE TOP Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113538-tHVE8j5mOPLu.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3398540"
       }
     },
     {
@@ -212,8 +383,17 @@
       "type": "series",
       "name": "TONIKAWA: Over The Moon For You",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116267-CSAkFXN2Zsai.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12311976"
+      }
+    },
+    {
+      "id": "tt12453442",
+      "type": "series",
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112124-ZmoOntBuiSUU.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt12453442"
       }
     },
     {
@@ -221,8 +401,17 @@
       "type": "series",
       "name": "Moriarty the Patriot",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114124-def92qPuIVeK.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12831098"
+      }
+    },
+    {
+      "id": "tt3874528",
+      "type": "series",
+      "name": "The Irregular at Magic High School: Visitor Arc",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112300-I5ucx66OvqWX.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3874528"
       }
     },
     {
@@ -230,7 +419,7 @@
       "type": "series",
       "name": "Our Last Crusade or the Rise of a New World",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112667-GYFeAlZ38mXK.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12331304"
       }
     },
@@ -239,7 +428,7 @@
       "type": "series",
       "name": "Sleepy Princess in the Demon Castle",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111428-uL8XLKQ4c09u.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12402550"
       }
     },
@@ -248,7 +437,7 @@
       "type": "series",
       "name": "By the Grace of the Gods",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115740-IRwSQo96Qs2Q.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12642654"
       }
     },
@@ -257,7 +446,7 @@
       "type": "series",
       "name": "Kuma Kuma Kuma Bear",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114340-9KovjbYWlNGa.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12415504"
       }
     },
@@ -266,7 +455,7 @@
       "type": "series",
       "name": "Golden Kamuy Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110355-yXOXm5tr8kgr.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8225204"
       }
     },
@@ -275,8 +464,17 @@
       "type": "series",
       "name": "Yashahime: Princess Half-Demon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118399-sgHg8NQVQixB.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12287748"
+      }
+    },
+    {
+      "id": "tt12792684",
+      "type": "series",
+      "name": "Love Live! Nijigasaki High School Idol Club",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113970-peyHsjypxse0.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt12792684"
       }
     },
     {
@@ -284,7 +482,7 @@
       "type": "series",
       "name": "Dragon Quest: The Adventure of Dai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114099-EMYJY0662vYE.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11858104"
       }
     }

@@ -5,8 +5,35 @@
       "type": "movie",
       "name": "Afro Samurai: Resurrection",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4970-RtaPhHFnrjpb.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1265998"
+      }
+    },
+    {
+      "id": "tt3009244",
+      "type": "movie",
+      "name": "Elemi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7718.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3009244"
+      }
+    },
+    {
+      "id": "tt0913354",
+      "type": "movie",
+      "name": "Armored Trooper Votoms: Pailsen Files",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7536.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0913354"
+      }
+    },
+    {
+      "id": "tt1183252",
+      "type": "movie",
+      "name": "Chocolate Underground the Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5238.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1183252"
       }
     },
     {
@@ -14,7 +41,7 @@
       "type": "movie",
       "name": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4565-FbFYEBTJSPyr.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1422651"
       }
     },
@@ -23,7 +50,7 @@
       "type": "movie",
       "name": "Eureka Seven: Good Night, Sleep Tight, Young Lovers",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4246-ASR4I3dIgA8p.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1414518"
       }
     },
@@ -31,8 +58,8 @@
       "id": "tt1343712",
       "type": "movie",
       "name": "First Squad: The Moment of Truth",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/5178.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5178.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1343712"
       }
     },
@@ -41,7 +68,7 @@
       "type": "movie",
       "name": "Evangelion: 2.0 You Can (Not) Advance",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3784-TGCsqLryKJ2R.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0860906"
       }
     },
@@ -50,7 +77,7 @@
       "type": "movie",
       "name": "Summer Wars",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5681-3DmxUVn3grD0.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1474276"
       }
     },
@@ -59,7 +86,7 @@
       "type": "movie",
       "name": "Redline",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6675-fFFoRB7FqNau.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1483797"
       }
     },
@@ -68,7 +95,7 @@
       "type": "movie",
       "name": "Mai-Mai Miracle",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5084-rm8FNL5yYOIv.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1517216"
       }
     },
@@ -77,7 +104,7 @@
       "type": "movie",
       "name": "Oblivion Island: Haruka and the Magic Mirror",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx5998-Ivtm7ENLXRKR.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1468322"
       }
     },
@@ -85,8 +112,8 @@
       "id": "tt1690483",
       "type": "movie",
       "name": "King of Thorn",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/6610.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6610.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1690483"
       }
     },
@@ -95,7 +122,7 @@
       "type": "movie",
       "name": "Tales of Vesperia: The First Strike",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6046-GtrSejqGl8fG.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1520392"
       }
     },
@@ -104,7 +131,7 @@
       "type": "movie",
       "name": "Professor Layton and the Eternal Diva",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6172-QzPeTGnv3cD7.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1488591"
       }
     },
@@ -113,8 +140,17 @@
       "type": "movie",
       "name": "Macross Frontier: The False Songstress",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5310-XvFJTkCobkvk.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1548563"
+      }
+    },
+    {
+      "id": "tt1477109",
+      "type": "movie",
+      "name": "Space Battleship Yamato Resurrection",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7144-7R8gYim1XPaC.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1477109"
       }
     }
   ]

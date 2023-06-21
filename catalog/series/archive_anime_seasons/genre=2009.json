@@ -5,17 +5,116 @@
       "type": "series",
       "name": "Natsume's Book of Friends 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5300-aQaHNUn5sQ9z.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1352421"
+      }
+    },
+    {
+      "id": "tt0481256",
+      "type": "series",
+      "name": "Fighting Spirit: New Challenger",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5258-Qn6GBiSY57iT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0481256"
+      }
+    },
+    {
+      "id": "tt0845738",
+      "type": "series",
+      "name": "When They Cry Rei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3652-Q9wylyMoNZBc.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0845738"
       }
     },
     {
       "id": "tt1356878",
       "type": "series",
       "name": "Hetalia Axis Powers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/5060.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5060.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1356878"
+      }
+    },
+    {
+      "id": "tt1279024",
+      "type": "series",
+      "name": "Toradora!: SOS! Hurray for Foodies",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6127-OFqTxnTmBOM2.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1279024"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black God",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5079-GGC5BR9xIiE0.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
+      }
+    },
+    {
+      "id": "tt0962826",
+      "type": "series",
+      "name": "Black Lagoon Omake",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n8440-Dha2nkfPGQBW.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0962826"
+      }
+    },
+    {
+      "id": "tt1308089",
+      "type": "series",
+      "name": "A Certain Magical Index Specials ",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5955.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1308089"
+      }
+    },
+    {
+      "id": "tt0488477",
+      "type": "series",
+      "name": "xxxHOLiC Shunmuki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4918.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0488477"
+      }
+    },
+    {
+      "id": "tt1655610",
+      "type": "series",
+      "name": "Baka and Test - Summon the Beasts: Christmas Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7805.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1655610"
+      }
+    },
+    {
+      "id": "tt0112166",
+      "type": "series",
+      "name": "The Slayers Evolution-R",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5233-k8mwLNWegjJ4.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0112166"
+      }
+    },
+    {
+      "id": "tt0115270",
+      "type": "series",
+      "name": "Millennium Old Journal: Tale of Genji",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5155-ukSvlhxCChRO.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0115270"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black God: Tiger and Wing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6794.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
       }
     },
     {
@@ -23,7 +122,7 @@
       "type": "series",
       "name": "Fullmetal Alchemist: Brotherhood",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1355642"
       }
     },
@@ -32,7 +131,7 @@
       "type": "series",
       "name": "K-ON!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5680-Xh6B67KuZ2PU.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1410218"
       }
     },
@@ -41,7 +140,7 @@
       "type": "series",
       "name": "The Melancholy of Haruhi Suzumiya (2009)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4382-kBhZ7fV6IFSI.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0816407"
       }
     },
@@ -50,25 +149,25 @@
       "type": "series",
       "name": "Dragon Ball Z Kai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6033-TKDWyjZN3dXk.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1409055"
       }
     },
     {
-      "id": "tt1409064",
+      "id": "tt1216222",
       "type": "series",
-      "name": "Saki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5671-Hpvvpl5cncbf.png",
-      "behaviourHints": {
-        "defaultVideoId": "tt1409064"
+      "name": "To LOVE-Ru OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5667.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1216222"
       }
     },
     {
       "id": "tt1674928",
       "type": "series",
       "name": "Beyblade: Metal Fusion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b5962-MhsmIFdv4J59.png",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5962-MhsmIFdv4J59.png",
+      "behaviorHints": {
         "defaultVideoId": "tt1674928"
       }
     },
@@ -77,7 +176,7 @@
       "type": "series",
       "name": "Queen's Blade: The Exiled Virgin",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4719-je2iLM7t0jsd.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1407599"
       }
     },
@@ -85,9 +184,27 @@
       "id": "tt1339238",
       "type": "series",
       "name": "Sekirei Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/5279.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5279.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1339238"
+      }
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin the 3rd Vs Detective Conan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6115.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2531336"
+      }
+    },
+    {
+      "id": "tt1276525",
+      "type": "series",
+      "name": "Chi's Sweet Home - Chi's New Address",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6024-eYiQMRfPfWiF.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1276525"
       }
     },
     {
@@ -95,7 +212,7 @@
       "type": "series",
       "name": "Mazinger Edition Z: The Impact!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5485-q6IvWwQZchGf.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1411817"
       }
     },
@@ -104,7 +221,7 @@
       "type": "series",
       "name": "Jewelpet",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6008-di6Irqm37I5s.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1642495"
       }
     },
@@ -113,17 +230,80 @@
       "type": "series",
       "name": "Bakemonogatari",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5081-mzWo8ZayqhES.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1480925"
+      }
+    },
+    {
+      "id": "tt1118804",
+      "type": "series",
+      "name": "Clannad: Another World, Kyou Chapter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6351.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1118804"
+      }
+    },
+    {
+      "id": "tt1355642",
+      "type": "series",
+      "name": "Fullmetal Alchemist: Brotherhood OVA Collection",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6421.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1355642"
+      }
+    },
+    {
+      "id": "tt1410218",
+      "type": "series",
+      "name": "K-ON! Season 1 Shorts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7017-RSDr6q8vwKf1.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1410218"
+      }
+    },
+    {
+      "id": "tt1355642",
+      "type": "series",
+      "name": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1355642"
+      }
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: Lelouch of the Rebellion R2 Special Edition Zero Requiem",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6768.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0994314"
+      }
+    },
+    {
+      "id": "tt0978215",
+      "type": "series",
+      "name": "Utawarerumono OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3593-lrUl1POvVtKT.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0978215"
       }
     },
     {
       "id": "tt1407599",
       "type": "series",
       "name": "Queen's Blade: The Exiled Virgin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/6704.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6704.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1407599"
+      }
+    },
+    {
+      "id": "tt0978215",
+      "type": "series",
+      "name": "Utawarerumono Picture Drama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6743.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0978215"
       }
     },
     {
@@ -131,7 +311,7 @@
       "type": "series",
       "name": "Fairy Tail",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6702-4cW6E5AqQqqB.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1528406"
       }
     },
@@ -140,7 +320,7 @@
       "type": "series",
       "name": "Kimi ni Todoke: From Me to You",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6045-txJOukR5Qve4.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1745240"
       }
     },
@@ -149,7 +329,7 @@
       "type": "series",
       "name": "A Certain Scientific Railgun",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6213-fhxlHtKji46D.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1515996"
       }
     },
@@ -158,8 +338,80 @@
       "type": "series",
       "name": "Heaven's Lost Property",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5958-qaAKEr4Q0JWn.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1528567"
+      }
+    },
+    {
+      "id": "tt0290223",
+      "type": "series",
+      "name": "InuYasha: The Final Act",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6811-DUsNLwQAOB7o.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0290223"
+      }
+    },
+    {
+      "id": "tt1316554",
+      "type": "series",
+      "name": "Black Butler: His Butler, Performer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6793-WJHPwa0ofanb.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1316554"
+      }
+    },
+    {
+      "id": "tt0972713",
+      "type": "series",
+      "name": "Shakugan no Shana S",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6572-bk3feyozmCZf.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0972713"
+      }
+    },
+    {
+      "id": "tt0988818",
+      "type": "series",
+      "name": "Gintama: Jump Festa 2008 Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6945.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0988818"
+      }
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "NARUTO: THE CROSS ROADS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7367.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0409591"
+      }
+    },
+    {
+      "id": "tt2934286",
+      "type": "series",
+      "name": "Halo Legends",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6867-CpE2hNtBSeh9.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2934286"
+      }
+    },
+    {
+      "id": "tt5240222",
+      "type": "series",
+      "name": "GOD EATER Prologue",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10470.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5240222"
+      }
+    },
+    {
+      "id": "tt0972713",
+      "type": "series",
+      "name": "Shakugan no Shana S Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7375.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0972713"
       }
     }
   ]

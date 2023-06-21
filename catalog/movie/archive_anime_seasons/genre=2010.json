@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "The Disappearance of Haruhi Suzumiya",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7311-2Qu6rQgl7Aqi.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1572781"
       }
     },
@@ -14,8 +14,17 @@
       "type": "movie",
       "name": "Gintama - The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7472-RveDgQsIZUNG.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1636780"
+      }
+    },
+    {
+      "id": "tt1715210",
+      "type": "movie",
+      "name": "Time of Eve: The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7465-gBh82FNppI9h.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1715210"
       }
     },
     {
@@ -23,7 +32,7 @@
       "type": "movie",
       "name": "Trigun: Badlands Rumble",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4106-hkczeGBjOzI6.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1703049"
       }
     },
@@ -32,16 +41,25 @@
       "type": "movie",
       "name": "The Secret World of Arrietty",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7711-IDDzqp6d3tQz.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1568921"
+      }
+    },
+    {
+      "id": "tt1677561",
+      "type": "movie",
+      "name": "Colorful ~ The Motion Picture",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8142-C8NvVbzJz7hN.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1677561"
       }
     },
     {
       "id": "tt1453967",
       "type": "movie",
       "name": "CJ7: The Cartoon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/9558.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9558.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1453967"
       }
     },
@@ -50,7 +68,7 @@
       "type": "movie",
       "name": "Bleach the Movie: Hell Verse",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8247-VppsQKlgXoXr.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1785394"
       }
     },
@@ -59,7 +77,7 @@
       "type": "movie",
       "name": "Mardock Scramble: The First Compression",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8100-ta0O3nZxySqe.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1754177"
       }
     },
@@ -68,7 +86,7 @@
       "type": "movie",
       "name": "Heart and Yummie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9204-3mUQHY46RZp7.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1734113"
       }
     }

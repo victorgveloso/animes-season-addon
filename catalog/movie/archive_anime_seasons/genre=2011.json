@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Children who Chase Lost Voices",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9760-Ur2uU0HuF1Iz.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1839494"
       }
     },
@@ -14,7 +14,7 @@
       "type": "movie",
       "name": "From Up on Poppy Hill",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10029-R7iZdjWuzeYq.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1798188"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "Naruto Shippuden the Movie: Blood Prison",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10589-VhXWWMm24Dso.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1999167"
       }
     },
@@ -32,7 +32,7 @@
       "type": "movie",
       "name": "Fullmetal Alchemist: The Sacred Star of Milos",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9135-nPvbvO7QCx7L.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1776196"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "A Letter to Momo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10389-NMYFKRxI1WwJ.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1853614"
       }
     },
@@ -49,8 +49,8 @@
       "id": "tt2005363",
       "type": "movie",
       "name": "Tekken: BLOOD VENGEANCE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/10702.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10702.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt2005363"
       }
     },
@@ -59,7 +59,7 @@
       "type": "movie",
       "name": "K-ON!: The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9617-2As22UxowVfV.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1909796"
       }
     },
@@ -68,7 +68,7 @@
       "type": "movie",
       "name": "The Princess and the Pilot",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9000-pjbZ6oEtUACO.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2113091"
       }
     },
@@ -77,7 +77,7 @@
       "type": "movie",
       "name": "Mardock Scramble: The Second Combustion",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10624-T1BA3M26ZfsE.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2048804"
       }
     }

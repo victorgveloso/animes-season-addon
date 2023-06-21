@@ -5,8 +5,17 @@
       "type": "movie",
       "name": "PSYCHO-PASS: The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20514-WhWrHdWWonsC.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4219130"
+      }
+    },
+    {
+      "id": "tt3569230",
+      "type": "movie",
+      "name": "Legend of a Rabbit: The Martial of Fire",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102233-OwqmOaMaWNpv.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3569230"
       }
     },
     {
@@ -14,17 +23,8 @@
       "type": "movie",
       "name": "Love Live! The School Idol Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20766-9A9Z6hawqdLe.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3837248"
-      }
-    },
-    {
-      "id": "tt5575408",
-      "type": "movie",
-      "name": "MUSHI-SHI Special: Bell Droplets",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21008-6sn1vYneDtPc.png",
-      "behaviourHints": {
-        "defaultVideoId": "tt5575408"
       }
     },
     {
@@ -32,7 +32,7 @@
       "type": "movie",
       "name": "Ghost in the Shell: The New Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4337072"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "Miss Hokusai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20709-3hRxtuoucQRI.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3689910"
       }
     },
@@ -50,7 +50,7 @@
       "type": "movie",
       "name": "The Boy and The Beast",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20981-D6PAJAOC4jPc.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4272866"
       }
     },
@@ -59,7 +59,7 @@
       "type": "movie",
       "name": "Boruto: Naruto the Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21220-3cWAUtR1Ih5h.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4618398"
       }
     },
@@ -68,7 +68,7 @@
       "type": "movie",
       "name": "The Anthem of the Heart",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20968-0zFVsoFUYjeh.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4489416"
       }
     },
@@ -77,7 +77,7 @@
       "type": "movie",
       "name": "Little Witch Academia: The Enchanted Parade",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19489-jOPAElIhmwmB.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4831682"
       }
     },
@@ -86,7 +86,7 @@
       "type": "movie",
       "name": "Girls und Panzer der Film",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18617-bzfsyLDahhm8.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5284414"
       }
     },
@@ -95,7 +95,7 @@
       "type": "movie",
       "name": "The Empire of Corpses",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20965-tf6Qs6viTyyg.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4235644"
       }
     },
@@ -104,8 +104,26 @@
       "type": "movie",
       "name": "Harmony",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20932-kw702YuhGeH5.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3615204"
+      }
+    },
+    {
+      "id": "tt6302160",
+      "type": "movie",
+      "name": "Pandora in the Crimson Shell: Ghost Urn",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21463-JfkwWZ145By6.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6302160"
+      }
+    },
+    {
+      "id": "tt2091478",
+      "type": "movie",
+      "name": "Air Bound",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104162-QZtzuccDKfpL.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2091478"
       }
     }
   ]

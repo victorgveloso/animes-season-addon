@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Berserk: The Golden Age Arc I - The Egg of the King",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10218-QJgUwiua9tB0.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2210479"
       }
     },
@@ -13,8 +13,8 @@
       "id": "tt1709652",
       "type": "movie",
       "name": "Dragon Age: Dawn of the Seeker",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/11705.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11705.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1709652"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "Wolf Children",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2140203"
       }
     },
@@ -31,8 +31,8 @@
       "id": "tt1941466",
       "type": "movie",
       "name": "BLOOD-C: The Last Dark",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b10681-uogOpLtvaUX2.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10681-uogOpLtvaUX2.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1941466"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "Road to Ninja: Naruto the Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13667-gAKuIXI2avRq.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2290828"
       }
     },
@@ -50,7 +50,7 @@
       "type": "movie",
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12113-cIF2NXNRX1iB.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2358911"
       }
     },
@@ -58,9 +58,18 @@
       "id": "tt2085930",
       "type": "movie",
       "name": "Starship Troopers: Invasion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/14629.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14629.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt2085930"
+      }
+    },
+    {
+      "id": "tt1799508",
+      "type": "movie",
+      "name": "After School Midnighters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13935-K4e8G5FdiCJa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1799508"
       }
     },
     {
@@ -68,7 +77,7 @@
       "type": "movie",
       "name": "Evangelion: 3.0 You Can (Not) Redo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3785-OG857YhQalvS.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0860907"
       }
     },
@@ -77,7 +86,7 @@
       "type": "movie",
       "name": "One Piece Film: Z",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12859-uQFENDPzMWz6.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2375379"
       }
     },
@@ -86,7 +95,7 @@
       "type": "movie",
       "name": "Blue Exorcist: The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11737-49ya7CBO5wEq.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3028018"
       }
     },
@@ -95,7 +104,7 @@
       "type": "movie",
       "name": "Psychic School Wars",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14293-LRBPqtAzGPrK.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2399537"
       }
     },
@@ -103,8 +112,8 @@
       "id": "tt2328505",
       "type": "movie",
       "name": "Asura",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/8475.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8475.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt2328505"
       }
     },
@@ -113,7 +122,7 @@
       "type": "movie",
       "name": "Resident Evil: Damnation",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9544-rD8dGcCuSW2s.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1753496"
       }
     },
@@ -122,7 +131,7 @@
       "type": "movie",
       "name": "009 Re:Cyborg",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11755-1iVlPw2ggApz.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2078523"
       }
     }

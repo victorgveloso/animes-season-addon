@@ -1,20 +1,38 @@
 {
   "metas": [
     {
+      "id": "tt1723816",
+      "type": "series",
+      "name": "GIRLS Bravo: second season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx487-6xYp38v7J5Ay.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1723816"
+      }
+    },
+    {
       "id": "tt1068993",
       "type": "series",
       "name": "School Days",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx756-XAbKbFaUTDiA.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1068993"
+      }
+    },
+    {
+      "id": "tt0374407",
+      "type": "series",
+      "name": "Mobile Suit Gundam Seed Destiny Final Plus: The Chosen Future",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1241.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0374407"
       }
     },
     {
       "id": "tt6487482",
       "type": "series",
       "name": "Insatiable",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/2137.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2137.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt6487482"
       }
     },
@@ -23,8 +41,17 @@
       "type": "series",
       "name": "Eureka Seven",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx237-P1YEQQFqZ1An.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0765491"
+      }
+    },
+    {
+      "id": "tt0480489",
+      "type": "series",
+      "name": "Elfen Lied: Just How Did the Young Girl Arrive at Those Feelings?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b376-BWSoURbn8HZR.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0480489"
       }
     },
     {
@@ -32,17 +59,89 @@
       "type": "series",
       "name": "Eyeshield 21",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15-A4F2t0TgWoi4.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0996695"
+      }
+    },
+    {
+      "id": "tt0959544",
+      "type": "series",
+      "name": "Elemental Gelade",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1250-pLME3wBHl6Yt.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0959544"
+      }
+    },
+    {
+      "id": "tt0421357",
+      "type": "series",
+      "name": "Fullmetal Alchemist: Reflections",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0421357"
       }
     },
     {
       "id": "tt0069576",
       "type": "series",
       "name": "Doraemon (2005)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/8687.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt0069576"
+      }
+    },
+    {
+      "id": "tt0214354",
+      "type": "series",
+      "name": "Zoids Genesis",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/712.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0214354"
+      }
+    },
+    {
+      "id": "tt5753856",
+      "type": "series",
+      "name": "Dark Love",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2841.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5753856"
+      }
+    },
+    {
+      "id": "tt0063962",
+      "type": "series",
+      "name": "UFO Ultramaiden Valkyrie 3: Bride of Celestial Souls' Day",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1514.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0063962"
+      }
+    },
+    {
+      "id": "tt0328739",
+      "type": "series",
+      "name": "Full Metal Panic! The Second Raid",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx73-UgXDGEMBPGle.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0328739"
+      }
+    },
+    {
+      "id": "tt0328739",
+      "type": "series",
+      "name": "Full Metal Panic! The Second Raid: Zenyasai - Scene 00",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6291-L4tafRNxmM44.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0328739"
+      }
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin III: Angel Tactics",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1414.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2531336"
       }
     },
     {
@@ -50,7 +149,7 @@
       "type": "series",
       "name": "MUSHI-SHI",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx457-Si9avlyStAXj.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0807832"
       }
     },
@@ -59,7 +158,7 @@
       "type": "series",
       "name": "Shakugan no Shana",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx355-tB52QB38leMs.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0972713"
       }
     },
@@ -68,7 +167,7 @@
       "type": "series",
       "name": "Hell Girl",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx228-J2J1CI4jfyeC.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0962740"
       }
     },
@@ -77,8 +176,89 @@
       "type": "series",
       "name": "Blood+",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150-YRcwKiJEXcLx.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0482855"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Cat",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx68-DKUkbrlNTPSy.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
+      }
+    },
+    {
+      "id": "tt0808082",
+      "type": "series",
+      "name": "Magical Girl Lyrical Nanoha A's",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx77-SwBCj7R1enWi.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0808082"
+      }
+    },
+    {
+      "id": "tt0988818",
+      "type": "series",
+      "name": "Gintama: Jump Festa 2005 Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2951-rl0US7OuMXbA.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0988818"
+      }
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2449-YZaDA9hyf7Ku.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2020.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt0162065",
+      "type": "series",
+      "name": "Angel Heart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/282.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0162065"
+      }
+    },
+    {
+      "id": "tt0367413",
+      "type": "series",
+      "name": "Sonic X: The Metarex Saga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129610-s1WG5PfQqyzq.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0367413"
+      }
+    },
+    {
+      "id": "tt11337908",
+      "type": "series",
+      "name": "Maid in Heaven",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2188.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt11337908"
+      }
+    },
+    {
+      "id": "tt0346314",
+      "type": "series",
+      "name": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10947.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0346314"
       }
     }
   ]

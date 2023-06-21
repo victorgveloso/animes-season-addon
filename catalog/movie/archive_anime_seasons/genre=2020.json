@@ -5,17 +5,17 @@
       "type": "movie",
       "name": "Made in Abyss: Dawn of the Deep Soul",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10068916"
       }
     },
     {
-      "id": "tt11151982",
+      "id": "tt11585560",
       "type": "movie",
-      "name": "GOBLIN SLAYER -GOBLIN’S CROWN-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108623-pREPeutedpc2.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt11151982"
+      "name": "The Island of Giant Insects Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107880-1gP8jcpVxh2v.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt11585560"
       }
     },
     {
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "Rebecca",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114945-YimcesTfneqf.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2235695"
       }
     },
@@ -32,7 +32,7 @@
       "type": "movie",
       "name": "A Whisker Away",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114963-QWMbi5ttovSK.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11958344"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "Digimon Adventure: Last Evolution Kizuna",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108260-2TAbERdThOZR.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9507234"
       }
     },
@@ -50,17 +50,8 @@
       "type": "movie",
       "name": "Violet Evergarden: the Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-LYIbLtN2Rb5T.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8652818"
-      }
-    },
-    {
-      "id": "tt8092118",
-      "type": "movie",
-      "name": "Fate/stay night [Heaven’s Feel] III. spring song",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21719-PKVm9R01Fu1k.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt8092118"
       }
     },
     {
@@ -68,8 +59,17 @@
       "type": "movie",
       "name": "Attack on Titan ~Chronicle~",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119113-IzVI5oZ0og8O.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12415546"
+      }
+    },
+    {
+      "id": "tt11032374",
+      "type": "movie",
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt11032374"
       }
     },
     {
@@ -77,7 +77,7 @@
       "type": "movie",
       "name": "Josee, the Tiger and the Fish",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113596-LKA0bYJGjLnB.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12879624"
       }
     },
@@ -86,7 +86,7 @@
       "type": "movie",
       "name": "STAND BY ME Doraemon 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122575-ONoFsuxiBlcI.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13428402"
       }
     }

@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Origin: Spirits of the Past",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1140-5SWhZ6CkGCZw.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0493247"
       }
     },
@@ -14,7 +14,7 @@
       "type": "movie",
       "name": "The Girl Who Leapt Through Time",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2236-SZf9JYAQ3pyc.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0808506"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "Tales from Earthsea",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1829-DqhBRfDU7n6D.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0495596"
       }
     },
@@ -31,8 +31,8 @@
       "id": "tt0778631",
       "type": "movie",
       "name": "Brave Story",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b1681-G12LPkws93Ub.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1681-G12LPkws93Ub.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt0778631"
       }
     },
@@ -40,8 +40,8 @@
       "id": "tt0851578",
       "type": "movie",
       "name": "Paprika",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b1943-YyEsHWhYKukN.png",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1943-YyEsHWhYKukN.png",
+      "behaviorHints": {
         "defaultVideoId": "tt0851578"
       }
     },
@@ -50,7 +50,7 @@
       "type": "movie",
       "name": "Tekkonkinkreet",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2154-R7xZo22O9FjK.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0831888"
       }
     }

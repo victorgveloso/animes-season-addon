@@ -1,21 +1,30 @@
 {
   "metas": [
     {
-      "id": "tt2176165",
-      "type": "series",
-      "name": "Another",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11111-Y4QgkX8gJQCa.png",
-      "behaviourHints": {
-        "defaultVideoId": "tt2176165"
-      }
-    },
-    {
       "id": "tt2230051",
       "type": "series",
       "name": "High School DxD",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2230051"
+      }
+    },
+    {
+      "id": "tt1910272",
+      "type": "series",
+      "name": "Steins;Gate: Egoistic Poriomania",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10863-V6oW2kN8bBYf.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1910272"
+      }
+    },
+    {
+      "id": "tt0978553",
+      "type": "series",
+      "name": "The Familiar of Zero F",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11319-6PwRxZiVChQo.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0978553"
       }
     },
     {
@@ -23,8 +32,35 @@
       "type": "series",
       "name": "Natsume's Book of Friends 4",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11665-nfbt94cwKySE.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1352421"
+      }
+    },
+    {
+      "id": "tt1685397",
+      "type": "series",
+      "name": "Amagami SS+ plus",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11235-feAiunvtvMdq.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1685397"
+      }
+    },
+    {
+      "id": "tt2069441",
+      "type": "series",
+      "name": "The Future Diary: Ura Mirai Nikki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12503.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2069441"
+      }
+    },
+    {
+      "id": "tt0972713",
+      "type": "series",
+      "name": "Shakugan no Shana III (Final) Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12823.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0972713"
       }
     },
     {
@@ -32,7 +68,7 @@
       "type": "series",
       "name": "Hyouka",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12189-eBb6fcM21Zh7.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2340841"
       }
     },
@@ -41,7 +77,7 @@
       "type": "series",
       "name": "Kuroko's Basketball",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11771-ScM6Hde1NYrd.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2348803"
       }
     },
@@ -50,8 +86,107 @@
       "type": "series",
       "name": "Fate/Zero Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11741-Twb6iJx77FFV.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2051178"
+      }
+    },
+    {
+      "id": "tt2341379",
+      "type": "series",
+      "name": "Sankarea: Undying Love",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11499-SeYog5nP4Uks.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2341379"
+      }
+    },
+    {
+      "id": "tt2230051",
+      "type": "series",
+      "name": "High School DxD: Fantasy Jiggles Unleashed",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13357.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2230051"
+      }
+    },
+    {
+      "id": "tt0159175",
+      "type": "series",
+      "name": "Lupin the Third: The Woman Called Fujiko Mine",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13203-tvOacIQg2xfj.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0159175"
+      }
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "name": "NARUTO Spin-Off: Rock Lee & His Ninja Pals",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12979-ToE4ShcCGngP.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0409591"
+      }
+    },
+    {
+      "id": "tt0765491",
+      "type": "series",
+      "name": "Eureka Seven AO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12471-XFE6k5eDGhOt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0765491"
+      }
+    },
+    {
+      "id": "tt7335184",
+      "type": "series",
+      "name": "You and Me 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11739-k9NkeTvzdwMD.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7335184"
+      }
+    },
+    {
+      "id": "tt2189248",
+      "type": "series",
+      "name": "Inazuma Eleven GO: Chrono Stone",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13261-ONMwQFlAEKqO.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2189248"
+      }
+    },
+    {
+      "id": "tt2051178",
+      "type": "series",
+      "name": "Fate/Zero: Please! Einzbern Counseling Room",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13263-TtCqlSFIpfrM.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2051178"
+      }
+    },
+    {
+      "id": "tt1424037",
+      "type": "series",
+      "name": "Kenichi: The Mightiest Disciple OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11813.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1424037"
+      }
+    },
+    {
+      "id": "tt1685397",
+      "type": "series",
+      "name": "Amagami SS+ plus Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12669-YhoBBg5SRGzr.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1685397"
+      }
+    },
+    {
+      "id": "tt2549176",
+      "type": "series",
+      "name": "Cardfight!! Vanguard Asia Circuit",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13145-iJxgTIJqNk4X.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2549176"
       }
     },
     {
@@ -59,7 +194,7 @@
       "type": "series",
       "name": "Sword Art Online",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2250192"
       }
     },
@@ -68,8 +203,26 @@
       "type": "series",
       "name": "Aesthetica of a Rogue Hero",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13161-m4znwxInGXfd.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2269368"
+      }
+    },
+    {
+      "id": "tt2230051",
+      "type": "series",
+      "name": "High School DxD OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12729.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2230051"
+      }
+    },
+    {
+      "id": "tt2340841",
+      "type": "series",
+      "name": "Hyouka: What Should Be Had",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13469-bbRQoSUgmf4T.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2340841"
       }
     },
     {
@@ -77,8 +230,17 @@
       "type": "series",
       "name": "Kingdom",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12031-1nVQa5nXPt48.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2404499"
+      }
+    },
+    {
+      "id": "tt1216222",
+      "type": "series",
+      "name": "To LOVE-Ru Darkness OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13851.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1216222"
       }
     },
     {
@@ -86,8 +248,53 @@
       "type": "series",
       "name": "Sankarea (OVA)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13055-IckRpUES0oDD.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2341379"
+      }
+    },
+    {
+      "id": "tt0318224",
+      "type": "series",
+      "name": "Horizon in the Middle of Nowhere II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12487-oCAnVYvqngdj.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0318224"
+      }
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "name": "Code Geass: Nunnally in Wonderland",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12685-IfZqKrKbkb1p.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0994314"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "ONE PIECE: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt2348803",
+      "type": "series",
+      "name": "Kuroko's Basketball Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15487.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2348803"
+      }
+    },
+    {
+      "id": "tt7949218",
+      "type": "series",
+      "name": "See Me After Class",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12581-zuxlLTXGltfU.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7949218"
       }
     },
     {
@@ -95,7 +302,7 @@
       "type": "series",
       "name": "JoJo's Bizarre Adventure (TV)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14719-XFOPewvDtDdA.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2359704"
       }
     },
@@ -104,7 +311,7 @@
       "type": "series",
       "name": "PSYCHO-PASS",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13601-tgjUlf4eQOyx.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2379308"
       }
     },
@@ -113,7 +320,7 @@
       "type": "series",
       "name": "Love, Chunibyo & Other Delusions",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14741-alxqoP4yx6WF.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2321542"
       }
     },
@@ -122,8 +329,17 @@
       "type": "series",
       "name": "Magi: The Labyrinth of Magic",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14513-b4C3J03GF6UT.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2425098"
+      }
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "From the New World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13125-NdLjbmyHmoAD.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt9813792"
       }
     },
     {
@@ -131,7 +347,7 @@
       "type": "series",
       "name": "Gintama Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15417-Uc2uNdWEixwi.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0988818"
       }
     },
@@ -140,8 +356,35 @@
       "type": "series",
       "name": "Girls und Panzer",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14131-vw0RvpxofyBw.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2294076"
+      }
+    },
+    {
+      "id": "tt1216222",
+      "type": "series",
+      "name": "To Love Ru Darkness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13663-kpsCFSRAutWM.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1216222"
+      }
+    },
+    {
+      "id": "tt2321542",
+      "type": "series",
+      "name": "Love, Chunibyo & Other Delusions Lite",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15687-KK6DHoXp1F0S.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2321542"
+      }
+    },
+    {
+      "id": "tt2341379",
+      "type": "series",
+      "name": "Sankarea: I, Too, Am... A Zombie...",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16694.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2341379"
       }
     },
     {
@@ -149,8 +392,35 @@
       "type": "series",
       "name": "Aikatsu!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15061-LmFVCPOmUBaE.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2398674"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece: Episode of Luffy - Hand Island Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16239-XzoVjd7JK8xJ.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt2269368",
+      "type": "series",
+      "name": "Aesthetica of a Rogue Hero Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15729.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2269368"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "ONE PIECE FILM: Z - GLORIOUS ISLAND",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16468-pMKFwfY8lYZX.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
       }
     }
   ]

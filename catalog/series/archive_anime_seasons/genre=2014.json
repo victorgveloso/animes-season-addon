@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Noragami",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3225270"
       }
     },
@@ -14,8 +14,26 @@
       "type": "series",
       "name": "Nisekoi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18897-G2Fx2ZACsXBU.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3115338"
+      }
+    },
+    {
+      "id": "tt2321542",
+      "type": "series",
+      "name": "Love, Chunibyo & Other Delusions - Heart Throb -",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18671-RVIY9TGd737H.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2321542"
+      }
+    },
+    {
+      "id": "tt3225270",
+      "type": "series",
+      "name": "Noragami OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20494-HllvnQ1mRIxe.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3225270"
       }
     },
     {
@@ -23,17 +41,62 @@
       "type": "series",
       "name": "Seitokai Yakuindomo Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20448-nJph1HFaaL2u.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1694038"
+      }
+    },
+    {
+      "id": "tt0807832",
+      "type": "series",
+      "name": "MUSHI-SHI OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20526-PmuD69J3rkDF.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0807832"
       }
     },
     {
       "id": "tt3692198",
       "type": "series",
       "name": "Maken-Ki! Battling Venus 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b15565-2nDrmF9RMTwP.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b15565-2nDrmF9RMTwP.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt3692198"
+      }
+    },
+    {
+      "id": "tt2321542",
+      "type": "series",
+      "name": "Love, Chunibyo & Other Delusions - Heart Throb - Lite",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20582-hCXj33Fmk07M.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2321542"
+      }
+    },
+    {
+      "id": "tt1352421",
+      "type": "series",
+      "name": "Natsume's Book of Friends OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20478-CLBOf5ao3dWK.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1352421"
+      }
+    },
+    {
+      "id": "tt2321542",
+      "type": "series",
+      "name": "Love, Chunibyo, & Other Delusions! Rikka Version Lite",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20660.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2321542"
+      }
+    },
+    {
+      "id": "tt1515996",
+      "type": "series",
+      "name": "A Certain Scientific Railgun S: All the Important Things I Learned in a Bathhouse",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20686-2lSy4I84cUDJ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1515996"
       }
     },
     {
@@ -41,7 +104,7 @@
       "type": "series",
       "name": "HAIKYU!!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3398540"
       }
     },
@@ -50,8 +113,17 @@
       "type": "series",
       "name": "No Game, No Life",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19815-bIo51RMWWhLv.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3431758"
+      }
+    },
+    {
+      "id": "tt2359704",
+      "type": "series",
+      "name": "JoJo's Bizarre Adventure: Stardust Crusaders",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20474-0VwWX4bKJkb1.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2359704"
       }
     },
     {
@@ -59,8 +131,44 @@
       "type": "series",
       "name": "The Irregular at Magic High School",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20458-tGh343Ew10yU.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3874528"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Bullet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20457-4zieOshU5zw9.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
+      }
+    },
+    {
+      "id": "tt1528406",
+      "type": "series",
+      "name": "Fairy Tail Series 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20626-9LTreIofBgnu.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1528406"
+      }
+    },
+    {
+      "id": "tt2575684",
+      "type": "series",
+      "name": "Date A Live II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19163-eHXj3mNRaOXt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2575684"
+      }
+    },
+    {
+      "id": "tt0807832",
+      "type": "series",
+      "name": "MUSHI-SHI The Next Passage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20595-dXPvrTNRKFUb.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0807832"
       }
     },
     {
@@ -68,8 +176,35 @@
       "type": "series",
       "name": "Dragon Ball Z Kai: The Final Chapters",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20635-gUYy4KZfYRb0.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1409055"
+      }
+    },
+    {
+      "id": "tt1214085",
+      "type": "series",
+      "name": "Soul Eater Not!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20547-iQYpCwyOqDam.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1214085"
+      }
+    },
+    {
+      "id": "tt1694038",
+      "type": "series",
+      "name": "Seitokai Yakuindomo Season 2 OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20826.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1694038"
+      }
+    },
+    {
+      "id": "tt2321542",
+      "type": "series",
+      "name": "Love, Chunibyo & Other Delusions - Heart Throb - Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20777-uny0JSfH2D5C.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2321542"
       }
     },
     {
@@ -77,7 +212,7 @@
       "type": "series",
       "name": "Yu-Gi-Oh! ARC-V",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20552-okhejNP9Sj94.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3696476"
       }
     },
@@ -86,7 +221,7 @@
       "type": "series",
       "name": "Tokyo Ghoul",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3741634"
       }
     },
@@ -95,8 +230,53 @@
       "type": "series",
       "name": "Akame ga Kill!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-4VGGPacciJBL.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3742982"
+      }
+    },
+    {
+      "id": "tt2250192",
+      "type": "series",
+      "name": "Sword Art Online II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2250192"
+      }
+    },
+    {
+      "id": "tt1316554",
+      "type": "series",
+      "name": "Black Butler: Book of Circus",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20606-58LzabjtVrwt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1316554"
+      }
+    },
+    {
+      "id": "tt3114390",
+      "type": "series",
+      "name": "Kill la Kill: GOODBYE AGAIN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20572-5FwydswMqrzP.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3114390"
+      }
+    },
+    {
+      "id": "tt3431758",
+      "type": "series",
+      "name": "No Game No Life Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20769-yn9crl5jlupz.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3431758"
+      }
+    },
+    {
+      "id": "tt2321542",
+      "type": "series",
+      "name": "Love, Chunibyo & Other Delusions - Heart Throb -: The Rikka Wars/ Apocalypse of the Wicked Lord Shingan Reborn",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20889.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2321542"
       }
     },
     {
@@ -104,8 +284,44 @@
       "type": "series",
       "name": "Sailor Moon Crystal",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14751-ifQbdvyIg9Er.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3124992"
+      }
+    },
+    {
+      "id": "tt0807832",
+      "type": "series",
+      "name": "MUSHI-SHI The Next Passage Special - Path of Thorns",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20752-P5EpEJXWGroz.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0807832"
+      }
+    },
+    {
+      "id": "tt3114358",
+      "type": "series",
+      "name": "Non Non Biyori: Okinawa e Ikukoto ni Natta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20497-pVKkeqqNWhDs.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3114358"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece 3D2Y: Overcome Ace’s Death! Luffy’s Vow to his Friends",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20835-kYzoAyPelQXi.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt2294076",
+      "type": "series",
+      "name": "Girls und Panzer: This is the Real Anzio Battle!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18619-HLJObts9x0rp.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2294076"
       }
     },
     {
@@ -113,7 +329,7 @@
       "type": "series",
       "name": "Your lie in April",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-CnzR2zVpdxtR.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3895150"
       }
     },
@@ -122,7 +338,7 @@
       "type": "series",
       "name": "Parasyte -the maxim-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-rVoHgF3Apo7P.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3358020"
       }
     },
@@ -131,7 +347,7 @@
       "type": "series",
       "name": "Fate/stay night: Unlimited Blade Works",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19603-pc0lrFinBpTg.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3621796"
       }
     },
@@ -140,7 +356,7 @@
       "type": "series",
       "name": "Yona of the Dawn",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20770-brCDvhTXlums.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3957196"
       }
     },
@@ -149,7 +365,7 @@
       "type": "series",
       "name": "TRINITY SEVEN",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20631-LdCiy3goitcT.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3532752"
       }
     },
@@ -158,7 +374,7 @@
       "type": "series",
       "name": "PSYCHO-PASS 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20513-pVQqYhMwBGoh.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2379308"
       }
     },
@@ -167,7 +383,7 @@
       "type": "series",
       "name": "The Fruit of Grisaia",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17729-Xhgile3kCpqB.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3909210"
       }
     },
@@ -176,7 +392,7 @@
       "type": "series",
       "name": "Log Horizon 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20671-ZpNJQ5RixVIq.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2942218"
       }
     },
@@ -185,8 +401,26 @@
       "type": "series",
       "name": "World Trigger",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20729-DnBXnUxFon1B.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3950102"
+      }
+    },
+    {
+      "id": "tt0807832",
+      "type": "series",
+      "name": "MUSHI-SHI The Next Passage 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20751-O3XJ9u30y7Qj.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0807832"
+      }
+    },
+    {
+      "id": "tt2575684",
+      "type": "series",
+      "name": "Date A Live II: Kurumi Star Festival",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20767-kvu80j0CZx7C.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2575684"
       }
     },
     {
@@ -194,7 +428,7 @@
       "type": "series",
       "name": "Cross Ange: Rondo of Angel and Dragon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20806-TFTl8bavYzvc.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3957232"
       }
     },
@@ -203,8 +437,62 @@
       "type": "series",
       "name": "Terra Formars",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20629-xO8wxKYeXncc.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3894916"
+      }
+    },
+    {
+      "id": "tt1316554",
+      "type": "series",
+      "name": "Black Butler: Book of Murder",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20670-3B1bxzAp0AUr.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1316554"
+      }
+    },
+    {
+      "id": "tt3115338",
+      "type": "series",
+      "name": "Nisekoi OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20728-gBiGaxCy0HF2.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3115338"
+      }
+    },
+    {
+      "id": "tt3398540",
+      "type": "series",
+      "name": "HAIKYU!!: Lev Appears!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3398540"
+      }
+    },
+    {
+      "id": "tt1910272",
+      "type": "series",
+      "name": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20907-Pl4YwH8RopKT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1910272"
+      }
+    },
+    {
+      "id": "tt3837246",
+      "type": "series",
+      "name": "Assassination Classroom: Meeting Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21303-5CEsFSm56CyH.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3837246"
+      }
+    },
+    {
+      "id": "tt2942228",
+      "type": "series",
+      "name": "Yowamushi Pedal: Grande Road",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20723-b079x2UcOZnZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2942228"
       }
     },
     {
@@ -212,7 +500,7 @@
       "type": "series",
       "name": "Alice in Borderland",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20952-nDvmOvA3qDJ2.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10795658"
       }
     }

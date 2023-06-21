@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Hunter x Hunter: Phantom Rouge",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13271-jBxQFqHCpb2K.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2918988"
       }
     },
@@ -13,8 +13,8 @@
       "id": "tt2358913",
       "type": "movie",
       "name": "Berserk: The Golden Age Arc III - The Advent",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b12115-a0apheImsQ4G.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12115-a0apheImsQ4G.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt2358913"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "The Garden of Words",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16782-1AekGIzlPy8a.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2591814"
       }
     },
@@ -31,8 +31,8 @@
       "id": "tt2263944",
       "type": "movie",
       "name": "Dragon Ball Z: Battle of Gods",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/14837.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14837.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt2263944"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "Hal",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16528-OJw9bSijOh68.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2573198"
       }
     },
@@ -50,7 +50,7 @@
       "type": "movie",
       "name": "The Wind Rises",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16662-6rqh55mNFY3n.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2013293"
       }
     },
@@ -59,7 +59,7 @@
       "type": "movie",
       "name": "Ghost in the Shell: Arise - Border:1 Ghost Pain",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17187-d1NyuScaQ3Ou.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2636124"
       }
     },
@@ -68,7 +68,7 @@
       "type": "movie",
       "name": "Patema Inverted",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12477-KtZm8BuvrPYo.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2981768"
       }
     },
@@ -76,8 +76,8 @@
       "id": "tt2576852",
       "type": "movie",
       "name": "The Tale of The Princess Kaguya",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/16664-Wakrc8rbBkor.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16664-Wakrc8rbBkor.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt2576852"
       }
     },
@@ -86,7 +86,7 @@
       "type": "movie",
       "name": "Hunter x Hunter: The Last Mission",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19951-kouyrYvcEyGP.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3198698"
       }
     },
@@ -94,8 +94,8 @@
       "id": "tt3198652",
       "type": "movie",
       "name": "Persona 3 the Movie: #1 Spring of Birth",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b14407-g4bdtBzded5a.png",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14407-g4bdtBzded5a.png",
+      "behaviorHints": {
         "defaultVideoId": "tt3198652"
       }
     },
@@ -104,8 +104,17 @@
       "type": "movie",
       "name": "Harlock: Space Pirate",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17269-PTlucMYOYZWn.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt2668134"
+      }
+    },
+    {
+      "id": "tt0862748",
+      "type": "movie",
+      "name": "Lupin the 3rd Vs Detective Conan: The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18429-vJz2zjLRRve8.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0862748"
       }
     }
   ]

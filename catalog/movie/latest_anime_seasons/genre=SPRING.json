@@ -4,9 +4,81 @@
       "id": "tt22868844",
       "type": "movie",
       "name": "Black Clover: Sword of the Wizard King",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131680-gjs8mMQPmkOQ.png",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-gjs8mMQPmkOQ.png",
       "behaviorHints": {
         "defaultVideoId": "tt22868844"
+      }
+    },
+    {
+      "id": "tt27348312",
+      "type": "movie",
+      "name": "Rascal Does Not Dream of a Sister Venturing Out",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154967-4bPwQap8SN1q.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27348312"
+      }
+    },
+    {
+      "id": "tt26224944",
+      "type": "movie",
+      "name": "PSYCHO-PASS: Providence",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153687-xB2x4toOz5MB.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt26224944"
+      }
+    },
+    {
+      "id": "tt16418362",
+      "type": "movie",
+      "name": "GRIDMAN UNIVERSE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142684-Ce7iZaaqO35y.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt16418362"
+      }
+    },
+    {
+      "id": "tt23638846",
+      "type": "movie",
+      "name": "Princess Principal: Crown Handler - Chapter 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137612-O5DYroQX6Tv5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt23638846"
+      }
+    },
+    {
+      "id": "tt19861160",
+      "type": "movie",
+      "name": "Bishoujo Senshi Sailor Moon: Cosmos - Zenpen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148149-Cy6zl4mBNbGy.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt19861160"
+      }
+    },
+    {
+      "id": "tt24076348",
+      "type": "movie",
+      "name": "Feast of Amrita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114606-MG1CPOyx0ONH.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt24076348"
+      }
+    },
+    {
+      "id": "tt19047064",
+      "type": "movie",
+      "name": "Rakudai Majo: Fuuka to Yami no Majo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140173-lQdG4Ci8aC9G.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt19047064"
+      }
+    },
+    {
+      "id": "tt27892601",
+      "type": "movie",
+      "name": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161440-V9Uzs9dw0BBb.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27892601"
       }
     }
   ]

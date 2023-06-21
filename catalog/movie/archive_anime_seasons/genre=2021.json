@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Mobile Suit Gundam Hathaway",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105595-40ugr6S9NfOb.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13288678"
       }
     },
@@ -14,7 +14,7 @@
       "type": "movie",
       "name": "Fortune Favors Lady Nikuko",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127958-AxJzNaz3tFqO.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13758684"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "My Hero Academia: World Heroes' Mission",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13544716"
       }
     },
@@ -32,7 +32,7 @@
       "type": "movie",
       "name": "Words Bubble Up Like Soda Pop",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107625-2UIAI4TRwXz0.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt12735338"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "BELLE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127271-juJIu4WFTM8q.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13651628"
       }
     },
@@ -50,8 +50,26 @@
       "type": "movie",
       "name": "The Seven Deadly Sins: Cursed by Light",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128740-xpjfCO2kpFdz.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13884144"
+      }
+    },
+    {
+      "id": "tt11703050",
+      "type": "movie",
+      "name": "The House of the Lost on the Cape",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125838-QEkGEEIA3xfC.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt11703050"
+      }
+    },
+    {
+      "id": "tt17048330",
+      "type": "movie",
+      "name": "Polar Bear Bears Boredom",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143380-QvoRtZILOgBZ.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt17048330"
       }
     },
     {
@@ -59,7 +77,7 @@
       "type": "movie",
       "name": "JUJUTSU KAISEN 0",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt14331144"
       }
     },
@@ -68,7 +86,7 @@
       "type": "movie",
       "name": "Sing a Bit of Harmony",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123899-AimlRWzAqpHC.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13064272"
       }
     },
@@ -77,7 +95,7 @@
       "type": "movie",
       "name": "Child of Kamiari Month",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118390-PEZaKViELb9y.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13057626"
       }
     }

@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Maquia: When the Promised Flower Blooms",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99457-PFq5dreQabIu.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt7339826"
       }
     },
@@ -14,7 +14,7 @@
       "type": "movie",
       "name": "Bungo Stray Dogs: DEAD APPLE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8391976"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "Attack on Titan: The Roar of Awakening",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100465-ivKS0RqXg5dI.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt7941892"
       }
     },
@@ -32,7 +32,7 @@
       "type": "movie",
       "name": "Mazinger Z: INFINITY",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98516-VvOfjUvuoV39.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt6470762"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "Doraemon: Nobita no Takarajima",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99084-wbdkDmvL1edJ.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8098546"
       }
     },
@@ -50,7 +50,7 @@
       "type": "movie",
       "name": "Liz and the Blue Bird",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100178-ezSKfxtNoGVs.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt7089878"
       }
     },
@@ -58,8 +58,8 @@
       "id": "tt7451284",
       "type": "movie",
       "name": "Batman Ninja",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b100248-SFN3cl5cmI9O.png",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100248-SFN3cl5cmI9O.png",
+      "behaviorHints": {
         "defaultVideoId": "tt7451284"
       }
     },
@@ -68,7 +68,7 @@
       "type": "movie",
       "name": "Godzilla: City on the Edge of Battle",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100561-UfF71wKjNiZ3.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8015080"
       }
     },
@@ -77,7 +77,7 @@
       "type": "movie",
       "name": "I Want to Eat Your Pancreas",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-NHafozHS8zRp.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt7236034"
       }
     },
@@ -86,7 +86,7 @@
       "type": "movie",
       "name": "My Hero Academia: Two Heroes",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt7745068"
       }
     },
@@ -95,7 +95,7 @@
       "type": "movie",
       "name": "Mirai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100749-7Tptl7EAMAWH.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt6900448"
       }
     },
@@ -104,8 +104,17 @@
       "type": "movie",
       "name": "Penguin Highway",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101249-NafhTVQfsxmC.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8076344"
+      }
+    },
+    {
+      "id": "tt8223844",
+      "type": "movie",
+      "name": "Modest Heroes: Ponoc Short Films Theatre, Volume 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103887-aopAwhEi716k.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8223844"
       }
     },
     {
@@ -113,7 +122,7 @@
       "type": "movie",
       "name": "Okko's Inn",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101478-bo3xR8x2pc3i.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8328740"
       }
     },
@@ -122,7 +131,7 @@
       "type": "movie",
       "name": "Dragon Ball Super: Broly",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt7961060"
       }
     },
@@ -131,7 +140,7 @@
       "type": "movie",
       "name": "Godzilla: The Planet Eater",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102353-CDQ0v6R8dgJ8.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8478602"
       }
     },
@@ -140,8 +149,17 @@
       "type": "movie",
       "name": "HUGtto! Precure ♡ Futari wa Precure All Stars Memories",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101908-jfqfDd92ZQEi.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9230958"
+      }
+    },
+    {
+      "id": "tt2850272",
+      "type": "movie",
+      "name": "Monster Strike The Movie: Sora no Kanata",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101926-Zs0l9fNn4hjq.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2850272"
       }
     }
   ]

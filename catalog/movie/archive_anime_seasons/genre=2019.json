@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Fate/stay night [Heaven's Feel] II. lost butterfly",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21718-Hjj26Sapx1bd.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8091892"
       }
     },
@@ -14,7 +14,7 @@
       "type": "movie",
       "name": "Code Geass: Lelouch of the Re;surrection",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97880-sZWHViJfrvXm.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt6344664"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "Saga of Tanya the Evil - the Movie -",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100878-npKVJvggmK6a.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9507276"
       }
     },
@@ -32,7 +32,7 @@
       "type": "movie",
       "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101166-aF8tzfuui6Bp.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9526152"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "Made in Abyss: Wandering Twilight",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101344-NbEG3Ryria9S.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10068544"
       }
     },
@@ -50,7 +50,7 @@
       "type": "movie",
       "name": "Made in Abyss: Journey's Dawn",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101343-E9fMMi4b8fsL.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10068158"
       }
     },
@@ -59,7 +59,7 @@
       "type": "movie",
       "name": "The Relative Worlds",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104562-7qQr6Zcg6dhY.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9648078"
       }
     },
@@ -68,7 +68,7 @@
       "type": "movie",
       "name": "City Hunter: Shinjuku Private Eyes",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101345-lHRKxtalYUm4.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8161914"
       }
     },
@@ -77,7 +77,7 @@
       "type": "movie",
       "name": "Rascal Does Not Dream of a Dreaming Girl",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104157-rk99XI56PaIC.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10472884"
       }
     },
@@ -86,7 +86,7 @@
       "type": "movie",
       "name": "Promare",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99425-6xPtmOpBnlLY.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9116358"
       }
     },
@@ -95,7 +95,7 @@
       "type": "movie",
       "name": "Ride Your Wave",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105018-XM7rFyryltjb.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9193612"
       }
     },
@@ -104,7 +104,7 @@
       "type": "movie",
       "name": "Children of the Sea",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103221-Ol5OyQ8fbTqH.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9850064"
       }
     },
@@ -113,7 +113,7 @@
       "type": "movie",
       "name": "Kabaneri of the Iron Fortress: The Battle of Unato",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97918-doqeSVPqAPQU.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10253816"
       }
     },
@@ -122,7 +122,7 @@
       "type": "movie",
       "name": "The Wonderland",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107012-0WAuOIbIlLVh.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9563632"
       }
     },
@@ -131,7 +131,7 @@
       "type": "movie",
       "name": "Weathering With You",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9426210"
       }
     },
@@ -140,7 +140,7 @@
       "type": "movie",
       "name": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-WcNjDFdQbdCv.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9239552"
       }
     },
@@ -149,7 +149,7 @@
       "type": "movie",
       "name": "Violet Evergarden: Eternity and the Auto Memory Doll",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10477558"
       }
     },
@@ -158,7 +158,7 @@
       "type": "movie",
       "name": "HELLO WORLD",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106240-XeWQ4YhKzv7h.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9418812"
       }
     },
@@ -167,7 +167,7 @@
       "type": "movie",
       "name": "One Piece: Stampede",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105143-5uBDmhvMr6At.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9430698"
       }
     },
@@ -176,7 +176,7 @@
       "type": "movie",
       "name": "NiNoKuni",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107727-OZLbxfScJyYE.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt9760504"
       }
     },
@@ -185,7 +185,7 @@
       "type": "movie",
       "name": "Dragon Quest: Your Story",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107905-qQMO9VYh4TqY.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10127562"
       }
     },
@@ -194,7 +194,7 @@
       "type": "movie",
       "name": "My Hero Academia: Heroes Rising",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt11107074"
       }
     },
@@ -203,7 +203,7 @@
       "type": "movie",
       "name": "Her Blue Sky",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108577-plhp2UMSmEhk.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10981202"
       }
     },
@@ -212,7 +212,7 @@
       "type": "movie",
       "name": "BLACKFOX",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101317-WZpZb6FNXF29.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt8816016"
       }
     },
@@ -221,7 +221,7 @@
       "type": "movie",
       "name": "Lupin III: The First",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110413-0KLlv2NsuSyI.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt10621032"
       }
     }

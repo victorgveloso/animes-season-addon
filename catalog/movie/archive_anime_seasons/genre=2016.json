@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Kizumonogatari Part 1: Tekketsu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9260-tbZARfVq8JoX.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt3138698"
       }
     },
@@ -14,7 +14,7 @@
       "type": "movie",
       "name": "Yu-Gi-Oh!: The Dark Side of Dimensions",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21265-KN6KhEtx81wc.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt4273562"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "GARO: Divine Flame",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21426-VXIooRCA91lv.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5271582"
       }
     },
@@ -32,7 +32,7 @@
       "type": "movie",
       "name": "Your Name.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-XIr3PeczUjjF.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5311514"
       }
     },
@@ -41,7 +41,7 @@
       "type": "movie",
       "name": "Kizumonogatari Part 2: Nekketsu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21399-VTAdAqc8u5AE.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5084196"
       }
     },
@@ -50,17 +50,8 @@
       "type": "movie",
       "name": "One Piece Film: Gold",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21335-XsXdE0AeOkkZ.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5251328"
-      }
-    },
-    {
-      "id": "tt5923132",
-      "type": "movie",
-      "name": "Accel World: Infinite∞Burst",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21404-2jkb1Gidfb18.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt5923132"
       }
     },
     {
@@ -68,8 +59,17 @@
       "type": "movie",
       "name": "Kingsglaive Final Fantasy XV",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21729-dmAZg7PgJuwj.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5595168"
+      }
+    },
+    {
+      "id": "tt4636298",
+      "type": "movie",
+      "name": "Orange: Future",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97669-7nJlcraO2dwm.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4636298"
       }
     },
     {
@@ -77,7 +77,7 @@
       "type": "movie",
       "name": "The Moment You Fall in Love",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21757-zH78HtS4b0GU.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt6327570"
       }
     },
@@ -86,7 +86,7 @@
       "type": "movie",
       "name": "GANTZ:O",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21496-b6R9F3FtIgWJ.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt5923962"
       }
     },
@@ -94,9 +94,18 @@
       "id": "tt5585826",
       "type": "movie",
       "name": "Pop in Q",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b21412-YDE1DB7WJebN.png",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21412-YDE1DB7WJebN.png",
+      "behaviorHints": {
         "defaultVideoId": "tt5585826"
+      }
+    },
+    {
+      "id": "tt4191702",
+      "type": "movie",
+      "name": "Norman the Snowman: Nagareboshi no Furu Yoru ni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128020-KIIYHdJX9tj2.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4191702"
       }
     }
   ]

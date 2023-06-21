@@ -1,39 +1,48 @@
 {
   "metas": [
     {
-      "id": "tt0409630",
+      "id": "tt0409591",
       "type": "series",
-      "name": "Texhnolyze",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx26-u2SawALYH3w3.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt0409630"
+      "name": "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/594.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0409591"
       }
     },
     {
-      "id": "tt0390733",
+      "id": "tt0328733",
       "type": "series",
-      "name": "Last Exile",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97-Loi1Ppy4quXy.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt0390733"
+      "name": "Beyblade G Revolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1668-2GDY5wKoXc6O.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0328733"
+      }
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece Special: Protect! The Last Great Performance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1238-rU6fE1pv2kmd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
+      }
+    },
+    {
+      "id": "tt0162065",
+      "type": "series",
+      "name": "Angel Core",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2946.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0162065"
       }
     },
     {
       "id": "tt0455295",
       "type": "series",
       "name": "Zatch Bell!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b250-K6QoqgSmtsPo.png",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b250-K6QoqgSmtsPo.png",
+      "behaviorHints": {
         "defaultVideoId": "tt0455295"
-      }
-    },
-    {
-      "id": "tt0366004",
-      "type": "series",
-      "name": "D.N.Angel",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/61.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt0366004"
       }
     },
     {
@@ -41,44 +50,35 @@
       "type": "series",
       "name": "Sonic X",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1816-wOnz97Eb1sZJ.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0367413"
       }
     },
     {
-      "id": "tt0409612",
+      "id": "tt0409591",
       "type": "series",
-      "name": "Scrapped Princess",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b167-qwMN7Wmlen5s.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt0409612"
-      }
-    },
-    {
-      "id": "tt0444953",
-      "type": "series",
-      "name": "Kaleido Star",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx427-tlbAV0iPJjG1.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt0444953"
+      "name": "NARUTO: Akaki Yotsuba no Clover wo Sagase",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/761.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0409591"
       }
     },
     {
       "id": "tt4415288",
       "type": "series",
       "name": "Mermaid Melody: Pichi Pichi Pitch",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b521-56QyN5Q8mWx7.png",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b521-56QyN5Q8mWx7.png",
+      "behaviorHints": {
         "defaultVideoId": "tt4415288"
       }
     },
     {
-      "id": "tt0400690",
+      "id": "tt0388629",
       "type": "series",
-      "name": "Ninja Scroll: The Series",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/618.jpg",
-      "behaviourHints": {
-        "defaultVideoId": "tt0400690"
+      "name": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1237.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0388629"
       }
     },
     {
@@ -86,17 +86,62 @@
       "type": "series",
       "name": "Astro Boy (2003)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx971-zUOKQLxg0pL2.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0056739"
+      }
+    },
+    {
+      "id": "tt0328739",
+      "type": "series",
+      "name": "Full Metal Panic? Fumoffu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx72-dalTPVFKaOuZ.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0328739"
+      }
+    },
+    {
+      "id": "tt0326672",
+      "type": "series",
+      "name": "Chobits: Chibits - Sumomo, Kotoko Todokeru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/596.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0326672"
+      }
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin the 3rd: Operation Return the Treasure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1424-2yFiHF2N8gUa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2531336"
       }
     },
     {
       "id": "tt1286677",
       "type": "series",
       "name": "Forbidden Love",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/1510.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1510.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1286677"
+      }
+    },
+    {
+      "id": "tt5753856",
+      "type": "series",
+      "name": "Dark Shell: Lust in the Cage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3107.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5753856"
+      }
+    },
+    {
+      "id": "tt0412142",
+      "type": "series",
+      "name": "House Foods: Ouchi de Tabeyou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13779.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0412142"
       }
     },
     {
@@ -104,7 +149,7 @@
       "type": "series",
       "name": "Fullmetal Alchemist",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0421357"
       }
     },
@@ -113,7 +158,7 @@
       "type": "series",
       "name": "Chrono Crusade",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx60-N28VFNCZyvhI.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0434670"
       }
     },
@@ -122,8 +167,53 @@
       "type": "series",
       "name": "Peacemaker",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161-oa4X4lL0KUO4.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt13146488"
+      }
+    },
+    {
+      "id": "tt3647998",
+      "type": "series",
+      "name": "Taboo Charming Mother",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2372-DMHogUobqqqR.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3647998"
+      }
+    },
+    {
+      "id": "tt3288518",
+      "type": "series",
+      "name": "Younger Sister Juice",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1783-XCXNweLrMvho.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3288518"
+      }
+    },
+    {
+      "id": "tt0063962",
+      "type": "series",
+      "name": "UFO Ultramaiden Valkyrie 2: December Nocturne",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1128.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0063962"
+      }
+    },
+    {
+      "id": "tt7298976",
+      "type": "series",
+      "name": "Black Jack Specials: Inochi wo Meguru Yottsu no Kiseki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1373.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7298976"
+      }
+    },
+    {
+      "id": "tt0063962",
+      "type": "series",
+      "name": "UFO Princess Valkyrie Special: Bridal Training",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1129.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0063962"
       }
     }
   ]

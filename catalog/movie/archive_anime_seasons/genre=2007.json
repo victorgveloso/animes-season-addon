@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "5 Centimeters per Second",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1689-hlkAI78WBahK.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0983213"
       }
     },
@@ -13,8 +13,8 @@
       "id": "tt0465657",
       "type": "movie",
       "name": "Highlander: The Search for Vengeance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/2178.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2178.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt0465657"
       }
     },
@@ -23,7 +23,7 @@
       "type": "movie",
       "name": "Evangelion: 1.0 You Are (Not) Alone",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2759-z07kq8Pnw5B1.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt0923811"
       }
     },
@@ -31,8 +31,8 @@
       "id": "tt1119194",
       "type": "movie",
       "name": "Piano no Mori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/2594.jpg",
-      "behaviourHints": {
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2594.jpg",
+      "behaviorHints": {
         "defaultVideoId": "tt1119194"
       }
     },
@@ -41,8 +41,26 @@
       "type": "movie",
       "name": "Summer Days with Coo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2848-byY6os6NuxRU.png",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1179773"
+      }
+    },
+    {
+      "id": "tt0970472",
+      "type": "movie",
+      "name": "Vexille: 2077 Japan National Isolation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2746.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0970472"
+      }
+    },
+    {
+      "id": "tt0976060",
+      "type": "movie",
+      "name": "Tokyo Loop",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4761.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0976060"
       }
     },
     {
@@ -50,7 +68,7 @@
       "type": "movie",
       "name": "Sword of the Stranger",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2418-AoLtfG2da5yo.jpg",
-      "behaviourHints": {
+      "behaviorHints": {
         "defaultVideoId": "tt1121794"
       }
     }
