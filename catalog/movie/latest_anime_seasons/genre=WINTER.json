@@ -1,64 +1,13 @@
 {
   "metas": [
     {
-      "id": "tt16060038",
-      "type": "movie",
-      "name": "Sasaki and Miyano: Graduation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146743-MQNPLbWH0mI9.jpg"
-    },
-    {
-      "id": "tt15737898",
-      "type": "movie",
-      "name": "BLUE GIANT",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140499-Yr7YLk6suS0K.jpg"
-    },
-    {
-      "id": "tt21105546",
+      "id": "tt6020800",
       "type": "movie",
       "name": "Gold Kingdom and Water Kingdom",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151300-wC5RkQoMYJ1e.png"
-    },
-    {
-      "id": "tt24657462",
-      "type": "movie",
-      "name": "SSSS.GRIDMAN Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158990-j7GXHDjIRcdm.jpg"
-    },
-    {
-      "id": "tt25399466",
-      "type": "movie",
-      "name": "SSSS.DYNAZENON Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158991-QebHsthir5HU.jpg"
-    },
-    {
-      "id": "tt25994796",
-      "type": "movie",
-      "name": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158997-9HkllZFhiV5K.png"
-    },
-    {
-      "id": "tt24132268",
-      "type": "movie",
-      "name": "Soukyuu no Fafner: BEHIND THE LINE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143201-UZk4gT07EWb5.jpg"
-    },
-    {
-      "id": "tt21223380",
-      "type": "movie",
-      "name": "Doraemon: Nobita to Sora no Utopia",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151896-F9HNSlTPpN9h.jpg"
-    },
-    {
-      "id": "tt23642616",
-      "type": "movie",
-      "name": "Aikatsu! 10th STORY: Mirai e no STARWAY (2023)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b155738-PuAQSHIolqoH.jpg"
-    },
-    {
-      "id": "tt26543725",
-      "type": "movie",
-      "name": "Youkai Watch ♪: Jibanyan VS Komasan Monge Daikessen da Nyan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157638-OlfGwHCckEdU.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151300-wC5RkQoMYJ1e.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6020800"
+      }
     }
   ]
 }

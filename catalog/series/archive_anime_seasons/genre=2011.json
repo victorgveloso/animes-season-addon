@@ -4,121 +4,181 @@
       "id": "tt1929675",
       "type": "series",
       "name": "Infinite Stratos",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9041-nyIdVMM8q27K.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9041-nyIdVMM8q27K.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1929675"
+      }
     },
     {
       "id": "tt1882240",
       "type": "series",
       "name": "Beelzebub",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx9513-is6YiSgKbyQX.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx9513-is6YiSgKbyQX.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1882240"
+      }
     },
     {
       "id": "tt1745240",
       "type": "series",
       "name": "Kimi ni Todoke: From Me to You Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9656-vckh2wNj3FwY.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9656-vckh2wNj3FwY.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1745240"
+      }
     },
     {
       "id": "tt1909463",
       "type": "series",
       "name": "Freezing",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/9367.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/9367.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1909463"
+      }
     },
     {
       "id": "tt8772296",
       "type": "series",
       "name": "euphoria",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10851-FNTzFO5BJfPP.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10851-FNTzFO5BJfPP.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt8772296"
+      }
     },
     {
       "id": "tt2549176",
       "type": "series",
       "name": "Cardfight Vanguard",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9539-g9UtWqT6iotq.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9539-g9UtWqT6iotq.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt2549176"
+      }
     },
     {
       "id": "tt1847521",
       "type": "series",
       "name": "Wolverine",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/6918.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/6918.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1847521"
+      }
     },
     {
       "id": "tt1910272",
       "type": "series",
       "name": "Steins;Gate",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1910272"
+      }
     },
     {
       "id": "tt1799631",
       "type": "series",
       "name": "Blue Exorcist",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1799631"
+      }
     },
     {
       "id": "tt1909447",
       "type": "series",
       "name": "Deadman Wonderland",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6880-4aWqFNTwzqp0.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6880-4aWqFNTwzqp0.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1909447"
+      }
     },
     {
       "id": "tt2098308",
       "type": "series",
       "name": "Nichijou - My Ordinary Life",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10165-1j2Qn8wIIn5S.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10165-1j2Qn8wIIn5S.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt2098308"
+      }
     },
     {
       "id": "tt0988818",
       "type": "series",
       "name": "Gintama Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9969-XyP8TZwb3L6S.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9969-XyP8TZwb3L6S.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0988818"
+      }
     },
     {
       "id": "tt1899047",
       "type": "series",
       "name": "Toriko",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10033-V7xnlgAVtaVR.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10033-V7xnlgAVtaVR.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1899047"
+      }
     },
     {
       "id": "tt1890725",
       "type": "series",
       "name": "Blood-C",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10490-Rqx4jlTOMFWx.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10490-Rqx4jlTOMFWx.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1890725"
+      }
     },
     {
       "id": "tt1352421",
       "type": "series",
       "name": "Natsume's Book of Friends 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10379-lS2Mk6lX4lZr.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10379-lS2Mk6lX4lZr.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1352421"
+      }
     },
     {
       "id": "tt2098220",
       "type": "series",
       "name": "Hunter x Hunter (2011)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt2098220"
+      }
     },
     {
       "id": "tt2069441",
       "type": "series",
       "name": "The Future Diary",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10620-OMnOMuZBgEKy.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10620-OMnOMuZBgEKy.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt2069441"
+      }
     },
     {
       "id": "tt2051178",
       "type": "series",
       "name": "Fate/Zero",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10087-el5Bo1VMZwsU.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10087-el5Bo1VMZwsU.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt2051178"
+      }
     },
     {
       "id": "tt2150751",
       "type": "series",
       "name": "Chihayafuru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10800-k7mg1BIvnKhZ.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10800-k7mg1BIvnKhZ.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt2150751"
+      }
     },
     {
       "id": "tt3692198",
       "type": "series",
       "name": "Maken-Ki! Battling Venus",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/9936.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/9936.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3692198"
+      }
     }
   ]
 }

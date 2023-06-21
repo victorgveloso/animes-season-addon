@@ -8,6 +8,9 @@ export type Meta = {
     type: TitleType;
     name: string;
     poster: string;
+    behaviorHints: {
+        defaultVideoId: string;
+    }
 }
 export class Catalog {
     private metas: Meta[] = [];
@@ -41,7 +44,7 @@ export class Catalog {
                 id = await Imdb.getIdFromName(nextName, anime.seasonYear, type);
             };
             const poster = anime.coverImage.medium ?? anime.bannerImage;
-            this.addMeta({id,type,name:originalName,poster} as Meta);
+            this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}} as Meta);
         }
     }
 }

@@ -4,67 +4,100 @@
       "id": "tt3178174",
       "type": "movie",
       "name": "Giovanni's Island",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19115-FWAqQnzxnyQf.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19115-FWAqQnzxnyQf.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3178174"
+      }
     },
     {
       "id": "tt3413018",
       "type": "movie",
       "name": "Tamako -love story-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20519-YdNUizVJJIWI.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20519-YdNUizVJJIWI.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt3413018"
+      }
     },
     {
       "id": "tt3579524",
       "type": "movie",
       "name": "Ghost in the Shell: Arise - Border:3 Ghost Tears",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19193-9CnVIn6gGye7.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19193-9CnVIn6gGye7.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt3579524"
+      }
     },
     {
       "id": "tt3398268",
       "type": "movie",
       "name": "When Marnie Was There",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20555-QGbWQC3Kfpok.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20555-QGbWQC3Kfpok.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3398268"
+      }
     },
     {
       "id": "tt3794204",
       "type": "movie",
       "name": "K: MISSING KINGS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16904-MqA6kzSdRDsK.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16904-MqA6kzSdRDsK.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3794204"
+      }
     },
     {
       "id": "tt3331846",
       "type": "movie",
       "name": "STAND BY ME Doraemon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/20515.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/20515.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3331846"
+      }
     },
     {
       "id": "tt4016942",
       "type": "movie",
       "name": "Ghost in the Shell: Arise - Border:4 Ghost Stands Alone",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19195-649F6wuytP5T.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19195-649F6wuytP5T.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt4016942"
+      }
     },
     {
       "id": "tt2231489",
       "type": "movie",
       "name": "Saint Seiya: LEGEND of SANCTUARY",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10687-iDNjbDXrZQ2U.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10687-iDNjbDXrZQ2U.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt2231489"
+      }
     },
     {
       "id": "tt3638012",
       "type": "movie",
       "name": "Appleseed Alpha",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20786-0vaNh7UD3vx4.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20786-0vaNh7UD3vx4.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3638012"
+      }
     },
     {
       "id": "tt3482378",
       "type": "movie",
       "name": "Avengers Confidential: Black Widow & Punisher",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b108815-VV6kFhrZZ8ma.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b108815-VV6kFhrZZ8ma.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt3482378"
+      }
     },
     {
       "id": "tt3717532",
       "type": "movie",
       "name": "The Last: Naruto the Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16870-Wg0XQKHcwV1r.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16870-Wg0XQKHcwV1r.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3717532"
+      }
     }
   ]
 }

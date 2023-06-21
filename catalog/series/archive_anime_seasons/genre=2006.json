@@ -4,85 +4,127 @@
       "id": "tt0495212",
       "type": "series",
       "name": "Hellsing Ultimate",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx777-wviqUSUoSXAl.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx777-wviqUSUoSXAl.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0495212"
+      }
     },
     {
       "id": "tt0988818",
       "type": "series",
       "name": "Gintama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-hRbQHIkRUebX.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-hRbQHIkRUebX.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0988818"
+      }
     },
     {
       "id": "tt0816397",
       "type": "series",
       "name": "Ouran High School Host Club",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx853-OGmpjzPaRfz5.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx853-OGmpjzPaRfz5.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0816397"
+      }
     },
     {
       "id": "tt0962826",
       "type": "series",
       "name": "Black Lagoon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx889-Wf4GZRnHv6Dp.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx889-Wf4GZRnHv6Dp.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0962826"
+      }
     },
     {
       "id": "tt0816407",
       "type": "series",
       "name": "The Melancholy of Haruhi Suzumiya",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx849-uXOftsjBDz2T.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx849-uXOftsjBDz2T.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0816407"
+      }
     },
     {
       "id": "tt0845738",
       "type": "series",
       "name": "When They Cry",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx934-EOn2UlXaLUtj.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx934-EOn2UlXaLUtj.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0845738"
+      }
     },
     {
       "id": "tt0810705",
       "type": "series",
       "name": "NANA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx877-rgaDbTMM9R59.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx877-rgaDbTMM9R59.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0810705"
+      }
     },
     {
       "id": "tt0488477",
       "type": "series",
       "name": "xxxHOLiC",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx861-rbZNhIXwS4JE.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx861-rbZNhIXwS4JE.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0488477"
+      }
     },
     {
       "id": "tt0978215",
       "type": "series",
       "name": "Utawarerumono",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx856-lawtNdvqvgwd.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx856-lawtNdvqvgwd.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0978215"
+      }
     },
     {
       "id": "tt0978553",
       "type": "series",
       "name": "The Familiar of Zero",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1195-7BOXEWYAv1WN.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1195-7BOXEWYAv1WN.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0978553"
+      }
     },
     {
       "id": "tt0877057",
       "type": "series",
       "name": "Death Note",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0877057"
+      }
     },
     {
       "id": "tt0899258",
       "type": "series",
       "name": "D.Gray-man",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1482-3IT5wm5AK9tF.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1482-3IT5wm5AK9tF.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0899258"
+      }
     },
     {
       "id": "tt1224144",
       "type": "series",
       "name": "REBORN!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1604-H53bcO7VSWGU.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1604-H53bcO7VSWGU.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1224144"
+      }
     },
     {
       "id": "tt1424037",
       "type": "series",
       "name": "Kenichi: The Mightiest Disciple",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1559-7ZlyZxtBNo8g.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1559-7ZlyZxtBNo8g.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1424037"
+      }
     }
   ]
 }

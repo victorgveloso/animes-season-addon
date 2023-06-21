@@ -4,127 +4,190 @@
       "id": "tt5370118",
       "type": "series",
       "name": "KONOSUBA -God's blessing on this wonderful world! 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21699-Fkbnkl9ZC6fW.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21699-Fkbnkl9ZC6fW.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt5370118"
+      }
     },
     {
       "id": "tt6185782",
       "type": "series",
       "name": "Miss Kobayashi's Dragon Maid",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21776-FJiPcLQHeTiV.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21776-FJiPcLQHeTiV.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt6185782"
+      }
     },
     {
       "id": "tt6455986",
       "type": "series",
       "name": "Saga of Tanya the Evil",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21613-uh46F6TNGbNf.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21613-uh46F6TNGbNf.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt6455986"
+      }
     },
     {
       "id": "tt6352180",
       "type": "series",
       "name": "Little Witch Academia (TV)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21858-Pfp8zrJEfPrd.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21858-Pfp8zrJEfPrd.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt6352180"
+      }
     },
     {
       "id": "tt0988818",
       "type": "series",
       "name": "Gintama Season 5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97889-NWQVqODOuBqI.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97889-NWQVqODOuBqI.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0988818"
+      }
     },
     {
       "id": "tt2560140",
       "type": "series",
       "name": "Attack on Titan Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt2560140"
+      }
     },
     {
       "id": "tt5626028",
       "type": "series",
       "name": "My Hero Academia Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21856-gutauxhWAwn6.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21856-gutauxhWAwn6.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt5626028"
+      }
     },
     {
       "id": "tt8372010",
       "type": "series",
       "name": "Tsugumomo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97625-t6a6xQjttcCU.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97625-t6a6xQjttcCU.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt8372010"
+      }
     },
     {
       "id": "tt6901486",
       "type": "series",
       "name": "Seven Mortal Sins",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20705-X2uRDZWD6xGn.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20705-X2uRDZWD6xGn.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt6901486"
+      }
     },
     {
       "id": "tt1352421",
       "type": "series",
       "name": "Natsume's Book of Friends 6",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97983-Uqn04SR6hVW9.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97983-Uqn04SR6hVW9.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1352421"
+      }
     },
     {
       "id": "tt0318871",
       "type": "series",
       "name": "Berserk 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97643-5s3MVIfTYIuQ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97643-5s3MVIfTYIuQ.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0318871"
+      }
     },
     {
       "id": "tt5628740",
       "type": "series",
       "name": "Yu-Gi-Oh! VRAINS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98231-mPVCPWmg3KiL.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98231-mPVCPWmg3KiL.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt5628740"
+      }
     },
     {
       "id": "tt7131720",
       "type": "series",
       "name": "Kakegurui",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98314-BWpNNKOmiUoe.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98314-BWpNNKOmiUoe.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt7131720"
+      }
     },
     {
       "id": "tt7222086",
       "type": "series",
       "name": "Made in Abyss",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-8oxwTF84hzue.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-8oxwTF84hzue.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt7222086"
+      }
     },
     {
       "id": "tt7263328",
       "type": "series",
       "name": "Classroom of the Elite",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b98659-sH5z5RfMuyMr.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b98659-sH5z5RfMuyMr.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt7263328"
+      }
     },
     {
       "id": "tt6424454",
       "type": "series",
       "name": "Fate/Apocrypha",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98035-rdkjeqUUsG2j.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98035-rdkjeqUUsG2j.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt6424454"
+      }
     },
     {
       "id": "tt7161104",
       "type": "series",
       "name": "Welcome to the Ballroom",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98005-kwoBQIEeXa8J.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98005-kwoBQIEeXa8J.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt7161104"
+      }
     },
     {
       "id": "tt5862798",
       "type": "series",
       "name": "NEW GAME!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98292-MjBqoQt8fjzF.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98292-MjBqoQt8fjzF.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt5862798"
+      }
     },
     {
       "id": "tt7441658",
       "type": "series",
       "name": "Black Clover",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt7441658"
+      }
     },
     {
       "id": "tt7326322",
       "type": "series",
       "name": "The Ancient Magus' Bride",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98436-n7sK6POCd0XV.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98436-n7sK6POCd0XV.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt7326322"
+      }
     },
     {
       "id": "tt6074794",
       "type": "series",
       "name": "March comes in like a lion Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98478-dF3mpSKiZkQu.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98478-dF3mpSKiZkQu.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt6074794"
+      }
     }
   ]
 }

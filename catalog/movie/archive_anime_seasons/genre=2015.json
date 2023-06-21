@@ -4,73 +4,109 @@
       "id": "tt4219130",
       "type": "movie",
       "name": "PSYCHO-PASS: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20514-WhWrHdWWonsC.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20514-WhWrHdWWonsC.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt4219130"
+      }
     },
     {
       "id": "tt3837248",
       "type": "movie",
       "name": "Love Live! The School Idol Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20766-9A9Z6hawqdLe.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20766-9A9Z6hawqdLe.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt3837248"
+      }
     },
     {
       "id": "tt5575408",
       "type": "movie",
       "name": "MUSHI-SHI Special: Bell Droplets",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21008-6sn1vYneDtPc.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21008-6sn1vYneDtPc.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt5575408"
+      }
     },
     {
       "id": "tt4337072",
       "type": "movie",
       "name": "Ghost in the Shell: The New Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt4337072"
+      }
     },
     {
       "id": "tt3689910",
       "type": "movie",
       "name": "Miss Hokusai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20709-3hRxtuoucQRI.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20709-3hRxtuoucQRI.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3689910"
+      }
     },
     {
       "id": "tt4272866",
       "type": "movie",
       "name": "The Boy and The Beast",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20981-D6PAJAOC4jPc.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20981-D6PAJAOC4jPc.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt4272866"
+      }
     },
     {
       "id": "tt4618398",
       "type": "movie",
       "name": "Boruto: Naruto the Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21220-3cWAUtR1Ih5h.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21220-3cWAUtR1Ih5h.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt4618398"
+      }
     },
     {
       "id": "tt4489416",
       "type": "movie",
       "name": "The Anthem of the Heart",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20968-0zFVsoFUYjeh.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20968-0zFVsoFUYjeh.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt4489416"
+      }
     },
     {
       "id": "tt4831682",
       "type": "movie",
       "name": "Little Witch Academia: The Enchanted Parade",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19489-jOPAElIhmwmB.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19489-jOPAElIhmwmB.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt4831682"
+      }
     },
     {
       "id": "tt5284414",
       "type": "movie",
       "name": "Girls und Panzer der Film",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18617-bzfsyLDahhm8.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx18617-bzfsyLDahhm8.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5284414"
+      }
     },
     {
       "id": "tt4235644",
       "type": "movie",
       "name": "The Empire of Corpses",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20965-tf6Qs6viTyyg.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20965-tf6Qs6viTyyg.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt4235644"
+      }
     },
     {
       "id": "tt3615204",
       "type": "movie",
       "name": "Harmony",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20932-kw702YuhGeH5.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20932-kw702YuhGeH5.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3615204"
+      }
     }
   ]
 }

@@ -4,25 +4,37 @@
       "id": "tt0473658",
       "type": "movie",
       "name": "InuYasha the Movie 4: Fire on the Mystic Island",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx449-B9HGKZFh0wUC.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx449-B9HGKZFh0wUC.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0473658"
+      }
     },
     {
       "id": "tt1018764",
       "type": "movie",
       "name": "One Piece: Baron Omatsuri and the Secret Island",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx464-g4wcZPjbhY5j.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx464-g4wcZPjbhY5j.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1018764"
+      }
     },
     {
       "id": "tt0485323",
       "type": "movie",
       "name": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx430-Fx7lVxpcwArH.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx430-Fx7lVxpcwArH.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0485323"
+      }
     },
     {
       "id": "tt0385700",
       "type": "movie",
       "name": "Final Fantasy VII: Advent Children",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b317-ay0Rw7kxgLVD.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b317-ay0Rw7kxgLVD.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0385700"
+      }
     }
   ]
 }

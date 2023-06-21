@@ -4,109 +4,163 @@
       "id": "tt1352421",
       "type": "series",
       "name": "Natsume's Book of Friends 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5300-aQaHNUn5sQ9z.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5300-aQaHNUn5sQ9z.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1352421"
+      }
     },
     {
       "id": "tt1356878",
       "type": "series",
       "name": "Hetalia Axis Powers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/5060.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/5060.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1356878"
+      }
     },
     {
       "id": "tt1355642",
       "type": "series",
       "name": "Fullmetal Alchemist: Brotherhood",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1355642"
+      }
     },
     {
       "id": "tt1410218",
       "type": "series",
       "name": "K-ON!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5680-Xh6B67KuZ2PU.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5680-Xh6B67KuZ2PU.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1410218"
+      }
     },
     {
       "id": "tt0816407",
       "type": "series",
       "name": "The Melancholy of Haruhi Suzumiya (2009)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4382-kBhZ7fV6IFSI.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4382-kBhZ7fV6IFSI.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0816407"
+      }
     },
     {
       "id": "tt1409055",
       "type": "series",
       "name": "Dragon Ball Z Kai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6033-TKDWyjZN3dXk.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6033-TKDWyjZN3dXk.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1409055"
+      }
     },
     {
       "id": "tt1409064",
       "type": "series",
       "name": "Saki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5671-Hpvvpl5cncbf.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5671-Hpvvpl5cncbf.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1409064"
+      }
     },
     {
       "id": "tt1674928",
       "type": "series",
       "name": "Beyblade: Metal Fusion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b5962-MhsmIFdv4J59.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b5962-MhsmIFdv4J59.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1674928"
+      }
     },
     {
       "id": "tt1407599",
       "type": "series",
       "name": "Queen's Blade: The Exiled Virgin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4719-je2iLM7t0jsd.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4719-je2iLM7t0jsd.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1407599"
+      }
     },
     {
       "id": "tt1339238",
       "type": "series",
       "name": "Sekirei Special",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/5279.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/5279.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1339238"
+      }
     },
     {
       "id": "tt1411817",
       "type": "series",
       "name": "Mazinger Edition Z: The Impact!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5485-q6IvWwQZchGf.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5485-q6IvWwQZchGf.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1411817"
+      }
     },
     {
       "id": "tt1642495",
       "type": "series",
       "name": "Jewelpet",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6008-di6Irqm37I5s.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6008-di6Irqm37I5s.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1642495"
+      }
     },
     {
       "id": "tt1480925",
       "type": "series",
       "name": "Bakemonogatari",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5081-mzWo8ZayqhES.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5081-mzWo8ZayqhES.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1480925"
+      }
     },
     {
       "id": "tt1407599",
       "type": "series",
       "name": "Queen's Blade: The Exiled Virgin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/6704.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/6704.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1407599"
+      }
     },
     {
       "id": "tt1528406",
       "type": "series",
       "name": "Fairy Tail",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6702-4cW6E5AqQqqB.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6702-4cW6E5AqQqqB.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1528406"
+      }
     },
     {
       "id": "tt1745240",
       "type": "series",
       "name": "Kimi ni Todoke: From Me to You",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6045-txJOukR5Qve4.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6045-txJOukR5Qve4.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1745240"
+      }
     },
     {
       "id": "tt1515996",
       "type": "series",
       "name": "A Certain Scientific Railgun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6213-fhxlHtKji46D.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6213-fhxlHtKji46D.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1515996"
+      }
     },
     {
       "id": "tt1528567",
       "type": "series",
       "name": "Heaven's Lost Property",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5958-qaAKEr4Q0JWn.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5958-qaAKEr4Q0JWn.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1528567"
+      }
     }
   ]
 }

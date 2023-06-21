@@ -4,19 +4,28 @@
       "id": "tt0366621",
       "type": "movie",
       "name": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx450-7uVVkg9N3uMF.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx450-7uVVkg9N3uMF.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0366621"
+      }
     },
     {
       "id": "tt0368667",
       "type": "movie",
       "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx731-aoWO30cMR4yO.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx731-aoWO30cMR4yO.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0368667"
+      }
     },
     {
       "id": "tt0388473",
       "type": "movie",
       "name": "Tokyo Godfathers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx759-vaiRxznGCi9T.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx759-vaiRxznGCi9T.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0388473"
+      }
     }
   ]
 }

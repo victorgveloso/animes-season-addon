@@ -4,79 +4,118 @@
       "id": "tt1161684",
       "type": "series",
       "name": "Rosario + Vampire",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/2993.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/2993.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1161684"
+      }
     },
     {
       "id": "tt1634209",
       "type": "series",
       "name": "Kiss x Sis",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5042-FZ8XdXStvn0u.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5042-FZ8XdXStvn0u.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1634209"
+      }
     },
     {
       "id": "tt1214085",
       "type": "series",
       "name": "Soul Eater",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-CA8LE5gjm9Qx.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-CA8LE5gjm9Qx.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1214085"
+      }
     },
     {
       "id": "tt1216222",
       "type": "series",
       "name": "To Love Ru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3455-oNiJmsZZTAAj.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3455-oNiJmsZZTAAj.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1216222"
+      }
     },
     {
       "id": "tt1196094",
       "type": "series",
       "name": "Yu-Gi-Oh! 5D's",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3972-bSmlWKXrVvDv.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3972-bSmlWKXrVvDv.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1196094"
+      }
     },
     {
       "id": "tt1276525",
       "type": "series",
       "name": "Chi's Sweet Home",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3841-PSDYqPPpBVBC.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3841-PSDYqPPpBVBC.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1276525"
+      }
     },
     {
       "id": "tt1352421",
       "type": "series",
       "name": "Natsume's Book of Friends",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4081-33BLrdaPdZjP.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4081-33BLrdaPdZjP.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1352421"
+      }
     },
     {
       "id": "tt1339238",
       "type": "series",
       "name": "Sekirei",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4063-ZP7agutiaOCf.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4063-ZP7agutiaOCf.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1339238"
+      }
     },
     {
       "id": "tt1279024",
       "type": "series",
       "name": "Toradora!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-3Bh0rm99N6Vl.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-3Bh0rm99N6Vl.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1279024"
+      }
     },
     {
       "id": "tt1316554",
       "type": "series",
       "name": "Black Butler",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4898-mW4gabZvwmLC.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4898-mW4gabZvwmLC.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1316554"
+      }
     },
     {
       "id": "tt1308089",
       "type": "series",
       "name": "A Certain Magical Index",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4654-HX1Y1R1EfYJr.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4654-HX1Y1R1EfYJr.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1308089"
+      }
     },
     {
       "id": "tt2189248",
       "type": "series",
       "name": "Inazuma Eleven",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5231-LOB6lgM2Coto.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5231-LOB6lgM2Coto.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt2189248"
+      }
     },
     {
       "id": "tt0072574",
       "type": "series",
       "name": "Switch",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3574-4q1dkH3Fra0U.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3574-4q1dkH3Fra0U.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0072574"
+      }
     }
   ]
 }

@@ -4,373 +4,559 @@
       "id": "tt2560140",
       "type": "series",
       "name": "Attack on Titan Final Season Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-85KUYCnUyio2.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-85KUYCnUyio2.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt2560140"
+      }
     },
     {
       "id": "tt15765670",
       "type": "series",
       "name": "My Dress-Up Darling",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15765670"
+      }
     },
     {
       "id": "tt13956466",
       "type": "series",
       "name": "The Genius Prince's Guide to Raising a Nation Out of Debt",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129190-UnaPbNhTCTOR.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129190-UnaPbNhTCTOR.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13956466"
+      }
     },
     {
       "id": "tt15441424",
       "type": "series",
       "name": "The Strongest Sage with the Weakest Crest",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129191-F80AgCUP79yE.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129191-F80AgCUP79yE.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15441424"
+      }
     },
     {
       "id": "tt15715750",
       "type": "series",
       "name": "Police in a Pod",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137312-hlWRtCt25oMg.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137312-hlWRtCt25oMg.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15715750"
+      }
     },
     {
       "id": "tt13398930",
       "type": "series",
       "name": "CUE!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125682-aJ1KNMq8wPvz.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125682-aJ1KNMq8wPvz.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13398930"
+      }
     },
     {
       "id": "tt15830626",
       "type": "series",
       "name": "Irodorimidori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140950-LsouvpGjNR8B.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140950-LsouvpGjNR8B.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15830626"
+      }
     },
     {
       "id": "tt13819192",
       "type": "series",
       "name": "Saiyuki RELOAD: ZEROIN",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128400-wTWF3QtiVMg2.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128400-wTWF3QtiVMg2.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13819192"
+      }
     },
     {
       "id": "tt13706018",
       "type": "series",
       "name": "SPY x FAMILY",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13706018"
+      }
     },
     {
       "id": "tt15686254",
       "type": "series",
       "name": "Summer Time Rendering",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129201-HJBauga2be8I.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129201-HJBauga2be8I.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt15686254"
+      }
     },
     {
       "id": "tt14626352",
       "type": "series",
       "name": "Komi Can't Communicate Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142984-nv2MWVWZ1yYH.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142984-nv2MWVWZ1yYH.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt14626352"
+      }
     },
     {
       "id": "tt16341212",
       "type": "series",
       "name": "Aharen-san wa Hakarenai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137281-kSbcUUCqUf8m.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137281-kSbcUUCqUf8m.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt16341212"
+      }
     },
     {
       "id": "tt14400866",
       "type": "series",
       "name": "A Couple of Cuckoos",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132052-3gDTi19HyW6E.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132052-3gDTi19HyW6E.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt14400866"
+      }
     },
     {
       "id": "tt15723722",
       "type": "series",
       "name": "I'm Quitting Heroing",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140457-iC0heNEKV9q1.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140457-iC0heNEKV9q1.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15723722"
+      }
     },
     {
       "id": "tt16255458",
       "type": "series",
       "name": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142074-pHe4bX791PJh.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142074-pHe4bX791PJh.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt16255458"
+      }
     },
     {
       "id": "tt15447890",
       "type": "series",
       "name": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130586-vzoz4X37RZwc.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130586-vzoz4X37RZwc.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15447890"
+      }
     },
     {
       "id": "tt15792808",
       "type": "series",
       "name": "Aoashi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134732-KAXPnuRsqGCb.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134732-KAXPnuRsqGCb.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15792808"
+      }
     },
     {
       "id": "tt27455918",
       "type": "series",
       "name": "Date A Live IV",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116605-uzDakXnaZ1OW.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116605-uzDakXnaZ1OW.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt27455918"
+      }
     },
     {
       "id": "tt14396202",
       "type": "series",
       "name": "Love After World Domination",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132010-s0o3Rg0XvDXl.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132010-s0o3Rg0XvDXl.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt14396202"
+      }
     },
     {
       "id": "tt10885406",
       "type": "series",
       "name": "Ascendance of a Bookworm Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121176-qWobMmSf761W.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121176-qWobMmSf761W.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt10885406"
+      }
     },
     {
       "id": "tt15391190",
       "type": "series",
       "name": "Dance Dance Danseur",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132171-7eUhRXuzbR20.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132171-7eUhRXuzbR20.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt15391190"
+      }
     },
     {
       "id": "tt10011314",
       "type": "series",
       "name": "Vampire in the Garden",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108357-MSfxT8seIFX1.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108357-MSfxT8seIFX1.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt10011314"
+      }
     },
     {
       "id": "tt15789088",
       "type": "series",
       "name": "BIRDIE WING -Golf Girls' Story-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140830-hHqRY63VwOp2.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140830-hHqRY63VwOp2.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15789088"
+      }
     },
     {
       "id": "tt2404499",
       "type": "series",
       "name": "Kingdom Season 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140350-Qf5IB0HxaJZf.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140350-Qf5IB0HxaJZf.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt2404499"
+      }
     },
     {
       "id": "tt18634390",
       "type": "series",
       "name": "Onipan!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144676-xnbnEthBjW3L.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144676-xnbnEthBjW3L.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt18634390"
+      }
     },
     {
       "id": "tt12590266",
       "type": "series",
       "name": "CYBERPUNK: EDGERUNNERS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt12590266"
+      }
     },
     {
       "id": "tt15975122",
       "type": "series",
       "name": "Call of the Night",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141391-bLWpXKGAKebr.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141391-bLWpXKGAKebr.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15975122"
+      }
     },
     {
       "id": "tt16755706",
       "type": "series",
       "name": "Lycoris Recoil",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143270-iZOJX2DMUFMC.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143270-iZOJX2DMUFMC.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt16755706"
+      }
     },
     {
       "id": "tt11448214",
       "type": "series",
       "name": "Rent-a-Girlfriend Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124410-iScdHzzEqdmk.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124410-iScdHzzEqdmk.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt11448214"
+      }
     },
     {
       "id": "tt19848112",
       "type": "series",
       "name": "My Stepmom's Daughter is My Ex",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136934-BXmmENtggiHr.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136934-BXmmENtggiHr.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt19848112"
+      }
     },
     {
       "id": "tt21230432",
       "type": "series",
       "name": "The Yakuza's Guide to Babysitting",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138882-Ich6OQJxB9P8.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138882-Ich6OQJxB9P8.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt21230432"
+      }
     },
     {
       "id": "tt13628870",
       "type": "series",
       "name": "Harem in the Labyrinth of Another World",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127090-ftd2rro80kk9.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127090-ftd2rro80kk9.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13628870"
+      }
     },
     {
       "id": "tt21249100",
       "type": "series",
       "name": "Black Summoner",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145260-Yt5W8aQQKqF2.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145260-Yt5W8aQQKqF2.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt21249100"
+      }
     },
     {
       "id": "tt15912380",
       "type": "series",
       "name": "Kakegurui Twin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141351-47JtghppCwMu.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141351-47JtghppCwMu.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt15912380"
+      }
     },
     {
       "id": "tt19389868",
       "type": "series",
       "name": "RWBY: Ice Queendom",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146668-JNIr7FRzEUaM.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146668-JNIr7FRzEUaM.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt19389868"
+      }
     },
     {
       "id": "tt21237634",
       "type": "series",
       "name": "The Maid I Hired Recently is Mysterious",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149326-qDJGf7IELKbL.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149326-qDJGf7IELKbL.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt21237634"
+      }
     },
     {
       "id": "tt21101866",
       "type": "series",
       "name": "Smile of the Arsnotoria the Animation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149874-OJSM3I5qJ30U.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149874-OJSM3I5qJ30U.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt21101866"
+      }
     },
     {
       "id": "tt21421752",
       "type": "series",
       "name": "Utawarerumono Mask of Truth",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112640-odUuRLTwodH5.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112640-odUuRLTwodH5.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt21421752"
+      }
     },
     {
       "id": "tt15783416",
       "type": "series",
       "name": "SHINEPOST",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140753-g1DnC6M1yiIM.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140753-g1DnC6M1yiIM.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15783416"
+      }
     },
     {
       "id": "tt18573684",
       "type": "series",
       "name": "YUREI DECO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145468-4t3g7sNy9KRn.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145468-4t3g7sNy9KRn.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt18573684"
+      }
     },
     {
       "id": "tt13616990",
       "type": "series",
       "name": "Chainsaw Man",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt13616990"
+      }
     },
     {
       "id": "tt5626028",
       "type": "series",
       "name": "My Hero Academia Season 6",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139630-2Nvd1vqQ52Ik.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139630-2Nvd1vqQ52Ik.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5626028"
+      }
     },
     {
       "id": "tt14115938",
       "type": "series",
       "name": "The Eminence in Shadow",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt14115938"
+      }
     },
     {
       "id": "tt17158756",
       "type": "series",
       "name": "BOCCHI THE ROCK!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-5Y8rYzg982sq.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-5Y8rYzg982sq.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt17158756"
+      }
     },
     {
       "id": "tt14986406",
       "type": "series",
       "name": "BLEACH: Thousand-Year Blood War",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt14986406"
+      }
     },
     {
       "id": "tt12063450",
       "type": "series",
       "name": "To Your Eternity Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138565-JzvDqH84ILzi.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138565-JzvDqH84ILzi.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt12063450"
+      }
     },
     {
       "id": "tt16231800",
       "type": "series",
       "name": "More than a Married Couple, but Not Lovers.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141949-tViCIRHPZAyG.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141949-tViCIRHPZAyG.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt16231800"
+      }
     },
     {
       "id": "tt15483602",
       "type": "series",
       "name": "Reincarnated as a Sword",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139587-rbZVcigCRtHY.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139587-rbZVcigCRtHY.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15483602"
+      }
     },
     {
       "id": "tt0081954",
       "type": "series",
       "name": "Urusei Yatsura (2022)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143277-BJYg1aFUE8tV.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143277-BJYg1aFUE8tV.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0081954"
+      }
     },
     {
       "id": "tt21991254",
       "type": "series",
       "name": "Romantic Killer",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153930-iL3yOVS63IVR.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153930-iL3yOVS63IVR.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt21991254"
+      }
     },
     {
       "id": "tt12464182",
       "type": "series",
       "name": "Uzaki-chan Wants to Hang Out! Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124395-9GeigGh1Ae2f.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124395-9GeigGh1Ae2f.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt12464182"
+      }
     },
     {
       "id": "tt15433166",
       "type": "series",
       "name": "Mobile Suit Gundam: The Witch from Mercury",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139274-nzHOkKMoCxvD.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139274-nzHOkKMoCxvD.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt15433166"
+      }
     },
     {
       "id": "tt21929358",
       "type": "series",
       "name": "Akiba Maid War",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151379-JxxgTgSViXZL.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151379-JxxgTgSViXZL.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt21929358"
+      }
     },
     {
       "id": "tt11034066",
       "type": "series",
       "name": "Welcome to Demon School! Iruma-kun Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139092-q521Du1fkosV.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139092-q521Du1fkosV.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt11034066"
+      }
     },
     {
       "id": "tt21345944",
       "type": "series",
       "name": "Beast Tamer",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150695-UOQF6Zz2iCTX.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150695-UOQF6Zz2iCTX.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt21345944"
+      }
     },
     {
       "id": "tt15533960",
       "type": "series",
       "name": "I'm the Villainess, So I'm Taming the Final Boss",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139820-T8Nk5dRd3q9L.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139820-T8Nk5dRd3q9L.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15533960"
+      }
     },
     {
       "id": "tt21197084",
       "type": "series",
       "name": "Raven of the Inner Palace",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142701-jyjYorMpj3lf.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142701-jyjYorMpj3lf.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt21197084"
+      }
     },
     {
       "id": "tt8225204",
       "type": "series",
       "name": "Golden Kamuy Season 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142343-o8gkjIF434qZ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142343-o8gkjIF434qZ.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt8225204"
+      }
     },
     {
       "id": "tt17501150",
       "type": "series",
       "name": "Bibliophile Princess",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144533-DqgPeBmWZPYQ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144533-DqgPeBmWZPYQ.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt17501150"
+      }
     },
     {
       "id": "tt21345894",
       "type": "series",
       "name": "The Little Lies We All Tell",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146962-mBcqIslFD83F.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146962-mBcqIslFD83F.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt21345894"
+      }
     },
     {
       "id": "tt15128074",
       "type": "series",
       "name": "Legend of Mana -The Teardrop Crystal-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136150-azIWKERi7SLo.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136150-azIWKERi7SLo.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt15128074"
+      }
     },
     {
       "id": "tt12421676",
       "type": "series",
       "name": "Muv-Luv Alternative Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142985-3p9pJI1rOTYf.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142985-3p9pJI1rOTYf.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt12421676"
+      }
     }
   ]
 }

@@ -4,97 +4,145 @@
       "id": "tt7339826",
       "type": "movie",
       "name": "Maquia: When the Promised Flower Blooms",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99457-PFq5dreQabIu.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99457-PFq5dreQabIu.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt7339826"
+      }
     },
     {
       "id": "tt8391976",
       "type": "movie",
       "name": "Bungo Stray Dogs: DEAD APPLE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt8391976"
+      }
     },
     {
       "id": "tt7941892",
       "type": "movie",
       "name": "Attack on Titan: The Roar of Awakening",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100465-ivKS0RqXg5dI.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100465-ivKS0RqXg5dI.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt7941892"
+      }
     },
     {
       "id": "tt6470762",
       "type": "movie",
       "name": "Mazinger Z: INFINITY",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98516-VvOfjUvuoV39.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98516-VvOfjUvuoV39.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt6470762"
+      }
     },
     {
       "id": "tt8098546",
       "type": "movie",
       "name": "Doraemon: Nobita no Takarajima",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99084-wbdkDmvL1edJ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99084-wbdkDmvL1edJ.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt8098546"
+      }
     },
     {
       "id": "tt7089878",
       "type": "movie",
       "name": "Liz and the Blue Bird",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100178-ezSKfxtNoGVs.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100178-ezSKfxtNoGVs.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt7089878"
+      }
     },
     {
       "id": "tt7451284",
       "type": "movie",
       "name": "Batman Ninja",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b100248-SFN3cl5cmI9O.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b100248-SFN3cl5cmI9O.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt7451284"
+      }
     },
     {
       "id": "tt8015080",
       "type": "movie",
       "name": "Godzilla: City on the Edge of Battle",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100561-UfF71wKjNiZ3.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100561-UfF71wKjNiZ3.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt8015080"
+      }
     },
     {
       "id": "tt7236034",
       "type": "movie",
       "name": "I Want to Eat Your Pancreas",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-NHafozHS8zRp.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-NHafozHS8zRp.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt7236034"
+      }
     },
     {
       "id": "tt7745068",
       "type": "movie",
       "name": "My Hero Academia: Two Heroes",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt7745068"
+      }
     },
     {
       "id": "tt6900448",
       "type": "movie",
       "name": "Mirai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100749-7Tptl7EAMAWH.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100749-7Tptl7EAMAWH.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt6900448"
+      }
     },
     {
       "id": "tt8076344",
       "type": "movie",
       "name": "Penguin Highway",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101249-NafhTVQfsxmC.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101249-NafhTVQfsxmC.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt8076344"
+      }
     },
     {
       "id": "tt8328740",
       "type": "movie",
       "name": "Okko's Inn",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101478-bo3xR8x2pc3i.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101478-bo3xR8x2pc3i.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt8328740"
+      }
     },
     {
       "id": "tt7961060",
       "type": "movie",
       "name": "Dragon Ball Super: Broly",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101302-7L0lcwYeFQQM.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt7961060"
+      }
     },
     {
       "id": "tt8478602",
       "type": "movie",
       "name": "Godzilla: The Planet Eater",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102353-CDQ0v6R8dgJ8.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102353-CDQ0v6R8dgJ8.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt8478602"
+      }
     },
     {
       "id": "tt9230958",
       "type": "movie",
       "name": "HUGtto! Precure ♡ Futari wa Precure All Stars Memories",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101908-jfqfDd92ZQEi.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101908-jfqfDd92ZQEi.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt9230958"
+      }
     }
   ]
 }

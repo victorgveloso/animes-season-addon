@@ -4,19 +4,28 @@
       "id": "tt0322645",
       "type": "movie",
       "name": "InuYasha the Movie: Affections Touching Across Time",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx452-8Gc0rCcsXwLj.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx452-8Gc0rCcsXwLj.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0322645"
+      }
     },
     {
       "id": "tt0347618",
       "type": "movie",
       "name": "The Cat Returns",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx597-sGQ5YXPMF0AS.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx597-sGQ5YXPMF0AS.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0347618"
+      }
     },
     {
       "id": "tt0291350",
       "type": "movie",
       "name": "Millennium Actress",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1033-d5p1pbd5qa4L.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1033-d5p1pbd5qa4L.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0291350"
+      }
     }
   ]
 }

@@ -4,55 +4,82 @@
       "id": "tt13288678",
       "type": "movie",
       "name": "Mobile Suit Gundam Hathaway",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105595-40ugr6S9NfOb.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105595-40ugr6S9NfOb.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13288678"
+      }
     },
     {
       "id": "tt13758684",
       "type": "movie",
       "name": "Fortune Favors Lady Nikuko",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127958-AxJzNaz3tFqO.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127958-AxJzNaz3tFqO.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13758684"
+      }
     },
     {
       "id": "tt13544716",
       "type": "movie",
       "name": "My Hero Academia: World Heroes' Mission",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13544716"
+      }
     },
     {
       "id": "tt12735338",
       "type": "movie",
       "name": "Words Bubble Up Like Soda Pop",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107625-2UIAI4TRwXz0.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107625-2UIAI4TRwXz0.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt12735338"
+      }
     },
     {
       "id": "tt13651628",
       "type": "movie",
       "name": "BELLE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127271-juJIu4WFTM8q.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127271-juJIu4WFTM8q.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt13651628"
+      }
     },
     {
       "id": "tt13884144",
       "type": "movie",
       "name": "The Seven Deadly Sins: Cursed by Light",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128740-xpjfCO2kpFdz.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128740-xpjfCO2kpFdz.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt13884144"
+      }
     },
     {
       "id": "tt14331144",
       "type": "movie",
       "name": "JUJUTSU KAISEN 0",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt14331144"
+      }
     },
     {
       "id": "tt13064272",
       "type": "movie",
       "name": "Sing a Bit of Harmony",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123899-AimlRWzAqpHC.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123899-AimlRWzAqpHC.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13064272"
+      }
     },
     {
       "id": "tt13057626",
       "type": "movie",
       "name": "Child of Kamiari Month",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118390-PEZaKViELb9y.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118390-PEZaKViELb9y.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt13057626"
+      }
     }
   ]
 }

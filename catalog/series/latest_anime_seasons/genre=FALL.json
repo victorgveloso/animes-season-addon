@@ -4,217 +4,325 @@
       "id": "tt9529546",
       "type": "series",
       "name": "The Rising of the Shield Hero Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111322-eyafNaFHiSlQ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx111322-eyafNaFHiSlQ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9529546"
+      }
     },
     {
       "id": "tt13706018",
       "type": "series",
       "name": "SPY x FAMILY Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158927-VhtOEwPQ4tzo.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158927-VhtOEwPQ4tzo.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt13706018"
+      }
     },
     {
       "id": "tt2560140",
       "type": "series",
       "name": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162314-xdkc7xVmr83C.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162314-xdkc7xVmr83C.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2560140"
+      }
     },
     {
       "id": "tt14115938",
       "type": "series",
       "name": "The Eminence in Shadow Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-chUYBE29hd1y.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx161964-chUYBE29hd1y.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt14115938"
+      }
     },
     {
       "id": "tt22248376",
       "type": "series",
       "name": "Sousou no Frieren",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-n9kWblePJJDf.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154587-n9kWblePJJDf.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt22248376"
+      }
     },
     {
       "id": "tt23830368",
       "type": "series",
       "name": "Dr. STONE: NEW WORLD Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b162670-Sv9mmiYn73Ad.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b162670-Sv9mmiYn73Ad.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt23830368"
+      }
     },
     {
       "id": "tt17542752",
       "type": "series",
       "name": "Saihate no Paladin: Tetsusabi no Yama no Ou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143085-yvDDZJwUKRWL.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143085-yvDDZJwUKRWL.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt17542752"
+      }
     },
     {
       "id": "tt20228246",
       "type": "series",
       "name": "Kanojo mo Kanojo 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154692-H1d1F1DIGq3k.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154692-H1d1F1DIGq3k.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt20228246"
+      }
     },
     {
       "id": "tt13196080",
       "type": "series",
       "name": "Tokyo Revengers: Tenjiku-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-IwFrtk7HkFQ9.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163329-IwFrtk7HkFQ9.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt13196080"
+      }
     },
     {
       "id": "tt21927720",
       "type": "series",
       "name": "Undead Unluck",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154116-JAVIME9SBdfe.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154116-JAVIME9SBdfe.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt21927720"
+      }
     },
     {
       "id": "tt22818494",
       "type": "series",
       "name": "I'm in Love with the Villainess",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158704-mNKiWMkoDrAu.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158704-mNKiWMkoDrAu.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt22818494"
+      }
     },
     {
       "id": "tt27120167",
       "type": "series",
       "name": "Shangri-La Frontier",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-qGhkXKWD9enA.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151970-qGhkXKWD9enA.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt27120167"
+      }
     },
     {
       "id": "tt27187053",
       "type": "series",
       "name": "Hametsu no Oukoku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160900-RVkEf6l1KbCv.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx160900-RVkEf6l1KbCv.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27187053"
+      }
     },
     {
       "id": "tt27053797",
       "type": "series",
       "name": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148862-GcNjytJhbkRs.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx148862-GcNjytJhbkRs.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27053797"
+      }
     },
     {
       "id": "tt15471900",
       "type": "series",
       "name": "Ragna Crimson",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146493-CqZyE9u7xgJ4.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146493-CqZyE9u7xgJ4.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15471900"
+      }
     },
     {
       "id": "tt9058134",
       "type": "series",
       "name": "KENGAN ASHURA Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146638-THVltMZx1WLk.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146638-THVltMZx1WLk.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9058134"
+      }
     },
     {
       "id": "tt15483602",
       "type": "series",
       "name": "Tensei Shitara Slime Datta Ken: Coleus no Yume",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161802-Ra8acfv0cSov.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx161802-Ra8acfv0cSov.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15483602"
+      }
     },
     {
       "id": "tt27460264",
       "type": "series",
       "name": "Ojou to Banken-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155527-VOnO7btt1tIw.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155527-VOnO7btt1tIw.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt27460264"
+      }
     },
     {
       "id": "tt21996318",
       "type": "series",
       "name": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154384-3tpmugzrVpE9.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154384-3tpmugzrVpE9.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt21996318"
+      }
     },
     {
       "id": "tt27679458",
       "type": "series",
       "name": "Overtake!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160515-TBRBYWdOysg8.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx160515-TBRBYWdOysg8.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt27679458"
+      }
     },
     {
       "id": "tt27489241",
       "type": "series",
       "name": "Dead Mount Death Play Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b162803-U2lkVpkVZMQl.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b162803-U2lkVpkVZMQl.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt27489241"
+      }
     },
     {
       "id": "tt15378218",
       "type": "series",
       "name": "Under Ninja",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138788-eRXc0ineFTKW.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138788-eRXc0ineFTKW.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15378218"
+      }
     },
     {
       "id": "tt27548413",
       "type": "series",
       "name": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154214-EAHthOVIxRkZ.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154214-EAHthOVIxRkZ.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt27548413"
+      }
     },
     {
       "id": "tt12648404",
       "type": "series",
       "name": "The IDOLM@STER Million Live!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120755-89DKmUHrMdGx.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120755-89DKmUHrMdGx.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt12648404"
+      }
     },
     {
       "id": "tt22167654",
       "type": "series",
       "name": "Paradox Live THE ANIMATION",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150077-40T50Llw8RyV.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150077-40T50Llw8RyV.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt22167654"
+      }
     },
     {
       "id": "tt28102247",
       "type": "series",
       "name": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156184-v1oRZoCPd6mG.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156184-v1oRZoCPd6mG.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt28102247"
+      }
     },
     {
       "id": "tt24017294",
       "type": "series",
       "name": "Mask Danshi wa Koishitakunai no ni",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162989-Poa8beg20qWZ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162989-Poa8beg20qWZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt24017294"
+      }
     },
     {
       "id": "tt16270188",
       "type": "series",
       "name": "Akuma Kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130706-pSTEGJZc25Fm.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130706-pSTEGJZc25Fm.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt16270188"
+      }
     },
     {
       "id": "tt15294526",
       "type": "series",
       "name": "Hypnosis Mic -Division Rap Battle- Rhyme Anima+",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163140-99mUhgXp8t5T.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163140-99mUhgXp8t5T.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15294526"
+      }
     },
     {
       "id": "tt27212605",
       "type": "series",
       "name": "Captain Tsubasa: Junior Youth Arc",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163024-nP2yPek1hoeB.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163024-nP2yPek1hoeB.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27212605"
+      }
     },
     {
       "id": "tt8526920",
       "type": "series",
       "name": "Firefighter Daigo: Rescuer in Orange",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158791-HNHck2GOv0PV.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158791-HNHck2GOv0PV.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8526920"
+      }
     },
     {
       "id": "tt27582860",
       "type": "series",
       "name": "B-PROJECT: Netsuretsu*Love Call",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126316-9qsI5EF4l9CQ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126316-9qsI5EF4l9CQ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27582860"
+      }
     },
     {
       "id": "tt27197973",
       "type": "series",
       "name": "Kibou no Chikara: Otona Precure '23",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162720-cGaeZOFfpFvc.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162720-cGaeZOFfpFvc.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27197973"
+      }
     },
     {
       "id": "tt25375244",
       "type": "series",
       "name": "DOG SIGNAL",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160514-mBLbg052h7Z4.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx160514-mBLbg052h7Z4.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt25375244"
+      }
     },
     {
       "id": "tt15433166",
       "type": "series",
       "name": "GUNDAM BUILD METAVERSE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163204-gT8mIUIrC1lI.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163204-gT8mIUIrC1lI.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15433166"
+      }
     },
     {
       "id": "tt27452735",
       "type": "series",
       "name": "BEYBLADE X",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt27452735"
+      }
     }
   ]
 }

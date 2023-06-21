@@ -4,127 +4,190 @@
       "id": "tt5249462",
       "type": "series",
       "name": "ERASED",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21234-v2NMgPyoVRoM.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21234-v2NMgPyoVRoM.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5249462"
+      }
     },
     {
       "id": "tt5370118",
       "type": "series",
       "name": "KONOSUBA -God's blessing on this wonderful world!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-TfzXuWQf2oLQ.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-TfzXuWQf2oLQ.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt5370118"
+      }
     },
     {
       "id": "tt3837246",
       "type": "series",
       "name": "Assassination Classroom 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-aDHIDkp1L2jC.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-aDHIDkp1L2jC.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3837246"
+      }
     },
     {
       "id": "tt4958580",
       "type": "series",
       "name": "Gate 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21364-6ikYd5J46dt0.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21364-6ikYd5J46dt0.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt4958580"
+      }
     },
     {
       "id": "tt5626028",
       "type": "series",
       "name": "My Hero Academia",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5626028"
+      }
     },
     {
       "id": "tt5607616",
       "type": "series",
       "name": "Re:ZERO -Starting Life in Another World-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-IHaS50pvLYd0.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-IHaS50pvLYd0.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5607616"
+      }
     },
     {
       "id": "tt5679720",
       "type": "series",
       "name": "Bungo Stray Dogs",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5679720"
+      }
     },
     {
       "id": "tt5556656",
       "type": "series",
       "name": "Kabaneri of the Iron Fortress",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21196-2PfPfIDrxKki.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21196-2PfPfIDrxKki.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5556656"
+      }
     },
     {
       "id": "tt5637108",
       "type": "series",
       "name": "Twin Star Exorcists",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21499-JCxvIXc27mVT.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21499-JCxvIXc27mVT.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5637108"
+      }
     },
     {
       "id": "tt5603356",
       "type": "series",
       "name": "Ace Attorney",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21360-H6yRBVYEEodS.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21360-H6yRBVYEEodS.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt5603356"
+      }
     },
     {
       "id": "tt4801510",
       "type": "series",
       "name": "Ushio and Tora 2 (TV)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21241-Avzz7tcb0yTy.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21241-Avzz7tcb0yTy.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt4801510"
+      }
     },
     {
       "id": "tt3124992",
       "type": "series",
       "name": "Sailor Moon Crystal Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21462-bRbgZYf4Sgxj.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21462-bRbgZYf4Sgxj.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt3124992"
+      }
     },
     {
       "id": "tt5897304",
       "type": "series",
       "name": "Mob Psycho 100",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5897304"
+      }
     },
     {
       "id": "tt6354518",
       "type": "series",
       "name": "The Disastrous Life of Saiki K.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21804-AAjWfz9JY1EO.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21804-AAjWfz9JY1EO.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt6354518"
+      }
     },
     {
       "id": "tt5862798",
       "type": "series",
       "name": "NEW GAME!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21455-XZTQ8Fmii75j.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21455-XZTQ8Fmii75j.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5862798"
+      }
     },
     {
       "id": "tt0318871",
       "type": "series",
       "name": "Berserk (2016)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21560-6iifjdssfebJ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21560-6iifjdssfebJ.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0318871"
+      }
     },
     {
       "id": "tt3398540",
       "type": "series",
       "name": "HAIKYU!! 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt3398540"
+      }
     },
     {
       "id": "tt5679720",
       "type": "series",
       "name": "Bungo Stray Dogs 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21679-9MKdz1A7YLV7.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21679-9MKdz1A7YLV7.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5679720"
+      }
     },
     {
       "id": "tt6074794",
       "type": "series",
       "name": "March comes in like a lion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21366-qp94AxKx6ZaM.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21366-qp94AxKx6ZaM.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt6074794"
+      }
     },
     {
       "id": "tt5373222",
       "type": "series",
       "name": "My Wife is the Student Council President+!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21610-fXJmOc3wQQoX.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21610-fXJmOc3wQQoX.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt5373222"
+      }
     },
     {
       "id": "tt1352421",
       "type": "series",
       "name": "Natsume's Book of Friends 5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21710-Y20fKQviC3hL.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21710-Y20fKQviC3hL.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1352421"
+      }
     }
   ]
 }

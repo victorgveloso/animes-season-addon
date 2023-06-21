@@ -4,43 +4,64 @@
       "id": "tt0876563",
       "type": "movie",
       "name": "Ponyo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2890-wcNtFr6aUYOR.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2890-wcNtFr6aUYOR.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0876563"
+      }
     },
     {
       "id": "tt1160524",
       "type": "movie",
       "name": "Naruto Shippuden the Movie: Bonds",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4437-8LQbBZo4N6yi.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4437-8LQbBZo4N6yi.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1160524"
+      }
     },
     {
       "id": "tt1260502",
       "type": "movie",
       "name": "Ghost in the Shell 2.0",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4672-NFXxVPGXSZQB.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4672-NFXxVPGXSZQB.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt1260502"
+      }
     },
     {
       "id": "tt1056437",
       "type": "movie",
       "name": "The Sky Crawlers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3089-AVjAzlLaN7SQ.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3089-AVjAzlLaN7SQ.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1056437"
+      }
     },
     {
       "id": "tt1288461",
       "type": "movie",
       "name": "Gurren Lagann The Movie: Childhood's End",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4107-0HoA3JAMzJRU.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4107-0HoA3JAMzJRU.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1288461"
+      }
     },
     {
       "id": "tt1313120",
       "type": "movie",
       "name": "Hells",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4983-t1MpNzFXqW8u.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4983-t1MpNzFXqW8u.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1313120"
+      }
     },
     {
       "id": "tt1174954",
       "type": "movie",
       "name": "Resident Evil: Degeneration",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3446-XRV0WtztbCSq.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3446-XRV0WtztbCSq.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1174954"
+      }
     }
   ]
 }

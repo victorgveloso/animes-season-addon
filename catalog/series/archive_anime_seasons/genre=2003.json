@@ -4,85 +4,127 @@
       "id": "tt0409630",
       "type": "series",
       "name": "Texhnolyze",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx26-u2SawALYH3w3.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx26-u2SawALYH3w3.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0409630"
+      }
     },
     {
       "id": "tt0390733",
       "type": "series",
       "name": "Last Exile",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97-Loi1Ppy4quXy.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97-Loi1Ppy4quXy.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0390733"
+      }
     },
     {
       "id": "tt0455295",
       "type": "series",
       "name": "Zatch Bell!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b250-K6QoqgSmtsPo.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b250-K6QoqgSmtsPo.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0455295"
+      }
     },
     {
       "id": "tt0366004",
       "type": "series",
       "name": "D.N.Angel",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/61.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/61.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0366004"
+      }
     },
     {
       "id": "tt0367413",
       "type": "series",
       "name": "Sonic X",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1816-wOnz97Eb1sZJ.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1816-wOnz97Eb1sZJ.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0367413"
+      }
     },
     {
       "id": "tt0409612",
       "type": "series",
       "name": "Scrapped Princess",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b167-qwMN7Wmlen5s.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b167-qwMN7Wmlen5s.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0409612"
+      }
     },
     {
       "id": "tt0444953",
       "type": "series",
       "name": "Kaleido Star",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx427-tlbAV0iPJjG1.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx427-tlbAV0iPJjG1.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0444953"
+      }
     },
     {
       "id": "tt4415288",
       "type": "series",
       "name": "Mermaid Melody: Pichi Pichi Pitch",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b521-56QyN5Q8mWx7.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/b521-56QyN5Q8mWx7.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt4415288"
+      }
     },
     {
       "id": "tt0400690",
       "type": "series",
       "name": "Ninja Scroll: The Series",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/618.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/618.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0400690"
+      }
     },
     {
       "id": "tt0056739",
       "type": "series",
       "name": "Astro Boy (2003)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx971-zUOKQLxg0pL2.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx971-zUOKQLxg0pL2.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0056739"
+      }
     },
     {
       "id": "tt1286677",
       "type": "series",
       "name": "Forbidden Love",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/1510.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/1510.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt1286677"
+      }
     },
     {
       "id": "tt0421357",
       "type": "series",
       "name": "Fullmetal Alchemist",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0421357"
+      }
     },
     {
       "id": "tt0434670",
       "type": "series",
       "name": "Chrono Crusade",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx60-N28VFNCZyvhI.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx60-N28VFNCZyvhI.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt0434670"
+      }
     },
     {
       "id": "tt13146488",
       "type": "series",
       "name": "Peacemaker",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161-oa4X4lL0KUO4.png"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161-oa4X4lL0KUO4.png",
+      "behaviourHints": {
+        "defaultVideoId": "tt13146488"
+      }
     }
   ]
 }

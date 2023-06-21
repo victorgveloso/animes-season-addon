@@ -4,31 +4,46 @@
       "id": "tt0293416",
       "type": "movie",
       "name": "Metropolis",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx522-4Sp8QlrufkG5.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx522-4Sp8QlrufkG5.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0293416"
+      }
     },
     {
       "id": "tt0832449",
       "type": "movie",
       "name": "One Piece: Clockwork Island Adventure",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx460-p9HObfGUhWn0.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx460-p9HObfGUhWn0.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0832449"
+      }
     },
     {
       "id": "tt0804905",
       "type": "movie",
       "name": "Digimon Adventure 02: Revenge of Diaboromon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/2398.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/2398.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0804905"
+      }
     },
     {
       "id": "tt0245429",
       "type": "movie",
       "name": "Spirited Away",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0245429"
+      }
     },
     {
       "id": "tt0173840",
       "type": "movie",
       "name": "Final Fantasy: The Spirits Within",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1361-jyjigHHRkzMO.jpg"
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1361-jyjigHHRkzMO.jpg",
+      "behaviourHints": {
+        "defaultVideoId": "tt0173840"
+      }
     }
   ]
 }
