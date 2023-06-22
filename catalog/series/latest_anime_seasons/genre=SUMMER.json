@@ -187,8 +187,12 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139606-LrYkytn7fVwt.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt25697580"
+<<<<<<< HEAD
       },
       "description": "Genres: Action, Fantasy, Slice of Life\nTags:Female Harem/School\nThe story is set in Rosewood Academy, a school that trains future heroes destined to protect mankind. The school accepts only those with the most potential. Arnest Flaming, a girl who boasts the top record in the academy, is assigned to guide a mysterious but cheerful new student named Blade who rivals her own power.<br>\n<br>\n(Source: Anime News Network)"
+=======
+      }
+>>>>>>> f35b5e1b2309635b76942d459e2ea6625e192fec
     },
     {
       "id": "tt2320220",
