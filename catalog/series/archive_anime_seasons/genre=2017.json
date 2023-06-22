@@ -1,175 +1,14 @@
 {
   "metas": [
     {
-      "id": "tt5370118",
-      "type": "series",
-      "name": "KONOSUBA -God's blessing on this wonderful world! 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21699-Fkbnkl9ZC6fW.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt5370118"
-      }
-    },
-    {
-      "id": "tt6185782",
-      "type": "series",
-      "name": "Miss Kobayashi's Dragon Maid",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21776-FJiPcLQHeTiV.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt6185782"
-      }
-    },
-    {
-      "id": "tt6455986",
-      "type": "series",
-      "name": "Saga of Tanya the Evil",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21613-uh46F6TNGbNf.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt6455986"
-      }
-    },
-    {
-      "id": "tt6402190",
-      "type": "series",
-      "name": "Masamune-kun's Revenge",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21857-haPDVD7DKDpg.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt6402190"
-      }
-    },
-    {
-      "id": "tt1799631",
-      "type": "series",
-      "name": "Blue Exorcist: Kyoto Saga",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21861-KDvJJQenJJlT.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1799631"
-      }
-    },
-    {
-      "id": "tt6352180",
-      "type": "series",
-      "name": "Little Witch Academia (TV)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21858-Pfp8zrJEfPrd.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt6352180"
-      }
-    },
-    {
-      "id": "tt0988818",
-      "type": "series",
-      "name": "Gintama Season 5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97889-NWQVqODOuBqI.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0988818"
-      }
-    },
-    {
-      "id": "tt2942228",
-      "type": "series",
-      "name": "Yowamushi Pedal New Generation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21407-BJkuBRUf3SgN.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt2942228"
-      }
-    },
-    {
-      "id": "tt2560140",
-      "type": "series",
-      "name": "Attack on Titan Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt2560140"
-      }
-    },
-    {
-      "id": "tt5626028",
-      "type": "series",
-      "name": "My Hero Academia Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21856-gutauxhWAwn6.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt5626028"
-      }
-    },
-    {
-      "id": "tt4731072",
-      "type": "series",
-      "name": "Food Wars! The Second Plate OVA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98702-Ao74l33hWMDL.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt4731072"
-      }
-    },
-    {
-      "id": "tt8372010",
-      "type": "series",
-      "name": "Tsugumomo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97625-t6a6xQjttcCU.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt8372010"
-      }
-    },
-    {
-      "id": "tt6901486",
-      "type": "series",
-      "name": "Seven Mortal Sins",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20705-X2uRDZWD6xGn.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt6901486"
-      }
-    },
-    {
-      "id": "tt1352421",
-      "type": "series",
-      "name": "Natsume's Book of Friends 6",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97983-Uqn04SR6hVW9.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1352421"
-      }
-    },
-    {
-      "id": "tt0318871",
-      "type": "series",
-      "name": "Berserk 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97643-5s3MVIfTYIuQ.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0318871"
-      }
-    },
-    {
-      "id": "tt0073955",
-      "type": "series",
-      "name": "Alice & Zoroku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97821-r0s6HIGMYOVh.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt0073955"
-      }
-    },
-    {
-      "id": "tt5862798",
-      "type": "series",
-      "name": "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97637-rNs2Yd3OvBAx.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt5862798"
-      }
-    },
-    {
-      "id": "tt5628740",
-      "type": "series",
-      "name": "Yu-Gi-Oh! VRAINS",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98231-mPVCPWmg3KiL.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt5628740"
-      }
-    },
-    {
       "id": "tt7131720",
       "type": "series",
       "name": "Kakegurui",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98314-BWpNNKOmiUoe.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt7131720"
-      }
+      },
+      "description": "Genres: Drama, Mystery, Psychological\nTags:Gambling/Female Protagonist/School/Primarily Female Cast/Shounen/Body Horror/Masochism/Ojou-sama/Primarily Teen Cast/Poker/School Club/Bullying/Slavery/Yandere/Death Game/Anti-Hero/Villainess/Delinquents/Guns/Idol/Male Protagonist/Battle Royale\nDuring daylight hours, an exclusive, elite private school prepares its illustrious students for careers in business, politics, and high society. But when darkness falls, the halls of this esteemed establishment transform into an underground gambling den where bright-eyed youngsters learn the timeless art of bluffing, backdoor dealings and social manipulation. In this school for the rich and elite, money is power, and the tyrant of the betting books rules with an iron fist. So when the beautiful Yumeko Jabami upsets the academy hierarchy with her voracious appetite for the thrill of the gamble, the entire student body mobilizes to send her house of cards tumbling down.<br>\n<br>\n(Source: Sentai Filmworks)"
     },
     {
       "id": "tt7222086",
@@ -178,7 +17,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-8oxwTF84hzue.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt7222086"
-      }
+      },
+      "description": "Genres: Adventure, Drama, Fantasy, Horror, Mystery, Sci-Fi\nTags:Survival/Primarily Child Cast/Environmental/Chibi/Travel/Dungeon/Philosophy/Lost Civilization/Seinen/Female Protagonist/Robots/Male Protagonist/Steampunk/Cosmic Horror/Nudity/Food/Tanned Skin/Maids/Agender/Crossdressing\nThe \"Abyss\" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as \"Cave Raiders.\" An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts exploring the caves and discovers a robot who resembles a human boy.<br><br>\n\n(Source: Anime News Network, edited)\n<br><br>\n<i>Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i>"
     },
     {
       "id": "tt7263328",
@@ -187,7 +27,38 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98659-sH5z5RfMuyMr.png",
       "behaviorHints": {
         "defaultVideoId": "tt7263328"
-      }
+      },
+      "description": "Genres: Drama, Psychological\nTags:School/Ensemble Cast/Male Protagonist/Coming of Age/Primarily Teen Cast/Philosophy/Battle Royale/Tsundere/Survival/School Club/Kuudere/Female Protagonist/Female Harem/LGBTQ+ Themes\nKoudo Ikusei Senior High School is a leading school with state-of-the-art facilities. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is like a utopia, but the truth is that only the most superior students receive favorable treatment.<br><br>\n\nKiyotaka Ayanokouji is a student of D-class, which is where the school dumps its \"inferior\" students in order to ridicule them. For a certain reason, Kiyotaka was careless on his entrance examination, and was put in D-class. After meeting Suzune Horikita and Kikyou Kushida, two other students in his class, Kiyotaka's situation begins to change. <br><br>\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "tt7155052",
+      "type": "series",
+      "name": "Tsuredure Children",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98291-LY6txxZTX8We.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7155052"
+      },
+      "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:Ensemble Cast/School/Heterosexual/Episodic/Coming of Age/Primarily Teen Cast/Shounen/Kuudere/Tsundere/School Club/Achronological Order\nTo those of you out there who never could say \"I love you\"— This story is about ordinary highschoolers and how love makes them fired up, shaken, laugh, cry, and hurt. Whether things go well or not, this story of adolescence and romance will show you how they spend their precious youth. Every character is the main character here, and you're sure to find one you can sympathize with.<br><br>\n\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt7163698",
+      "type": "series",
+      "name": "GAMERS!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97766-AKr0m3uHkKyW.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7163698"
+      },
+      "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:Love Triangle/Parody/Video Games/School/Otaku Culture/Slapstick/Meta/School Club/Heterosexual/Tsundere/Nudity/Primarily Teen Cast/Football\nKeita Amano is a fan of one thing: gaming! Whether he’s on his phone or console, he just loves playing video games. And when the beautiful president of the game club, Karen Tendou, invites him to join, it seems like an EZ choice. Except, he declines! KO’d by the shock, Karen suddenly makes getting close to Amano her main quest. But she’s not the only one interested in him!<br>\n<br>\n(Source: Funimation)"
+    },
+    {
+      "id": "tt7088332",
+      "type": "series",
+      "name": "In Another World With My Smartphone",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98491-5vyX89aabiHz.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7088332"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy, Romance\nTags:Isekai/Male Protagonist/Female Harem/Magic/Anachronism/Twins/Heterosexual/Kemonomimi/Kuudere/Primarily Female Cast\nAfter a freak accident involving some lightning winds up zapping him dead, 15-year-old Mochizuki Touya wakes up to find himself face-to-face with God. “I am afraid to say that I have made a bit of a blunder...” laments the old coot. But all is not lost! God says that he can reincarnate Touya into a world of fantasy, and as a bonus, he gets to bring his smartphone along with! So begins Touya's adventure in a new, anachronistic pseudo-medieval world. Friends! Laughs! Tears! Inexplicable Deus ex Machina! He sets off on a journey full of wonder as he absentmindedly travels from place to place, following whatever goal catches his fancy. The curtains lift on an epic tale of swords, sorcery, and smartphone apps!<br><br>(Source: J-Novel Club)"
     },
     {
       "id": "tt6424454",
@@ -196,7 +67,48 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98035-rdkjeqUUsG2j.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt6424454"
-      }
+      },
+      "description": "Genres: Action, Drama, Fantasy, Supernatural\nTags:Battle Royale/Mythology/War/Urban Fantasy/Femboy/Magic/Gender Bending/Ensemble Cast/Foreign/Death Game/Swordplay/Tomboy/Archery\nThere was once a Holy Grail War waged by Mages and Heroic Spirits in a town of Fuyuki. However, one Mage took advantage of the chaos of World War II to steal a Holy Grail. Several decades have passed, and the Yggdmillennia family, who took upon the Holy Grail as its symbol, defected from the Mages' Association. Furious, the Association sent forces to deal with the Yggdmillennia, but were defeated. With the Holy Grail system changed, war at an unprecedented scale breaks out.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6538106",
+      "type": "series",
+      "name": "My First Girlfriend is a Gal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97863-79AXrUZ7VQa5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6538106"
+      },
+      "description": "Genres: Comedy, Ecchi, Romance, Slice of Life\nTags:Gyaru/Male Protagonist/Female Harem/Heterosexual/Shounen/School/Tsundere/Tanned Skin/Parody\nJunichi Hashiba is nearing the end of high school and going into panic mode. His time here has not gone as expected: he has no girlfriend and worse yet—he’s still a virgin! Desperate to experience the big ‘first,’ his friends pressure him to approach the gyaru—a fashionable and boy-crazy gal—Yukana Yame for a good time. But his first mistake was thinking this gal would be an easy one!\n<br><br>\n(Source: Funimation)"
+    },
+    {
+      "id": "tt7136968",
+      "type": "series",
+      "name": "AHO-GIRL",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98251-RAgDWqnspedR.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7136968"
+      },
+      "description": "Genres: Comedy, Romance\nTags:Slapstick/Female Protagonist/Primarily Female Cast/School/Shounen/Heterosexual/Male Protagonist/Animals/Delinquents/Female Harem/Gyaru\nYoshiko Hanabatake is an idiot beyond all belief. Somehow managing to consistently score zeroes on all of her tests and consumed by an absurd obsession with bananas, her senseless acts have caused even her own mother to lose all hope. Only one person is up to the task of keeping her insanity in check: childhood friend Akuru \"A-kun\" Akutsu.\n<br><br>\nThough he bemoans the ridiculous behavior he has to endure, the studious but terrifying A-kun is always ready to put an end to any stupidity Yoshiko gets up to, with no qualms about using physical force. Unfortunately, no matter how many times he attempts to knock some sense into her, the girl bounces right back to her usual shenanigans, even dragging in some other eccentrics along for the ride. Try as he might to rein in her nonsense, every moment is unpredictable with Yoshiko and her profound idiocy on the loose.\n<br><br>\n(Source: MAL Rewrite)"
+    },
+    {
+      "id": "tt5274556",
+      "type": "series",
+      "name": "Owarimonogatari Second Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21745-vHwC1VKoL6zf.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5274556"
+      },
+      "description": "Genres: Comedy, Mystery, Psychological, Romance, Supernatural\nTags:Urban Fantasy/Philosophy/Coming of Age/Primarily Female Cast/Male Protagonist/Vampire/Heterosexual/Ghost/Achronological Order/Primarily Teen Cast/Astronomy/School/Tsundere\nThird season of the Monogatari Series, part 4/5. Contains the arcs Mayoi Hell, Hitagi Rendezvous, and Ougi Dark from the Owarimonogatari light novels.\n<br><br>\nKoyomi wakes up to see Mayoi Hachikuji before him, the girl who supposedly had gone to the afterlife. She tells Koyomi that they are currently in Avichi, the lowest levels of hell. Koyomi is dubious of how Mayoi knew about the exact timing of his death and which hell he would drop into, when Mayoi tells him that she was there to pick him up by the request of a certain individual.\n<br><br>\n(Source: Aniplex)"
+    },
+    {
+      "id": "tt7158574",
+      "type": "series",
+      "name": "LOVE and LIES",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98320-VwCcTBeEs08J.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7158574"
+      },
+      "description": "Genres: Drama, Romance\nTags:Love Triangle/Heterosexual/School/Male Protagonist/Coming of Age/Tsundere/Dystopian/Shounen/Mixed Gender Harem/Yandere\nIn a world where the government assigns you a marriage partner once you turn sixteen, Yukari Nejima, a below average teen, confesses to his childhood crush Misaki Takasaki on the eve of his sixteenth birthday… only to find out that he has been assigned to Ririna Sanada instead.\n<br><br>\nWould you rather choose the girl you have always loved, or the girl you met because you were told she was your partner? Which one is love? Which one is a lie? There is only one way to find out!"
     },
     {
       "id": "tt5370118",
@@ -205,7 +117,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97996-px2KGexuEZpg.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt5370118"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Isekai/Satire/Parody/Chuunibyou/Primarily Female Cast/Magic/Swordplay/Gods/Male Protagonist/Iyashikei\nAn unaired episode bundled with the 12th volume of the light novel.<br>\n<br>\nAfter returning from his trip to Arcanretia, Kazuma is living life without a care in the world, thanks to his debts being all paid off by the reward money he earned from eliminating one of the Devil King's generals, Hans. One day, a rookie adventurer named Ran comes up to him in the Guild Hall asking for a handshake. She's apparently become a fan of Kazuma after his consecutive defeat of the Devil King's generals! This puts him in an amazing mood, but it's not long before the Guild receptionist Luna appears, asking him to take on a quest to eliminate a golem. Wanting to look good in front of a fan, Kazuma ends up accepting, and heads towards ancient ruins with Aqua, Megumin, and Darkness in tow.<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt7161104",
@@ -214,7 +127,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98005-kwoBQIEeXa8J.png",
       "behaviorHints": {
         "defaultVideoId": "tt7161104"
-      }
+      },
+      "description": "Genres: Drama, Romance, Sports\nTags:Dancing/Male Protagonist/Primarily Teen Cast/Coming of Age/Shounen/Heterosexual/Ensemble Cast/School/CGI\nFujita has drifted through middle school aimlessly, unable to find friends or anything that can hold his attention. Then, one day, he's attacked by a gang and saved by a mysterious man. But this isn't a karate master; it's a ballroom dance instructor! Reluctantly, Fujita takes a few beginner's classes, only to find his inspiration... an entrancing, teenage dance prodigy named Shizuku.\n<br>\nIt's Fujita's first step into the high-octane world of competitive dance!\n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt5862798",
@@ -223,7 +137,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98292-MjBqoQt8fjzF.png",
       "behaviorHints": {
         "defaultVideoId": "tt5862798"
-      }
+      },
+      "description": "Genres: Slice of Life\nTags:Work/Cute Girls Doing Cute Things/Video Games/Software Development/Primarily Female Cast/Primarily Adult Cast/Female Protagonist/Office Lady/Seinen/Drawing/Otaku Culture/Tomboy/Airsoft/Episodic/Cosplay/LGBTQ+ Themes/Tanned Skin/College\nThe second season of <i>New Game!</i>.<br>\n<br>\nAoba Suzukaze starts another year designing characters at Eagle Jump, and she can’t wait to meet the newbie recruits…if any are hired. But before she can even unlock her senpai status, she finds herself in a lead designer position for the company’s newest game! Following in her manager’s footsteps, Aoba’s gotta get good if she wants her skills to compete with Ko Yagami’s. Working hard alongside some interesting new coworkers, only time will tell if Aoba gets her best ending.<br>\n<br>\n(Source: Funimation)"
     },
     {
       "id": "tt6185782",
@@ -232,7 +147,58 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98580-JuYPIA1BumA5.png",
       "behaviorHints": {
         "defaultVideoId": "tt6185782"
-      }
+      },
+      "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Yuri/Female Protagonist/Dragons/Primarily Female Cast/Monster Girl/Maids/Cute Girls Doing Cute Things/Urban Fantasy/LGBTQ+ Themes/Office Lady/Magic/Nudity/Tsundere/Seinen/Isekai/Large Breasts\nOn Valentine's Day, Tohru attempts to give Kobayashi some chocolates containing a love potion, but she quickly sees through her plan. However, Kobayashi ends up eating some of it after mistaking it for chocolate Kanna received, although the love potion gets cancelled out by some alcohol that was included in the chocolate. Later, Makoto invites everyone on a trip to a hot spring inn, where Tohru gives Kobayashi some regular chocolates.<br>\n<br>\n<i>Note: Unaired episode 14  included with the volume 7 BD/DVD release of Kobayashi-san Chi no Maidragon.</i>"
+    },
+    {
+      "id": "tt6692956",
+      "type": "series",
+      "name": "Princess Principal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98505-uxUXC7fQ9lMk.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6692956"
+      },
+      "description": "Genres: Action, Adventure, Sci-Fi\nTags:Espionage/Female Protagonist/Steampunk/Primarily Female Cast/Foreign/Achronological Order/Urban Fantasy/Episodic/Historical/Guns/Assassins/Anti-Hero/Trains/Kuudere/Primarily Teen Cast/School\nThe \"spy action\" series follows five girls in 19th century London, a city within the Albion Kingdom divided into east and west by a large wall. The girls serve as undercover spies enrolled as students at the prestigious Queen's Mayfair school. The girls make use of their individual abilities to remain active in the underground world of disguise, espionage, infiltration, and car chases.<br><br>\n\n(Source: Official Website)"
+    },
+    {
+      "id": "tt7224994",
+      "type": "series",
+      "name": "Restaurant to Another World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97617-TmRRraupfbT5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7224994"
+      },
+      "description": "Genres: Fantasy, Slice of Life\nTags:Food/Work/Isekai/Ensemble Cast/Episodic/Monster Girl/Elf/Demons/Dragons/Mermaid/Fairy/Primarily Adult Cast\nThere is a certain restaurant in the first basement level of a multi-tenant building in one corner of a shopping street near the office district. The historical restaurant, marked by a sign with a picture of a cat, is called \"Western Cuisine Nekoya.\" This restaurant looks completely normal through the week, but on Saturdays, it opens in secret exclusively to some very unique guests. During these hours, doors in various areas of a parallel world open to allow customers of many different races and cultures into the restaurant.\n<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt7124066",
+      "type": "series",
+      "name": "Knight's & Magic",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97663-4TMJDIpm3toz.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7124066"
+      },
+      "description": "Genres: Action, Fantasy, Mecha\nTags:Magic/Isekai/Real Robot/Super Robot/CGI/War/Demons/Espionage/Twins/Male Protagonist/School\nA Japanese mecha otaku dies in a car accident and his soul is reincarnated into another world as Ernesti Echevarria. Eru inherits memories and interests from his previous life, and aims to be a pilot of a Silhouette Knight, a large humanoid weapon that really exists in his world.<br><br>(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7263380",
+      "type": "series",
+      "name": "Clean Freak! Aoyama kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98205-C94S2Cqj4lL2.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7263380"
+      },
+      "description": "Genres: Comedy, Sports\nTags:Male Protagonist/Football/Slapstick/School/Seinen/Disability/Chibi/School Club/Primarily Teen Cast/Primarily Child Cast/Asexual\nAoyama, the handsome young soccer genius that's a representative of Japan. His play style is \"cleanliness.\" He doesn't tackle and doesn't head the ball. If he's doing a throw-in, he'll only do it if he's wearing gloves.<br><br>\n\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "tt13887556",
+      "type": "series",
+      "name": "Thus Spoke Rohan Kishibe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21778-pCUJjJuP7Pmd.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt13887556"
+      },
+      "description": "Genres: Horror, Mystery, Supernatural\nTags:Super Power/Urban Fantasy/Male Protagonist/Episodic/Primarily Adult Cast/Body Horror/Fitness/Gore/Shounen/Primarily Male Cast\nAn OAD that will be distributed to customers who buy all 13 DVD or Blu-ray Disc volumes of the JoJo's Bizarre Adventure: Diamond Is Unbreakable anime.<br><br>\n\nAdapts <i>Fugou Mura</i>, <i>Zangeshitsu</i>, <i>The Run</i>, and <i>Mutsukabezaka</i>.<br><br>\n\n(Source: Anime News Network)"
     },
     {
       "id": "tt5679720",
@@ -241,7 +207,128 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21791-OIFsu8KC77Da.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt5679720"
-      }
+      },
+      "description": "Genres: Action, Comedy, Mystery, Supernatural\nTags:Seinen/Male Protagonist/Super Power/Terrorism/Detective/Crime/Guns/Swordplay/Philosophy/Kuudere/Urban Fantasy\nBundled with the 13th volume of the Bungou Stray Dogs manga, adapting Chapter 40 of the manga."
+    },
+    {
+      "id": "tt6994582",
+      "type": "series",
+      "name": "Hitorijime My Hero",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx87494-jzaf0chomVA9.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6994582"
+      },
+      "description": "Genres: Romance, Slice of Life\nTags:Boys' Love/LGBTQ+ Themes/Primarily Male Cast/School/Teacher/Gangs/Cute Boys Doing Cute Things\nHigh schooler Masahiro Setagawa is a fairly helpless delinquent, so much so that the neighborhood bullies use him to run their errands. His life changes when he meets high school teacher Kousuke Oshiba, a man whose fighting abilities have earned him a powerful reputation on the streets. Oshiba finds himself with a desire to protect Setagawa, and despite swearing that he's not interested in men, Setagawa finds himself getting more involved in Oshiba's affairs...\n<br><br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "tt7122440",
+      "type": "series",
+      "name": "Netsuzou Trap -NTR-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97833-R2FRkUNvngIf.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7122440"
+      },
+      "description": "Genres: Drama, Ecchi, Romance\nTags:Yuri/Female Protagonist/Love Triangle/Nudity/Bisexual/School/Bullying/Maids\nYuma and Hotaru have been friends since childhood. It is only natural that when Yuma is nervous about her new boyfriend, she asks Hotaru along with her boyfriend for a double date. But when Hotaru offers herself to Yuma as \"practice,\" both girls realize that they're more interested in each other than they are in their own boyfriends.\n<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt8503628",
+      "type": "series",
+      "name": "Katsugeki TOUKEN RANBU",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21742-T7UH2A8EKRv4.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8503628"
+      },
+      "description": "Genres: Action, Drama, Fantasy\nTags:Samurai/Historical/Swordplay/Primarily Male Cast/CGI\nThe year is 1863, the tumultuous samurai era is coming to an end. Japan is split between the pro-shogunate and anti-shogunate factions. The fate of the world is threatened as an army of historical revisionists are sent from the future to alter the course of history. In order to bring these forces down and protect the real history, two sword warriors, spirits who are swords brought to life by Saniwa (sage), rush to Edo with a lively gang of warriors to confront the invaders."
+    },
+    {
+      "id": "tt9728264",
+      "type": "series",
+      "name": "Convenience Store Boy Friends",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98631-0kMzIHmPycbF.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt9728264"
+      },
+      "description": "Genres: Romance, Slice of Life\nTags:Coming of Age/School\nSix students are each getting on with their lives, and all of them will visit the nearby convenience store after school.<br><br>\n\nEach goes there for different reasons: to eat ice cream after club activities, to get the latest issue of this week's game magazine, to purchase ingredients, to meet friends, or to stock up on their favorite food. The convenience store becomes the place they can relax and make small memories.<br><br>(Source: Official Website, edited)"
+    },
+    {
+      "id": "tt7858928",
+      "type": "series",
+      "name": "A Centaur's Life",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98519-SmTrl0rF59dm.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7858928"
+      },
+      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Monster Girl/Centaur/Female Protagonist/School/Primarily Female Cast/Cute Girls Doing Cute Things/Politics/Dystopian/Seinen/Nudity/LGBTQ+ Themes\nHimeno is a sweet, shy girl, who struggles with the high school life. The difference is she's a centaur; but she's not alone. In fact, all of her classmates are supernatural creatures, sporting horns, wings, tails, halos, or some other unearthly body appendage. Yet despite their fantastical natures, Himeno and her best friends are down-to-earth, fun-loving teenagers who grapple with issues of life and love.\n<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt7418688",
+      "type": "series",
+      "name": "Fastest Finger First",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97979-H318A31npNCh.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7418688"
+      },
+      "description": "Genres: Comedy, Slice of Life, Sports\nTags:School Club/Educational/School/Seinen/Video Games/Otaku Culture\nBunzou High School is welcoming its new first-year students. One of them, Koshiyama Shiki, is chosen to participate against his will in an impromptu fast-buzzing quiz meet by the president of the Quiz Bowl Circle. As a quiet boy who loves reading and doesn't want to stand out, Shiki is overwhelmed, but his classmate, Fukami Mari, is able to hit the buzzer and answer questions before the full question is given. As he watches her, Shiki realizes that there's a point in each question where the answer becomes certain.\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt7230846",
+      "type": "series",
+      "name": "Altair: A Record of Battles",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97984-6xwATnrownC5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7230846"
+      },
+      "description": "Genres: Adventure, Drama, Fantasy\nTags:Foreign/Shounen/War/Male Protagonist/Politics/Economics/Historical/Primarily Male Cast/Coming of Age\nFor generations the Türkiye Devleti and the Balt-Rhein Empire have stood in stern opposition to each other. Then one night, when an imperial minister is found assassinated, the two nations are plunged into a potentially explosive situation. As the generals of Turkiye's council cry for war, Mahmut comes to discover the devious truth behind the assassination. Thus the young pasha's battle for his country, peace, and trust in his fellow man begins!<br><br>\n\n(Source: Kodansha)"
+    },
+    {
+      "id": "tt6477282",
+      "type": "series",
+      "name": "Angel's 3Piece!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97683-UOTfBliOP0mK.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6477282"
+      },
+      "description": "Genres: Music, Slice of Life\nTags:Primarily Child Cast/Band/Primarily Female Cast/Feet/School/Kuudere/Fishing/Idol\nKyo Nukui is one of those shut-ins you hear about sometimes. He never goes to school, or even leaves the house. Instead, he composes music all day, uploading it to the internet for a few views. One day out of the clear blue, he gets an email from what sounds like an older, distinguished gentleman who wants to discuss music face-to-face. Having no one to speak to about his passion, Kyo accepts the invitiation... only to find himself facing down three elementary school girls! They're fans of his music, and they want his help to hold a concert at their orphanage. The girls prove to be good musicians in their own right and have excellent equipment, but is Kyo a good enough producer?<br>\n<br>\n(Source: Discotek Media)"
+    },
+    {
+      "id": "tt2230531",
+      "type": "series",
+      "name": "Symphogear AXZ",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21672-8JX0b43bzhXr.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2230531"
+      },
+      "description": "Genres: Action, Drama, Mahou Shoujo, Music, Sci-Fi\nTags:Henshin/Female Protagonist/Philosophy/Primarily Female Cast/Mythology/Alchemy/Yuri/Cult/Idol/Historical/Drugs/Swordplay/Motorcycles/Transgender/Tanks\nThe fourth season of <i>Senki Zesshou Symphogear</i>.<br>\n<br>\nHibiki Tachibana has defeated many powerful enemies, saved countless innocent lives, and escaped from numerous desperate situations, but she is currently finding herself unable to escape from her most desperate situation yet—summer homework! Although her high school life is relatively unremarkable, her career as a member of the military organization S.O.N.G. is anything but. Using powerful, ancient armor known as Symphogear, Hibiki and her teammates work with the United Nations to deal with international disputes and disasters.<br>\n<br>\nDuring a mission briefing at headquarters, Hibiki is made aware of a mysterious organization known as the Bavarian Illuminati, who has been responsible for several major disasters in the past and currently operate in the war-torn country Val Verde. Together, Hibiki and her team infiltrate one of the Bavarian Illuminati's manufacturing plants and free hundreds of slaves. Exposed, alchemists Saint-Germain, Cagliostro, and Prelati reveal themselves as the organization's top brass, and—using alchemical powers—declare a global revolution while sacrificing thousands of lives. Faced with yet another threat to the world's survival, Hibiki and her allies must confront the Bavarian Illuminati in their most difficult and destructive battle yet.<br>\n<br>\n(Source: MAL Rewrite)"
+    },
+    {
+      "id": "tt8020634",
+      "type": "series",
+      "name": "18if",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98512-iF0yiG1Gj40t.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8020634"
+      },
+      "description": "Genres: Adventure, Fantasy, Mystery, Supernatural\nTags:Witch/Amnesia/Episodic/Male Protagonist/Isekai/Ensemble Cast/Bullying/Idol/Gender Bending/Crossdressing\nHaruto Tsukishiro wakes up in a dream world and sees a mysterious girl named Lily. Following this, he meets a man named Kanzaki and learns of the existence of witches, which from here on entangles him in all sorts of incidents.\n\n18if is a part of a multi-media project that also includes a mobile game and a virtual reality game."
+    },
+    {
+      "id": "tt12510204",
+      "type": "series",
+      "name": "Elegant Yokai Apartment Life",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98501-R8MfGaRczV2k.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt12510204"
+      },
+      "description": "Genres: Mystery, Slice of Life, Supernatural\nTags:Youkai/Male Protagonist/Surreal Comedy/Coming of Age/Urban Fantasy/Ghost\nYuushi Inaba, a 16-year-old boy whose parents died three years ago. He moved into his uncle's house, but resolved to move into a dormitory in high school. Plans changed when that dormitory burned down. He eventually finds a cheap apartment, but discovers too late that the apartment is home to supernatural creatures such as ghosts, youkai, and mononoke, and his daily life becomes embroiled in the eccentric apartment.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt9728290",
+      "type": "series",
+      "name": "CHRONOS RULER",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97939-IyggRBP9r9i6.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9728290"
+      },
+      "description": "Genres: Action, Drama, Supernatural\nTags:Male Protagonist/Super Power/Amnesia\nWe all wish we could go back in time, to turn back the clock and fix the past. But in this reality, that simple wish brings about something deadly—demons that devour time! It’s up to a group of strong warriors who fight using time manipulation to destroy these blights. Victor, Kiri, Mina, and Blaze have what it takes to maintain the balance of time as the chosen fighters—the Chronos Rulers.\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt0962740",
@@ -250,7 +337,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98379-oJL7jgmm1ceQ.png",
       "behaviorHints": {
         "defaultVideoId": "tt0962740"
-      }
+      },
+      "description": "Genres: Horror, Mystery, Psychological, Supernatural\nTags:Revenge/Bullying/Female Protagonist/Oiran/Episodic/Kuudere\nHell Girl Enma Ai and her group return for another series to continue their task of transporting cursed people to hell. New questions arise when a previously unseen girl dressed in green appears before them. As her appearances grow more frequent the mystery behind her purpose is gradually revealed even as the task of carrying people to Hell continues.\n<br><br>\n(Source: Anime News Network)<br>\n<br>\nEpisodes 7-12 are rebroadcast episodes from previous seasons with minor edits. Episode count does vary for home video and streaming releases.<br>\n7: S1 Ep3<br>\n8: S1 Ep6<br>\n9: S1 Ep12<br>\n10: S2 Ep12<br>\n11: S3 Ep2<br>\n12: S3 Ep9\n"
     },
     {
       "id": "tt0221735",
@@ -259,7 +347,28 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98554-8MrEGrmSI7qu.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0221735"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy, Mahou Shoujo, Romance\nTags:Female Protagonist/Urban Fantasy/Shoujo/Primarily Child Cast/Heterosexual\nBundled with the limited edition of the 3rd manga volume. \n<br><br>\nRetelling of events from episode 70 of the original Cardcaptor Sakura."
+    },
+    {
+      "id": "kitsu:13948",
+      "type": "series",
+      "name": "Tsuki ga Kirei Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100305-CRu6RZ5eINHP.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13948"
+      },
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:School/Coming of Age/Love Triangle/Heterosexual\nA series of unaired comedic shorts released with Blu-ray and DVD boxes of Tsuki ga Kirei."
+    },
+    {
+      "id": "tt5699366",
+      "type": "series",
+      "name": "DIVE!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97921-ETgWGGZ6Dho7.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5699366"
+      },
+      "description": "Genres: Comedy, Slice of Life, Sports\nTags:Primarily Male Cast/Male Protagonist/Swimming/School Club/Cute Boys Doing Cute Things\nThe series revolves around the Mizuki Diving Club (MDC), which is on the verge of closing down after having financial troubles. The club's new coach persuades the club's parent company to stay open on one condition: that the club sends one of its members to next year's olympics as part of Japan's olympic team.\n<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0388629",
@@ -268,7 +377,58 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99302-b40WIhc5dylo.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0388629"
-      }
+      },
+      "description": "Genres: Action, Adventure, Drama\nTags:Pirates/Shounen/Super Power/Ensemble Cast/Anachronism/Achronological Order/Male Protagonist\nThe special will be a completely new work, featuring reanimated scenes from the beginning of the series through when the crew enters the Grand Line.<br>\n<br>\nThe special is commemorating the manga's 20th anniversary, and will also feature anime versions of the original manga's chapter cover stories as part of the special's ending credits. The staff haven't yet clarified which cover story or stories will be animated. Additionally, the anime will feature a special 20th anniversary commemoration version of the original opening theme song \"We Are!\".<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7839458",
+      "type": "series",
+      "name": "MAGICAL CIRCLE GURU-GURU",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98144-nmrzhflCbHoQ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7839458"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Parody/Magic/Slapstick/Primarily Child Cast/Demons/Meta/Video Games/Monster Girl/Dancing/Surreal Comedy/Witch/Religion/Dragons/Chuunibyou/Dungeon/Angels/Gods/Shounen\nA new adaptation of the Mahoujin Guru Guru manga.\n<br><br>\nThe seal that for hundreds of years had confined the demon king Giri has worn off. A young boy named Nike is chosen (against his will) as the hero. Together with Kukuri, a girl who is the lone survivor of the tribe that had used black magic to seal Giri, they set off to save the world, RPG style.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7428594",
+      "type": "series",
+      "name": "Blade Runner: Black Out 2022",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100168-JD14ew2Ie10c.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7428594"
+      },
+      "description": "Genres: Sci-Fi, Thriller\nTags:Cyberpunk/Artificial Intelligence/Dystopian/Martial Arts/Guns/Full CGI/CGI\nIn 2022, an EMP detonation has caused a global blackout that has massive, destructive implications all over the world. Directed by Cowboy Bebop and Samurai Champloo's Shinichiro Watanabe, Blade Runner: Black Out 2022 is a new and highly-anticipated animated short which serves as a prologue for the upcoming feature film Blade Runner 2049.\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt6994700",
+      "type": "series",
+      "name": "Vatican Miracle Examiner",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97855-BPWo0CRnrpAi.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6994700"
+      },
+      "description": "Genres: Drama, Mystery, Supernatural\nTags:Foreign/Religion/Male Protagonist/Nun/Angels\nCentering on Hiraga Josef Kou, a genius scientist, and Robert Nicholas, an archives and cryptanalysis expert. The two work as a team as the Vatican's \"miracle examiners,\" traveling the world to investigate the authenticity of claims of miracles.<br><br>\n\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "kitsu:11811",
+      "type": "series",
+      "name": "Nora, Princess, and Stray cat.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21568-0JucnpivPhY2.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:11811"
+      },
+      "description": "Genres: Comedy, Ecchi\nTags:Parody/Chibi/Episodic/Surreal Comedy/Animals/Demons/Skeleton\nOne day, on the way to school, Nora meets a girl in the park named Patricia. She states that she is a princess of the underworld, come to the surface to destroy all life. However the first time she touches someone in the surface, she faints, and Nora finds himself nursing her. Patricia asks Nora to tell him the secrets of life, and Nora starts by explaining the adult magazine that they found in the park.\n<br>\n<br>\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "kitsu:13589",
+      "type": "series",
+      "name": "Skirt no Naka wa Kedamono Deshita.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98790-rPMsJyOOfWJI.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13589"
+      },
+      "description": "Genres: Ecchi, Hentai, Romance\nTags:Crossdressing/Teens' Love/Female Protagonist/College/Nudity/Cunnilingus/Ahegao/Defloration/Handjob/LGBTQ+ Themes/Primarily Teen Cast\nThe story begins when the reserved Shizuka attends a local mixer party but has trouble adjusting to the atmosphere. A beautiful older female college student named Ryou starts talking to her, and the pair hit it off. Shizuka goes to spend the night at Ryou's place. However, Ryou unexpectedly kisses Shizuka and pushes her down. Shizuka thinks the beautiful woman is a lesbian but soon discovers that Ryou is actually a man dressed as a woman.\n<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt3398540",
@@ -277,7 +437,68 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107351-ZKSXmSBU5ENA.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt3398540"
-      }
+      },
+      "description": "Genres: Sports\nTags:Volleyball/Shounen/Primarily Male Cast\nThe OVA episode looks at the primary matches between the two schools and even includes interviews with the players "
+    },
+    {
+      "id": "tt9735448",
+      "type": "series",
+      "name": "Hina Logic - from Luck & Logic",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21738-SMMRGISxAUKx.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9735448"
+      },
+      "description": "Genres: Action, Fantasy, Mahou Shoujo\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Henshin/Magic/Card Battle/Female Protagonist/College/Kuudere/Ojou-sama/Animals\nOn a spring day when the cherry blossoms have started to fall, the naïve princess of a small country, Lion begins her days at a school in Hokkaido. The school houses a special facility run by ALCA that trains Logicalists who protect the peace of the world. Lion has a lot of unique classmates in Class 1-S, including Nina, a Logicalist. This is the story of the energetic and adorable days the Logicalists-in-training spend together.<i> It’s time to Trance!</i>\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt5170006",
+      "type": "series",
+      "name": "The Reflection",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21461-uMKVoLchuwUK.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5170006"
+      },
+      "description": "Genres: Action, Adventure, Mystery, Sci-Fi\nTags:Super Power/Guns/Foreign/Photography/Urban/Superhero\nAfter THE REFLECTION, some of the people in all parts of the world are discovered with super powers.<br>\nSome become heroes, and others villains.<br>\nHow did the Reflection happen? What was the cause of it?<br>\nWith many unsolved mysteries, the world is lead into turmoil.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6994648",
+      "type": "series",
+      "name": "SAIYUKI RELOAD BLAST",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87498-NKAqpHPCugqX.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6994648"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Drama, Supernatural\nTags:Josei/Demons/Primarily Adult Cast\nHumans and yokai, science and magic... all exist side-by-side on a peaceful continent free of all order and regulation, widely known as \"Shangri-La.\" The balance there was shattered when the Minus Wave caused all the yokai on the continent to rampage, an event known as the \"Calamity.\" Continuing their journey west to stop Gyumaoh's resurrection experiments, the root of all the evil on the continent, the Three Aspects are finally drawing closer to India. But the closer they get, the more pronounced the influence of the Calamity becomes, and the more intense their battles become.<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt7049526",
+      "type": "series",
+      "name": "Battle Girl High School",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21787-la3EKUkOUDFU.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7049526"
+      },
+      "description": "Genres: Action, Sci-Fi\nTags:Idol/Primarily Female Cast/School/Ensemble Cast/Female Protagonist/Henshin/Cute Girls Doing Cute Things\nMysterious invaders have attacked the Earth! As the Irousu roam the conquered lands, mankind has been driven back, but there’s one last weapon that may still turn the tide: super-powered schoolgirls! At schools like the Shinjugamine Girls Academy, elite classes of Star Guardians alternate between regular schoolwork and learning to kick Irousu behind. It’s a duty that the members of the Shinjugamine Hoshimori force, like freshman Miki Hoshitsuki, take seriously, but as they’re basically normal girls who just happen to get their powers from a magic tree, there are normal life issues they have to contend with as well. With the arrival of their latest mysterious recruit, however, things are about to get deadly serious.<br><br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "kitsu:40612",
+      "type": "series",
+      "name": "UQ Holder! OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98999-5192MOLfPrdN.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:40612"
+      },
+      "description": "Genres: Action, Fantasy, Sci-Fi\nTags:Surreal Comedy/Urban Fantasy/Female Harem/Vampire/Primarily Female Cast/Dullahan/Mahjong/Magic\nBundled with the 14th, 16th, and 17th volume of the UQ Holder! manga.\n"
+    },
+    {
+      "id": "kitsu:41585",
+      "type": "series",
+      "name": "Kuroko no Basket: LAST GAME NG-shuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101999-j29iqLO7Dmcn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:41585"
+      },
+      "description": "Genres: Comedy, Sports\nTags:Shounen/Basketball/Kuudere\nAnimated bloopers, based on the extra section of the original manga, included with the BD/DVD release of Kuroko no Basket: Last Game."
     },
     {
       "id": "tt7441658",
@@ -286,7 +507,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt7441658"
-      }
+      },
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Magic/Shounen/Male Protagonist/Super Power/Ensemble Cast/Demons/Bullying/Orphan/Found Family/Swordplay/Heterosexual/Disability/Kuudere/Cultivation/Foreign/Tsundere/Love Triangle/Travel/Nun/Food/Espionage/Tomboy/Suicide/Dungeon\nIn a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt4731072",
@@ -295,7 +517,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99255-heGTtj5b4owl.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt4731072"
-      }
+      },
+      "description": "Genres: Comedy, Ecchi\nTags:Food/Shounen/Male Protagonist/Tsundere/Educational/School/Primarily Teen Cast/Nudity/Tanned Skin/CGI\nThe third season of <i>Shokugeki no Souma</i>.<br>\n<br>\nAt the Moon Festival, Totsuki Academy’s annual gourmet jubilee, students wage fierce culinary war as they try to out-earn their peers by selling the most of their chosen cuisine. Souma Yukihira, however, has his sights set on a grander prize: challenging the Elite Ten, who rule over the academy with iron fists. But Souma might have to put his grand ambitions on hold for the time being, because an insidious scheme to upset the balance of Totsuki Academy has begun to emerge from the shadows…<br>\n<br>\n(Source: Sentai Filmworks)"
     },
     {
       "id": "tt7326322",
@@ -304,7 +527,38 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98436-n7sK6POCd0XV.png",
       "behaviorHints": {
         "defaultVideoId": "tt7326322"
-      }
+      },
+      "description": "Genres: Drama, Fantasy, Romance, Slice of Life, Supernatural\nTags:Magic/Female Protagonist/Mythology/Fairy/Skeleton/Teacher/Urban Fantasy/Heterosexual/Dragons/Monster Boy/Foreign/Philosophy/Primarily Adult Cast/Rural/Shapeshifting/Male Harem/Chimera/Travel/Suicide/Shounen/Chibi\nChise Hatori has lived a life full of neglect and abuse, devoid of anything resembling love. Far from the warmth of family, she has had her share of troubles and pitfalls. Just when all hope seems lost, a fateful encounter awaits her. When a man with the head of a beast, wielding strange powers, obtains her through a slave auction, Chise's life will never be the same again.\n<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt7657580",
+      "type": "series",
+      "name": "BLEND-S",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97994-5k4ISEsvDl5x.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7657580"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Work/Cute Girls Doing Cute Things/Primarily Female Cast/Female Protagonist/Urban/Cosplay/Otaku Culture/Slapstick/Masochism/Seinen/Meta/Chibi/Heterosexual/Maids/Kuudere\nThe story centers on a girl named Maika who gets a job at a cafe where all the waitresses are given certain attributes — such as \"tsundere\" or \"little sister\" — to embody while serving customers. The manager asks Maika to be the \"Do S\" (extreme sadist) waitress, so she will have to adopt a dominant and aggressive persona.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6340502",
+      "type": "series",
+      "name": "INUYASHIKI LAST HERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97922-qrGn5fkQinDs.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6340502"
+      },
+      "description": "Genres: Action, Drama, Psychological, Sci-Fi\nTags:Seinen/Super Power/Male Protagonist/CGI/Urban/Crime/Philosophy/Body Horror/Terrorism/Police/Heterosexual/Otaku Culture/Aliens/Yakuza/Trains\nIchiro Inuyashiki is down on his luck. While only 58 years old, his geriatric looks often have him written off as a pathetic old man by the world around him and he's constantly ignored and disrespected by his family despite all that he's done to support them. On top of everything else, his doctor has revealed that he has cancer and it appears that he has little time left in this world. But just when it seems things couldn't get any worse, a blinding light in the night sky strikes the earth where Ichiro stands. He later wakes up to find himself unscathed, but he soon starts to notice that there's something…different about himself.<br><br>\n\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt7790776",
+      "type": "series",
+      "name": "Land of the Lustrous",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98707-iGdx1gFXQs01.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7790776"
+      },
+      "description": "Genres: Action, Drama, Fantasy, Mystery, Psychological\nTags:Full CGI/Philosophy/Agender/Anthropomorphism/Seinen/Survival/Cosmic Horror/War/Swordplay/Shapeshifting/Astronomy/Twins/Slapstick\nIn the mysterious future, crystalline organisms called Gems inhabit a world that has been destroyed by six meteors. Each Gem is assigned a role in order to fight against the Lunarians, a species who attacks them in order to shatter their bodies and use them as decorations.<br>\n<br>\nPhosphophyllite, also known as Phos, is a young and fragile Gem who dreams of helping their friends in the war effort. Instead, they are told to compile an encyclopedia because of their delicate condition. After begrudgingly embarking on this task, Phos meets Cinnabar, an intelligent gem who has been relegated to patrolling the isolated island at night because of the corrosive poison their body creates. After seeing how unhappy Cinnabar is, Phos decides to find a role that both of the rejected Gems can enjoy. Houseki no Kuni follows Phos' efforts to be useful and protect their fellow Gems."
     },
     {
       "id": "tt6074794",
@@ -313,16 +567,28 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98478-dF3mpSKiZkQu.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt6074794"
-      }
+      },
+      "description": "Genres: Drama, Slice of Life\nTags:Coming of Age/Rehabilitation/Family Life/Shogi/Found Family/Seinen/Bullying/Male Protagonist/Philosophy/School/Primarily Adult Cast/School Club/Food/Disability\nThe second season of <i>3-gatsu no Lion</i>.<br>\n<br>\nNow in his second year of high school, Rei Kiriyama continues pushing through his struggles in the professional shogi world as well as his personal life. Surrounded by vibrant personalities at the shogi hall, the school club, and in the local community, his solitary shell slowly begins to crack. Among them are the three Kawamoto sisters—Akari, Hinata, and Momo—who forge an affectionate and familial bond with Rei. Through these ties, he realizes that everyone is burdened by their own emotional hardships and begins learning how to rely on others while supporting them in return.<br>\n<br>\nNonetheless, the life of a professional is not easy. Between tournaments, championships, and title matches, the pressure mounts as Rei advances through the ranks and encounters incredibly skilled opponents. As he manages his relationships with those who have grown close to him, the shogi player continues to search for the reason he plays the game that defines his career.\n"
     },
     {
-      "id": "tt1723816",
+      "id": "tt7662364",
+      "type": "series",
+      "name": "Recovery of an MMO Junkie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99726-tta6v7TKGYKa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7662364"
+      },
+      "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Video Games/Virtual World/Hikikomori/Otaku Culture/Primarily Adult Cast/Female Protagonist/Heterosexual/Gender Bending/Parody/Male Protagonist/Love Triangle/Josei\nMoriko Morioka is a 30-year-old single NEET woman. After dropping out from reality, she has taken off in search for a fulfilling life and ended up in a net game or \"netoge.\" In the netoge world, she began her new life as a refreshing and handsome character named Hayashi. While starting out as a beginner, a pretty character named Lily reached out to help her. Meanwhile, in the real world, awaits a shocking encounter with a good-looking elite company employee, a mysterious blue-eyed blonde.<br>\n<br>\n(Source: MAL News)"
+    },
+    {
+      "id": "tt7474942",
       "type": "series",
       "name": "Girls' Last Tour",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99420-ROmwm2suzoNJ.png",
       "behaviorHints": {
-        "defaultVideoId": "tt1723816"
-      }
+        "defaultVideoId": "tt7474942"
+      },
+      "description": "Genres: Adventure, Sci-Fi, Slice of Life\nTags:Post-Apocalyptic/Lost Civilization/Philosophy/Iyashikei/Environmental/Female Protagonist/Survival/Urban/Military/Travel/Primarily Female Cast/Cute Girls Doing Cute Things/Chibi/Robots/Cosmic Horror/Tanks/Seinen/Artificial Intelligence/Kuudere/CGI/Guns\nCivilization is dead, but Chito and Yuuri are still alive. So they hop aboard their beloved Kettenkrad motorbike and aimlessly wander the ruins of the world they once knew. Day after hopeless day, they look for their next meal and fuel for their ride. But as long as the two are together, even an existence as bleak as theirs has a ray or two of sunshine in it, whether they're sucking down their fill of soup or hunting for machine parts to tinker with. For two girls in a world full of nothing, the experiences and feelings the two share give them something to live for…<br>\n<br>\n(Source: Yen Press)"
     },
     {
       "id": "tt4379632",
@@ -331,7 +597,18 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97886-iArtYIxZzGcR.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt4379632"
-      }
+      },
+      "description": "Genres: Action, Comedy, Supernatural\nTags:Episodic/Urban Fantasy/Urban/Aliens/Male Protagonist/Foreign/Vampire/Shounen/Super Power/Dystopian/Cosmic Horror/Werewolf/Guns/Demons/Post-Apocalyptic\nThree years ago, a gateway between Earth and the Beyond opened in New York City, trapping extradimensional creatures and humans alike in an impermeable bubble. After the city's restoration, monsters, magic, and madness are common findings in the area now known as Hellsalem's Lot. Leonardo Watch, a young photographer who unwillingly obtained the \"All-seeing Eyes of the Gods\" in exchange for his sister's eyesight, came to this paranormal city to find answers to the mysterious power that he possesses. He later finds his life drastically changed when he joins Libra, a secret organization of people with supernatural abilities dedicated to maintaining order in the everyday chaos of Hellsalem's Lot. <br><br>\n\nHowever, this is only the beginning of Leonardo's unexpected journey ahead. Regardless of the constant threat of otherworldly enemies, he is determined to uncover the secrets of his power and find a way to restore his sister's eyesight. Kekkai Sensen & Beyond follows Leonardo as he sets off on more crazy adventures with his comrades, fighting to ensure peace and order.<br><br>"
+    },
+    {
+      "id": "tt9731082",
+      "type": "series",
+      "name": "A Sister's All You Need.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98596-E2aZouOyuQ8G.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9731082"
+      },
+      "description": "Genres: Comedy, Ecchi, Romance, Slice of Life\nTags:Writing/Male Protagonist/Primarily Adult Cast/Otaku Culture/Work/Nudity/Coming of Age/Love Triangle/Video Games/Heterosexual/College/Gender Bending/Ensemble Cast\nThe story follows the everyday life of Itsuki, a novelist and \"modern day Pygmalion\" who works day in and day out to create the ultimate younger sister. He's surrounded by various other characters: a beautiful genius writer who loves him, his big-sisterly classmate from college, a fellow male writer, a sadistic tax accountant, and his editor. They're all looked after by Itsuki's perfect younger step-brother, Chihiro, who has a serious secret.<br>\n<br>\n(Source: Anime News Network)<br>\n<br>\n<i>Note: The first episode received an early screening at a special event held at Shinjuku Piccadilly, Tokyo on 06.09.2017.</i>"
     },
     {
       "id": "tt2560140",
@@ -340,7 +617,48 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99634-9u4hdvWwmC2s.png",
       "behaviorHints": {
         "defaultVideoId": "tt2560140"
-      }
+      },
+      "description": "Genres: Action, Drama, Fantasy, Mystery\nTags:Female Protagonist/Steampunk/Military/Primarily Female Cast/Anti-Hero/CGI/War/Coming of Age/Super Power\nA three-part OVA adapting the \"Shingeki no Kyojin: Lost Girls\" spinoff novel that will be bundled with the 24th, 25th and 26th limited edition volumes of the manga.<br>\n<br>\n<strong>Wall Sina, Goodbye:</strong><br>\nAnnie Leonhart has a job to do—and a resulting absence that must stay off her record at all costs. With no one else to turn to, she asks her comrade Hitch Dreyse to cover for her. She agrees but puts forward a single condition: Annie must solve the fruitless missing person case Hitch was assigned. The case revolves around Carly Stratmann, a university graduate and the daughter of wealthy businessman Elliot Stratmann. With only a single day to solve the case and the underground of the Stohess District crawling with thugs, Annie must put her all into finding this girl. Yet, every answer she uncovers only leads to further questions—how has the illegal drug coderoin found its way to Stohess, what is Elliot hiding, and where has Carly disappeared to?<br>\n<br>\n<strong>Lost in the Cruel World:</strong><br>\nWith worry for Eren Yeager gripping her heart, Mikasa Ackerman begins to remember. She remembers her conversations with Armin Arlert, her concern for her friends, and most painfully, the time she had almost lost everything. As fear takes control, she begins to experience an alternate version of her past—some things can be changed, but are there events so inescapable that she can't even prevent them in her dreams?\n"
+    },
+    {
+      "id": "tt7513452",
+      "type": "series",
+      "name": "Just Because!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98820-EVHeNEUOWkh3.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7513452"
+      },
+      "description": "Genres: Drama, Romance, Slice of Life\nTags:Coming of Age/School/Heterosexual/Trains/Baseball/Photography\nThe original anime Just Because! focuses on subtly portraying the feelings of a group of high school students nearing graduation. Near the end of second semester at third year, when students have very little time in high school left, and are just waiting for graduation, the appearance of a new transfer student begins to change what remains of their high school lives just as they were about to graduate.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7694276",
+      "type": "series",
+      "name": "JUNI TAISEN：ZODIAC WAR",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98443-1d7qImgzb6Dj.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7694276"
+      },
+      "description": "Genres: Action, Thriller\nTags:Battle Royale/Death Game/Ensemble Cast/War/Gore/Urban/Super Power/Primarily Adult Cast/Necromancy/Twins/CGI/Tomboy\nThe record of the bloody battle between the twelve proud warriors—<br>\nThe 12th Twelve Tournament that gets held every twelve years…<br>\nTwelve brave warriors who bear the names of the signs of the zodiac fight each other for the lives and souls.<br>\nThe participants are twelve very strange warriors: “Rat,” “Ox,” “Tiger,” “Rabbit,” “Dragon,” “Snake,” “Horse,” “Goat,” Monkey,” “Rooster,” “Dog,” and “Pig.”<br>\nThe victor of this tournament gets to have one wish granted, whatever the wish may be.<br>\nThe one wish they want granted—<br>\nWho will be the final survivor?<br>\nWhose tears will flow on the bloody battlefield filled with conspiracy and murder?<br>\nA soul-shaking battle royale is about to begin.<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt7484994",
+      "type": "series",
+      "name": "Children of the Whales",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98449-CxVQsAWFPpMa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7484994"
+      },
+      "description": "Genres: Adventure, Drama, Fantasy, Mystery, Romance, Sci-Fi\nTags:Lost Civilization/Magic/Male Protagonist/Dystopian/Ships/War/Gore/Shoujo/Kuudere/Rural/Musical/Heterosexual\nChakuro is the 14-year-old archivist of the Mud Whale, a nigh-utopian island that floats across the surface of an endless sea of sand. Nine in ten of the inhabitants of the Mud Whale have been blessed and cursed with the ability to use saimia, special powers that doom them to an early death.<br><br>\n\nChakuro and his friends have stumbled across other islands, but they have never met, seen, or even heard of a human who wasn't from their own. One day, Chakuro visits an island as large as the Mud Whale and meets a girl who will change his destiny.<br><br>\n\n(Source: Batoto)"
+    },
+    {
+      "id": "tt8644562",
+      "type": "series",
+      "name": "My Girlfriend is Shobitch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98951-EeoDeSyF97ZS.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8644562"
+      },
+      "description": "Genres: Comedy, Ecchi, Romance\nTags:Slapstick/Satire/School/Female Harem/Heterosexual/Kuudere/Ensemble Cast/Tsundere\nWith nothing left to lose, ordinary high school student Haruka Shinozaki confesses to beautiful, diligent class representative Akiho Kousaka and to his surprise she accepts. Kousaka takes dating as seriously as she does everything else, but does not quite get it. She pragmatically suggests activities that are too sexual.<br>\n<br>\n(Source: KADOKAWA)"
     },
     {
       "id": "tt5059866",
@@ -349,7 +667,58 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98572-zJQd23nzJips.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt5059866"
-      }
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Otaku Culture/Cute Girls Doing Cute Things/Family Life/Female Protagonist/Chibi/Primarily Female Cast/School/Seinen/Male Protagonist/Henshin/Ensemble Cast\nHigh-school beauty Umaru seems like the perfect teen wunderkind, but she's hiding a shocking double life. As soon as she gets home, she becomes a junk-food-inhaling, soda-guzzling, video-game-addicted slob. The only one who sees this unsavory side of Umaru is her beleaguered older brother Taihei, who does his best to keep up with his work while trying to get his little sister to behave like a decent member of society. As she makes new friends and gets into a number of wacky situations, Umaru will continue to fight for her right to stay up all night binging potato chips and anime.<br><br>(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7351628",
+      "type": "series",
+      "name": "Our love has always been 10 centimeters apart.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98977-CpZkd98fWj32.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7351628"
+      },
+      "description": "Genres: Drama, Romance, Slice of Life\nTags:Heterosexual/School/Drawing/School Club/Primarily Teen Cast/Coming of Age/Female Protagonist/Male Protagonist/Photography\nThe moment Miou Aida first met Haruki Serizawa at the Sakuragaoka High School Entrance Ceremony they both felt an unexplainable connection. Despite their completely different personalities, they found themselves walking home together after school every day. As they spend more time together, their feelings for each other grow stronger. Just 10 centimeters apart, but the distance remains...\n<br><br>\n(Source: Funimation)"
+    },
+    {
+      "id": "tt7462702",
+      "type": "series",
+      "name": "King's Game",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99698-5k8bDkhcJx9B.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7462702"
+      },
+      "description": "Genres: Drama, Horror, Mystery, Supernatural\nTags:Death Game/Survival/Gore/Surreal Comedy/Battle Royale/School/Tsundere\nThe story begins when an entire high school class of 32 people receive a message on their cellphones from a person known only as the \"King.\" The messages contain orders that the students must obey, or they risk the punishment of death. With their lives on the line, the students soon find out that the orders are getting more and more extreme as time goes on.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7727278",
+      "type": "series",
+      "name": "Love is Like a Cocktail",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98657-P9OayeslJ79r.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7727278"
+      },
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Episodic/Food/Female Protagonist/Family Life/Marriage/Heterosexual/Male Protagonist/Primarily Adult Cast/Office Lady/Bar/Seinen/Work/Chibi\nThe \"slightly sweet tipsy couple comedy\" manga centers on the 28-year-old senior public relations company staff member Chisato Mizusawa. The story follows Chisato's daily life as she enjoys her husband Sora's cocktails. Chisato has secrets that only her husband knows.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6638842",
+      "type": "series",
+      "name": "Kino's Journey -the Beautiful World- the Animated Series",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98448-OdfxrjAhkYvp.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6638842"
+      },
+      "description": "Genres: Adventure, Drama, Fantasy, Psychological, Slice of Life\nTags:Foreign/Episodic/Philosophy/Rural/Motorcycles/Travel/CGI/Guns/Agender/Kuudere\nThe story follows the travels of Kino, a young adventurer who rides a talking motorcycle named Hermes. They explore the people and cultures of different places throughout their adventures, spending only three days at each location.<br><br>\n\n(Source: ANN)"
+    },
+    {
+      "id": "tt7591766",
+      "type": "series",
+      "name": "UQ Holder!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21855-4Dpxr8GQ4BKy.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7591766"
+      },
+      "description": "Genres: Action, Fantasy, Sci-Fi\nTags:Shounen/Magic/Surreal Comedy/Teacher/Gore/Vampire/Female Harem/Urban Fantasy/School/Kuudere/Primarily Teen Cast\nIn the decade since the world became aware of the existence of magic, the world has undergone massive upheaval. However, a boy named Touta lives in seclusion in a rural town far removed from these changes. His ordinary life is highlighted by his magic-using female teacher and his supportive friends. When his tranquil daily life is disrupted, he embarks on a unique adventure.<br><br>\n\n(Source: Anime News Network)"
     },
     {
       "id": "tt0988818",
@@ -358,7 +727,58 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99714-0pCKHe4XYIz7.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0988818"
-      }
+      },
+      "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:Parody/Male Protagonist/Samurai/Aliens/Ghost/Swordplay/Found Family/Shounen/Meta/Achronological Order/Historical/Anachronism/Ensemble Cast/Mopeds/Kuudere\nConsists of episodes animated from unused manga chapters, before returning to the Silver Soul Arc on January 8, 2018. Porori is an Onomatopoeia for something (mainly water) falling."
+    },
+    {
+      "id": "tt7535746",
+      "type": "series",
+      "name": "KONOHANA KITAN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98506-BPHtNhP7Q1TD.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7535746"
+      },
+      "description": "Genres: Slice of Life, Supernatural\nTags:Iyashikei/Kemonomimi/Primarily Female Cast/Youkai/Cute Girls Doing Cute Things/Female Protagonist/Episodic/Mythology/Coming of Age/Work/Yuri/Gods/Seinen/Heterosexual\nThe manga's story is set in Kokohana-tei, a hot spring hotel located in an inn town between our world and the other world, where many people go to visit. The story portrays the lives of fox spirits, who take the form of girls and work at the hotel.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt5789296",
+      "type": "series",
+      "name": "Love Live! Sunshine!! Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98349-kj4hp8iNSzLr.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5789296"
+      },
+      "description": "Genres: Music, Slice of Life\nTags:Idol/Dancing/Cute Girls Doing Cute Things/Primarily Female Cast/Ensemble Cast/School Club/School/Female Protagonist/Primarily Teen Cast/CGI/Chuunibyou\nAfter failing in the preliminary tournament of the previous Love Live, the members of Aqours have rededicated themselves to succeeding both as idols and as saviors of their school, making sure their home will never be taken away. But Mari learns some terrible news about their upcoming school open house event and it seems like all of their efforts will be for naught. Chika and her friends must find some way to preserve their school and carry on as idols. Either way, it looks like they'll need a miracle to get through this, fortunately, from µ's to Aqours, miracles are what idols do best.<br><br>(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7662364",
+      "type": "series",
+      "name": "Recovery of an MMO Junkie OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100684-dTFSHninTMEg.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7662364"
+      },
+      "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Virtual World/Heterosexual/Video Games/Primarily Adult Cast/Hikikomori\nUn-aired 11th episode of the TV series that's included in the Blu-ray.<br><br><b>Recovery of an MMO Junkie / Moriko Logs In to Fruits de Mer:</b><br>When Moriko's computer breaks down, she asks for help from a certain someone to buy a new one. Before even realizing it, she's agreed to have that person over to her place to build the PC itself! Who's coming over?! Will Moriko successfully clear the \"Invite a Guest Over\" quest?!<br><br>(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt6931266",
+      "type": "series",
+      "name": "Dies irae",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21555-5dZCoocXoX9O.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6931266"
+      },
+      "description": "Genres: Action\nTags:Urban Fantasy/Super Power/Magic/Male Protagonist/Chuunibyou\nMay 1, 1945. Berlin. As the Red Army raises the Soviet flag, a group of Nazi officers conduct a ritual using the slaughter in the city to bring back the LDO, supermen whose coming would bring the world's destruction. Their success remains unknown.<br><br>\n\nPresent day. Suwahara City. Ren Fujii spends his days at the hospital due to a violent fight with his best friend, Shirou. He tries to value what he has left to him, but he is haunted by Shirou's words: \"Everyone who remains in this city eventually loses their minds.\"  and a recurring dream of a guillotine, murderers, and the black clad knights pursuing them. <br><br>(Source: Anime News Network, edited)<br><br>\n\n<i>Includes episode 0.</i>"
+    },
+    {
+      "id": "tt11405370",
+      "type": "series",
+      "name": "Nekopara OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99939-O1rlvaP0UdTG.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt11405370"
+      },
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Nekomimi/Male Protagonist/Work/Kemonomimi/Chibi/Maids/Cute Girls Doing Cute Things/Kuudere/Female Protagonist/Female Harem\nWhat's NEKOPARA? Why, it's a cat paradise!<br>\n<br>\nKashou Minazuki, the son of a long line of Japanese confection makers moved out to open his own shop \"La Soleil\" as a patisserie.<br>\n<br>\nBut upon moving out, hidden amongst his things were two of the catgirls (\"neko\"), Chocola and Vanilla, that the family had been raising. When he tried to send them back, they begged and pleaded until he gave in and now they've opened La Soleil together.<br>\n<br>\nWith two nekos who really, REALLY love their master trying their very best and occasionally failing -- a heartful comedy opens for business!<br>\n<br>\n(Source: Official Website)"
     },
     {
       "id": "tt2250192",
@@ -367,7 +787,28 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101965-UWIMqsKEES1n.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt2250192"
-      }
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Augmented Reality/Primarily Female Cast/Female Harem/Video Games/Chibi/Male Protagonist\nExtra episode of <i>Sword Art Offline</i> included in the <i>Sword Art Online: Ordinal Scale</i> Blu-ray and DVD"
+    },
+    {
+      "id": "tt7535706",
+      "type": "series",
+      "name": "Anime-Gataris",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98607-00IsY9yY7Aed.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7535706"
+      },
+      "description": "Genres: Comedy\nTags:School Club/Otaku Culture/Meta/Female Protagonist/Surreal Comedy/School/Cosplay/Chuunibyou/Butler\nThe anime centers on Minoa Asagaya, a new high school student in Sakaneko Private High School. Despite being a novice to anime, Minoa's classmate Arisu Kamiigusa invites her to make an \"anime research club\" at school. Through conversations with her classmate Miko Kouenji, as well as various anime-loving upperclassmen, Minoa gradually gets hooked on anime. While they stand against the student council's continuous efforts to disband their club, and they ignore the impending end of the world, they talk about anime, whether in Akiba, or in real-life \"sacred place\" anime settings, or the hot springs.<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "name": "My First Girlfriend is a Gal OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98878-jmrheWUkd7IA.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5626028"
+      },
+      "description": "Genres: Comedy, Ecchi, Romance\nTags:Gyaru/School/Shounen/Heterosexual/Female Harem/Nudity/Tanned Skin/Ensemble Cast\nBundled with the limited edition 5th volume of the Hajimete no Gal manga."
     },
     {
       "id": "tt7131720",
@@ -376,7 +817,98 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107622-61twEQ0X0YH5.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt7131720"
-      }
+      },
+      "description": "Genres: Comedy\nTags:Gambling/Female Protagonist/Maids/Nekomimi/Primarily Female Cast/Otaku Culture/Tsundere\nPicture drama episodes included on the DVD/Blu-ray Volumes of Kakegurui.<br><br>\nIncludes:<br>\n• Maid Kissa Hyakkaou (メイド喫茶百花王)<br>\n• Nekomimi Gakuen Hyakkaou (ネコミミ学園百花王)<br>\n• Seito-kai☆Kissaten Keikaku (生徒会☆喫茶店計画)"
+    },
+    {
+      "id": "tt9525238",
+      "type": "series",
+      "name": "Fate/Grand Order -MOONLIGHT/LOSTROOM-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100728-rChlxr9tE5qx.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt9525238"
+      },
+      "description": "Genres: Action, Fantasy\nTags:Swordplay/Cosmic Horror/Urban Fantasy\nThe Lost Room.\nA place where you can see what was lost, or maybe what will be lost to you in time.\nExisting in the innermost part of Chaldea, it is the boundary line between dream and reality where the light of the moon shines through.\nProduced by the Chaldea Summoning System, the room holds a small number of worthwhile benefits to enjoy."
+    },
+    {
+      "id": "tt9724088",
+      "type": "series",
+      "name": "Code: Realize ~Guardian of Rebirth~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98630-Wtb6TdfrayC5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9724088"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Romance\nTags:Primarily Male Cast/Female Protagonist/Steampunk/Foreign/Male Harem/Anti-Hero\nRestricted to an abandoned mansion on the outskirts of London in fulfillment of a promise to her father, lonely Cardia lives day to day isolated from the world. Her body carries a deadly poison that rots or melts anything her skin touches, prompting the locals to call her a “monster.”<br><br>\n\nOne day, her quiet solitude is interrupted as the Royal Guards break in to capture her. It is then that Cardia meets Arsène Lupin, a chivalrous thief, who helps her escape the soldiers' clutches. She soon finds herself on a journey with Lupin to locate her father, who holds the answers to her mysterious condition.<br><br>\n\n(Source: Aksys Games, edited)"
+    },
+    {
+      "id": "tt7963070",
+      "type": "series",
+      "name": "GARO -VANISHING LINE-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b99796-rzZSKHBRIn6E.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7963070"
+      },
+      "description": "Genres: Action, Mystery\nTags:Demons/Urban Fantasy/Henshin/Guns/Male Protagonist/Tanned Skin/Tokusatsu/Desert/Motorcycles/Body Horror/Foreign/Episodic/Philosophy\nThe anime's story is set in a prosperous city named Russell City. Even as the city celebrates its success, a conspiracy that threatens to shake its world has been set in motion. A man named Sword is the first to hear the earliest stirrings of the plot, and throws himself into a shadow war in order to expose it. His only clue is the keyword \"El Dorado.\" He meets Sophie, a woman searching for her older brother who left her with only a message with the same word: \"El Dorado.\" With Sword having also lost his younger sister in the past, both are drawn together by the word, and work together to find out its meaning.<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt5225764",
+      "type": "series",
+      "name": "DRIFTERS OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97988-rq6xyZPj25Ao.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5225764"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:War/Samurai/Isekai/Historical/Gore/Primarily Adult Cast/Primarily Male Cast/Male Protagonist/Swordplay/Seinen/Anachronism/Politics\nUnaired episode 13 and 14 included in the DVD and Blu-ray Disc release of Drifters and episode 15 included in the sixth volume of the manga."
+    },
+    {
+      "id": "tt7625514",
+      "type": "series",
+      "name": "Is the Order a Rabbit?? ～Dear My Sister～",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21813-hdHHU5PCF2V5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7625514"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Teen Cast/Iyashikei/Primarily Female Cast/Maids/Kuudere/Female Protagonist/Seinen\nCocoa visits her family, in the mountains, after quite some time again after her sister Mocha wrote her, through a letter, to come back soon. Her friends will have to spend a week in the town without her, while Cocoa has time with her family that she hasn't seen for a long time. But Chino, Cocoa's self proclaimed little sister, wants to go watch, with Cocoa and all her friends, the fireworks in the fireworks festival, which is coming up in less than a week. Cocoa decides to return early as she misses them all, but will she arrive in time for the climax of the festival?<br>\n<br>\n(Source: TMDB)"
+    },
+    {
+      "id": "tt3981902",
+      "type": "series",
+      "name": "Yuki Yuna is a Hero: The Washio Sumi Chapter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100791-FBirQqF1Szo3.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3981902"
+      },
+      "description": "Genres: Action, Drama, Fantasy, Mahou Shoujo, Psychological, Slice of Life\nTags:Henshin/Magic/Female Protagonist/Primarily Female Cast/Cute Girls Doing Cute Things/Gods/Primarily Child Cast/Super Power/School/CGI\nIn the year 298 from the era of the gods, elementary school girls Sumi Washio, Sonoko Nogi, and Gin Minowa are tasked with an important mission. They are to become heroes and fight Vertex, a mysterious enemy that is attacking Shinju-sama, the god tree that protects Shikoku, the only area in the world that is still habitable. What they don't know, is that this fight will cost them more than they could have ever imagined.\n"
+    },
+    {
+      "id": "tt3981902",
+      "type": "series",
+      "name": "Yuki Yuna is a Hero: The Hero Chapter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97769-q6mu5EiniVZe.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt3981902"
+      },
+      "description": "Genres: Action, Drama, Fantasy, Mahou Shoujo, Psychological, Slice of Life\nTags:Magic/Female Protagonist/Henshin/Gods/Primarily Female Cast/School Club/School/Cute Girls Doing Cute Things/Primarily Child Cast/CGI\nThe second season of <i>Yuuki Yuuna wa Yuusha de Aru</i>.<br>\n<br>\nHaving fulfilled their destiny during the events of Yuuki Yuuna wa Yuusha de Aru, Sanshu Middle School's Hero Club—consisting of Yuuna Yuuki, Karin Miyoshi, and siblings Fuu and Itsuki Inubouzaki—is back in full swing, helping out those in need wherever they can. They have also gained a new member, a hero from the past named Sonoko Nogi. But eventually they notice that someone who should be among them, Mimori Tougou, is missing; any trace of her existence is completely gone, save for the girls' memories.<br>\n<br>\nWith no leads on Tougou's whereabouts, the girls regain the ability to transform and begin the desperate search for their lost friend. But what they find is more shocking than any of them could ever have imagined, and the consequences of their actions begin to change life as they know it.<br>\n<br>\n(Source: MAL Rewrite)"
+    },
+    {
+      "id": "tt9013220",
+      "type": "series",
+      "name": "Armed Girl's Machiavellism OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98856-nCb9mgvObKID.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9013220"
+      },
+      "description": "Genres: Action, Comedy, Romance\nTags:Female Harem/Primarily Female Cast/Nudity/Swordplay/School/Male Protagonist\nBundled with the limited edition 7th volume of the Busou Shoujo Machiavellianism manga.<br>\n<br>\nDisappointed by how all members of the Supreme Five Swords were single-handedly taken out by the Empress, the headmistress ordered the Five Swords to a recreational trip to strengthen their bonds. Apparently, there are some extra budget to accommodate an extra sixth person on the trip. Both Rin and Mary wanted Nomura to be sixth person, but there may be some hurdles on making that a reality.<br>\n<br>\n(Source: Muse Asia)"
+    },
+    {
+      "id": "tt4838372",
+      "type": "series",
+      "name": "Mr. Osomatsu 2nd season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98565-SflMvnfkJY82.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4838372"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Slapstick/Parody/Family Life/Primarily Adult Cast/Surreal Comedy/Episodic/Meta/Primarily Male Cast/Satire/Twins/Nekomimi/Femboy/Cute Boys Doing Cute Things/Otaku Culture\nThe second season of Osomatsu-san."
     },
     {
       "id": "tt1216222",
@@ -385,7 +917,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100659-qocZFCJXquxi.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt1216222"
-      }
+      },
+      "description": "Genres: Comedy, Ecchi, Sci-Fi\nTags:Nudity/Female Harem/School/Heterosexual/Aliens/Kuudere/Monster Girl\nThe OVA was bundled with the book Trouble Chronicle, released for the 10th anniversary of the franchise."
     },
     {
       "id": "tt0100366",
@@ -394,7 +927,1058 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99994-jApr7drb87Bn.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0100366"
-      }
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Kids/Animals/Episodic/Stop Motion/Male Protagonist/Urban/Family Life/Full CGI/Anthropomorphism\nPingu and his family move from their small village to a big city, where there are many people with many different occupations. The ever-curious Pingu tries to join them at their jobs, but his mischievous side gets the better of him and he ends up messing things up.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7351734",
+      "type": "series",
+      "name": "URAHARA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98513-IARUSpAhc1Mu.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7351734"
+      },
+      "description": "Genres: Action, Comedy, Fantasy, Mahou Shoujo, Psychological, Sci-Fi\nTags:Aliens/Coming of Age/Food/Primarily Female Cast/Female Protagonist/Cute Girls Doing Cute Things/Fashion/Magic/Henshin\nThree high school girls are putting together a limited-time shop called \"PARK\" in Japan's Harajuku. One day, aliens come to Earth with the intent to steal the famed district's culture. At the same time, a mysterious girl appears. The three girls band together to defeat the alien threat and protect their beloved Harajuku.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt3306838",
+      "type": "series",
+      "name": "Hozuki’s Coolheadedness 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98438-DdWr6KxfD5v4.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3306838"
+      },
+      "description": "Genres: Comedy, Fantasy, Supernatural\nTags:Mythology/Demons/Episodic/Work/Male Protagonist/Youkai/Seinen/Monster Girl/Monster Boy\nThe second season of <i>Hoozuki no Reitetsu</i>.<br><br>\n\nAs the right hand man of the Great King Enma, Hozuki’s job is literally a living hell. As the most competent demon in the underworld, it’s up to him to solve problems and invent new forms of hilarious and excruciating torture.<br><br>\n\n(Source: HIDIVE)"
+    },
+    {
+      "id": "tt1352421",
+      "type": "series",
+      "name": "Natsume Yujin-cho 6 Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100283-R41Jk9AHLuXj.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1352421"
+      },
+      "description": "Genres: Drama, Fantasy, Slice of Life, Supernatural\nTags:Youkai/Iyashikei/Shoujo/Adoption/Rural/Male Protagonist\nNew unaired episodes included in 4th and 5th DVD volumes of Natsume Yuujinchou Roku."
+    },
+    {
+      "id": "tt8941186",
+      "type": "series",
+      "name": "SENGOKU NIGHT BLOOD",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98603-PPWyXBNCgWvd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8941186"
+      },
+      "description": "Genres: Fantasy, Romance\nTags:Historical/Vampire/Heterosexual/Primarily Male Cast/Swordplay/Male Harem/Kemonomimi/War/Samurai/Isekai/Werewolf/Female Protagonist\nThe game centers around different warlords from Japan's Warring States (Sengoku) period, who are all involved with the player character. The game is described as a \"Warring States romance fantasy.\"\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7545002",
+      "type": "series",
+      "name": "TWOCAR",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99672-Z2aXOeOG8xHd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7545002"
+      },
+      "description": "Genres: Drama, Sports\nTags:Motorcycles/Ensemble Cast/Female Protagonist/Primarily Female Cast/Cars/Cute Girls Doing Cute Things/Twins/Achronological Order\nOriginal anime by Silver Link commemorating their 10th anniversary.<br><br>\n\nToday's the opening day for the high school division of the racing kneeler exhibition! Ladies gather from across the nation, determined to win in the \"kneeler race.\" Today's race is to introduce this season's contestants. No one will be pushing themselves to the limit just yet, but you can expect that at the competition. So begins the female racers' fight for first place!<br><br>\n\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "kitsu:13755",
+      "type": "series",
+      "name": "THE IDOLM@STER Side M",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98310-ainGvvbOiKdk.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13755"
+      },
+      "description": "Genres: Music\nTags:Idol/Primarily Male Cast/Male Protagonist/Ensemble Cast/Dancing/LGBTQ+ Themes\n<i>Based on the Idom@ster SideM app.</i><br>\n<br>315 Production – a newly set up small talent agency – has assembled a group of aspiring male idols from various occupational fields. They include a former lawyer, a former doctor, former pilot and so on… Even though everyone hails from different background, they share a common dream: to be the top idol. And so, the stories of these male idols at 315 Production take centre stage…<br><br>(Source: Crunchyroll)<br><br>\n<i>Includes episode 0.</i>"
+    },
+    {
+      "id": "tt5370118",
+      "type": "series",
+      "name": "KONOSUBA -God's blessing on this wonderful world! 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21699-Fkbnkl9ZC6fW.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5370118"
+      },
+      "description": "Genres: Adventure, Comedy, Ecchi, Fantasy\nTags:Isekai/Satire/Parody/Magic/Male Protagonist/Primarily Female Cast/Anti-Hero/Chuunibyou/Gods/Slapstick/Masochism/Super Power/Swordplay/Travel/Cult\nWhen Kazuma Satou died, he was given two choices: pass on to heaven or be revived in a fantasy world. After choosing the new world, the goddess Aqua tasked him with defeating the Demon King, and let him choose any weapon to aid him. Unfortunately, Kazuma chose to bring Aqua herself and has regretted the decision ever since then.\n<br><br>\nNot only is he stuck with a useless deity turned party archpriest, the pair also has to make enough money for living expenses. To add to their problems, their group continued to grow as more problematic adventurers joined their ranks. Their token spellcaster, Megumin, is an explosion magic specialist who can only cast one spell once per day and refuses to learn anything else. There is also their stalwart crusader, Lalatina \"Darkness\" Dustiness Ford, a helpless masochist who makes Kazuma look pure in comparison.\n<br><br>\n<i>Kono Subarashii Sekai ni Shukufuku wo! 2</i> continues to follow Kazuma and the rest of his party through countless more adventures as they struggle to earn money and have to deal with one another's problematic personalities. However, things rarely go as planned, and they are often sidetracked by their own idiotic tendencies.\n"
+    },
+    {
+      "id": "tt6185782",
+      "type": "series",
+      "name": "Miss Kobayashi's Dragon Maid",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21776-FJiPcLQHeTiV.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6185782"
+      },
+      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Dragons/Found Family/Monster Girl/Family Life/Female Protagonist/Cute Girls Doing Cute Things/Primarily Female Cast/Magic/Maids/Episodic/Urban/Yuri/Urban Fantasy/Large Breasts/Seinen/LGBTQ+ Themes/Primarily Adult Cast/Office Lady/Otaku Culture/Kuudere/Isekai/Software Development/Bisexual/Philosophy\nWhat happens when a drunken promise leads to living with a dragon? That’s Miss Kobayashi’s new reality when Tohru appears in her life. With a maid-slash-dragon in her home, she’s experiencing a whole new level of domestic bliss! But the dragons don’t stop there. On a mission to find Tohru appears Kanna, a little dragon with a big attitude. Before she knows it, Kobayashi’s got a house full of dragons—one serving tail and the other serving serious moe! Together, they live side by side with only the occasional disaster…well, maybe. But nothing beats coming home to the warm welcome of a dragon maid!<br><br>\n\n(Source: Funimation)"
+    },
+    {
+      "id": "tt6455986",
+      "type": "series",
+      "name": "Saga of Tanya the Evil",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21613-uh46F6TNGbNf.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6455986"
+      },
+      "description": "Genres: Action, Fantasy\nTags:Military/War/Anti-Hero/Female Protagonist/Revenge/Primarily Adult Cast/Gods/Isekai/Magic/Foreign/Historical/Gender Bending/Guns/Politics/Philosophy/Primarily Male Cast/Tanks/CGI/Episodic\nThe novel series centers on a young girl who fights on the frontlines in war. She has blonde hair, blue eyes, and nearly transparent white skin, and she flies through the air and mercilessly strikes down her opponents. Her name is Tanya Degurechaff, and she speaks with a young girl's lisp and commands the army. Tanya used to be one of Japan's elite office workers, but because of a wrathful god, was reborn as a little girl. Tanya prioritizes optimization and career advancement above all, and she will become the most dangerous entity among the Imperial Army's sorcerers.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6402190",
+      "type": "series",
+      "name": "Masamune-kun's Revenge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21857-haPDVD7DKDpg.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6402190"
+      },
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Male Protagonist/Revenge/Tsundere/School/Primarily Female Cast/Bullying/Heterosexual/Kuudere/Shounen/Maids\nAs an overweight child, Makabe Masamune was mercilessly teased and bullied by one particular girl, Adagaki Aki. Determined to one day exact his revenge upon her, Makabe begins a rigorous regimen of self-improvement and personal transformation.\n\nYears later, Masamune re-emerges as a new man. Handsome, popular, with perfect grades and good at sports, Masamune-kun transfers to Aki's school, and is unrecognizable to her. Now, Masamune-kun is ready to confront the girl who bullied him so many years ago and humiliate her at last. But will revenge be as sweet as he thought?<br><br>\n\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt6197170",
+      "type": "series",
+      "name": "Scum's Wish",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21701-MHK32AXcplLw.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6197170"
+      },
+      "description": "Genres: Drama, Ecchi, Psychological, Romance\nTags:Love Triangle/Heterosexual/Coming of Age/School/Female Protagonist/Philosophy/Nudity/Satire/Primarily Female Cast/Male Protagonist\nHanabi has loved her older friend Narumi for years, but she’s still in high school and not only is Narumi now her new homeroom teacher, he’s also clearly in love with the music teacher, Akane. And as awkward as being the unwanted third in a romantic triangle can be, things become even more twisted for Hanabi when she learns that another student, Mugi, is in love with Akane. That leads to a strange idea: since the ones that Mugi and Hanabi are in love with aren’t available, the two unrequited thirds start to explore the idea of becoming each other’s substitute surrogate relationship. It’s not about romance, of course. Just sex and convenience.<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "tt1799631",
+      "type": "series",
+      "name": "Blue Exorcist: Kyoto Saga",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21861-KDvJJQenJJlT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1799631"
+      },
+      "description": "Genres: Action, Fantasy, Supernatural\nTags:Shounen/Super Power/Demons/Urban Fantasy/Swordplay/Male Protagonist/Twins/School/Body Horror/Adoption/Travel/School Club\nIn the late Edo Period, a demon known as the Impure King killed thousands of people. After defeating the demon, the Knights of the True Cross kept its left eye safely sealed away on Academy grounds - but now someone has stolen it! Hearing the thief has taken a child hostage, Yukio and Rin go to help. The investigation and pursuit will lead Rin and his friends to Kyoto and involve them even deeper in a sinister plot! But will his friends' knowledge that Rin is the son of Satan drive a wedge between them?<br><br>\n\n(Source: Viz Media)"
+    },
+    {
+      "id": "tt6352180",
+      "type": "series",
+      "name": "Little Witch Academia (TV)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21858-Pfp8zrJEfPrd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6352180"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Magic/Witch/School/Female Protagonist/Primarily Female Cast/Primarily Child Cast/Primarily Teen Cast/Cute Girls Doing Cute Things/Urban Fantasy/Episodic/Ojou-sama/LGBTQ+ Themes/Dragons/Super Robot/Crossdressing\nIn a time when magic is on the decline amid society, Atsuko Kagari is a cheerful girl who enters Luna Nova Academy in order to accomplish her dream of becoming a witch like her idol, Shiny Chariot. Shiny is a famous witch who disappeared from public view many years ago. On her way to school, Kagari meets the kind Lotte Yanson and the mischevious Sucy Manbavaran and the three become friends as they share a bedroom in campus. At the academy, Atsuko soon discovers she is in serious disadvantage compared to the other girls since she doesn`t come from a magical family and is required to learn the magical curriculum from scratch. Having found an item that once belonged to Chariot, Atsuko must discover how to activate and properly use the mysterious Shiny Rod as she hopes it might lead to finding out what has truly happened to her vanished idol.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6407994",
+      "type": "series",
+      "name": "Gabriel DropOut",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21878-bOwTOgyhTp7h.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6407994"
+      },
+      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Urban Fantasy/Urban/Angels/Female Protagonist/Cute Girls Doing Cute Things/Demons/Primarily Female Cast/Surreal Comedy/Slapstick/School/Gods/Primarily Teen Cast/Hikikomori/Parody/Magic/Tsundere/Chuunibyou/Video Games/Isekai/Shounen\nAn angel at the top of an angel school has descended to the human world! However, she has already acclimated to the life of the human world so much that she ends up leading a self-indulgent life, skipping school all the time and being absorbed in online games. Gabriel soon forgets about her original goal to make human beings happy and has turned into a lazy and hopeless angel, or a “sloppy angel” in short. Amazingly, she swears to continue to fully enjoy the pleasure of various entertainments of the human world.<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt6435350",
+      "type": "series",
+      "name": "Interviews with Monster Girls",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97592-2m8qtzJLuGY3.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6435350"
+      },
+      "description": "Genres: Slice of Life, Supernatural\nTags:Monster Girl/School/Teacher/Primarily Female Cast/Dullahan/Cute Girls Doing Cute Things/Urban Fantasy/Succubus/Vampire/Male Protagonist/Episodic/Mythology/Educational/Seinen/Ensemble Cast/Fairy Tale/Tomboy/Female Harem/Twins/Bullying\nSuccubus, Dullahan and Vampire. They are known as Ajin, or \"demi\"s and are slightly different than the average human. They have lived alongside humans for ages under persecution. However, in recent years, they have become accepted as members of society. This story follows a high school biology teacher who has a great interest in demis and his interaction with the various demis in his school, each with their own cute problems.\n<br></br>\n"
+    },
+    {
+      "id": "tt0988818",
+      "type": "series",
+      "name": "Gintama Season 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97889-NWQVqODOuBqI.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0988818"
+      },
+      "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:Swordplay/Male Protagonist/Shounen/Samurai/Anachronism/Space/Found Family/Parody/Ensemble Cast/Aliens/War/Meta/Kuudere\nAfter joining the resistance against the bakufu, Gintoki and the gang are in hiding, along with Katsura and his Joui rebels. The Yorozuya is soon approached by Nobume Imai and two members of the Kiheitai, who explain that the Harusame pirates have turned against 7th Division Captain Kamui and their former ally Takasugi. The Kiheitai present Gintoki with a job: find Takasugi, who has been missing since his ship was ambushed in a Harusame raid. Nobume also makes a stunning revelation regarding the Tendoushuu, a secret organization pulling the strings of numerous factions, and their leader Utsuro, the shadowy figure with an uncanny resemblance to Gintoki's former teacher.<br>\n<br>\nHitching a ride on Sakamoto's space ship, the Yorozuya and Katsura set out for Rakuyou, Kagura's home planet, where the various factions have gathered and tensions are brewing. Long-held grudges, political infighting, and the Tendoushuu's sinister overarching plan finally culminate into a massive, decisive battle on Rakuyou.<br>\n<br>\n(Source: MAL Rewrite)"
+    },
+    {
+      "id": "tt6422976",
+      "type": "series",
+      "name": "Fuuka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21887-CAq64M7WMgY5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6422976"
+      },
+      "description": "Genres: Drama, Ecchi, Music, Romance\nTags:Band/Love Triangle/Heterosexual/School Club/Idol/Shounen/Male Protagonist/Nudity\nThe story centers on a young man named Yuu Haruna who has just switched schools. He's a bit shy, and he's constantly glued to his smartphone so he can check Twitter. He meets a girl named Fuuka Akitsuki, who doesn't even have a cell phone, is free-spirited, and naturally fascinates others. Yuu recently has been getting back in touch via Twitter with his childhood friend Koyuki Hinashi, who is now a popular singer. One day Yuu invites Fuuka to one of Koyuki's concerts, and there the three meet for the first time. The story follows the love triangle between a love that started through electronics, and a love that didn't start through electronics.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6453340",
+      "type": "series",
+      "name": "Seiren",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97730-AmHt9ItmSeNb.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6453340"
+      },
+      "description": "Genres: Romance\nTags:School/Ensemble Cast/Heterosexual/Otaku Culture/Primarily Female Cast/Video Games/Archery\nShouichi Kamita is an ordinary high school boy, who is faced with university entrance exams and worries about his future. This campus romantic comedy, “SEIREN” (Seiren means honest in Japanese), depicts his pure relationship with three different heroines. Each story is the unique and mutual memory between him and the heroine.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6427166",
+      "type": "series",
+      "name": "Descending Stories: Showa Genroku Rakugo Shinju",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21733-SUV6bCTsU51u.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6427166"
+      },
+      "description": "Genres: Drama\nTags:Rakugo/Josei/Primarily Adult Cast/Acting/Male Protagonist/Historical\nUnable to forget a performance of \"Shinigami\" performed by the rakugo master Yakumo in the prison where he was being held, Yotaro's first act upon his release was go right to the theater, where he begged, pleaded, and was finally accepted as Yakumo's live-in apprentice. After years of refining his art, Yotaro was promoted to the rank of Shinuchi and inherited the title of 3rd Generation Sukeroku. For the sake of his master Yakumo, Konatsu, and to change the image of Sukeroku inside them both, what kind of rakugo will Yotaro discover?<br><br>\n \nThis celebrated human drama, based on a story by Haruko Kumota, offers an honest and sympathetic look into the lives and livelihoods of rakugo storytellers in the Showa era.<br><br>\n\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt6401396",
+      "type": "series",
+      "name": "ACCA: 13-Territory Inspection Dept.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21823-0XTjZ0Rtm7va.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6401396"
+      },
+      "description": "Genres: Drama, Mystery, Slice of Life\nTags:Politics/Male Protagonist/Primarily Adult Cast/Foreign/Work/Travel/Photography/Detective/Police/Seinen/Ensemble Cast/Military/Food\n\"ACCA\" is a giant unified syndicate residing in a kingdom split into 13 autonomous regions. ACCA was formed back when there was threat of a coup d'etat, and it has continued to protect the peace of civilians for almost one hundred years. Jean Otus, the vice-chairman of the inspections department at ACCA headquarters, is one of the most cunning men in the syndicate's history with the nickname \"Jean the Cigarette Peddler.\" Whimsically puffing his cigarettes, he wanders through the 13 districts, checking to see if there is any foul play afoot.<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt7797662",
+      "type": "series",
+      "name": "OneRoom",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97857-ICKs86L2ymjU.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7797662"
+      },
+      "description": "Genres: Romance, Slice of Life\nTags:POV/Primarily Female Cast/Cute Girls Doing Cute Things/Adoption/Tsundere/Philosophy\nHaving just moved into a new apartment building, Yui Hanasaka makes a customary visit to greet her neighbor. When she learns that he is an upperclassman at the university she aspires to attend, she asks for his help to pass her entrance exams. Meanwhile, Natsuki Momohara decides to visit her older brother, who lives alone in an apartment in Tokyo. Elsewhere, aspiring singer Moka Aoshima reunites with her childhood friend, who is a hopeful novelist.<br>\n<br>\nThree stories, although seemingly unrelated, contain the same essence: strings of fate will bind together those who share the same destiny, and one needs to look no further than a single apartment room.\n"
+    },
+    {
+      "id": "tt6473260",
+      "type": "series",
+      "name": "Urara Meirochou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21696-t6vK6om0LJtT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6473260"
+      },
+      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Primarily Female Cast/Cute Girls Doing Cute Things/Female Protagonist/Gods/Witch/Magic/Mythology/Youkai/Historical/Seinen/Kemonomimi\nThe story is set in Meiro-chou, a town where all-female diviners (uranaishi) live and where girls from all over the country yearn to become the top diviner — \"Urara.\" Today, a solitary girl named Chiya enters the town's gates. However, she has another purpose coming here, besides becoming the Urara. Chiya's days as an apprentice diviner begin as she meets three friends — the earnest Kon, Koume who is a fan of Western culture, and the shy Nono.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:12294",
+      "type": "series",
+      "name": "Tales of Zestiria the X Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97645-RMzcW7XTN0Y3.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12294"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Dragons/Magic/Swordplay/CGI/War/Gods\nThe second season of <i>Tales of Zestiria the Cross</i>.<br><br>\n\nSorey is a human youth who grew up among the seraphim, spiritual beings not visible to humans.\nSorey believes in the folklore that says “long ago, every human was able to see the seraphim\" and dreams of unraveling the ancient mystery to make the world a place where people and seraphim can live together in peace.<br><br>\n\nOne day, Sorey visits the human capital for the very first time. He becomes embroiled in an incident during which he pulls out a holy sword embedded in a rock and ends up becoming a Shepherd, one who casts away calamity from the world.\nHe begins to realize the gravity of his mission, and his dream of coexistence between mankind and the seraphim becomes more intense—<br><br>\n\nAnd thus, the Shepherd embarks on a journey with his companions.<br><br>\n\n(Source: Official Website)"
+    },
+    {
+      "id": "tt6478612",
+      "type": "series",
+      "name": "Akiba's Trip the Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97636-djUnzyfgszUa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6478612"
+      },
+      "description": "Genres: Action, Comedy, Ecchi, Fantasy, Supernatural\nTags:Idol/Otaku Culture/Super Power/Nudity/Parody/Card Battle/Urban Fantasy/Wrestling/Demons/Super Robot\nAkihabara, a broad-minded neighborhood where everyone from beginners to masters are welcomed. Even when you're alone, if you go to Akiba, you'll find someone who understands you. It's a neighborhood where anything is possible, where anyone can do seemingly anything; a place where you can lay bare your body and soul. In this neighborhood of Akiba, which has everything including anime, games, maids, idols, secondhand parts, and cheap food, battles are fought against the \"Bagurimono,\" and a steadfast \"boy meets girl\" story begins!<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6460600",
+      "type": "series",
+      "name": "BanG Dream!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87435-yHlVTP1HFiXH.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6460600"
+      },
+      "description": "Genres: Comedy, Drama, Music, Slice of Life\nTags:Band/Primarily Female Cast/Female Protagonist/Primarily Teen Cast/School/Cute Girls Doing Cute Things/Urban/Tsundere/Swimming\nKasumi Toyama was enthralled by the stars as a young girl, so when she discovers a trail of star-shaped signs one day after transferring to a new school, she can't help but follow them. They lead her to a shop run by the grandmother of one of her new classmates, and Kasumi finds something that will change her life forever: a star-shaped guitar! And just like that, Kasumi knows that forming a band is her destiny.<br>\n<br>\nOf course, convincing Arisa and her grandmother to sell her the guitar won't be easy, and finding a group of other girls who want to become musicians will be even harder. But when a girl has stars in her eyes and a starbeat in her heart, there's nothing that will stop Kasumi from making her fantasies come true!<br><br>\n\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "kitsu:13011",
+      "type": "series",
+      "name": "Super Danganronpa 2.5 Komaeda Nagito to Sekai no Hakaimono",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98153-KX7tTXRV23oh.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13011"
+      },
+      "description": "Genres: Action, Mystery, Psychological, Sci-Fi\nTags:Male Protagonist/School/Guns/Swordplay\nNagito Komaeda wakes up after experiencing death in the Neo World Program. What kind of world is he seeing and why did he wake up?<br><br>\n\nNagito appears to be in a strange world, including students who have been seen before as well as people who never existed. He is an ordinary boy with no Ultimate Luck, attending an ordinary school. Constrained by being the protagonist, he thinks that having a big talent would interrupt his happiness. He believes that living an ordinary life, being moderately happy, while watching his classmates have a normal youth is what's wonderful.<br><br>\n\nHowever, one day, a boy calling himself \"The Destroyer of the World\" appears, having the form of red-eyed Hajime Hinata. He begins the destruction of Nagito's world...<br><br>\n\n(Source: Danganronpa Wikia)"
+    },
+    {
+      "id": "tt7382936",
+      "type": "series",
+      "name": "NANBAKA - Part Two",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97875-wAkMhWYghL1O.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7382936"
+      },
+      "description": "Genres: Action, Comedy, Drama\nTags:Primarily Male Cast/Male Protagonist/Memory Manipulation/Femboy/Ninja/Prison\nThe gang is back to their usual antics and things have returned to normal in Nanba prison. However, the status quo is upset when a former guard turned inmate enacts a plan of his own.<br><br>(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6813314",
+      "type": "series",
+      "name": "Chaos;Child",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21126-l7MgeoysYBdE.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6813314"
+      },
+      "description": "Genres: Horror, Mystery, Psychological, Sci-Fi, Supernatural\nTags:Male Protagonist/Urban Fantasy/Adoption/Denpa/Gore/Chuunibyou/School Club/Primarily Teen Cast/Gods/Urban/School/Kuudere/Otaku Culture\nAfter a magnitude-7.8 earthquake hits Tokyo's Shibuya ward on November 6, 2009, a black fire spreads and causes mass panic on the day of the earthquake. The sudden disaster that becomes known as the \"Shibuya Earthquake\" kills 3,851 people and injures 30,927 more.<br>\n<br>\nThe story set in a reconstructed Shibuya district in October 2015. A string of mysterious deaths occurs in Shibuya amidst the reconstruction. People begin to take notice as the strange events start on the same day that chaos broke out in Shibuya with a certain incident five years earlier. The events are called the \"Return of the New Generation Madness.\"\n<br><br>\n(Source: Anime News Network) <br><br>\n<i>Note: Includes episode 0.</i>"
+    },
+    {
+      "id": "tt6562940",
+      "type": "series",
+      "name": "Kemono Friends",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87496-22ELi0gTAGro.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6562940"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Kemonomimi/Full CGI/Iyashikei/Primarily Female Cast/Animals/Cute Girls Doing Cute Things/CGI/Educational/Female Protagonist/Kids\nThe anime's story takes place in Japari Park, a \"gigantic integrated zoo.\" In the zoo, due to the mysterious \"sand star\" substance, the animals start turning into human-shaped creatures called Animal Girls. Japari Park is a place where many people visit and have fun at, but one day a lost child wanders into the park. The lost child starts a journey to return, but because so many Animal Girls join in on the quest it becomes an unexpected grand adventure.<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6401430",
+      "type": "series",
+      "name": "Hand Shakers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21731-jhhJdeuCnFjB.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6401430"
+      },
+      "description": "Genres: Action\nTags:Battle Royale/CGI/Super Power/Full CGI/Urban Fantasy/Urban/Bullying/Idol/Card Battle/Slavery/Kuudere\nIn Osaka in the year \"AD20XX,\" Hand Shakers are partners who can summon \"Nimrodes,\" weapons born from their deep psyche by joining hands. In order to grant the pair's wish, the Hand Shakers compete with and fight other Hand Shaker pairs. The top pair will then meet and challenge \"God.\"<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:12861",
+      "type": "series",
+      "name": "Rewrite: Moon and Terra",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97665-QkYpSTjEaz57.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12861"
+      },
+      "description": "Genres: Action, Drama, Mystery, Romance, Supernatural\nTags:Male Protagonist/Primarily Female Cast/Super Power/Military/Kuudere\nSecond season of Rewrite, covering the Moon and Terra routes."
+    },
+    {
+      "id": "tt6302332",
+      "type": "series",
+      "name": "Chain Chronicle - The Light of Haecceitas -",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20986-uVe390PSwv6E.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6302332"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Magic/Swordplay/Demons\nThis is the story of the Chain Chronicle, a book that describes everything that happens in the world. The citizens of the remote continent of Yggd once thought that there was nothing beyond their continent. The continent was divided into several regions, each with its own king. Though there were small skirmishes amongst them, a lord, chosen by the kings in conference, always maintained balance, until the evil Black Army arrived. The Volunteer Army, led by Yuri, was no match for the Black Army. During the fighting, the Lord of Black captures half of the Chain Chronicle, as well as the capital.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7908372",
+      "type": "series",
+      "name": "Nyanko Days",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97673-UQ7WHkc04S40.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7908372"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Nekomimi/Cute Girls Doing Cute Things/Kemonomimi/Chibi/Animals/Female Protagonist/Primarily Female Cast\nThe four-panel manga follows a shy girl named Tomoko who comes home from school and is greeted by her three (personified) cats.<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt5618002",
+      "type": "series",
+      "name": "SUPER LOVERS 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21836-huZzYmlXtwU1.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5618002"
+      },
+      "description": "Genres: Comedy, Drama, Romance\nTags:Boys' Love/Coming of Age/Adoption/Orphan/Incest/LGBTQ+ Themes/Shoujo/Gender Bending/Transgender\nAfter leaving Canada to move in with Haru, Rei was finally getting used to living as the youngest of four brothers, and Haru's new café was beginning to thrive... when their mother, Haruko, showed up and said she was taking Rei with her to Switzerland! The shock of her sudden declaration just when Haru and Rei had begun to grow closer led to increasing discord between them. Is more trouble on the horizon?!\n\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt2942228",
+      "type": "series",
+      "name": "Yowamushi Pedal New Generation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21407-BJkuBRUf3SgN.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2942228"
+      },
+      "description": "Genres: Drama, Sports\nTags:Cycling/Shounen/Primarily Teen Cast/School Club/Primarily Male Cast/Male Protagonist\nAfter defeating the formidable opponent Hakone Gakuen in the national tournament \"Inter-High,\" senior members of Sohoku High -- Kinjo, Makishima, and Tadokoro -- are about to retire, and the team reorganizes with first-year members (Onoda, Imaizumi, and Naruko) under the leadership of Teshima as team captain and Aoyagi as vice captain. Meanwhile, Hakone Gakuen is reorganizing and recruiting as well in order to retake the championship, while Kyoto Fushimi High is now led by \"monster racer\" Midousuji.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6004864",
+      "type": "series",
+      "name": "The Dragon Dentist",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87539-TF4agdQizKrh.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6004864"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:War/Dragons/Military/Female Protagonist/CGI/Historical/Heterosexual/Male Protagonist\nThe story takes place in Dragon Country.\nNonoko is a newly appointed dentist and her mission is to protect the dragon, the guardian of the country, from tooth-cavity bacteria.\n\nOne day, amid increasingly fierce battles with the neighboring country, Nonoko finds on the dragon's tooth an unconscious boy soldier from the enemy country.\n\nHis name is Bell, and he has been resurrected from inside the tooth by the dragon—a supernatural phenomenon that legend says occurs before a major disaster.\nAs Nonoko and Bell go through a series of fierce battles, they eventually learn to accept their fate.<br><br>(Source: Official Website)"
+    },
+    {
+      "id": "tt6050174",
+      "type": "series",
+      "name": "Koro Sensei Quest!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97985-J9bPYFGSNLMG.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6050174"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Parody/Chibi/Ensemble Cast/Teacher/Dungeon/Meta/Magic/School/Shounen/Maids\nSpinoff of Ansatsu Kyoushitsu and continuation of the anime film short.<br><br>\n\nIn this world, Koro-sensei is the Demon King while the students of class 3-E are cast as heroes who must defeat him. The students learn swordsmanship and sorcery at Kunugigaoka Magic School. Their strange adventure begins!<br><br>\n\n(Source: Official page)"
+    },
+    {
+      "id": "tt6543300",
+      "type": "series",
+      "name": "elDLIVE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21677-jVe7bGD1x1dJ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6543300"
+      },
+      "description": "Genres: Action, Sci-Fi\nTags:Space/Police/Shounen/Aliens/Male Protagonist\nChuuta Kokonose is an orphan who lives with his aunt. For as long as he can remember he's had a voice in his head, but other than that he's a normal boy - right until the day when a strangely-looking thing follows him home and teleports him to a place filled with more fantastic creatures. It's a space police station, and Rein Brickke, the Chief of Solar System Department, tells him that he's been chosen by the computer as a possible candidate to join the police force, although Misuzu Sonokata, a girl from Chuuta's school with an angelic face and ill temper who turns out to be one of Rein Brickke's subordinates, doesn't think him suitable for such a job. Chuuta, who was shocked at first, decides to take aptitude test after being urged by the voice in his head and to prove Misuzu wrong.\n"
+    },
+    {
+      "id": "kitsu:13013",
+      "type": "series",
+      "name": "Rage of Bahamut: Genesis - Short Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98629-YNcvPEHSTvBt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13013"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Supernatural\nTags:Swordplay/Gods/Demons/Fugitive\nShingeki no Bahamut: Genesis - Short Story is set after the events of season 1. \n\nThe first short story focuses on Favaro and Kaiser between the events of the first and second series.\n\nThe second short story focuses on Kaiser and Jeanne between the events of the first and second series."
+    },
+    {
+      "id": "tt6494518",
+      "type": "series",
+      "name": "ONIHEI",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97590-T68FhBBV6QV4.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6494518"
+      },
+      "description": "Genres: Drama\nTags:Historical/Episodic/Swordplay/Primarily Adult Cast/Male Protagonist/Crime/Police/Samurai/Prostitution/Gore/Adoption\nThe historical novel series depicts Heizou Hasegawa, who metes justice on wrongdoers and supervises the crackdown on arsonists and robbers in Japan's Edo period (1603-1868).\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:12000",
+      "type": "series",
+      "name": "Reikenzan: Eichi e no Shikaku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21744-UL1QeLlLzErd.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12000"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Cultivation/Magic/Martial Arts\nThe second season of Reikenzan: Hoshikuzu-tachi no Utage."
+    },
+    {
+      "id": "tt4384306",
+      "type": "series",
+      "name": "Sound! Euphonium 2 Shorts",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98338-EB18SCRhMxak.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt4384306"
+      },
+      "description": "Genres: Comedy, Music, Slice of Life\nTags:Female Protagonist/Band/School Club/Primarily Female Cast/School\nShort specials included in the Blu-ray/DVD releases."
+    },
+    {
+      "id": "tt6455986",
+      "type": "series",
+      "name": "Youjo Shenki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98186-2s9zyDfRAvrr.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6455986"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Parody/Chibi/Military/Foreign/Isekai/Gender Bending/Revenge\nChibi parody of Youjo Senki.<br>\n<br>\n<i>Includes Episode 0.</i>"
+    },
+    {
+      "id": "tt3111906",
+      "type": "series",
+      "name": "Theatre of Darkness: Yamishibai 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97890-vLA7FAi8EbgO.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3111906"
+      },
+      "description": "Genres: Horror, Supernatural\nTags:Urban Fantasy/Episodic/Youkai/Stop Motion/Anthology/Ghost\nThe fourth season of <i>Yami Shibai</i>.<br><br>\n\nA picture-story style of animation whose motif is surrounded and based off the rumors, and urban legends throughout the history of Japan.<br><br>\n\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt6436436",
+      "type": "series",
+      "name": "Minami Kamakura High School Girls Cycling Club",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21298-0ZulKrfl4Cho.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6436436"
+      },
+      "description": "Genres: Sports\nTags:Cycling/Cute Girls Doing Cute Things/Primarily Female Cast/Female Protagonist/School/Shounen/School Club\nThe story begins with Hiromi Maiharu, a girl who moved from Nagasaki to Kamakura. She begins her new life in Kamakura and her first day in high school by bicycling to her school, but she has not ridden a bicycle since she was young. On the way to the ceremony for the first day, she meets Tomoe Akitsuki, and Tomoe helps her train to be better at bicycling.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt2496120",
+      "type": "series",
+      "name": "Star Blazers: Space Battleship Yamato 2202",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21730-caiwTjlMlg0R.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2496120"
+      },
+      "description": "Genres: Action, Drama, Sci-Fi\nTags:Space Opera/Military/Space/Primarily Adult Cast/Clone/Aliens/Tomboy\nUchuu Senkan Yamato 2202 continues the story of Uchuu Senkan Yamato 2199."
+    },
+    {
+      "id": "kitsu:12055",
+      "type": "series",
+      "name": "Super Lovers OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98642-va0rhXtwviJy.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12055"
+      },
+      "description": "Genres: Comedy, Drama, Romance\nTags:Boys' Love\nBundled with manga's tenth and eleventh volume."
+    },
+    {
+      "id": "tt6478640",
+      "type": "series",
+      "name": "Schoolgirl Strikers Animation Channel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97776-28QkZXPBtq2L.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6478640"
+      },
+      "description": "Genres: Action, Sci-Fi\nTags:Super Power/School/Primarily Female Cast/Henshin/Cute Girls Doing Cute Things/Ensemble Cast/Amnesia/Teacher/Female Protagonist/Demons\nAn adaptation of Square Enix's smartphone \"light novel-style RPG\" app Schoolgirl Strikers.<br><br>\n\nThe game is set in Goryōkan Academy, a new private senior/junior high school for girls with a vast downtown campus. This highly popular school has \"another face\" — a secret hidden side. It organizes and trains the special unit Fifth Force to protect the world from invisible supernatural entities known as \"Oburi\" that are devouring the world. A team of five trained with powers against the Oburi is to be chosen from the student body to perform missions. A new team leader has been appointed to assemble the five students.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:12927",
+      "type": "series",
+      "name": "KIRA KIRA☆PRETTY CURE A LA MODE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98059-rT4gGYYPpJxH.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12927"
+      },
+      "description": "Genres: Comedy, Fantasy, Mahou Shoujo, Slice of Life\nTags:Food/Kids/Henshin/Female Protagonist/Primarily Female Cast/Kemonomimi/Educational/Cute Girls Doing Cute Things/Primarily Child Cast/Ensemble Cast/Band/Magic/Superhero/Shapeshifting/Work/Musical\nIchika Usami is a second year middle school student who works in her family's cafe, Kirakira Patisserie. One day, she meets a spoiled lamb fairy named pekorin who tells her evil monsters known as Henteko have been stealing \"Kirakiraru\", the energy that resides within sweets and desserts. Ichhika then becomes a pretty cure and, with four other girls, they form the kirakira precure a la mode to fight the henteko and protect the sweets.<br><br>\n\n(Source: Wiki)"
+    },
+    {
+      "id": "kitsu:12596",
+      "type": "series",
+      "name": "Idol Incidents",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97618-mznHLtdp6A25.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12596"
+      },
+      "description": "Genres: Music\nTags:Idol/Politics/Primarily Female Cast/Female Protagonist/Musical\nPart of MAGES' multimedia \"Idol Jihen\" project.<br><br>\n\nThe anime takes place in a parallel-world Japan, where idols stand up against a corrupt government as \"idol Diet members,\" and then work to bring back the smiles of the Japanese people through song and dance. The idol Diet members belong to seven different political parties, including the Heroine Party, the SOS Party, the Subculture New Party, the Bishōjo Party, the Wakaba Party, the Starlight Party, and the Sanrai Party.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:12274",
+      "type": "series",
+      "name": "Piacevole",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21842-rDlmTdoa80Jl.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12274"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Food/Work/Female Protagonist/Tsundere/Ojou-sama/Tanned Skin\nHigh schooler Morina Nanase starts work at Trattoria Festa, an Italian restaurant filled with various and sundry quirky characters...and where through its unique cuisine, she will begin to mature as a person.<br><br>\n\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "kitsu:12141",
+      "type": "series",
+      "name": "Yuyushiki OVA: Komarasetari, Komarasaretari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98344-kW9qipwi6AIj.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12141"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Iyashikei/School/Female Protagonist/Surreal Comedy/School Club\nSpecial episode of Yuyushiki."
+    },
+    {
+      "id": "kitsu:13330",
+      "type": "series",
+      "name": "Kuroko no Basket: Oshaberi Shiyou ka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98525-s8UIbkp4wx1R.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13330"
+      },
+      "description": "Genres: Comedy, Sports\nTags:Basketball/Male Protagonist/Primarily Male Cast/Shounen\nSpecial included on Kuroko no Basket Fan Disc 3: Korekara Nandodemo."
+    },
+    {
+      "id": "kitsu:12863",
+      "type": "series",
+      "name": "Chou Yuu Sekai: BEING THE REALITY",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98104-xrY6ddaWn8pl.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12863"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Romance\nTags:Video Games/Isekai\nA world where mysterious beings called \"Disasters\" continually threaten the peace of the world. A special military unit called Saber is formed to oppose Disaster. Private conglomerates and the independent self-defense organization Blade also form, and advance on the enemy. Noii is a high school student who yearns to join Saber and fight Disaster. After a mysterious girl named Motis transfers into his class, his normal life completely changes.\n<p>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:13344",
+      "type": "series",
+      "name": "ViVid Strike! OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98220-2eOZ3BstOv8I.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13344"
+      },
+      "description": "Genres: Action, Mahou Shoujo, Sports\nTags:Martial Arts/Magic\nIncludes episodes 5.5, 5.75 and 13 from the BD/DVDs."
+    },
+    {
+      "id": "tt2560140",
+      "type": "series",
+      "name": "Attack on Titan Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2560140"
+      },
+      "description": "Genres: Action, Drama, Fantasy, Mystery\nTags:Survival/Shapeshifting/Post-Apocalyptic/Military/Kaiju/Dystopian/Gore/Primarily Teen Cast/Super Power/Shounen/Male Protagonist/Dissociative Identities/Incest/Primarily Male Cast/Kuudere/CGI/Cannibalism/Tanned Skin/Primarily Adult Cast/Swordplay/Coming of Age\nEren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest—a horde of Titans is approaching Wall Rose and the battle for humanity continues!<br><br>\n\n(Source: Funimation)"
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "name": "My Hero Academia Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21856-gutauxhWAwn6.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5626028"
+      },
+      "description": "Genres: Action, Adventure, Comedy\nTags:Super Power/Superhero/Shounen/School/Primarily Teen Cast/Cultivation/Male Protagonist/Ensemble Cast/Urban Fantasy/Primarily Male Cast/Tomboy/Heterosexual/Bisexual/Cheerleading\nTaking off right after the last episode of the first season. The school is temporarily closed due to security. When U.A. restarts, it is announced that the highly anticipated School Sports Festival will soon be taking place. All classes: Hero, Support, General and Business will be participating. Tournaments all round will decide who is the top Hero in training.<br><br>(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6342474",
+      "type": "series",
+      "name": "Boruto: Naruto Next Generations",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6342474"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Shounen/Ninja/Super Power/Male Protagonist/Primarily Child Cast/Swordplay/Aliens/Martial Arts/Anachronism/Episodic/School\nNaruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage monument. But this is not his story... A new generation of ninja are ready to take the stage, led by Naruto's own son, Boruto!<br><br>\n\n(Source: VIZ Media)"
+    },
+    {
+      "id": "tt6783056",
+      "type": "series",
+      "name": "Eromanga Sensei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21685-h1SrcpaNnrIq.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6783056"
+      },
+      "description": "Genres: Comedy, Drama, Ecchi, Romance, Slice of Life\nTags:Writing/Inseki/Drawing/Tsundere/Hikikomori/Otaku Culture/Primarily Child Cast/Female Harem/Male Protagonist/Primarily Female Cast/Heterosexual/Work/Parody/Meta/Primarily Teen Cast/Female Protagonist/Crossover/Philosophy/Video Games\nThe \"new sibling romantic comedy\" revolves around Masamune Izumi, a light novel author in high school. Masamune's little sister is Sagiri, a shut-in girl who hasn't left her room for an entire year. She even forces her brother to make and bring her meals when she stomps the floor. Masamune wants his sister to leave her room, because the two of them are each other's only family.<br>\n<br>\nMasamune's novel illustrator, penname “Ero Manga Sensei,” draws extremely perverted drawings, and is very reliable. Masamune had never met his illustrator, and figured he was just a disgusting, perverted otaku. However, the truth is revealed … that his “Ero Manga Sensei” is his own younger sister! To add to the chaos that erupts between the siblings, a beautiful, female, best-selling shoujo manga creator becomes their rival!<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6845846",
+      "type": "series",
+      "name": "Akashic Records of Bastard Magic Instructor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21700-HhTEXPZKxupP.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6845846"
+      },
+      "description": "Genres: Action, Comedy, Fantasy\nTags:Magic/School/Teacher/Male Protagonist/Primarily Female Cast/Anti-Hero/Tsundere/Kuudere/Female Harem\nIn the \"action fantasy\" story, Glenn is a part-time teacher at a magic school who is inclined to write \"self-study\" on the blackboard and then take a nap. One of his students, Sistine, gets angry and challenges him to a duel and he is easily defeated. However, when a terrible incident threatens the school, Glenn shows intense dedication to protecting his students.<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6472710",
+      "type": "series",
+      "name": "Tsukigakirei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98202-H6RtsIMZPALF.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6472710"
+      },
+      "description": "Genres: Drama, Romance, Slice of Life\nTags:Coming of Age/School/Heterosexual/Writing/Primarily Child Cast/Athletics/American Football/Love Triangle/School Club/CGI\nThe series focuses on characters Akane Mizuno and Kotarou Azumi, two third-year middle school students who become classmates for the first time. The series will depict each characters' growth and connection to the people around them, such as classmates, club-mates, teachers, and parents. The anime will also center on the youthful adolescent romance of the characters, who are hounded by change and uncertainty as the seasons inevitably pass.<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6755926",
+      "type": "series",
+      "name": "Re:CREATORS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97980-9NQwPW0igSMk.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6755926"
+      },
+      "description": "Genres: Action, Drama, Fantasy, Mecha, Thriller\nTags:Writing/Crossover/Isekai/Urban Fantasy/Meta/Magic/Otaku Culture/Drawing/Super Power/Ensemble Cast/Battle Royale/Robots/Swordplay/Video Games/Guns\nPeople have created many stories. Joy, sadness, anger, deep emotion. Stories stir up emotion and captivate. However, those emotions are nothing more than the feelings of a spectator. What if the characters in the stories had their own \"will\"? In their eyes, are we, the creators of the stories, like gods? Revolution for our world. Punishment for the land of the gods. <br><br>Re:CREATORS. Everyone becomes a Creator.<br><br>(Source: Amazon)"
+    },
+    {
+      "id": "tt6819736",
+      "type": "series",
+      "name": "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21860-lSIbYJtEbAXu.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6819736"
+      },
+      "description": "Genres: Drama, Fantasy, Mystery, Romance, Slice of Life, Supernatural\nTags:Post-Apocalyptic/Primarily Female Cast/Fairy/Magic/Found Family/Male Protagonist/Military/Swordplay/Female Protagonist/Kuudere/Female Harem\nFive hundred years have passed since the humans went extinct at the hands of the fearsome and mysterious ‘Beasts’. The surviving races now make their homes up on floating islands in the sky, out of reach of all but the most mobile of Beasts.<br><br>\n\nOnly a small group of young girls, the Leprechauns, can wield the ancient weapons needed to fend off invasions from these creatures. Into the girls’ unstable and fleeting lives, where a call to certain death could come at any moment, enters an unlikely character: a young man who lost everything in his final battle five hundred years ago, the last living human awakened from a long, icy slumber.<br><br>\n\nUnable to fight any longer, Willem becomes the father that the girls never had, caring for and nurturing them even as he struggles to come to terms with his new life, in which he feels the pain of helplessly waiting for his loved ones to return home from battle that his ‘Daughter’ once felt for him so long ago. Together, Willem and the girls gradually come to understand what family means and what is truly worth protecting.\n"
+    },
+    {
+      "id": "tt3612626",
+      "type": "series",
+      "name": "Saekano: How to Raise a Boring Girlfriend ♭",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21180-6ob7MFdjttYe.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3612626"
+      },
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Otaku Culture/Primarily Female Cast/Female Harem/Heterosexual/Video Games/Software Development/Meta/Tsundere/Male Protagonist/School/Writing/Kuudere\nAfter finally completing the first route of his visual novel, Blessing Software's producer Tomoya Aki is optimistic about the future of his team and achieving their goal of creating the best game of the season.<br></br>\n\nHowever, they still have a long way to go. For one, Megumi Katou still has an incredibly flat personality and is unable to fit the role of Tomoya's ideal heroine. The other members of Blessing Software, Eriri Spencer Sawamura, Utaha Kasumigaoka, and Michiru Hyoudou, often forget she is even there due to her lack of presence and character.<br></br>\n\nThroughout the development of their game, Blessing Software learns the struggles of working in an industry where deadlines must be met and edits are made constantly, and the hardships of working in a group setting.<br></br>\n<i>Note: Includes episode 0.</i><br></br>"
+    },
+    {
+      "id": "tt6768600",
+      "type": "series",
+      "name": "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21676-98OeKU9NDhJI.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6768600"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Dungeon/Gods/Female Protagonist/Swordplay/Primarily Female Cast/Magic/Kemonomimi/Kuudere/LGBTQ+ Themes/Coming of Age/Tomboy\nContrary to what the adventures of Bell and the Goddess Hestia might imply, not everyone goes into the dungeon of Orario to pick up girls.  The veterans of the Goddess Loki’s Familia have lots of reasons for risking life and limb facing the monsters and mayhem lurking within the deadly labyrinth’s multiple levels, but new member and mage Lefiya just wants to prove that she’s worthy to be on the same team as her hero, the famed sword princess Ais Wallenstein.  As for Ais herself, she’s seeking something that no one else even suspects, and she may find it when trouble comes after her from the previously unreached 59th level!<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "tt9013220",
+      "type": "series",
+      "name": "Armed Girl's Machiavellism",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21851-WCBWT6fLgh5z.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9013220"
+      },
+      "description": "Genres: Action, Comedy, Ecchi, Romance\nTags:School/Swordplay/Male Protagonist/Martial Arts/Nudity/Primarily Female Cast/Kuudere/Acting\nOriginally, Aichi Coexistence Private Academy was an all-girls school for privileged young ladies until it was decided that it would become co-ed. The fearful girls were permitted to bring weapons to protect themselves, and then a vigilante group was established called the “Supreme Five Swords.\" When rebellious Nomura Fudou is sent to the academy, he is given two options: act and dress like a girl or be expelled!<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "tt6777074",
+      "type": "series",
+      "name": "Love Tyrant",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21517-huYdImj17Sr3.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6777074"
+      },
+      "description": "Genres: Comedy, Ecchi, Romance, Supernatural\nTags:Love Triangle/Surreal Comedy/Parody/Female Harem/Angels/Male Protagonist/Yandere/School/Primarily Female Cast/Tsundere/Shounen/Gods/Henshin/Swordplay/Samurai/Villainess\nA Kiss Note is a powerful notebook that makes anyone who has their name written together will instantly fall in love if they kiss each other regardless of any circumstances. This magical and very familiar item belongs to an angel named Guri whose job as cupid is to create couples. However, she accidentally writes down Aino Seiji, a regular high school student, and unless he kisses someone, Guri will die. She convinces Seiji to go kiss his crush, Hiyama Akane, the school's popular girl who turns out has even stronger feelings for him, bordering on obsessive and psychotic. Eventually Akane and Seiji come together but not before Guri decides that she likes Seiji as well. What seems awesome to most guys becomes hell for Seiji who just wants a normal relationship with girls.\n<br><br>\n(Source: IMDB)"
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "name": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87486-RN58UaoCSALB.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5626028"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Supernatural\nTags:Superhero/Shounen/Super Power/Ensemble Cast/School/Urban/Primarily Teen Cast/Male Protagonist/Urban Fantasy\nUA High School must regain the public's confidence after the surprise villain attack during class 1-A's training session. Although some of the teachers were gravely injured in the attack, Izuku \"Deku\" Midoriya and his classmates must continue to learn and train, and utilize their quirks in varying environments and circumstances.<br><br>\n\n<i>Boku no Hero Academia: Sukue! Kyuujo Kunren!</i> follows class 1-A as they attempt to finally complete their training. However, there's a masked figure roaming around the training center. Have the villains responsible for the previous incident returned to finish the job? If so, are the students ready to fight back?<br><br>\n\n(Source: MAL Rewrite)<br><br>\n\n<i>(Note: This OVA was initially screened at Jump Festa 2016 on November 27, 2016. The OVA was later bundled with the 13th volume of the manga, released on April 4, 2017.)</i>"
+    },
+    {
+      "id": "tt6477270",
+      "type": "series",
+      "name": "Grimoire of Zero",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97682-YRhTwV979zSr.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6477270"
+      },
+      "description": "Genres: Action, Drama, Fantasy\nTags:Witch/Magic/Kemonomimi/Anthropomorphism/War/Tsundere/Swordplay/Animals/Revenge/Female Protagonist\nThe \"grimoire fantasy\" series follows a witch named Zero who is ignorant of the world and a half-beast half-human mercenary who longs to be human. Witches who practice sorcery exist in the world, however, in this era no one knows how about the art and study of witchcraft. Zero is going on a journey to search for a magical tome called \"The Book of Zero\" that hides a power that can destroy the world. The mercenary travels with her as her guard.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt7039224",
+      "type": "series",
+      "name": "Rage of Bahamut: Virgin Soul",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21184-wpNqr2bHzLcC.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7039224"
+      },
+      "description": "Genres: Action, Fantasy, Romance, Supernatural\nTags:Demons/Magic/Gods/Dragons/Slavery/Anti-Hero/War/Swordplay/Fugitive/Zombie/Nudity\n10 years after the event, humans at the royal capital gather wealth, the demons are enslaved to assist with the capital's revival, and the gods lose their power due to a decrease in religious piety. The world is thrown off balance as humans, gods, and demons hold their own ideas of justice.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt4731072",
+      "type": "series",
+      "name": "Food Wars! The Second Plate OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98702-Ao74l33hWMDL.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4731072"
+      },
+      "description": "Genres: Action, Comedy, Ecchi\nTags:Food/Shounen/Male Protagonist/School/Tanned Skin/Table Tennis/Educational\nOVAs bundled with the 24th and 25th manga volumes of the Shokugeki no Souma manga.\n"
+    },
+    {
+      "id": "tt8372010",
+      "type": "series",
+      "name": "Tsugumomo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97625-t6a6xQjttcCU.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8372010"
+      },
+      "description": "Genres: Action, Comedy, Ecchi, Supernatural\nTags:Coming of Age/Youkai/Nudity/Gods/Female Harem/School/Bisexual/Seinen/Super Power\nOne day Kagami Kazuya, an ordinary boy, encounters Kiriha, a beautiful girl in a kimono. It turns out Kiriha is a tsukumogami, a spirit, whose true identity is the precious obi Kazuya carries around as a memory of his late mother. All kinds of bizarre things unfold in this supernatural action comedy! <br><br>\n\n(Source: Funimation)"
+    },
+    {
+      "id": "tt6138612",
+      "type": "series",
+      "name": "Granblue Fantasy: The Animation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21361-8gQWpTE5AJpz.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6138612"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:Magic/Ensemble Cast/Gods/Aviation/Ships\nThis is a world of the skies, where many islands drift in the sky.\nA boy named Gran and a speaking winged lizard named Vyrn lived in Zinkenstill, an island which yields mysteries. One day, they come across a girl named Lyria.\nLyria had escaped from the Erste Empire, a military government that is trying to rule over this world using powerful military prowess.\nGran and Lyria, in order to escape from the Empire, head out into the vast skies, holding the letter Gran's father left behind - which said, \"I will be waiting at Estalucia, Island of the Astrals\".<br><br>\n<i>Note: The first two episodes premiered on January 21st as a special.</i>"
+    },
+    {
+      "id": "tt6740188",
+      "type": "series",
+      "name": "Sakura Quest",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97903-x34aD15XP8hZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6740188"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Work/Rural/Female Protagonist/Primarily Adult Cast/Primarily Female Cast/Ensemble Cast/Coming of Age/Politics/Cute Girls Doing Cute Things/Acting\nFive young women have one thing in common—the careers they planned for themselves weren’t working out. Job dissatisfaction, trying to make ends meet, and personal insecurities lead each of them to start working at a local tourism bureau where their lives become intertwined. As the girls experience their first year on the job, they learn a lot about their town, their industry, and themselves. <br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt7120888",
+      "type": "series",
+      "name": "Clockwork Planet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21563-TNf6EshJCy5l.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt7120888"
+      },
+      "description": "Genres: Drama, Ecchi, Fantasy, Romance, Sci-Fi\nTags:Robots/Steampunk/Ensemble Cast/Artificial Intelligence/Male Protagonist/Post-Apocalyptic/Super Power/Terrorism/Dystopian/Anti-Hero/Female Protagonist/Male Harem/Educational/Cyborg\nNaoto's a high school dropout and brilliant amateur tinkerer. He lives in a world that has been so over-exploited that the entire surface has become one vast machine. When a box crashes into his home containing a female automaton, it's a harbinger of change that will rock the entire globe, and give Naoto his chance to be a hero.\n<br><br>\n(Source: Kodansha USA)"
+    },
+    {
+      "id": "tt6901486",
+      "type": "series",
+      "name": "Seven Mortal Sins",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20705-X2uRDZWD6xGn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6901486"
+      },
+      "description": "Genres: Action, Ecchi, Fantasy\nTags:Nudity/Female Protagonist/Demons/Primarily Female Cast/Yuri/Large Breasts/Monster Girl/Bondage/Group Sex/Rape/Revenge/Female Harem/Yandere/Nun/Episodic/Bisexual\nIn the story, the prideful archangel Lucifer disobeys God and is cast into the lowest level of hell as a fallen angel. On her way to hell, Lucifer happens to meet a high school girl on Earth named Maria, who helps her. In hell, Lucifer meets Leviathan, and Leviathan explains to Lucifer about The Seven Deadly Sins, the seven demon king rulers of hell. After The Seven Deadly Sins seal Lucifer's powers, Lucifer goes on a journey with Maria and Leviathan to defeat them.<br><br>\n\n(Source: Official Website)"
+    },
+    {
+      "id": "tt7537488",
+      "type": "series",
+      "name": "Sagrada Reset",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97660-82E7nL8irvuF.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7537488"
+      },
+      "description": "Genres: Fantasy, Mystery, Romance, Sci-Fi, Supernatural\nTags:Super Power/Detective/Philosophy/Meta/Urban Fantasy/Amnesia/Kuudere/School/School Club\nThe ability to reset time might seem like the ultimate superpower, but if you forget what was going to happen when you reset it, how would you know what you needed to change? Or if you'd make things better or worse? That's the paradox that faces Misora Haruki until she's paired with Kei Asai, who remembers everything, even if they happened in timelines that have been reset. But there's still a catch: each reset point can be used only once and anything that happens in the 24 hours before a new one can be set will be locked in time forever.<br>\n<br>\nIn a town where a mysterious agency seems to be controlling everything from the shadows and everyone has unexpected powers, the lives of Kei and Misora's friends and classmates will depend on how carefully they can use the <i>Sagrada Reset.</i><br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "tt1352421",
+      "type": "series",
+      "name": "Natsume's Book of Friends 6",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97983-Uqn04SR6hVW9.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1352421"
+      },
+      "description": "Genres: Drama, Fantasy, Slice of Life, Supernatural\nTags:Youkai/Iyashikei/Adoption/Male Protagonist/Episodic/Shapeshifting/Shoujo/Rural/School/Age Regression/Primarily Teen Cast\nThe sixth season of <i>Natsume Yuujinchou</i>."
+    },
+    {
+      "id": "tt5847454",
+      "type": "series",
+      "name": "Berserk 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97643-5s3MVIfTYIuQ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5847454"
+      },
+      "description": "Genres: Action, Adventure, Drama, Fantasy, Horror, Supernatural\nTags:CGI/Seinen/Magic/Full CGI/Elf/Demons/Revenge/Swordplay/Male Protagonist/Witch/Gods/Medicine/Gore/Ghost/Military/Disability/Skeleton\nSecond season of <i>Berserk.</i><br><br>\nDemons have now become commonplace around the kingdom of Midland, which has fallen into chaos. The swordsman Guts still cannot stay in one place for long due to his demonic brand. He could always manage to protect himself when he was alone, but now he has the added challenge of protecting former Commander Casca, a shell of her former self who neither remembers nor trusts him. They never have a moment's rest with the constant threat of demons, and they need a place where Casca will be safe till they find a way to heal her. Their elf ally, Puck, tells of the mystical land of Elfhelm, which is supposed to be a safe haven from the demons that ravage the lands. Tired and with only a vague hope, they struggle on to find a place to live—and they still need to find those responsible for the madness they are forced to endure.\n"
+    },
+    {
+      "id": "tt6424452",
+      "type": "series",
+      "name": "The Royal Tutor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97932-mIhBEmGhR6uB.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6424452"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Teacher/Male Protagonist/Primarily Male Cast/Historical/Tsundere/Chibi/Shounen\nAccepting the post of Royal Tutor at the court of the king of Grannzreich, Heine Wittgenstein is a little professor with a big job ahead! Each of the kingdom's four princes has a rather distinct personality. Does their diminutive new instructor have what it takes to lay down some learning? It's a comedy of educational proportions!<br><br>\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt6844136",
+      "type": "series",
+      "name": "Hinako Note",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87517-xktTn25rZrRZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6844136"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Acting/Cute Girls Doing Cute Things/Primarily Female Cast/Female Protagonist/Seinen/Judo/Cosplay/Tsundere/Chibi/Maids/School Club\nHinako is poor at speaking and lives in a rural part of Japan. She wants to improve her speech to be able to talk to people freely, so in high school, she transfers schools to Tokyo and plans to join a theater club. When she arrives, it turns out her boarding house is a secondhand bookstore, and a girl who eats books lives there.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6735466",
+      "type": "series",
+      "name": "Alice & Zoroku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97821-r0s6HIGMYOVh.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6735466"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Mystery, Sci-Fi, Supernatural\nTags:Super Power/Fugitive/Rehabilitation/Primarily Female Cast/Urban Fantasy/Female Protagonist/Found Family/Seinen/Twins/Cute Girls Doing Cute Things/Family Life\nThe fantasy story begins with a group of young girls who hold a power named \"Alice's Dream,\" which allows them to make their imaginations come true. These girls have been locked up and treated as research subjects. Sana, one of these girls whose specific power includes the ability ignore the laws of physics and physically manifest anything she can imagine, has escaped. Afterwards, she meets an old man named Zouroku, who dislikes disruptions in his everyday life.<br><br>\n\n(Source: Anime News Network)\n\n<br><br>\n<i>Note: The first episode aired with a runtime of ~44 minutes as opposed to the standard 25 minute long episode.</i>"
+    },
+    {
+      "id": "tt6858404",
+      "type": "series",
+      "name": "Anonymous Noise",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21773-tZ25uIMNj9sM.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6858404"
+      },
+      "description": "Genres: Music, Romance\nTags:Band/Female Protagonist/Shoujo/School Club/Tsundere/Idol\nSix years ago Momo taught Nino the joy of singing from her heart. When Momo’s family moved away without warning, Nino found herself lost and adrift. Until she met Yuzu, who also had a musical gift that he shared with her until he was suddenly gone as well, leaving nothing but the memory of his music. Before they disappeared, both Momo and Yuzu said the same thing- that Nino should keep singing, because that was how they’d find her again. Now, as Nino starts high school, their paths are all about to cross again. But while Nino has kept singing and remembering how things were, Momo and Yuzu have changed.\n<br><br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "tt6185782",
+      "type": "series",
+      "name": "Miss Kobayashi's Dragon Something",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98502-uHajY0ZQcLix.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6185782"
+      },
+      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Dragons/Chibi/Maids/Female Protagonist/Primarily Female Cast/Monster Girl/Isekai\nSpecials included with the BD/DVD release of Kobayashi-san Chi no Maidragon."
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "name": "Boku no Hero Academia: Training of the Dead",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130183-F68jrVVGNt0n.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5626028"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Supernatural\nTags:Shounen/Super Power/Superhero/Ensemble Cast/School/Urban\nThe story takes place after the field training arc in the second season, and revolves around a practice session between Izuku's class and Isami High students at Yuuei Academy.<br><br>\n\n<i>Note: This OVA was bundled with the 14th volume of the manga</i>"
+    },
+    {
+      "id": "tt8938030",
+      "type": "series",
+      "name": "Take My Brother Away!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98425-VT8p8fG8AMPF.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt8938030"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Family Life/Female Protagonist/Male Protagonist/Episodic/Slapstick/Primarily Teen Cast/School/Bisexual/Foreign\nBased on a Chinese web comedy manga.<br>\n<br>\nShi Miao simply cannot stand her lazy, stupid, and unreliable elder brother Shi Fen, who is one year above her at the same high school. Though the two siblings can only depend on each other, Shi Miao's violent tendencies combined with Shi Fen's knack for causing trouble cause them to fight constantly. And so, Shi Miao can only hope that someone might take her brother away—even though, when push comes to shove, Shi Fen always tries to do what he believes is best for his cute younger sister.<br>\n<br>\n<i>Note: Airing dates reflect the original airing and premiere dates in China, where it aired earlier than it did in Japan</i>."
+    },
+    {
+      "id": "tt6112556",
+      "type": "series",
+      "name": "Yuri on Ice Side Story: Welcome to The Madness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102167-Pw1emJfPpOj3.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6112556"
+      },
+      "description": "Genres: Music, Sports\nTags:Ice Skating/No Dialogue/Primarily Male Cast/Dancing/Male Protagonist/Primarily Adult Cast\nAt the GPF exhibition event, Yuri P. performs a skating routine with Otabek.<br>\n<br>\n<i>Note: Short special included in the 6th BD/DVD volume.</i>"
+    },
+    {
+      "id": "tt5862798",
+      "type": "series",
+      "name": "NEW GAME!: Watashi, Shainryokoutte Hajimete na no de...",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97637-rNs2Yd3OvBAx.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5862798"
+      },
+      "description": "Genres: Comedy\nTags:Cute Girls Doing Cute Things/Female Protagonist/Primarily Adult Cast/Primarily Female Cast/Office Lady/Video Games/Nudity/Software Development/Tomboy/Guns/Work\nThe staff of Eagle Jump take a long awaited vacation to a ski resort, celebrating the release of their latest iteration of the 'Fairies Story' game. Being her first company trip, Aoba Suzukaze is excited for it, but is also apprehensive as she has no prior skiing experience. Join Aoba and her colleagues as they de-stress and enjoy their time at the resort.\n"
+    },
+    {
+      "id": "tt7001136",
+      "type": "series",
+      "name": "KADO: The Right Answer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21452-nMuqJmziSDn3.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7001136"
+      },
+      "description": "Genres: Sci-Fi, Supernatural, Thriller\nTags:Aliens/Politics/Male Protagonist/Philosophy/Urban/Primarily Adult Cast/Full CGI/Economics/Tsundere\nToei Animation's original CG animation project.<br><br>\n\nKojiro Shindo. Cabinet Office Director-General for Policy Planning, is at Haneda Airport for a business trip.\nWhile the plane is on the runway, a giant structure suddenly appears out of thin air.\nThe plane carrying Shindo and 251 passengers is taken undamaged inside the giant structure. After everyone disembarks, a man who looks like an ordinary human being shows up. He assures those from the plane that they're not in any danger. Shindo asks him to identify himself and explain the situation. Then the outside of the structure is displayed on a large screen, and at the same time, every passenger's cell phone starts ringing all at once. On each cell phone screen is a message from this man, to every one of Japan's citizens: \"I, Yaha-kui zaShunina, hereby notify you that I am going to intervene in Japan's internal affairs.\"<br><br>\n\nWhat is this young man's goal? And will Shindo manage to become an intermediary between Japan and the Anisotorons...?<br><br>\n\n<i>Includes episode 0.</i>"
+    },
+    {
+      "id": "tt6435350",
+      "type": "series",
+      "name": "Interviews with Monster Girls: The Demi-chans' Summer Break",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99394-0fGPUck4fnBd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6435350"
+      },
+      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Monster Girl/Cute Girls Doing Cute Things/Primarily Female Cast/Vampire/Dullahan/Succubus\nStreamed special of Demi-chan wa Kataritai which will also be included with the DVD/BD volume 7.\n"
+    },
+    {
+      "id": "tt8425966",
+      "type": "series",
+      "name": "The Silver Guardian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21662-pTpbHTs0xqsG.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt8425966"
+      },
+      "description": "Genres: Action, Comedy, Fantasy, Supernatural\nTags:Shounen/Isekai/Video Games/Male Protagonist\nSuigin and Rei both play the MMORPG Dungeon Century. But after adventuring together for weeks, the game’s servers shut down to make way for the latest world-altering title. Grave Buster—a video game proclaiming “reality beyond reality” hits the shelves, and Rei is pulled into it by forces unknown. Now it’s up to Suigin to rescue her from the virtual world, no matter the cost.<br>\n<br>\n(Source: Funimation)"
+    },
+    {
+      "id": "tt6407994",
+      "type": "series",
+      "name": "Gabriel Dropout Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98524-cuUdbvhvPkcP.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6407994"
+      },
+      "description": "Genres: Comedy, Supernatural\nTags:Cute Girls Doing Cute Things/Demons/Gods/Angels/Female Protagonist/Chuunibyou/Video Games/Shounen/School/Hikikomori/Urban/Isekai\nSpecials included with the Blu-ray/DVD release of Gabriel DropOut."
+    },
+    {
+      "id": "tt1799631",
+      "type": "series",
+      "name": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97891-SsbeyuNwwmDA.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1799631"
+      },
+      "description": "Genres: Action, Fantasy, Supernatural\nTags:Demons/Shounen/School/Male Protagonist/Primarily Teen Cast/Urban Fantasy\nBundled with the 19th and 20th volumes of the Ao no Exorcist manga.\n\nThe first episode is based on the second chapter of the second Ao no Exorcist novel Home Sweet Home.\n\nThe second episode is based on the title chapter from the Ao no Exorcist: Spy Game novel"
+    },
+    {
+      "id": "tt2909936",
+      "type": "series",
+      "name": "The Eccentric Family 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97642-zQQJl4hv4Prx.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2909936"
+      },
+      "description": "Genres: Comedy, Drama, Fantasy\nTags:Family Life/Philosophy/Mythology/Male Protagonist/Urban Fantasy/Animals/Urban/Shapeshifting/Youkai/Tsundere/Twins\nOne day, “The Junior”, estranged son of Professor Akadama, who disappeared after losing a fierce father-son dispute, has returned home after a century, now an English gentleman.\nThe big news spread in and out of the Kyoto area in the blink of an eye and shake up both the Tengu and Tanuki worlds.\nThe paths of Humans, Tanukis and Tengus intertwine in Kyoto as the second volume of the furball picture scroll unravels!"
+    },
+    {
+      "id": "tt5839706",
+      "type": "series",
+      "name": "91Days: Shoal of Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5839706"
+      },
+      "description": "Genres: Action, Drama\nTags:Mafia/Historical/Assassins/Anti-Hero/Gambling/Foreign/Achronological Order/Revenge/Noir/Food\nThe \"Day 13\" episode will contain three stories. The first story, \"Toki no Asase\" (Shoals of Time), will center on Nero and Vanno persuading Frate to skip mass with them and see the circus.<br><br>\n\nThe second story, \"Subete no Kinou\" (Yesterday Before Everything), will focus on Ganzo, as he meets a young man named Vincente at a bar, and asks Ganzo to do something for him.<br><br>\n\nThe third story, \"Ashita, Mata Ashita\" (Tomorrow, and then Tomorrow), is set after Nero and Avilio defeat Mad Mack and are on the way back to Lawless. Nero suffers from fever dreams, and Avilio nurses him back to health.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt9642532",
+      "type": "series",
+      "name": "Kenka Bancho Otome -Girl Beats Boys-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97909-vCP8FwyqKayB.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt9642532"
+      },
+      "description": "Genres: Action, Comedy\nTags:Primarily Male Cast/Gender Bending/Crossdressing/Female Protagonist/Male Harem/Delinquents/School/Martial Arts/Idol/Yakuza/Mafia/Primarily Teen Cast\nBased on the otome game, Kenka Banchou Otome.<br><br>\n\nFor as long as she's been aware, the heroine, without a single relative, lived under care of the state. Both of her parents' faces were unknown to her. In front of this heroine, a young boy appeared. The young boy's name was \"Hikaru\". It appeared that he was the heroine's twin brother, separated at birth. He had a proposal for the heroine.<br><br>\n\n\"Could you go to school in my place?\"<br><br>\n\nThe heroine was shocked by this crazy suggestion. Furthermore this was an all-boys school. The only high school in this prefecture for delinquents. Hikaru was part of the most ancient and honorable family in the criminal underworld (yakuza), the Onigashima family. Under his father's strict teachings, the school that he was to attend had been decided. And that school was Shishiku Academy. A high school where all the terrible and wild delinquents were gathered. Enrolled in this school, a child of the Onigashima family was obligated to occupy and control this school. Hikaru did not want to have anything to do with delinquents. But to defy his father meant death. Hikaru, who learnt about his twin sister who was separated from him at birth, was struck with the idea to send her in his place to this school of delinquents.<br><br>\n\n(Source: VNDB)"
+    },
+    {
+      "id": "kitsu:13513",
+      "type": "series",
+      "name": "Your Light: Kase-san and Morning Glories",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98511-pZHBsH3uETJL.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13513"
+      },
+      "description": "Genres: Romance, Slice of Life\nTags:Yuri/No Dialogue/Female Protagonist/Primarily Teen Cast/School/Primarily Female Cast/Tanned Skin/Shoujo\nYamada may be shy and rather clumsy, but the flower gardens at her school have always brought her happiness. Suddenly, a different sort of beauty catches her eye—the vivacious track star, Kase-san. Although the two girls don't seem to have much in common, they soon start a romance where each must learn an important lesson in tending their budding relationship. Can the two girls, so different from each other, learn how to make their first love blossom?\n<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt5628740",
+      "type": "series",
+      "name": "Yu-Gi-Oh! VRAINS",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98231-mPVCPWmg3KiL.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5628740"
+      },
+      "description": "Genres: Action, Mystery, Sci-Fi\nTags:Card Battle/Male Protagonist/Virtual World/Artificial Intelligence/Cyberpunk/Shounen/Amnesia/CGI\nThe sixth anime series in the Yu-Gi-Oh! franchise. VRAINS is an acronym for \"Virtual Reality Artificial Intelligence Network System\".\n<br><br>\nIn futuristic Den City, people duel using digital cards in the VR space \"LINK VRAINS\" managed by SOL Technology, Inc. A mysterious organization known as the Knights of Hanoi hacks into LINK VRAINS in search of a runaway AI program, Ignis. One duelist with the username \"Playmaker\" stands against this threat. His true identity is high school student Yuusaku Fujiki, a skilled hacker with a dark past and a grudge against Hanoi. When he becomes the first to capture Ignis, a struggle between Yuusaku, SOL Technology, and the Knights of Hanoi ensues.<br>\n<br>\n(Written by Edo)"
+    },
+    {
+      "id": "tt1352421",
+      "type": "series",
+      "name": "Natsume Yujin-cho 5 Specials",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99363-vFOXsEm0340k.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1352421"
+      },
+      "description": "Genres: Drama, Fantasy, Slice of Life, Supernatural\nTags:Youkai/Male Protagonist/Iyashikei/Adoption/Shoujo/Rural/Outdoor\nTwo special episodes bundled in the fourth and fifth volume of the Blu-ray/DVD.\n"
+    },
+    {
+      "id": "kitsu:13311",
+      "type": "series",
+      "name": "Henkei Shoujo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98579-oRJ9uG6r9fop.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13311"
+      },
+      "description": "Genres: Ecchi, Sci-Fi\nTags:Primarily Female Cast/Surreal Comedy/Episodic/Henshin/CGI/Conspiracy/Cars/Nudity\nShorts about girls who transform into machines. The first episode focuses on Haru, a girl who transforms into a fighter jet while trying to catch a hat blowing away in the wind."
+    },
+    {
+      "id": "tt13871228",
+      "type": "series",
+      "name": "Frame Arms Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97874-Jmo0bNydRHJl.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt13871228"
+      },
+      "description": "Genres: Action, Ecchi, Mecha, Sci-Fi\nTags:Robots/Primarily Female Cast/Twins/Cute Girls Doing Cute Things/Female Protagonist/CGI/Mahjong/Dullahan\nThe story begins when Ao opens a package that arrives at her doorstep. Inside the package is Gourai, a Frame Arms Girl: a small robot capable of independent movement. Gourai is a newly-developed prototype: a Frame Arms Girl equipped with an \"Artificial Self,\" an advanced AI that gives her a personality. Ao is the only one that has activated her. Gourai begins to gather both battle data and emotions, starting a day-to-day life with Ao, who knows nothing about Frame Arms Girls.<br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6263302",
+      "type": "series",
+      "name": "Atom: The Beginning",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21830-cF5rYbbDElYZ.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6263302"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nTags:College/Robots/Seinen/Artificial Intelligence\nWith no investor funding, Umatarou Tenma and Hiroshi Ochanomizu must turn to odd jobs to fund their project: to build a humanoid robot that thinks and feels like a human being. When the two geniuses succeed in building A106, they start experimenting with his emotional capabilities right away. As they test to see if they truly can build a sentient robot, one question remains: will this robot become a god or a friend?<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "kitsu:12592",
+      "type": "series",
+      "name": "Augmented Reality Girls Trinary",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98595-pZOV7AFJ7Gfm.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12592"
+      },
+      "description": "Genres: Action, Ecchi, Mecha, Sci-Fi\nTags:Augmented Reality/Ensemble Cast/Primarily Female Cast/Female Protagonist/Henshin/Guns\nThe story centers on five girls who fight with a special mission in the plane of existence on the other side of the screen. The setting of the story is the metropolitan area of the Japanese capital, after it was beset by a certain abnormality.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:13235",
+      "type": "series",
+      "name": "Souryo to Majiwaru Shikiyoku no Yoru ni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98203-OilSiRT4uo75.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13235"
+      },
+      "description": "Genres: Ecchi, Hentai, Romance\nTags:Teens' Love/Rape/Female Protagonist/Primarily Adult Cast/Nudity\nThe story begins when a woman reunites with her first love at a class reunion. She discovers that Kujou has taken over his family's temple as a priest. The woman thought that priests did not have romantic relationships, but a passion ignites between the two. She wonders if what she and the priest do is really right.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:13208",
+      "type": "series",
+      "name": "Nanbaka: Idiots with Student Numbers!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100227-wvmaz4mavaWl.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:13208"
+      },
+      "description": "Genres: Action, Comedy, Drama\nTags:Primarily Male Cast/School/Ensemble Cast/Prison\nThe official website for the Nanbaka television anime announced that the \"Nanfes\" event in April will screen a previously unreleased anime special."
     }
   ]
 }

@@ -1,31 +1,154 @@
 {
   "metas": [
     {
-      "id": "tt0473658",
-      "type": "movie",
-      "name": "InuYasha the Movie 4: Fire on the Mystic Island",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx449-B9HGKZFh0wUC.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0473658"
-      }
-    },
-    {
-      "id": "tt1018764",
-      "type": "movie",
-      "name": "One Piece: Baron Omatsuri and the Secret Island",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx464-g4wcZPjbhY5j.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt1018764"
-      }
-    },
-    {
       "id": "tt0485323",
       "type": "movie",
       "name": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx430-Fx7lVxpcwArH.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0485323"
-      }
+      },
+      "description": "Genres: Action, Comedy, Drama, Fantasy\nTags:Historical/Foreign/Shounen/Male Protagonist/War/Alchemy/Military/Steampunk\nMunich, Germany, 1923. Two years have passed since Edward Elric was dragged from his own world to ours, leaving behind his country, his friends and his younger brother, Alphonse. Stripped of his alchemical powers, he has been all this time researching rocketry together with Alphonse Heiderich, a young man who resembles his own brother, hoping to one day find a way back home. His efforts so far had proven fruitless, but after lending a hand to a troubled gypsy girl, Edward is thrown in a series of events that can wreak havoc in both worlds. Meanwhile, at his own world, Alphonse Elric ventures deeper into the mysteries of alchemy in search for a way to reunite with his older brother.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0791188",
+      "type": "movie",
+      "name": "Naruto the Movie: Legend of the Stone of Gelel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx936-P1ogcIs07UR8.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0791188"
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy, Supernatural\nTags:Ninja/Shounen/Super Power/Primarily Child Cast/Orphan/Lost Civilization/Male Protagonist/Martial Arts/Historical/Travel\nNaruto, Shikamaru, and Sakura are executing their mission of delivering a lost pet to a certain village. However, right in the midst of things, troops led by the mysterious knight, Temujin, attack them. In the violent battle, the three become separated. Temujin challenges Naruto to a fight and at the end of the fierce battle, both fall together from a high cliff. Furthermore, Shikamaru, having been left behind, beholds a giant moving fortress as it appears before his very eyes. In order to get a grasp on the situation, he infiltrates the fortress by himself, however once there he witnesses a frightening sight...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0875609",
+      "type": "movie",
+      "name": "Pokémon: Lucario and the Mystery of Mew",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1526-ddJiHHGNikuY.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0875609"
+      },
+      "description": "Genres: Action, Adventure, Drama, Fantasy\nTags:Kids/Animals/CGI/War\nThis is the 8th Movie.<br><br>\nIn the town of Lohta, a festival is thrown praising \"Aaron the Wave Leader Hero\" who, according to the legend passed down through the town's generations, stopped a war centuries ago by using the power of \"the Tree of the World's Origin.\" Satoshi and Pikachu participate in a battle to decide this year's hero and after their victory, they are chosen as the \"Wave Leader Hero.\" A grand dance party is held in the castle to celebrate the victor, but suddenly the phantom Pokemon Mew appears and takes Pikachu. Soon afterwards, the Wave Leader Pokemon \"Lucario\" is freed from his centuries-long seal and meets Satoshi. Satoshi must solve the various mysteries of where Pikachu is, what Mew's after, what the secret of the legend of the Wave Leader is and how it ties in with Lucario's hidden past as he makes his way to \"the Tree of the World's Origin\" with Lucario.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0488477",
+      "type": "movie",
+      "name": "xxxHOLiC - A Midsummer Night's Dream",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx793-36e9w8wPXG6g.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0488477"
+      },
+      "description": "Genres: Comedy, Drama, Mystery, Psychological, Supernatural\nTags:Seinen/Male Protagonist/Urban Fantasy/Magic/Demons\nYuuko receives a letter from an unknown sender. It is an invitation to an auction. Seven avid collectors were invited to an old mansion. They all admit that they accepted the invitation to complete their collections. They waited for the host, but he does not make an appearance. And one by one the collectors disappear. The strange host and a mysterious girl. A night where odd things happen one after another. What is being auctioned? Who is the host? The cunning and foolish people who are obsessed with \"possessions\" and the host's \"timeless\" passion. What is waiting at the end of this enigmatic series of riddles? And what is the conclusion of the sad love story behind them? Mystery leads to mystery, and reaches the unexpected!<br><br>\n(Source: Production I.G.)"
+    },
+    {
+      "id": "tt0466551",
+      "type": "movie",
+      "name": "Tsubasa Reservoir Chronicle the Movie: The Princess in the Birdcage Kingdom",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/807.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0466551"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:Magic/Isekai/Shounen\nIn their continuing journey to find the feathers that are the fragments of Sakura's lost memory, Syaoran, Kurogane, Fai, and Sakura move through time and space with Mokona. Here, they visit the \"Land of the Birdcage,\" a seemingly peaceful country where people and birds live together, each person having a bird companion. After a boy named Koruri confuses Syaoran and Sakura for \"bodyguards\" and attacks them, they learn that the king of the country possesses a mysterious power. Princess Tomoyo, Koruri, and the other oppressed citizens, having had their birds taken from them, live in hiding within the forest. In order to take back Sakura's feather, Syaoran and the others stand up against the scheming king.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:5866",
+      "type": "movie",
+      "name": "Meitantei Conan: Conan vs. Kid - SHARK & JEWEL",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9785.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5866"
+      },
+      "description": "Genres: Adventure, Comedy, Mystery\nTags:Shounen/Police/Kids/Detective\n3D IMAX movie, shown only at the Suntory Museum in Osaka."
+    },
+    {
+      "id": "kitsu:811",
+      "type": "movie",
+      "name": "Zatch Bell! Attack of Mechavulcan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b911-cLvIrRS9FwHU.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:811"
+      },
+      "description": "Genres: Adventure, Supernatural\nTags:Shounen\nWith only Coast School in mind, Takamine Kiyomaro leaves Gash bewildered that he&rsquo;ll make a new Volcan 300 for him to play with. The genius tries to catch up with the bus that would take him there, but a giant Volcan 300 kidnaps him. Meanwhile Gash befriends the same Vulcan that kidnapped Kiyomaro later named: Volcan 300 Generation 4. The genius wakes up to see that he isn&rsquo;t in Coast School, but that a doctor by the name M2 wants him to be his partner in the future. However, Gash and the other demons interfere with M2's plan in taking Kiyomaro to the future by the help of Generation 4 who agreed to take Gash there by a glitch in its system. Still the doctor tries to get Kiyomaro to come back with him, but with the help of everyone, he is defeated. Though a new situation is at hand, the time warp that M2 came from is out of control. It&rsquo;s up to Gash and the others to save the city or be sucked into it.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt6087358",
+      "type": "movie",
+      "name": "Hotori: Tada Saiwai wo Koinegau",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/475.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt6087358"
+      },
+      "description": "Genres: Drama, Sci-Fi\nTags:Artificial Intelligence/Robots/Amnesia\nAt the Personality Plant, robots are being built and slowly outfitted with the artificial memories of real people. Suzu is one such robot, being made to replace the young boy a family has lost. By chance, he meets a Hotori, a young girl suffering from progressive memory loss. The two children become friends and attempt to define themselves in the light of their changing memories.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:5008",
+      "type": "movie",
+      "name": "The Book of the Dead",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n7510-L2t6xo7axD6s.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5008"
+      },
+      "description": "Genres: Drama, Supernatural\nTags:Stop Motion/Puppetry/Ghost\nWhen a young noblewoman, Iratsume, falls into a trance after copying Buddhist sutras and walks to a remote temple that women are forbidden to enter, she stirs up the ghost of the executed Prince Otsu. Otsu's ghost then mistakes Iratsume for one of her ancestors, a young woman who came to watch his execution. The beautiful face of this young woman was the last thing the Prince saw before he died, and his ghost cannot rest while her face haunts his sleep. "
+    },
+    {
+      "id": "kitsu:5130",
+      "type": "movie",
+      "name": "Trilogy about Clouds",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7809.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5130"
+      },
+      "description": "Genres: Fantasy, Psychological\nTags:Stop Motion\nPlot Synopsis : Trilogy about clouds, that is, an omnibus movie consisting of three different stories of clouds. It is based on a charcoal drawing. The clouds without the fixed form are the worlds which surround us. <br><br>\n1 \"Breathing Cloud\" 3min 10sec<br>\nPeople&rsquo;s body and soul transform into big a cloud, and are mixed with erotic shapes. <br><br>\n2 \"Looking At A Cloud.\" 5min 45sec<br>\nSomething happens at the junior high school. When a boy starts to draw a cloud, that drawing begin to move and eat the students... <br><br>\n3 \"From The Cloud\" 3min 50sec<br>\nA funny little story about people living on the soft cloud. A look at their daily life, in the morning, they listen to the bell and begin to go down the sky.<br>"
+    },
+    {
+      "id": "kitsu:8508",
+      "type": "movie",
+      "name": "Tomorrow Will Become Better!: Half a Sweet Potato",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17493.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:8508"
+      },
+      "description": "Genres: Drama\nTags:Historical/War/Female Protagonist\nThe story is about a 5-year-old girl who lived in just after World War II when people were struggle for living.<br><br>\n(Source: AnimeNfo)"
+    },
+    {
+      "id": "kitsu:4096",
+      "type": "movie",
+      "name": "Ark",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5421.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:4096"
+      },
+      "description": "Genres: Action, Fantasy, Mecha, Sci-Fi, Supernatural\nTags:Military\nArk takes place on a dying alien world in which a global war between two technologically advanced human civilizations has reduced the planet to a wasteland. The only way to escape the world is by activating the Ark, an ancient giant robot capable of supporting a human city as well as traveling through space.<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": "kitsu:7608",
+      "type": "movie",
+      "name": "Anpanman: the Adventure of Happie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17215.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:7608"
+      },
+      "description": "Genres: Comedy\nTags:Kids\n17th Anpanman movie."
+    },
+    {
+      "id": "kitsu:42165",
+      "type": "movie",
+      "name": "ASTRO BOY: Tetsuwan Atom - 10-man Kounen no Raihousha - IGZA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154121-cCN539tKpMYA.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:42165"
+      },
+      "description": "Genres: Sci-Fi\nTags:\nJapan's first fully animated IMAX anime film. Interplanetary spacecraft Galileo II is heading for Saturn's largest moon Titan. However the machines on the moon are trying to destroy humans, so Atom must go and fix the problem."
+    },
+    {
+      "id": "kitsu:9619",
+      "type": "movie",
+      "name": "Sore Ike! Anpanman: Kuroyuki-hime to Mote Mote Baikinman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140307-mT78eooLCC0K.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:9619"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Kids\nBaikinman is snatched by a black cloud inhabited by a princess who loves black, Kuroyukihime. She is immediately thrilled with him and starts making trouble with him, turning everything black. However, both Dokin-chan and Anpanman are determined to stop her."
     },
     {
       "id": "tt0385700",
@@ -34,7 +157,38 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b317-ay0Rw7kxgLVD.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0385700"
-      }
+      },
+      "description": "Genres: Action, Fantasy\nTags:Male Protagonist/Full CGI/Cyberpunk/CGI/Guns/Super Power/Swordplay/Dragons/Video Games\nTwo years after the end of Final Fantasy VII the world is starting to get back on it's feet and is working towards a new future. However, there is a new threat from a new illness called Geo-stigma, and three men that seem to be seeking Jenova. Cloud and his friends from the orginal game must once again reunite to combat the new threat.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:1767",
+      "type": "movie",
+      "name": "One Stormy Night",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1961-L9Hw5BgBaNT1.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1767"
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy\nTags:Animals/Male Protagonist/Rural/Boys' Love/Fairy Tale\nA story about a goat and a wolf who become friends in a stormy night, and how they overcome differences and hardships.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0468812",
+      "type": "movie",
+      "name": "Mobile Suit Zeta Gundam: A New Translation II - Lovers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1968-Bv8gQOAzXXzg.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0468812"
+      },
+      "description": "Genres: Drama, Mecha, Romance, Sci-Fi\nTags:Military/Real Robot/War/Love Triangle\nSecond out of three compilation movies for the Zeta Gundam series.<br><br>\r\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:1741",
+      "type": "movie",
+      "name": "Futari wa Precure: Max Heart 2 - Yukizora no Tomodachi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1931-niK4DwMSpRXl.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1741"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Mahou Shoujo\nTags:Magic/Isekai/Henshin/Superhero/Mythology/Primarily Female Cast/Cute Girls Doing Cute Things/Fairy/Kids\nOn his way to visit the Queen of the Garden of Light, the Sage of the Garden of Clouds accidentally drops the egg of the Houhou. The egg lands in the Garden of Rainbows, where it is found by Hikari, attracting the attention of a powerful pair of servants of the Dark Lord.<br><br>\n(Source: AniDB)"
     },
     {
       "id": "tt0375611",
@@ -43,7 +197,268 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1983.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0375611"
-      }
+      },
+      "description": "Genres: Drama\nTags:Male Protagonist\nThe mega-corporate Daedalus Group is under attack by a small group of activists known as the Ghost of Icarus. While taking care of some of the victims of the bombing, Black Jack encounters Dr. Kiriko, also known as Death Incarnate, who just like him, asks his patients huge sums of money but instead of saving them, he offers them a painless death. When the activist group requests both doctors&rsquo; collaboration, Black Jack finds himself caught in a spiral of life, death and treason while trying to save his patients' lives and avoid the breaking of a biological war that could destroy humanity.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:3167",
+      "type": "movie",
+      "name": "Glass Rabbit",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3646-Av6USwgF6gJE.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:3167"
+      },
+      "description": "Genres: Drama\nTags:Historical/Female Protagonist/Coming of Age\nToshiko Ei and her family are residents of Tokyo. Her father is a respected and skilled glass craftsmen so the family makes a good living. However, the Ei family soon finds itself having to suffer through many tragic hardships as a result of World War II.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:2768",
+      "type": "movie",
+      "name": "Negadon: The Monster from Mars",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3070.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2768"
+      },
+      "description": "Genres: Action, Fantasy, Mecha, Sci-Fi\nTags:Kaiju/Super Robot/Tokusatsu/Military/Male Protagonist/Robots/Aliens/Full CGI/Primarily Adult Cast/Space/Cyberpunk/CGI\nA world of the future, madly over populated, searches for a new home on Mars to help support humanity. After terraforming Mars into a habitable landscape a Japanese ship returning from the planet crash-lands on a Tokyo street, unleashing a terrible monster. The only man who can stop Negadon is Dr. Narasaki, and his robot Miroku...<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:3030",
+      "type": "movie",
+      "name": "NAGASAKI 1945: Angelus no Kane",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3465-lYih8BysnOR0.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:3030"
+      },
+      "description": "Genres: Drama\nTags:Military/Historical/War\nAugust 1945. In a converted theological seminary on the outskirts of Nagasaki, a young doctor works to help his patients, as unsettling news comes of a new weapon used by the Americans on the city of Hiroshima. When the second nuclear weapon is dropped on Nagasaki, the hospital staff must work to save lives in the midst of the concentric circles of death that their city has become."
+    },
+    {
+      "id": "kitsu:8927",
+      "type": "movie",
+      "name": "Kouchuu Ouja Mushiking: Greatest Champion e no Michi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17469-4pVtzokauBrh.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:8927"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:\nMushiking movie."
+    },
+    {
+      "id": "tt0455845",
+      "type": "movie",
+      "name": "Kino no Tabi: Nanika wo Suru Tame ni -life goes on.-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1379-poWbykTYlXzi.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0455845"
+      },
+      "description": "Genres: Adventure, Drama, Fantasy, Slice of Life\nTags:Philosophy/Guns/Foreign/Motorcycles/Female Protagonist/Agender/LGBTQ+ Themes\nA prequel to the Kino no Tabi series, Kino is being trained by their teacher. They learn how to ride Hermes and become gifted with excellent marksmanship. However, their guilt revolving the real Kino is with them when they decide to set off on a journey. Shizou even directs them to Kino's real mother. All the while, Kino is becoming confused with their real identity. <br><br>\n(Source: Anime News Network)<br>"
+    },
+    {
+      "id": "tt0473658",
+      "type": "movie",
+      "name": "InuYasha the Movie 4: Fire on the Mystic Island",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx449-B9HGKZFh0wUC.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0473658"
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy, Romance\nTags:Demons/Youkai/Heterosexual/Isekai/Shounen/Historical/Swordplay/Monster Girl/Monster Boy/Kuudere/Shapeshifting\nThe mysterious island of Houraijima has reappeared after 50 years, and with its reappearance has brought the attack of four gods, the Shitoushin, who have their eyes set on the powers that protect and sustain the island. Now it's up to Inuyasha and his friends, along with Sesshoumaru, to find a way to defeat the powerful Shitoushin.\n<br><br>\n(Source: Anime News Network)\n<br>"
+    },
+    {
+      "id": "tt0807703",
+      "type": "movie",
+      "name": "Air: The Motion Picture",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx713-NMntmhlt9mV5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0807703"
+      },
+      "description": "Genres: Drama, Romance, Supernatural\nTags:Family Life/Male Protagonist/Heterosexual/Female Harem/Kuudere\nCenturies ago, Kanna, a princess and the last of a winged race, was held prisoner in a castle as she was feared by the rest of the world. However, when she met a soldier named Ryuuya, she fell in love with him and told him of her wishes to see the outside world and to find her mother. Ryuuya attempted to fulfill these wishes. However, his efforts were in vain as Kanna was sealed in the sky through magic and cursed to be in pain for all eternity.<br><br>\nHundreds of years later, Yukito, a decendant of Ryuuya, comes to a quiet town one week before their annual festival with hopes that he can make some money. However, when he meets an unusual girl called Misuzu, he is reminded of what his mother once told him - \"When you go out on your journey, if you find the winged girl's re-incarnation, you must use your power to set her free\".<br><br>\nYukito and Misuzu's fates soon become intertwined with each other, with each developing feelings for the other. However when Yukito realizes Misuzu's connection to the past, he must decide on whether to leave, or to attempt to break the curse that has bound Kanna in centuries of pain.<br><br>\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "kitsu:1920",
+      "type": "movie",
+      "name": "Digimon X-Evolution",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2123-SYK0MA0T7Huy.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1920"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Sci-Fi\nTags:Artificial Intelligence/Full CGI/War\nA virtual world was created by the present-day network called the \"Digital World\". The \"Digital Monster\", which is a digital life object, was born, and the host computer Yggdrasil managed the different Digital World areas. However, it developed the X Program of fear to eliminate all Digimon in the old world and develop a new Digital World for only certain Digimon... Now, the greatest crisis ever approaches the Digital World.<br>\nThe X-Digimon, a new type of Digital Monster, is hunted by the Royal Knights who protect the Digital Worlds. Their master, the network overseer Yggdrasil, seeks to set in motion Project Ark to renew the Digital Worlds and create new Digimon, but at the cost of all other digital life. This new X-Digimon will seek out the answers to its own existance as it tries to protect the life of all Digimon, and in the process it will change the Digital Worlds forever.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:722",
+      "type": "movie",
+      "name": "Tennis no Ouji-sama: Futari no Samurai - The First Game",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx815-TLNWfX0jUwWp.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:722"
+      },
+      "description": "Genres: Action, Sports\nTags:Ships/Tennis/Shounen/Gambling\nThe regular players from Seigaku participates in an exhibition game aboard a cruise ship. However, they discover that the event is being run by a corrupt millionaire heavily involved in illegal gambling and betting, who demands that they lose the match on purpose. To add to the confusion, one of the players on the rival team introduces himself as Ryoma's brother.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0824406",
+      "type": "movie",
+      "name": "Prince of Tennis: Atobe's Gift",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/814.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0824406"
+      },
+      "description": "Genres: Comedy, Sports\nTags:Athletics/Shounen/Ensemble Cast\nHyoutei Gakuen's strange (but impossibly wealthy) captain Atobe Keigo decides to throw a giant birthday party for his friend and teammate Kabaji. He invites the rest of the Prince of Tennis cast. Together they participate in many different sports and events: dancing, swimming, soccer, a relay race, and more.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:6984",
+      "type": "movie",
+      "name": "Anima",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b13513-nKslX1lJT5xf.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:6984"
+      },
+      "description": "Genres: Music\nTags:Dancing/Nudity\nANIMA is a dance animation movie representing a human \"life\".<br><br>\n(Source: Official Website)"
+    },
+    {
+      "id": "kitsu:4323",
+      "type": "movie",
+      "name": "Long Dao Qi Yuan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5889-J4C0CQxzBoF4.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:4323"
+      },
+      "description": "Genres: Action, Fantasy\nTags:\nA town is attacked by a deadly creature, it can only be stopped with the Dragon Blade. The one person who knows where the blade is won't tell Lang, and even if he did, untold peril will fall on anyone who dares to find this legendary weapon.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:7512",
+      "type": "movie",
+      "name": "Hurdle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16776.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:7512"
+      },
+      "description": "Genres: Drama\nTags:\nYuuki has to move from Yokohama to a rural city and becomes the target of bullying.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "tt1018764",
+      "type": "movie",
+      "name": "One Piece: Baron Omatsuri and the Secret Island",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx464-g4wcZPjbhY5j.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1018764"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Ensemble Cast/Pirates/Male Protagonist/Super Power/Shounen/Anthropomorphism/Philosophy/Archery/Family Life/Kuudere\nThe Straw Hat crew obtain an advertisement for a recreational island on the Grand Line run by the Baron Omatsuri. Luffy decides to take this opportunity to kick back and relax. Unfortunately, when they arrive at the island, they are asked to compete in contests through unity for access to relaxation. However, there seems to be a mysterious air on the island, as the Straw Hat Pirates begin to fight amongst themselves, while Robin, Chopper, and Luffy individually search for the secret behind Baron Omatsuri's island.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:1351",
+      "type": "movie",
+      "name": "Case Closed: Strategy Above the Depths",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1505-1ARTmIc0Ryh6.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1351"
+      },
+      "description": "Genres: Adventure, Comedy, Mystery\nTags:Detective/Shounen/Police/Male Protagonist/Age Regression/Ships\n15 years ago, Daiichi Yachiyo Maru, a cargo ship, was crashed into a large iceberg in northern the Pacific Ocean, and sank. The captain and a crew were died.<br><br>\nNow, in Nishitama, a ship designer of Yatsushiro Shipbuilder, which belonged to Yatsushiro Financial Combine, was suffered from a sudden hart attack while he was driving, and died in a traffic accident.<br><br>\nSix months has passed since then. Conan, Ran, and Kogoro are enjoying their trip in the Aphrodite. The Aphrodite is a luxury liner, and it is sailing for the Pacific Ocean as its maiden voyage. However, there is a suspicious person, and finally a murder occurs.<br><br>\nIt is the beginning of a horrible plot occurred in the ocean where there is no place to escape from.<br><br>\n(Source: AnimeNfo)"
+    },
+    {
+      "id": "tt0435202",
+      "type": "movie",
+      "name": "Mobile Suit Zeta Gundam: A New Translation I - Heir to the Stars",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1967-0darqFiDTr59.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0435202"
+      },
+      "description": "Genres: Drama, Mecha, Sci-Fi\nTags:Real Robot/Military/Shounen\nDigitally remastered compilation movies for the Zeta Gundam TV series with some new footage. Part of Gundam's 25th Anniversary celebration."
+    },
+    {
+      "id": "kitsu:682",
+      "type": "movie",
+      "name": "TenjhoTenge: The Past Chapter",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/760.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:682"
+      },
+      "description": "Genres: Adventure, Drama, Romance, Supernatural\nTags:Shounen\nMitsuomi Takayanagi and Maya Natsume both want to become stronger. On there way to becoming the best they learn that there are many things going on behind the scenes, and Shin, Maya's brother, may be the cause of all of it. Mitsuomi feels that he is the only one that can stop him. A retelling of what happened in the past of tenjou tenge, in movie form.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:1740",
+      "type": "movie",
+      "name": "Futari wa Precure: Max Heart (Movie)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1930-HNXYwRGpu1aK.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1740"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Mahou Shoujo\nTags:Superhero/Magic/Primarily Female Cast/Isekai/Henshin/Fairy\nThe Courageous Warriors of the Garden of Hope have summoned Nagisa, Honoka, and Hikari to protect their kingdom from a witch who plans to steal the Diamond Line, which is a set of jewelry the queen of the Garden of Hope wears to a ceremony every year to replenish the water of the kingdom. The witch plans to resurrect the Dark Lord and if she does so, not only will the Garden of Hope be destroyed, but other kingdoms in the galaxies, including the Garden of Rainbows and the Garden of Light.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:5314",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8365.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5314"
+      },
+      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:Superhero/Magic/Kaiju/School/Witch/Mermaid/Henshin/Seinen\nThe thirteenth Crayon Shin-chan movie."
+    },
+    {
+      "id": "tt0405422",
+      "type": "movie",
+      "name": "The Old Crocodile",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4475.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0405422"
+      },
+      "description": "Genres: Drama\nTags:Animals/Fairy Tale/Rural/Achromatic/Anti-Hero/Foreign/Cannibalism\nA very old crocodile, so old that he had witnessed the building of the pyramids, was suffering from rheumatism, and no longer able to catch his food. In desperation, he decided to eat his great grand son. Although his thousands of years of longevity entitled him to much respect, the family decided he would have to be put down. <br><br>\nUnable to bear the disrespect of his family, the old crocodile said goodbye to the Nile. One day the old crocodile met an octopus. The octopus treated her new friend to a variety of fish that she caught just for him. When the night fell, he couldn&rsquo;t restrain himself from eating one of the octopus&rsquo;s legs. Since then, the old crocodile began to help himself to the octopus&rsquo; leg every night&hellip;<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:1910",
+      "type": "movie",
+      "name": "Rockman. EXE Movie: Programs of Light and Darkness",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2111.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1910"
+      },
+      "description": "Genres: Action, Adventure\nTags:Kids/Male Protagonist/Urban/Virtual World/Augmented Reality/Henshin/CGI/Cyberpunk/Kuudere\nDeep in the dark recesses of the UnderNet, Forte sleeps as he drifts aimlessly. In this cybernetic graveyard, a pulsating power re-awakens Forte, alerting him to a dangerous being shortly ahead. A haunting face appears amidst a massive bright purple blob, laughing directly at Forte. Cursing him, Forte finds himself powerless as the blob takes form, and captures him within its grasp!<br>\nNearing the time of sunset, a peaceful city and its people go about their everyday business. Curious bystanders on a sidewalk glimpse a shimmering purple light, which suddenly expands into tall pillar that reaches up to the sky. Screams erupt from the people as the pillar of light takes flight, absorbing everything in its destructive path. A tower clock dings the hour of 4 o'clock as the pillar desintigrates, leaving behind a trail of cybernetic residue and utter emptyness. <br>\n'The Program of Light and Dark'<br><br>\n(Source: Official Site)"
+    },
+    {
+      "id": "kitsu:2594",
+      "type": "movie",
+      "name": "Welcome to Lodoss Island!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2840.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2594"
+      },
+      "description": "Genres: Comedy\nTags:Parody/Elf\nThis movie is the compilation of the 27 mini-parody episode trailers that ran at the end of every Record of Lodoss War: Chronicles of the Heroic Knight episode, which featured characters depicted in their chibi forms."
+    },
+    {
+      "id": "kitsu:3181",
+      "type": "movie",
+      "name": "Duel Masters Movie 1: Yami no Shiro no Maryuuou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3669.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:3181"
+      },
+      "description": "Genres: Adventure\nTags:Kids\nnull"
+    },
+    {
+      "id": "kitsu:44613",
+      "type": "movie",
+      "name": "ZOO: Hidamari no Shi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119814-pf8qamCZ21rY.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:44613"
+      },
+      "description": "Genres: Sci-Fi\nTags:Full CGI/Robots/Philosophy/Nudity\nA man makes a robot girl and tries to teach her the aspects of daily life. But what is his real goal?\n\nHidamari no Shi is the fourth part of the five-part film Zoo, adapted from the first volume of Otsuichi's novels of the same name. It is the only part of the film made from animation; the other parts are live-action sequences.<br><br>\n<i>Note: Locked as not meeting our anime criteria, as just an animated segment of a larger live-action work.</i>"
+    },
+    {
+      "id": "kitsu:12944",
+      "type": "movie",
+      "name": "Kumo no Gakkou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129817-JRhpZ4q7m6Km.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:12944"
+      },
+      "description": "Genres: Drama, Slice of Life\nTags:\nNear the end of the 19th century, a young boy loses his father and has to move from a comfortable city to a poor village in Saitama. There, living with his mother, elder sister, and a dog, he learns valuable lessons about what's truly important in life."
+    },
+    {
+      "id": "kitsu:10523",
+      "type": "movie",
+      "name": "Akuei to Gacchinpo THE MOVIE: Chelsea no Gyakushuu/Akuei to Mahou no Hammer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129157-8UIaqOoHH8oy.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:10523"
+      },
+      "description": "Genres: Comedy\nTags:\nA double release featuring two Akuei movies; Counterattack of Chelsea and Akuei and His Magic Hammer."
     }
   ]
 }

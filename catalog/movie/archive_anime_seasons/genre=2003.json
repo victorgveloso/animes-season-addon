@@ -1,130 +1,54 @@
 {
   "metas": [
     {
-      "id": "tt0366621",
-      "type": "movie",
-      "name": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx450-7uVVkg9N3uMF.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt0366621"
-      }
-    },
-    {
-      "id": "tt1726779",
-      "type": "movie",
-      "name": "Life no Color",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6305.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1726779"
-      }
-    },
-    {
-      "id": "tt1006926",
-      "type": "movie",
-      "name": "One Piece The Movie: The Dead End Adventure",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx462-Ig8zfdsFWcql.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt1006926"
-      }
-    },
-    {
-      "id": "tt0368667",
-      "type": "movie",
-      "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx731-aoWO30cMR4yO.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0368667"
-      }
-    },
-    {
-      "id": "tt1133935",
-      "type": "movie",
-      "name": "Case Closed: Crossroad in the Ancient Capital",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1366-76LNoYLEqaxv.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1133935"
-      }
-    },
-    {
-      "id": "tt0145487",
-      "type": "movie",
-      "name": "RahXephon: The Motion Picture",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx758-R2tugDULnRIL.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0145487"
-      }
-    },
-    {
-      "id": "tt0473474",
-      "type": "movie",
-      "name": "Doraemon: Nobita and the Strange Wind Rider",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2393-V99a2di8AMbj.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0473474"
-      }
-    },
-    {
-      "id": "tt0377556",
-      "type": "movie",
-      "name": "Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Honor",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8363.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0377556"
-      }
-    },
-    {
-      "id": "tt0251127",
-      "type": "movie",
-      "name": "Pa-Pa-Pa the ★ Movie: Paaman",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20185.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0251127"
-      }
-    },
-    {
       "id": "tt0420076",
       "type": "movie",
       "name": "Pokémon: Jirachi Wish Maker",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1121-yGTHBrWFTiBm.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0420076"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy\nTags:Fairy/Environmental/Animals/CGI/Kaiju/Male Protagonist/Dinosaurs/Astronomy/Kids\nThis is the 6th Movie.<br><br>\nSatoshi, Haruka, Takeshi, and Masato come upon the festival of the Wishing Star of Seven Nights. During their enjoyment, the legendary pokemon, Jirachi, decends from the heavens and befriends Masato. Jirachi, with the power to grant any wish, is sought after by many people wanting to claim its power. One man seeks to use its legendary power to revive an ancient pokemon known as Groudon, unaware of the dangers hidden within Jirachi's powers<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt0382868",
+      "id": "kitsu:1087",
       "type": "movie",
       "name": "Nasu: Summer in Andalusia",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1209-oqLWeJ8KlAiw.png",
       "behaviorHints": {
-        "defaultVideoId": "tt0382868"
-      }
+        "defaultVideoId": "kitsu:1087"
+      },
+      "description": "Genres: Sports\nTags:Cycling/Primarily Adult Cast/Primarily Male Cast/Foreign/Outdoor/Male Protagonist/Bar/Seinen\nPepe is a Spanish cyclist competing in the Vuelta a España, an multi-stage Iberian cycling race similar to the Tour de France. He is a support rider for one of the teams competing in the race, and his role is to assist the team's top rider in winning the overall race. As the story unfolds, the racers are set to ride through Pepe's home town in Andalusia on the same day as the wedding of his elder brother Ángel to his former girlfriend Carmen. Their relationship was a factor in his decision to leave the town to pursue professional cycling, and the wedding is a frustrating reminder that his career hasn't turned out as he would have liked. Now, with the sponsor planning to drop him from the team and his family and friends cheering him on, Pepe abandons his assigned role and strives for glory.<br><br>\n(Source: Anime News Network, edited)"
     },
     {
-      "id": "tt0829238",
+      "id": "kitsu:5150",
       "type": "movie",
       "name": "My Sister Momoko",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7877-ZxE6qmEHSh9z.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0829238"
-      }
+        "defaultVideoId": "kitsu:5150"
+      },
+      "description": "Genres: Drama, Slice of Life\nTags:Disability/Male Protagonist/Kuudere/Female Protagonist/School/Primarily Child Cast/Bullying/Family Life\nMomoko, who attends a special school, is both mentally and physically disabled. Every morning she becomes peevish because she can't go to the ordinary school with her twin brother Riki. Her family soothes Momoko by singing her favourite song \"The Song of Frogs\".<br><br>\nOne day Momoko shouts encouragement to Riki who's playing dodgeball at an open classroom day and Riki's team wins the game. Ryuji, whose team lost the game, is not impressed and demands that Riki stop bringing his 'idiot sister' to school. Riki totally loses control and hits Ryuji with all his might.<br><br>\nThe following year an experiment in integrated education is implemented and Momoko begins to attend Riki's school. Unfortunately her physical condition takes a turn for the worse and she's sent to a hospital. Riki and all her classmates want to cheer her up and they set a goal of winning a relay race so that they would be able to tell Momoko the good news. Meanwhile, the fastest sprinter, Ryuichi, insists that he won't be taking part in the race.<br><br>\n(Source: Eleven Arts)"
     },
     {
-      "id": "tt21448334",
+      "id": "kitsu:8965",
       "type": "movie",
       "name": "My Son Goku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20189.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt21448334"
-      }
+        "defaultVideoId": "kitsu:8965"
+      },
+      "description": "Genres: Adventure\nTags:\nSon-Goku is a monkey who was born from a stone and is endowed with magical powers. He gets carried away and goes on a rampage until at last Buddha confines him within Mt. Gogyo. Saved by Sanzohoshi, Son-Goku accompanies him on a journey to India. But on their way, monsters lie in wait for them."
     },
     {
-      "id": "tt20834228",
+      "id": "kitsu:6602",
       "type": "movie",
       "name": "Sore Ike! Anpanman: Ruby no Negai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11791-PjuCKEKLrNBz.png",
       "behaviorHints": {
-        "defaultVideoId": "tt20834228"
-      }
+        "defaultVideoId": "kitsu:6602"
+      },
+      "description": "Genres: Comedy\nTags:Food/Superhero/Kids/Magic/Animals\nRuby is an Aurora Girl who makes northern lights together with her kind. She is banished from Aurora no kuni (Aurora Land) because of her selfishness and horrible behaviour, and she is told to find a stone called Aurora no Shizuku that can grant three wishes. That way she will be forgiven. Ruby meets Anpanman and lies to him that she needs the stone to rescue her land. But when Baikinman is also interested in getting the three wishes, Ruby is torn between the choice of helping her new friends or being able to return to Aurora no kuni.\n<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0388473",
@@ -133,70 +57,178 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx759-vaiRxznGCi9T.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0388473"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Drama\nTags:Found Family/Homeless/Urban/Family Life/Primarily Adult Cast/Transgender/Delinquents/Ensemble Cast/LGBTQ+ Themes/Rotoscoping/Language Barrier/Tanned Skin/Yakuza/Nudity/Female Protagonist\nIn modern-day Tokyo, three homeless people’s lives are changed forever when they discover a baby girl at a garbage dump on Christmas Eve. As the New Year fast approaches, these three forgotten members of society band together to solve the mystery of the abandoned child and the fate of her parents. Along the way, encounters with seemingly unrelated events and people force them to confront their own haunted pasts, as they learn to face their future, together.<br>\n<br>\n(Source: Shout! Factory)<br>\n<br>\n<i>Note: The film received an early premiere at the Big Apple Anime Fest on August 30, 2003.</i>"
     },
     {
-      "id": "tt1608499",
+      "id": "kitsu:2861",
       "type": "movie",
       "name": "Winter Days",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3215.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1608499"
-      }
+        "defaultVideoId": "kitsu:2861"
+      },
+      "description": "Genres: \nTags:Historical/Puppetry/Stop Motion/Classic Literature\nFuyu no Hin is a 2003 animated film directed by Kihachiro Kawamoto. It is based upon the renga of the same name by the 17th-century Japanese poet Basho.<br><br>\nThe creation of the film followed the traditional collaborative nature of the source material&mdash;the visuals for each of the 36 stanzas were independently created by 35 different animators. As well as many Japanese animators, Kawamoto assembled leading names of animation from across the world. Each animator was asked to contribute at least 30 seconds to illustrate their stanza, and most of the sequences are under a minute (Yuriy Norshteyn's, though, is nearly two minutes long).<br><br>\nThe released film consists of the 40-minute animation, followed by an hour-long \"Making of\" documentary, including interviews with the animators. Fuyu no Hi won the Grand Prize of the Japan Media Arts Festival in 2003.<br><br>\n(Source: Wikipedia)"
     },
     {
-      "id": "tt0380165",
+      "id": "kitsu:1143",
       "type": "movie",
       "name": "Aquarian Age: Saga II - Don`t forget me...",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1268.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0380165"
-      }
+        "defaultVideoId": "kitsu:1143"
+      },
+      "description": "Genres: Action, Drama\nTags:Super Power\nDuring the chaotic period known in Western astrology as the Aquarian Age, the alien ERASER fleet attacks Earth, ravaging cities. However, a counteroffensive is launched. The four factions&mdash;ARAYASHIKI, WIZDOM, DARKLORE, and E.G.O.&mdash;who have been fighting each other for control of Earth, join forces to defeat the ERASERS.<br><br>\nIn the aftermath, Earth is placed under the unified rule of the POLESTAR EMPIRE. However, peace is shattered when the EMPIRE begins to use forbidden magic. These dark powers cause dimensional rifts around the world and once again plunge Earth into chaos and warfare.<br><br>\n(Source: AniDB)"
     },
     {
-      "id": "tt0391886",
+      "id": "kitsu:5197",
       "type": "movie",
       "name": "Ham Ham Grand Prix - The Miracle of Aurora Valley ~Ribon-chan's Close Call~",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8108.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0391886"
-      }
+        "defaultVideoId": "kitsu:5197"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy, Sports\nTags:Pirates/Animals/Magic/Kids/Male Protagonist\nIn Aurora Village in the high frozen peaks of the mountians, it's getting warmer, and the snow is melting. The Ham-Hams that live their believe that Bijou is their Snow White Princess who can pray for the snow to come back. They send Crystal the snow fairy hamster to summon Bijou to their land.<br><br>\r\nCrystal arrives and takes Bijou back, the ham-hams quickly tag along. Meanwhile, pirate hamsters are sailing above the village in their flying pirate ship. The captain of the ship, Hamstern sees Bijou captures her soon after, because he doesn't want her to pray for the snow. While Bijou is held against her will, she is very calm and nice to them even makes some yummy food for them. Hamtaro and the ham-hams come aboard on the ship, Hamtaro learns what Hamstern did to Bijou. He gets really angry, and will do anything to bring her back home.<br><br>\r\nNow Hamstern and Hamtaro must compete eachother in the Grand Prix. Where they race in all sorts of ways. Such as racing car. If Hamstern wins, he gets to take Bijou back in his ship. If Hamtaro wins, Bijou can pray for the snow and go back to her friends.<br><br>\r\n(Source: hhp.icy-mint.net)"
     },
     {
-      "id": "tt7722178",
+      "id": "kitsu:3092",
       "type": "movie",
       "name": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo THE MOVIE 2: UFO Shuurai! Tornado Daisakusen!!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3547.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt7722178"
-      }
+        "defaultVideoId": "kitsu:3092"
+      },
+      "description": "Genres: Comedy\nTags:Police/Guns\nMore movie mayhem for Ryoutsu. <br>"
     },
     {
-      "id": "tt5477298",
+      "id": "kitsu:9109",
       "type": "movie",
       "name": "ASTRO BOY Tetsuwan Atom Tokubetsu-hen: Ivan no Wakusei - Robot to Ningen no Yuujou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18637-mIj2qtXtSYIw.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt5477298"
-      }
+        "defaultVideoId": "kitsu:9109"
+      },
+      "description": "Genres: Action, Mecha, Sci-Fi\nTags:Shounen/Super Power\nAnother Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011."
     },
     {
-      "id": "tt1010436",
+      "id": "kitsu:3050",
       "type": "movie",
       "name": "The Golden Laws",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3496.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1010436"
-      }
+        "defaultVideoId": "kitsu:3050"
+      },
+      "description": "Genres: Fantasy\nTags:Historical\nIn the year 2403 AD a young student named Satoru is visited by a time traveler from the future, a cute girl named Alisa. The two go back in time together to explore the 21st century when a malfunction sends them hurdling through seemingly random episodes of religious and perhaps historic importance. <br><br>\nJapan's answer to Scientology, Kyoufuku no Kagaku (&#24184;&#31119;&#12398;&#31185;&#23398;, also known as The Institute for Research in Human Happiness), returns with their third animated feature.  "
     },
     {
-      "id": "tt1298836",
+      "id": "kitsu:5873",
       "type": "movie",
       "name": "Atashin'chi Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9795.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1298836"
-      }
+        "defaultVideoId": "kitsu:5873"
+      },
+      "description": "Genres: Comedy\nTags:\nIn a stormy night, Mikan and Mom were stricken by lightning simultaneously and switched bodies. In the following days, while Mom enjoyed being a student again, Mikan had to fought with house chores. Meanwhile, Yuzuhiko and Dad were busy looking for a way to switch them back.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0366621",
+      "type": "movie",
+      "name": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx450-7uVVkg9N3uMF.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0366621"
+      },
+      "description": "Genres: Adventure, Drama, Fantasy, Romance\nTags:Demons/Shounen/Youkai/Heterosexual/Historical/Magic/Isekai/Shapeshifting/Kuudere\nInuyasha and company have finally destroyed Naraku. And each start to go in their separate ways. Sango going to find her younger brother Kohaku; Miroku back to his old home; Inuyasha, Kagome and Shippou go to gather the rest of the Shikon shards. Unfortunately this peace is not to last. Shortly afterwards the full moon rises, and just keeps rising each night bringing with it the promise of danger. Kagura and Kanna go in search of a mirror, where locked inside is the ruler of the eternal night, Kaguya. To set her free they must gather five items and drop them into the five lakes of Fuji. Setting her free means the worst danger for Inuyasha and the others. Who are forced to face this new threat.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:4514",
+      "type": "movie",
+      "name": "Life no Color",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6305.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:4514"
+      },
+      "description": "Genres: Music\nTags:School\nIn a town where discrimination based on colors is in place. A boy wearing red who is at the bottom of the society. A girl who passes him every time he is attending night high school. In the past, she had encountered the boy who scribbled on a wall. The girl who has understood the meaning of the message. At that time, what was the meaning of the girl's smile to the boy. Two people who have passed each other on countless occasions pass each other again in this short Boy Meets Girl animation. <br><br>\n(Source: AniDB) "
+    },
+    {
+      "id": "tt1006926",
+      "type": "movie",
+      "name": "One Piece The Movie: The Dead End Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx462-Ig8zfdsFWcql.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1006926"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Pirates/Shounen/Super Power/Gambling/Ships/Ensemble Cast/Fugitive/Male Protagonist/Kuudere/Shapeshifting/Primarily Male Cast\nLuffy and crew arrive at the harbour of Anabaru. The local casino is holding a competition in which the winner will obtain a huge monetary reward if he reaches the finishing line first. Nami is elated and decides to participate in the competition. However, there is a conspiracy going behind the competition and the mastermind is an ex-military commander, Gasparde. His plan is to lure all the pirates to the military base and send them to their deaths. Luffy and gang have to overcome the numerous tests and tribulations along the way to complete this dead-end adventure. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0368667",
+      "type": "movie",
+      "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx731-aoWO30cMR4yO.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0368667"
+      },
+      "description": "Genres: Adventure, Drama, Music, Sci-Fi\nTags:Musical/Band/Aliens/No Dialogue/Cyberpunk/Primarily Adult Cast/Primarily Male Cast/Space\nThis film is a visual companion piece to \"Discovery\", an album by Daft Punk. It tells the story of a band of four extraterrestrial musicians who are kidnapped and brought back to Earth by an evil manager. Their only hopes lie with a space pilot from their home planet who, after receiving a distress call broadcasted during the abduction, seeks out to rescue them."
+    },
+    {
+      "id": "kitsu:1220",
+      "type": "movie",
+      "name": "Case Closed: Crossroad in the Ancient Capital",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1366-76LNoYLEqaxv.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1220"
+      },
+      "description": "Genres: Adventure, Mystery\nTags:Detective/Age Regression/Male Protagonist/Crime/Police/Shounen/Tanned Skin/Samurai\nMouri Kogoro is called to a special case in the ancient capital of Kyoto. There, Conan meets Heiji and they team up once again to solve the case, recover the stolen Healing Buddha statue, and even discover the identity of Heiji's first love.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt1047518",
+      "type": "movie",
+      "name": "RahXephon: The Motion Picture",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx758-R2tugDULnRIL.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1047518"
+      },
+      "description": "Genres: Action, Drama, Mecha, Psychological, Romance, Sci-Fi\nTags:Philosophy/Mythology\nAyato Kamina was separated from the girl he loved, Haruka Mishima, when an event occurred that was thought to have killed everyone outside of Tokyo. But one day three years later, invaders suddenly attacked the city. It was then that he meets an agent of TERRA, Haruka Shitow, who tells him that she will give him the truth about the world. It is the beginning of a series of strange events, which involve him activating a giant mecha, the RahXephon and finding out that many people, including his own mother, has blue blood, and that he was actually living in a self-encased dimension where time moves slower than that of the outside world.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:2170",
+      "type": "movie",
+      "name": "Doraemon: Nobita and the Strange Wind Rider",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2393-V99a2di8AMbj.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2170"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Kids\nOne day, Nobita runs into a creature-like ball of wind, which came from a faraway land, but blew into their neighbourhood following the recent typhoon that went through the area. Nobita names it Fuuko. Eventually, he, Doraemon and their friends take it to a vast countryside through the Anywhere Door. There, they learn about the Wind and Storm Villages, and Fuuko's real identity. Soon, Nobita and his friends have to protect Fuuko from the Storm Village and a now-possessed Nobuo, who is being controlled by the spirit of the Storm Village's former leader.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:5312",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Honor",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8363.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5312"
+      },
+      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:Male Protagonist/School/Seinen\nA slapstick comedy going back to the basic, \"laughable\" style of the TV series. One day, the Nohara family was looking forward to having an ultra-rich yakiniku dinner, but they were put on the Wanted List on suspicion of heinous crimes because of a scheme of a mysterious organization named Sweet Boys. The Nohara family must run from Sweet Boys' pursuit but to eat yakiniku for dinner they need to stop escaping and decide to meet the boss of Sweet Boys, who is based in Atami (a hot spring/resort city in Shizuoka Prefecture).<br>\n<br>\n(Source: Bilibili TV)"
+    },
+    {
+      "id": "kitsu:8939",
+      "type": "movie",
+      "name": "Tetsuwan Atom: Atom Tanjou no Himitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n17959-q1VkXrefqCe1.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:8939"
+      },
+      "description": "Genres: Drama, Mecha, Sci-Fi\nTags:Shounen\nDoctor Tenma, chief of the Ministry of Science, brought a digital brain genome from an aircraft. Doctor Tenma begins a trip to Mars, then combines the genome with a robot. Doctor Tenma's son, Tobio, who had died in a traffic accident, has been revived.<br><br>\n(Source: AstroBoy Online)"
+    },
+    {
+      "id": "kitsu:9529",
+      "type": "movie",
+      "name": "Pa-Pa-Pa the ★ Movie: Paaman",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20185.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:9529"
+      },
+      "description": "Genres: Adventure, Comedy\nTags:\nSpin-off movie of Paaman. Screened simultaneously with \"Doraemon: Nobita and the Strange Wind Rider\"."
     }
   ]
 }

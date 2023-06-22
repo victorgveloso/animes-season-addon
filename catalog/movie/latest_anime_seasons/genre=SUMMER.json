@@ -1,31 +1,34 @@
 {
   "metas": [
     {
-      "id": "tt14935892",
+      "id": "tt6735466",
       "type": "movie",
       "name": "Alice to Therese no Maboroshi Koujou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136149-QoXGCGmh5ral.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt14935892"
-      }
+        "defaultVideoId": "tt6735466"
+      },
+      "description": "Genres: Drama, Fantasy, Romance\nTags:Necromancy/Love Triangle/Animals\nMasamune, a third-year middle school student, lives in a town where all the exits have been sealed off due to a sudden explosion at a steel mill, causing time to stand still. Residents are forbidden from making any changes and spend their suffocating days in the hopes of returning to normalcy someday.<br><br>\n\nOne day, Masamune's mysterious classmate Mutsumi guides him to the fifth furnace of the steel mill, where they encounter a girl who cannot speak and resembles a wild wolf. The meeting between the two girls and Masamune disrupts the balance of the world, and the unstoppable \"impulse of love\" from boys and girls tired of their daily lives begins to destroy the world."
     },
     {
-      "id": "tt6587046",
+      "id": "tt3517010",
       "type": "movie",
       "name": "Kimitachi wa Dou Ikiru ka",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109979-CdmjFE7AUaJC.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt6587046"
-      }
+        "defaultVideoId": "tt3517010"
+      },
+      "description": "Genres: Drama\nTags:\nMiyazaki derived the film's title from writer Genzaburou Yoshino's 1937 masterpiece of the same name. He added that this book is a story that has great meaning to the protagonist of his film. Yoshino's book centers around a man named Koperu and his uncle, and through Koperu's spiritual growth, it discusses how to live as human beings.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt25048890",
+      "id": "kitsu:46868",
       "type": "movie",
       "name": "SAND LAND",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158896-XOQI6rxdxPnr.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt25048890"
-      }
+        "defaultVideoId": "kitsu:46868"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Supernatural\nTags:Desert/CGI/Demons\nIn a desert world where both demons and humans suffer from an extreme water shortage, Beelzebub, the prince of demons, and Rao, a small-town sheriff, form a tag-team and set off on an adventure in search of the Phantom Lake somewhere in the desert.<br>\n<br>\n(Source: Bandai Namco Entertainment)"
     },
     {
       "id": "tt19861160",
@@ -34,52 +37,58 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160850-oS5TUqnC8oFY.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt19861160"
-      }
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Mahou Shoujo, Romance\nTags:Coming of Age/Space/Cosmic Horror/Found Family/War/Philosophy/Henshin/Shoujo/Primarily Female Cast/Aliens/Demons/Female Protagonist/Magic/Urban Fantasy/Mythology\nThe second film in a duology adapting the Bishoujo Senshi Sailor Moon \"Stars\" arc."
     },
     {
-      "id": "tt26674627",
+      "id": "kitsu:5784",
       "type": "movie",
       "name": "Resident Evil: Death Island",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161441-khY8HUI3vfzX.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt26674627"
-      }
+        "defaultVideoId": "kitsu:5784"
+      },
+      "description": "Genres: Action, Horror\nTags:Full CGI/Zombie/Guns/Survival\nD.S.O. agent Leon S. Kennedy is on a mission to rescue Dr. Antonio Taylor from kidnappers, when a mysterious woman thwarts his pursuit. Meanwhile, B.S.A.A. agent Chris Redfield is investigating a zombie outbreak in San Francisco, where the cause of the infection cannot be identified. The only thing the victims have in common is that they all visited Alcatraz Island recently. Following that clue, Chris and his team head to the island, where a new horror awaits them. <br><br>\n\n(Source: Sony Pictures Entertainment)"
     },
     {
-      "id": "tt19413836",
+      "id": "tt0097067",
       "type": "movie",
       "name": "City Hunter Movie: Angel Dust",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147189-mvBrZ3HP6paT.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt19413836"
-      }
+        "defaultVideoId": "tt0097067"
+      },
+      "description": "Genres: Action, Comedy\nTags:\nNew movie project to commemorate the 35th anniversary of the <i>City Hunter</i> TV anime: <i>The Final Chapter Begins</i>.<br><br>\n<i>Note: Relations are provisional and may be updated when more information is released."
     },
     {
-      "id": "tt18562094",
+      "id": "tt4838372",
       "type": "movie",
       "name": "Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomari-kai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135178-nWYVn4A5ftWe.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt18562094"
-      }
+        "defaultVideoId": "tt4838372"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Primarily Male Cast/Twins/Primarily Adult Cast/Family Life/Surreal Comedy/Slapstick\nIn <i>Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomari-kai</i>,  the story begins with the sextuplets prepping for a takoyaki-cooking party at their home, before everything goes haywire when Totoko implies a sleepover. <br><br>\n\n(Source: Anime News Network, edited)\n<br><br>\n\n<i>Note: To commemorate the 6th anniversary of <i>Osomatsu-san</i> anime, two new animation projects that will have a theatrical release were announced at the \"Fes Matsu-san '21\" event, with one in 2022, and the other the following year.</i>"
     },
     {
-      "id": "tt26862791",
+      "id": "tt14379088",
       "type": "movie",
       "name": "Shin Jigen! Crayon Shin-chan THE MOVIE: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158595-SbDRJkLqw2JM.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt26862791"
-      }
+        "defaultVideoId": "tt14379088"
+      },
+      "description": "Genres: Comedy\nTags:Full CGI/CGI\nThe 31st <i>Crayon Shin-chan</i> film."
     },
     {
-      "id": "tt3715152",
+      "id": "kitsu:40755",
       "type": "movie",
       "name": "Re:STARS: Mirai e Tsunagu 2-tsu no Kiraboshi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163544-au5w48a9hpqs.png",
       "behaviorHints": {
-        "defaultVideoId": "tt3715152"
-      }
+        "defaultVideoId": "kitsu:40755"
+      },
+      "description": "Genres: Comedy, Music, Slice of Life\nTags:Idol/Twins/Gender Bending/Crossdressing\nEita Hoshizora is an 18-year-old college student who has just entered university. From an early age he exceled in singing, but a certain incident makes him unable to sing in front of others.<br><br>One day, his twin sister Karina Hoshizora, a top idol,asks him to stand on stage in her place. Unable to turn down her selfish sister's request, Eita acts by pretending to be her... but ends up upsetting her sponsors and in a situation where she could be kicked out of the entertainment world! Eita struggles to regain her position as a top idol in the special world of show business, but...<br><br>In this coming-of-age idol comedy, a sister and brother switch places and live as idols!<br><br>(Source: Nautiljon & Official Site, Edited)<br><Br><i>Note: This entry is for the theatrical Japanese release of the Chinese donghua Jintian Kaishi Zuo Mingxing, known as Re:STARS in Japan.</i>"
     }
   ]
 }

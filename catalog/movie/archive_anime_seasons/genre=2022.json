@@ -1,49 +1,14 @@
 {
   "metas": [
     {
-      "id": "tt11417856",
-      "type": "movie",
-      "name": "The Deer King",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102891-lVsBWszCtTxd.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt11417856"
-      }
-    },
-    {
-      "id": "tt14967958",
-      "type": "movie",
-      "name": "Goodbye, Don Glees!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136302-4R03xBOGWrcq.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt14967958"
-      }
-    },
-    {
-      "id": "tt15721650",
-      "type": "movie",
-      "name": "The Quintessential Quintuplets Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-kCOY9XBAbMcX.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt15721650"
-      }
-    },
-    {
-      "id": "tt14614892",
-      "type": "movie",
-      "name": "Dragon Ball Super: SUPER HERO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133898-KdQ7fWTG06n4.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt14614892"
-      }
-    },
-    {
       "id": "tt16183464",
       "type": "movie",
       "name": "One Piece Film: Red",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt16183464"
-      }
+      },
+      "description": "Genres: Action, Adventure, Comedy, Drama, Fantasy, Music\nTags:Idol/Pirates/Musical/Super Power/Shounen/Ensemble Cast/CGI/Skeleton/Ships\n<i>An almighty voice. With fiery red locks.</i><br><br>\nThe story takes place on an island where Uta, the world’s favorite diva, performs for the first time in public. Uta’s singing voice, which she sings with while concealing her true identity, has been described as “otherworldly,” and while the venue is filled with the Straw Hats led by Luffy, pirates, navy, and fans from all over the world who have come to enjoy her voice, Uta’s voice is heard in a new light. The curtain rises on the story with the shocking revelation that she is “Shanks’ daughter!“ \n<br><br>\n(Source: ONE PIECE FILM RED Website)\n"
     },
     {
       "id": "tt17382524",
@@ -52,7 +17,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142769-kNyyqpwC9gGV.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt17382524"
-      }
+      },
+      "description": "Genres: Drama, Romance, Supernatural\nTags:School/Male Protagonist/Rural/Coming of Age/Bullying/Mythology/Kuudere\nUrashima Tunnel - Once you enter that tunnel, you can get whatever you want, but at a price. Kaoru Tohno, who seems to have an elusive personality and traumatic past, and Anzu Hanashiro, who is struggling to reconcile her ideal image and true-to-heart attitude, team up to investigate the Urashima Tunnel and get what they want. This is an unforgettable summer story of nostalgia and sprinting in a remote countryside.<br><br>(Source: HIDIVE)"
     },
     {
       "id": "tt14364238",
@@ -61,7 +27,48 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104460-EwUV9ZJMCtnR.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt14364238"
-      }
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Outdoor/Primarily Adult Cast/Cute Girls Doing Cute Things/Iyashikei/Primarily Female Cast/Food/Rural/Female Protagonist/Mopeds/Travel/Motorcycles/Robots/Seinen/Coming of Age\nRin Shima has left her hometown in Yamanashi to live on her own in Nagoya while working for a small publishing company there. On one winter’s weekend in the not-too-distant future, as she’s planning a bike tour, she unexpectedly receives a message from an old high school friend, Chiaki Oogaki, saying she’s currently in Nagoya. Chiaki now works for an organization promoting tourism in Yamanashi, and she’s in charge of a project to reopen a facility that was closed a few years ago. When Rin casually suggests that such a large property would make a good campground, Chiaki is inspired. She gathers up all of their old camping buddies— Nadeshiko Kagamihara, who works at an outdoor goods store in Tokyo; Aoi Inuyama, who’s now an elementary school teacher in their hometown of Yamanashi; and Ena Saitou, who works at a dog grooming salon in Yokohama—and the campground-opening project is set in motion. So the story of five outdoorsy girls who became friends thanks to their shared love of camping begins once more, taking on a new challenge with the knowledge and experience they’ve gained.\n<br><br>\n(Source: Crunchyroll, edited)"
+    },
+    {
+      "id": "kitsu:45942",
+      "type": "movie",
+      "name": "Tsurune The Movie - The First Shot -",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125261-Sh9fN2heZ1rm.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:45942"
+      },
+      "description": "Genres: Drama, Slice of Life, Sports\nTags:Archery/Primarily Teen Cast/Cute Boys Doing Cute Things/Male Protagonist/School Club/Primarily Male Cast/School/Martial Arts/Tsundere\nMovie adaptation of <i>Tsurune: Kazemai Koukou Kyuudou-bu.</i> <br><br>\n\nMinato Narumiya reignites his passion for kyudo, the Japanese martial art of archery. <br><br>\n\n (Source: HIDIVE) "
+    },
+    {
+      "id": "kitsu:44811",
+      "type": "movie",
+      "name": "Backflip!! The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136064-QGODtauftkFb.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:44811"
+      },
+      "description": "Genres: Comedy, Drama, Sports\nTags:Primarily Male Cast/Male Protagonist/Athletics\nEver since coming across the world of boy’s rhythmic gymnastics during the last summer of junior-high, Shotaro Futaba has become fascinated with the sport. So when he enters Soshokuan Private High School, known as Ao High for short, he heads to the boy’s rhythmic gymnastics club, where he meets unique seniors and the ace of the team, Ryoya Misato. The members of the club each have their own passions, but they’ve put it all on the line with a single goal in mind. Now the next stage in their journey has arrived: the inter-high competition! <br><br>\n(Source: Tokyo Otaku Mode)"
+    },
+    {
+      "id": "kitsu:46084",
+      "type": "movie",
+      "name": "RE:cycle of the PENGUINDRUM Part 2 I Love You",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148179-l9UNkc5WlOML.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:46084"
+      },
+      "description": "Genres: Drama, Mystery, Psychological, Supernatural\nTags:\nThe second film in a duology compiling the <i>Mawaru Penguindrum</i> anime with new elements.<br><br>\n\nIn order to save the life of their younger sister Himari, twin brothers Kanba and Shoma Takakura search for the Penguindrum under the command of a mysterious penguin hat. Meanwhile, believing in her own destiny, high school girl Ringo Oginome continues to make the events written in her diary come true. All the while, Masako Natsume continues trying to get her hands on Ringo’s diary in order to find guidance to a new destiny. Ten years have passed since they began searching for the Penguindrum, and now Kanba and Shoma, who once boarded a train that changed their destiny, have returned for a moment from that destined place. <br><br>\n(Source: Otapedia)"
+    },
+    {
+      "id": "kitsu:44421",
+      "type": "movie",
+      "name": "Utano☆Princesama Maji LOVE ST☆RISH Tours",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132055-HK87BHlrfWYE.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:44421"
+      },
+      "description": "Genres: Music\nTags:Idol/Primarily Male Cast\nFeaturing the band STARISH in all its glory, the film celebrates one glittering act in the UtaPri firmament in a high-flying, glittering concert experience. Get ready for the spectacle event of a lifetime in <i>Utano Princesama Maji LOVE STARISH Tours!</i><br><br>(Source: HIDIVE)"
     },
     {
       "id": "tt10738536",
@@ -70,7 +77,48 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144687-b2piUr5WSdYb.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt10738536"
-      }
+      },
+      "description": "Genres: Action, Fantasy, Mahou Shoujo\nTags:Magic/Robots/Primarily Female Cast/Kids/Henshin\nIn Oishiina Town where the girls live, a theme park for Children's Lunch has suddenly appeared! It seems Kome-Kome and the other fairies were treated to a Children's Lunch by the park director, Cait Sith. Everyone was having fun playing together, but suddenly, Rosemary was turned into a stuffed toy! Is there a secret to \"Dreamia\"? Just like the Children's Lunch, if eveyone's feelings become one, Kome-Kome will create a miracle."
+    },
+    {
+      "id": "kitsu:44676",
+      "type": "movie",
+      "name": "Osomatsu-san: Hipipo-Zoku to Kagayaku Kajitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135177-wCKkr4zjmFPI.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:44676"
+      },
+      "description": "Genres: Adventure, Comedy\nTags:Twins/Family Life/Surreal Comedy/Primarily Male Cast/Male Protagonist/Primarily Adult Cast/Slapstick/Parody\nIn <i>Osomatsu-san: Hipipo-zoku to Kagayaku Kajitsu</i>, the sextuplets embark on a grand adventure in search of a legendary fruit that is said to grant the greatest wish of whomever consumes it.<br><br>\n(Source: Crunchyroll, edited) <br><br>\n\n<i>Note: To commemorate the 6th anniversary of <i>Osomatsu-san</i> anime, two new animation projects that will have a theatrical release were announced at the \"Fes Matsu-san '21\" event, with one in 2022, and the other the following year.</i>"
+    },
+    {
+      "id": "kitsu:47276",
+      "type": "movie",
+      "name": "Gundam: G no Reconguista IV - Gekitou Ni Sakebu Ai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146631-dAoArwmB8UCg.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:47276"
+      },
+      "description": "Genres: Action, Mecha, Sci-Fi\nTags:\nThe fourth film compiling the <i>Gundam: G no Reconguista</i> TV anime, which also prominently features new content for the series."
+    },
+    {
+      "id": "tt2398674",
+      "type": "movie",
+      "name": "Aikatsu! 10th STORY: Mirai e no STARWAY",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148960-WQpnU8I4lTQn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2398674"
+      },
+      "description": "Genres: Music\nTags:Idol/Cute Girls Doing Cute Things/Primarily Female Cast/Henshin/Kids/School/Female Protagonist\nThe main leads Ichigo Hoshimiya and Akari Ōzora in their debut outfits as the Cosmos duo (from the television series finale). The film's story introduction reveals that the first live Cosmos concert was a great success. Later, Ichigo faces her graduation from Starlight Academy in half a year — but even after graduation, the life of an idol continues."
+    },
+    {
+      "id": "kitsu:47277",
+      "type": "movie",
+      "name": "Gundam: G no Reconguista V - Shisen wo Koete",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146632-sPKVurrvpARa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:47277"
+      },
+      "description": "Genres: Action, Mecha, Sci-Fi\nTags:\nThe fifth and final film compiling the <i>Gundam: G no Reconguista</i> TV series."
     },
     {
       "id": "tt16428256",
@@ -79,7 +127,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-sG9FZa5JxlmE.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt16428256"
-      }
+      },
+      "description": "Genres: Adventure, Fantasy, Mystery, Supernatural\nTags:Urban Fantasy/Female Protagonist/Travel/Coming of Age/Family Life/Environmental/Magic/Gods/Animals/Found Family/Heterosexual\nThe story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors begin to open around Japan, bringing disasters from the other side. The film depicts Suzume's liberation and growth, as she closes the doors that are causing disaster.<br>\n<br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt15467380",
@@ -88,7 +137,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt15467380"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Isekai/Magic/Monster Girl/Philosophy/Politics/Monster Boy/Male Protagonist/Demons/Agender/Female Harem/Goblin\nA long-running conspiracy is swirling over a mysterious power known as “Queen” in Raja, a small country west of Tempest. When a slime who evolved into a Demon Lord named Rimuru Tempest crosses paths with Hiiro, a survivor of the Ogre race, an incredible adventure packed with new characters begins. The power of bonds will be put to the test!\n<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt15830702",
@@ -97,7 +147,28 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140999-8nRYAPkywhbl.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt15830702"
-      }
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Romance\nTags:Virtual World/Isekai/Female Protagonist/Swordplay/Survival/Dungeon/Video Games/Male Protagonist\nTheatrical follow-up to <i>Sword Art Online: Progressive - Hoshinaki Yoru no Aria</i>. <br><br>\nThis may be a game, but it's not something you play.\n<br><br>\nThe world's first VRMMORPG (Sword Art Online) became a game of death. Over a month has passed since 10,000 users were trapped inside the game world. Asuna, who cleared the first floor of the floating iron castle of Aincrad, joined up with Kirito and continued her journey to reach the top floor. With the support of female Information Broker Argo, clearing the floors seemed to be progressing smoothly, but…\n<br><br>\nConflict erupts between two major guilds who should be working together – the top player groups ALS (the Aincrad Liberation Squad) and DKB (the Dragon Knights Brigade). And meanwhile, behind the scenes exists a mysterious figure pulling the strings….\n<br><br>\nIn a dangerous battle of death, there is an assault that differs from the threat, and it will involve Asuna and Kirito…!<br><br>\n(Source: Aniplex)"
+    },
+    {
+      "id": "tt15439344",
+      "type": "movie",
+      "name": "To Every You I’ve Loved Before",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15439344"
+      },
+      "description": "Genres: Romance, Sci-Fi\nTags:Coming of Age/Male Protagonist/Family Life\nWhile struggling to make friends after his parents’ divorce, Koyomi Takasaki meets Kazune Takigawa, but apparently, they already have. Kazune reveals that she’s from World Line 85, an alternate universe in which she and Koyomi are lovers. But in a reality where moving between dimensions is natural, could Koyomi be the one from another world?<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt15450826",
+      "type": "movie",
+      "name": "To Me, The One Who Loved You",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15450826"
+      },
+      "description": "Genres: Romance, Sci-Fi\nTags:Ghost/Male Protagonist/Coming of Age\nKoyomi Hidaka and Shiori Sato meet at his father’s research center and begin to fall in love, but so do their parents, who eventually marry. To avoid becoming stepsiblings, they decide to run away to a parallel universe. Traveling between dimensions is common in their world, but not without repercussions. Does a universe exist for the young couple, and what will it cost them to find it?<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt15242330",
@@ -106,7 +177,268 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128207-IndYn57okYmk.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt15242330"
-      }
+      },
+      "description": "Genres: Sports\nTags:Basketball/Full CGI/Coming of Age/Shounen/Male Protagonist/Primarily Teen Cast\nShohoku's “speedster” and point guard, Ryota Miyagi, always plays with brains and lightning speed, running circles around his opponents while feigning composure. Born and raised in Okinawa, Ryota had a brother who was three years older. Following in the footsteps of his older brother, who was a famous local player from a young age, Ryota also became addicted to basketball.\n<br><br>\nIn his second year of high school, Ryota plays with the Shohoku High School basketball team along with Sakuragi, Rukawa, Akagi, and Mitsui as they take the stage at the Inter-High School National Championship. And now, they are on the brink of challenging the reigning champions, Sannoh Kogyo High School.<br><br>\n\n(Source: GKIDS)"
+    },
+    {
+      "id": "kitsu:45947",
+      "type": "movie",
+      "name": "Lonely Castle in the Mirror",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145739-M28GhqugtiJE.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:45947"
+      },
+      "description": "Genres: Drama, Fantasy, Mystery\nTags:Found Family/Coming of Age/Bullying/Female Protagonist/Hikikomori/Primarily Teen Cast/Isekai\nKokoro is a junior high school student who doesn’t fit in at school and has secluded herself in her room. One day, the mirror in her room begins to suddenly shine and she is sucked inside. There, she finds a fairy tale castle and six unknown junior high students. Then a girl wearing a wolf mask appears and tells the seven of them that they have been chosen to have any one wish they want granted. Why were they chosen? What do the seven of them have in common? What is the wish that they each hold but can’t tell anyone about? When all is revealed, a miracle beyond their wildest dreams awaits.\n<br><br>\n(Source: Tokyo Otaku Mode)"
+    },
+    {
+      "id": "tt15715792",
+      "type": "movie",
+      "name": "WATATEN!: an Angel Flew Down to Me -Precious Friends-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126425-B3OYzuImCJtK.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15715792"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Female Protagonist/Primarily Female Cast/Primarily Child Cast/Yuri/Rural/Cosplay/Food/LGBTQ+ Themes/4-koma\nThe sketch comedy about becoming friends with super cute girls is headed for the big screen! Good friends Hana, Hinata, Noa, Koyori, and Kanon are once again having a fun snack party at home with Miyako’s homemade sweets. They notice that the flower-shaped cookies look just like Hana’s trademark hair clip, a treasured item that was given to her by her grandmother when she was little. The girls get excited to learn about the story, so they decide to visit grandma’s house. The curtain rises on everyone’s first trip together!<br><br>\n\n(Source: Tokyo Otaku Mode)"
+    },
+    {
+      "id": "kitsu:45996",
+      "type": "movie",
+      "name": "Break of Dawn",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146489-i6jZdzrSYaJa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:45996"
+      },
+      "description": "Genres: Drama, Sci-Fi\nTags:Primarily Child Cast/Robots/Space/Aliens\nIn 2038, Sawatari Yuuma is an elementary school kid who loves everything about space and astronomy. He was initially excited when his parents bought a robot called Nanako, but he was disappointed when he learned that she was basically just a boring housekeeping robot. However, when he does finally try to talk to her about space, something strange happens. Her system crashes and is taken over by what claims to be a marooned alien ship! The alien ship wants Yuuma's help to get back to space!"
+    },
+    {
+      "id": "kitsu:43320",
+      "type": "movie",
+      "name": "ETERNITY",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145440-0lmZE3cWLJiH.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:43320"
+      },
+      "description": "Genres: \nTags:No Dialogue\nA 21-minute journey through space that repeats creation and expansion."
+    },
+    {
+      "id": "tt1630029",
+      "type": "movie",
+      "name": "A Turtle's Shell is a Human's Ribs",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154979-u0EFgYK2Moie.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1630029"
+      },
+      "description": "Genres: Slice of Life\nTags:Full CGI/Male Protagonist/Baseball/Basketball\nKameda (turtle-human), a normal student at a high school with other animal-humans, leads a dull life. Although he’s in the least popular clique, due to a chance happening one day, he decides to open his “ribs” (mind) and face it head-on. This is a tale of conflict and growth of these animal-humans. <br><br>\n\n(Source: TypeZERO)"
+    },
+    {
+      "id": "tt15799550",
+      "type": "movie",
+      "name": "Fruits Basket -prelude-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136192-hxeNRzBHizBZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15799550"
+      },
+      "description": "Genres: Drama, Romance\nTags:Shoujo/Female Protagonist/Family Life/Delinquents/Teacher/Heterosexual/School/School Club\nBefore there was Tooru and Kyou – there was Katsuya and Kyouko. Discover the turbulent beginning of Tooru’s mom’s dark past, and the man who breathed new hope into her. Watch the evolution of their love story and the birth of the Honda family, as this chapter completes the full adaptation of the heartwarming <i>Fruits Basket</i> story. <br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt11417856",
+      "type": "movie",
+      "name": "The Deer King",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102891-lVsBWszCtTxd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt11417856"
+      },
+      "description": "Genres: Adventure, Drama, Fantasy\nTags:Adoption/Pandemic/Male Protagonist/Fugitive/Medicine/Slavery/Politics/War/Agriculture/Urban Fantasy\nIn the aftermath of a brutal war, former soldier Van toils in a mine controlled by the ruling empire. One day, his solitary existence is upended when a pack of wild dogs carrying a deadly and incurable disease attack, leaving only Van and a young girl named Yuna as survivors. Finally free, the pair seek out a simple existence in the countryside but are pursued by nefarious forces. Intent on protecting Yuna at all costs, Van must uncover the true cause of the plague ravaging the kingdom—and its possible cure.\n<br><br>\n(Source: GKIDS)<br>\n<br>\n<i>Note: The film received an early premiere at the Annecy International Animation Film Festival on June 14, 2021.</i>"
+    },
+    {
+      "id": "tt14967958",
+      "type": "movie",
+      "name": "Goodbye, Don Glees!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136302-4R03xBOGWrcq.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt14967958"
+      },
+      "description": "Genres: Adventure, Comedy, Drama\nTags:Coming of Age/Rural/Primarily Male Cast/Photography/Cycling\nTeen misfits Roma, Toto, and Drop call themselves the “Don Glees”, an informal name for their backyard adventures. One day, when the trio gets blamed for a nearby forest fire, they set off into the woods to prove their innocence. As disaster strikes their expedition, tensions flare between the friends as they realize that growing up has taken them on wildly different paths in life. <br><br>\n(Source: GKIDS, edited)"
+    },
+    {
+      "id": "tt15304756",
+      "type": "movie",
+      "name": "Blue Thermal",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138379-9oCYnGuO5bud.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15304756"
+      },
+      "description": "Genres: Drama, Sports\nTags:Aviation/College/Female Protagonist/School Club/Seinen/School/Educational\n\"I want to experience a love that sparkles!\" Arriving from Nagasaki with her wishful mantra is Tamaki Tsuru, who in high school could think only about volleyball. Things don’t begin well, however, when she looks for an extracurricular club to join and proceeds to immediately ding a glider at aviation club tryouts ending up having to work it off. She is initially disillusioned with campus life. Then Kuramochi, the club leader and glider pilot, takes Tamaki under his wing, and from the moment he takes her up for a flight in a glider, Tamaki becomes a captive of the vast beauty of the skies.<br>\n<br>\n(Source: Eleven Arts)"
+    },
+    {
+      "id": "tt12518378",
+      "type": "movie",
+      "name": "DEEMO: Memorial Keys",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113345-ce2bg0cSiizt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt12518378"
+      },
+      "description": "Genres: Music\nTags:Musical/Full CGI\nA girl who fell from the skies and lost her past Deemo who plays the piano all alone in the world of the treehouse an accidental encounter between the two. The music flows as the fingers hit the piano keys. The start of a fairytale journey has begun...<br>\n<br>\n'Before turning to leave, don't forget to say one last goodbye.'<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:44525",
+      "type": "movie",
+      "name": "BanG Dream! Poppin' Dream!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117765-R9vazugUMUE0.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:44525"
+      },
+      "description": "Genres: Music\nTags:Full CGI/Band/Travel/Primarily Female Cast/Foreign/Cute Girls Doing Cute Things/Language Barrier\nAfter performing at the Budokan Live, the stage of their dreams, a mysterious woman appears before Kasumi and the others.\n<br><br>Poppin'Party's next stage will be... overseas?!"
+    },
+    {
+      "id": "tt16220566",
+      "type": "movie",
+      "name": "Ensemble Stars!!: Road to Show!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141907-LojaaOGhDGTU.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt16220566"
+      },
+      "description": "Genres: Music, Slice of Life\nTags:Ensemble Cast/Primarily Male Cast/Idol/Acting/Parkour/Basketball/Skateboarding\nEnsemble Square - a brand new building in the middle of the city where countless people come and go. It’s home to four offices belonging to idols who spend their days singing and dancing. Films starring the Ensemble Square idols have been nominated for the Idol Film Festival (IFF), an annual festival held in New York City, and representative idols are selected to attend. The boys jet off to NYC to attend the festival and reception party, and afterward, head out on the town to see the sights and sounds. But a suspicious shadow is creeping up on them…<br><br>\n\n(Source: Tokyo Otaku Mode)"
+    },
+    {
+      "id": "kitsu:2432",
+      "type": "movie",
+      "name": "Doraemon: Nobita no Little Star Wars 2021",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126783-sgkzDqBL7Gb0.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2432"
+      },
+      "description": "Genres: Adventure, Comedy, Sci-Fi\nTags:Space/Kids\nOne day during summer vacation, a palm-sized alien named Papi appears from a small rocket that Nobita picks up. He is the president of Pirika, a small planet in outer space, and has come to Earth to escape the rebels. Doraemon and his friends are puzzled by Papi's small size, but as they play together using the secret tool \"Small Light\", they gradually become friends. However, a whale-shaped space battleship comes to earth and attacks Doraemon, Nobita and the others in order to capture Papi. Feeling responsible for getting everyone involved, Papi tries to stand up to the rebels. Doraemon and his friends leave for the planet Pirica to protect their dear friend and his home. <br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt15721650",
+      "type": "movie",
+      "name": "The Quintessential Quintuplets Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-kCOY9XBAbMcX.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt15721650"
+      },
+      "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:Twins/Female Harem/Male Protagonist/Primarily Female Cast/Ensemble Cast/Love Triangle/Heterosexual/Teacher/Shounen/School/Tsundere/Kuudere/Achronological Order/Urban\nA sequel film to <i>Go-toubun no Hanayome ∬</i>. <br><br>\nWhen five lovely young girls who hate studying hire part-time tutor Futaro, he guides not only their education but also their hearts. Time spent has brought them all closer, with feelings growing within the girls and Futaro. As they finish their third year of high school and their last school festival approaches, they set their sights on what’s next. Is there a future with one of them and Futaro?  <br><br> \n(Source: Crunchyroll) "
+    },
+    {
+      "id": "tt14614892",
+      "type": "movie",
+      "name": "Dragon Ball Super: SUPER HERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133898-KdQ7fWTG06n4.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt14614892"
+      },
+      "description": "Genres: Action, Adventure\nTags:Super Power/Superhero/Full CGI/Cyborg/Henshin/Martial Arts/Shounen/Male Protagonist/Dragons/Artificial Intelligence/Kaiju/Battle Royale/Tokusatsu\nThe Red Ribbon Army was once destroyed by Son Goku. Individuals, who carry on its spirit, have created the ultimate Androids, Gamma 1 and Gamma 2. These two Androids call themselves \"Super Heroes\". They start attacking Piccolo and Gohan…What is the New Red Ribbon Army's objective? In the face of approaching danger, it is time to awaken, Super Hero!<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt15801642",
+      "type": "movie",
+      "name": "Isekai Quartet The Movie: Another World",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117074-kgucq8a1ZeOw.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15801642"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Isekai/Crossover/Chibi/Parody/Ensemble Cast/School/Magic/Chuunibyou\nThe homeroom class gets sucked through a wormhole into - you guessed it! - another world where they encounter a desolate environment dominated by a rampaging magical automaton. There they meet a girl-type golem with mannerisms similar to Megumin, a woman dressed in the same military uniform as Tanya, and a man with a cane who seems to know Subaru, and hijinks ensue.<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt15313532",
+      "type": "movie",
+      "name": "Teasing Master Takagi-san: The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138425-G5F2O4hHkPII.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt15313532"
+      },
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Heterosexual/Primarily Child Cast/School/Animals/Rural/Shounen/Bullying\nTakagi and Nishikata’s final summer in junior high is about to begin, and it’s already off to a heartwarming start! When the pair find an abandoned kitten, they decide to work together and take care of Hana, their adorable new companion until they can locate its missing mother. What follows is the true beginning of this moving story of young love, complete with the delightful teasing and hilarious antics fans have come to expect from this beloved series and its cast of fan-favorite characters.<br><br>\n(Source: Sentai Filmworks, edited)"
+    },
+    {
+      "id": "tt16609250",
+      "type": "movie",
+      "name": "ODDTAXI In The Woods",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143080-VZ6A3PwelawC.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt16609250"
+      },
+      "description": "Genres: Drama, Mystery\nTags:Crime/Male Protagonist/Animals/Urban/Work/Primarily Adult Cast/Cars/Anthropomorphism/Yakuza/Idol/Twins/Police\n<i>Note: This is a reconstruction of the television anime that will also depict what happens after its finale with a new story written by Kazuya Konomoto.</i>"
+    },
+    {
+      "id": "kitsu:42389",
+      "type": "movie",
+      "name": "Inu-Oh",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109928-DWUN0zrDJfuv.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:42389"
+      },
+      "description": "Genres: Adventure, Music, Supernatural\nTags:Band/Male Protagonist/Primarily Male Cast/Musical/Historical/Dancing/Acting/Disability/Samurai/Gender Bending/Demons\nMusical fantasy film based on Hideo Furukawa's Heike Monogatari: Inu-Ou no Maki (Tales of the Heike: Inu-Ou) novel.<br>\n<br>\nInu-Oh is born with unique physical characteristics. His parents cover every inch of his body with garments, including a mask on his face. One day, Inu-Oh meets a blind boy named Tomona, a biwa player. As Tomona starts to sing and play, Inu-Oh is amazed to discover he has an incredible ability to dance. The two become inseparable. Tomona and Inu-Oh start sharing their talent with audiences. Their performances quickly gain acclaim and draw crowds. But why is Tomona blind? Why was Inu-Oh born looking like he does? A story about a legendary artist from 14th-century Japan, who defied fate to forge his own destiny. An anime in the form of a rock operetta with spectacular music and dance sequences.<br>\n<br>\n(Source: Warsaw Film Festival)<br>\n<br>\n<i>Note: The film received an early premiere at the 78th Venice International Film Festival on September 9, 2021.</i>"
+    },
+    {
+      "id": "kitsu:44651",
+      "type": "movie",
+      "name": "Free! the Final Stroke: The Second Volume",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133124-7tVG14qsfI2W.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:44651"
+      },
+      "description": "Genres: Drama, Sports\nTags:Swimming/Coming of Age/Athletics/Male Protagonist/Primarily Male Cast\nSequel film to <i>Free!: the Final Stroke - Zenpen</i>. <br><br>\n\nAfter his first appearance on the competitive world stage, Haruka was overwhelmed by Albert’s swimming and lost his way. “What are you swimming for?” His reason to swim and what the water means to him are called into question. The question has trapped Haruka, and he struggles to find the answer on his own.\n<br><br>\n\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt14702778",
+      "type": "movie",
+      "name": "RE:cycle of the PENGUINDRUM Part 1: Your Train Is the Survival Tactic",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132232-AxAKvTTCWHB6.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt14702778"
+      },
+      "description": "Genres: Drama, Mystery, Psychological, Supernatural\nTags:Philosophy/Family Life/Denpa\nThe first film in a duology compiling the <i>Mawaru Penguindrum</i> anime with new elements.<br><br>\n\nWhat would you do to save someone you love? All brothers Shoma and Kanba know is that, after collapsing in an aquarium and apparently dying, their terminally ill sister Himari was somehow revived by a Penguin hat that she had wished for. Now they're on an impossible mission, because the price of keeping Himari alive is to find a mysterious object called the Penguindrum, and they'll do anything to save their sister. Anything. As they travel separate paths in their search, they'll have to unravel complex riddles, make alliances with strangers they know they shouldn't trust, and question the very fabrics of time and destiny.<br><br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "kitsu:45544",
+      "type": "movie",
+      "name": "Meitantei Conan: Halloween no Hanayome",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142219-Nu9bWFhIKn0q.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:45544"
+      },
+      "description": "Genres: Action, Drama, Mystery\nTags:Male Protagonist/Age Regression/Police/Detective/Terrorism/Crime/Tanned Skin\nThe movie takes place in Shibuya on Halloween. At the Shibuya Hikarie building, a certain wedding ceremony is taking place, where Miwako Sato is in a wedding dress. Suddenly, an intruder bursts in, and Wataru Takagi is injured from protecting Miwako. At the same time, the serial bombing criminal from the incident three years ago that killed Jinpei Matsuda, whom Miwako was in love with, escapes. Is this really a coincidence?<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt15428330",
+      "type": "movie",
+      "name": "Mobile Suit Gundam: Cucuruz Doan's Island",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139273-kbmCBAROf7r7.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15428330"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nTags:Real Robot/Military/CGI/War/Foreign/Politics/Agriculture/Anti-Hero/Family Life/Ships/Slapstick\nAfter a covert mission goes wrong, Mobile Suit pilot Amuro Ray and his comrades are stranded on a remote island. The battalion was sent to a land called the Island of No Return to clear off any enemy forces, only to find a group of children and an enemy mecha attack. Now Amuro must find a way for them all to escape this mysterious land, but not before meeting a strange man—Cucuruz Doan. <br><br>\n\n<i>Note: Announced at the \"Dai 2-kai Gundam Conference\" event, the film is described as a retelling of the 15th episode of the original Mobile Suit Gundam television anime. The episode itself has been omitted from English releases of the series.</i> <br><br>\n(Source: Crunchyroll, Anime News Network)"
+    },
+    {
+      "id": "tt4744926",
+      "type": "movie",
+      "name": "Tongari Atama no Gonta: Futatsu no Namae wo Ikita Fukushima Hisai Inu no Monogatari ",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130705-DxuaJgpBjXOh.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4744926"
+      },
+      "description": "Genres: \nTags:\nThe story centers on a dog that is abandoned after the Great Japan Earthquake of 2011."
+    },
+    {
+      "id": "kitsu:5877",
+      "type": "movie",
+      "name": "Crayon Shinchan the Movie: The Tornado Legend of Ninja Mononoke",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142549-SNJu3dSJrM9l.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5877"
+      },
+      "description": "Genres: Comedy\nTags:Ninja/Parody/Kids\nnull"
+    },
+    {
+      "id": "kitsu:40811",
+      "type": "movie",
+      "name": "Oshiri Tantei: SHIRIARTY",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142806-u2LeYVSmZozu.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:40811"
+      },
+      "description": "Genres: Comedy, Mystery\nTags:Kids/Detective\nIn <i>Oshiri Tantei: SHIRIARTY</i>, a baffling series of crimes turns out to be the work of Shiriarty, a villain who seeks to steal a mysterious treasure known as the \"O-PARTS\". Butt Detective along with his assistant, Brown, enlist the aid of Audrey, an investigator from the international police organization Wanterpol, in an effort to prevent the \"O-PARTS\" from falling into the wrong hands while Shiriarty strives to plunge the world into darkness. <br><br>\n(Source: Crunchyroll, edited)"
     }
   ]
 }

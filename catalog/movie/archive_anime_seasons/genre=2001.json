@@ -1,94 +1,14 @@
 {
   "metas": [
     {
-      "id": "tt0388130",
-      "type": "movie",
-      "name": "Initial D 3rd Stage",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx187-QyCAlBGY3EWw.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0388130"
-      }
-    },
-    {
-      "id": "tt0293416",
-      "type": "movie",
-      "name": "Metropolis",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx522-4Sp8QlrufkG5.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0293416"
-      }
-    },
-    {
-      "id": "tt0832449",
-      "type": "movie",
-      "name": "One Piece: Clockwork Island Adventure",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx460-p9HObfGUhWn0.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0832449"
-      }
-    },
-    {
-      "id": "tt1073223",
-      "type": "movie",
-      "name": "Case Closed: Countdown to Heaven",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1364-tlZLDeDo8W0z.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1073223"
-      }
-    },
-    {
-      "id": "tt0804905",
-      "type": "movie",
-      "name": "Digimon Adventure 02: Revenge of Diaboromon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2398.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0804905"
-      }
-    },
-    {
-      "id": "tt0831848",
-      "type": "movie",
-      "name": "Crayon Shin-chan: Fierceness That Invites Storm! The Adult Empire Strikes Back",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2450-0Iwi4jr32Xe8.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0831848"
-      }
-    },
-    {
-      "id": "tt0306741",
-      "type": "movie",
-      "name": "Doraemon: Nobita's Winged Heroes",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2654.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0306741"
-      }
-    },
-    {
-      "id": "tt0306741",
-      "type": "movie",
-      "name": "Doraemon: Ganbare! Gian!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2653.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0306741"
-      }
-    },
-    {
-      "id": "tt0273544",
-      "type": "movie",
-      "name": "Dorami & Doraemons: Space Land's Critical Event!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2645.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0273544"
-      }
-    },
-    {
       "id": "tt0245429",
       "type": "movie",
       "name": "Spirited Away",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0245429"
-      }
+      },
+      "description": "Genres: Adventure, Drama, Fantasy, Supernatural\nTags:Coming of Age/Female Protagonist/Youkai/Urban Fantasy/Magic/Mythology/Isekai/Work/Gods/Philosophy/Witch/Primarily Child Cast/Memory Manipulation/Dragons/Trains/Travel\nOn the way to their new home, 10-year-old Chihiro Ogino's family stumbles upon a deserted theme park. Intrigued, the family investigates the park, though unbeknownst to them, it is secretly inhabited by spirits who sleep by day and appear at night. When Chihiro's mother and father eat food from a restaurant in the street, angry spirits turn them into pigs. Furthermore, a wide sea has appeared between the spirit world and the human one, trapping Chihiro, the sole human, in a land of spirits. Luckily for her though, a mysterious boy named Haku appears, claiming to know her from the past. Under his instructions, Chihiro secures a job in the bathhouse where Haku works. With only her courage and some new found friends to aid her, Chihiro embarks on a journey to turn her parents back to their original forms and return home.\n"
     },
     {
       "id": "tt0275277",
@@ -97,7 +17,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5-NozHwXWdNLCz.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0275277"
-      }
+      },
+      "description": "Genres: Action, Drama, Mystery, Sci-Fi\nTags:Terrorism/Primarily Adult Cast/Martial Arts/Space/Philosophy/Crime/Male Protagonist/Guns/Noir/Anti-Hero/Ensemble Cast/Cyberpunk/Amnesia/Foreign/Cyborg/Work\nAs the Cowboy Bebop crew travels the stars, they learn of the largest bounty yet, a huge 300 million Woolongs. Apparently, someone is wielding a hugely powerful chemical weapon, and of course the authorities are at a loss to stop it. The war to take down the most dangerous criminal yet forces the crew to face a true madman, with bare hope to succeed.\n<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0287635",
@@ -106,7 +27,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1119-Vz0ohBLmZ5uP.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0287635"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy\nTags:Animals/Rural/Outdoor/Fairy/Kids/Environmental/CGI/Anti-Hero/Super Robot\n40 years ago, a Celebi was being attacked by a Pokémon Hunter. Luckily, a young boy named Sammy saved Celebi. Using its Time Traveling power, Celebi transported himself and Sammy 40 years into the future. There, Ash, Misty, and Brock assist Sammy to the healing lake in the forest so they can heal the wounded Celebi. Unfortunately an evil Team Rocket member, Viscious a.k.a. \"The Iron Masked Marauder\", tries to capture Celebi using his technology. As Ash and Co. try to get away from Viscious, they also run into Jessie, James, and Meowth, who also want to capture Celebi. Soon it becomes a race against time to get Celebi and Sammy back to the forest before Celebi is caught and is used to destroy the forest and themselves. <br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0173840",
@@ -115,7 +37,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1361-jyjigHHRkzMO.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0173840"
-      }
+      },
+      "description": "Genres: Action, Drama, Sci-Fi\nTags:Full CGI/Post-Apocalyptic/Primarily Adult Cast/Female Protagonist/Magic/Heterosexual/Guns/Aviation\nA planet is overrun by a mysterious group of creatures that infect and destroy all life on Earth. Only the determination of a single woman to find a cure will prevent the world from slowly being eaten away. Yet there are those from within who are impatient for results and will do anything to win this war.\n<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0810831",
@@ -124,7 +47,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3032.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0810831"
-      }
+      },
+      "description": "Genres: Adventure, Drama, Sci-Fi\nTags:Artificial Intelligence/Primarily Child Cast/Kaiju/Ensemble Cast/Kuudere\nTakato and Guilmon go on vacation to Okinawa and meet a fellow tamer, Minami. Back in Japan, a popular computer pet suddenly becomes a virus, infecting all of the computers who have it. As the virus spreads, Takato tries to figure out why digimon are all attacking his new friend, and what her connection is to the virus.\n<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0306474",
@@ -133,124 +57,158 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1028-LCh8HKOSdwmm.png",
       "behaviorHints": {
         "defaultVideoId": "tt0306474"
-      }
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:Female Protagonist/Magic/Coming of Age/Fairy Tale/Lost Civilization/Philosophy/Politics/Aviation/Shapeshifting\nConfined in the castle tower by her father, princess Arete spends her days watching the world outside her window. Sometimes she seeks out to watch the common people at work. The knights of the kingdom compete for the right to marry her and rule the land by competing to see who can find powerful magic objects made by a long dead race of sorcerers. Arete wants none of this. She longs to meet the common people and travel to exotic lands she has only seen in the books she keeps hidden under her bed. One day the sorcerer Boax arrives in a fantastic flying machine and offers to take Arete as his wife and transform her into a proper princess.<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt4382172",
+      "id": "tt0303503",
       "type": "movie",
       "name": "Motto! Ojamajo Doremi Kaeru Seki no Himitsu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2948-T0FzYDKPtQcP.png",
       "behaviorHints": {
-        "defaultVideoId": "tt4382172"
-      }
+        "defaultVideoId": "tt0303503"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Kids/Magic/Shoujo/Cute Girls Doing Cute Things/Chibi/Witch\nMo~tto Ojamajo Doremi movie features the five witches Doremi, Aiko, Hazuki, Onpu, and Momoko as they visit Doremi's grandpa's home. There, they learn of the mystery of the frog stone, a magical place where magic used to mingle in the old countryside. Aiko rediscovers her love for grandpa, and Doremi learns a piece of the magical kingdom's past.<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt1027799",
+      "id": "tt0877335",
+      "type": "movie",
+      "name": "Saiyuki Requiem",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/484.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0877335"
+      },
+      "description": "Genres: Adventure, Supernatural\nTags:Shounen\nThe gang is traveling along when they find a girl in need. Of course, they all can't resist going after her. This girl isn't all that she seems... her motive or her \"humanity\".... and soon the whole gang has Sanzo's past on their hands and one certain young boy who can keep a grudge for decades...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:5505",
       "type": "movie",
       "name": "Gundam Neo Experience 0087: Green Divers",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8839.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1027799"
-      }
+        "defaultVideoId": "kitsu:5505"
+      },
+      "description": "Genres: Adventure, Mecha\nTags:Space\nDuring the closing days of the Gryps conflict of Mobile Suit Zeta Gundam, two siblings &mdash; Asagi and Takuya &mdash; ride aboard a civilian transport bound for Earth. Caught in a battle between the Titans and AEUG, they must somehow guide their ship through atmospheric entry. Luckily, they're not completely alone, as they find aid from a custom-painted Zeta Gundam, whose pilot sounds a lot like One Year War ace Amuro Ray.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt0243655",
+      "id": "kitsu:5753",
       "type": "movie",
       "name": "The Summer of Dioxin",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9495.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0243655"
-      }
+        "defaultVideoId": "kitsu:5753"
+      },
+      "description": "Genres: Drama\nTags:Foreign\nThis film was based on a real-life 1976 accident in Italy, when deadly dioxins threatened the area surrounding a biological research laboratory where an explosion took place."
     },
     {
-      "id": "tt0291046",
+      "id": "kitsu:3769",
       "type": "movie",
       "name": "Blue Remains",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4733-kSMKJwd2TXSQ.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0291046"
-      }
+        "defaultVideoId": "kitsu:3769"
+      },
+      "description": "Genres: Adventure, Sci-Fi\nTags:Post-Apocalyptic/Artificial Intelligence/CGI/Female Protagonist/Full CGI\nPost-nuclear Earth is barren, and life can't survive on the surface, so the few remaining people have lived under-water waiting for their time to be able to go to the surface. Amamiku and her faithful computer guardians, Pyron and Mayzamik, guard the seeds that contain the DNA for life and re-growth on the surface when the air is breathable again, but not everyone wants that to happen. "
     },
     {
-      "id": "tt0339256",
+      "id": "kitsu:4515",
       "type": "movie",
       "name": "Kinnikuman II Sei",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6310.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0339256"
-      }
+        "defaultVideoId": "kitsu:4515"
+      },
+      "description": "Genres: Comedy\nTags:Wrestling\nWhile the New Generation Choujins are taking part in Fan Appreciation Day, The Cyborg arrives, takes Meat hostage, and challenges Mantarou to a fight inside Tokyo Tower.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt15864378",
+      "id": "kitsu:8940",
+      "type": "movie",
+      "name": "Tetsuwan Atom: Chikyuu Saigo no Hi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17961-d0m0yhlQI9qY.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:8940"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nTags:Shounen\nAstro Boy, helping Professor Ochinomizu with planetary exploration, discovers a trash star floating in space. On this star, robots that can no longer move have been thrown away stacked on top of each other. On this robot mountain, Astro saves a robot soldier, Bemu, that escaped from the verge of death and takes him back to Earth. <br><br>\n\"I'm tried of fighting!\" \"I feel the same.\" While Atom and Bemu are together, a warm friendship is born and goes on to deepen. However, one day, the trash star draws near to the Earth. If it hits, the Earth would have a huge explosion. The Earth is in chaos. As this happens, there is just one way to stop the crash into Earth. Only this is... What will Astro do. Will he be able to protect a peaceful Earth as well as his friendship with Bemu? <br><br>\n(Source: Astro Boy Wiki) "
+    },
+    {
+      "id": "kitsu:9616",
       "type": "movie",
       "name": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119836-KyUh8jSVwAN8.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt15864378"
-      }
+        "defaultVideoId": "kitsu:9616"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:Kids\nYakisobapanman and Uncle Negi try to escort the young Pepper Trio and their important cargo to Vegetable Village in time for the carnival this evening but Baikinman and his gang are trying to steal the cargo. Luckily, Naganegiman keeps showing up to help fight them off, but how? Who could this mysterious masked swordsman be?"
     },
     {
-      "id": "tt15864378",
+      "id": "kitsu:9611",
       "type": "movie",
       "name": "Sore Ike! Anpanman: Gomira no Hoshi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121837-dSi7JljzcneD.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt15864378"
-      }
+        "defaultVideoId": "kitsu:9611"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Super Power/Space/Kids\nnull"
     },
     {
-      "id": "tt0844333",
+      "id": "tt0462717",
       "type": "movie",
       "name": "Slayers Premium",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx866-FBIvZY0F5aik.png",
       "behaviorHints": {
-        "defaultVideoId": "tt0844333"
-      }
+        "defaultVideoId": "tt0462717"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Animals/Magic/Female Protagonist/Cute Girls Doing Cute Things\nLina and Gourry travel to a seaside town named Acassi, where octopus tentacle is a delicacy. However, the octopus meat carries a curse that dooms the eater to only speak Takogo (octopus language). Amelia, Zelgadiss, and Xelloss all show up, and the main four characters (Lina, Gourry, Ameria, Zelgadiss) get cursed. The octopi enlist the power of a mazoku to get rid of the humans once and for all. The white sorceress Ruma must learn the cure to the curse from her long-lost master in order to save the town. <br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt0237687",
+      "id": "kitsu:563",
       "type": "movie",
       "name": "Sakura Wars: The Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx608-5bum3N50uw9O.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0237687"
-      }
+        "defaultVideoId": "kitsu:563"
+      },
+      "description": "Genres: Adventure, Drama, Mecha, Romance, Sci-Fi\nTags:Primarily Adult Cast/Female Protagonist/Heterosexual/Musical/Urban/Military/Steampunk/Primarily Female Cast/Ensemble Cast/Real Robot/Guns/Spearplay/CGI/Trains/Magic/Demons/Swordplay/Language Barrier/Foreign\nSince a new branch of division to New York has been created, Ohgami has now been assigned to the Paris Division. Now the Flower Division must be able to survive on their own, with the help of their new American-cultured leader. <br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt0256524",
+      "id": "tt4146056",
       "type": "movie",
       "name": "Di Gi Charat Movie: A Trip To The Planet",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1752.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0256524"
-      }
+        "defaultVideoId": "tt4146056"
+      },
+      "description": "Genres: Comedy\nTags:Chibi/Cute Girls Doing Cute Things/Kemonomimi/Space/Kuudere\nDejiko decided to take a vacation and visit her home, Planet Di Gi Charat, together with Puchiko, Gema, and (accidentally) Rabi~en~Rose. However, Piyoko and her aids would not let go this chance to capture her.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt1285229",
+      "id": "tt0298228",
       "type": "movie",
       "name": "The Whale Hunt",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2895.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1285229"
-      }
+        "defaultVideoId": "tt0298228"
+      },
+      "description": "Genres: Adventure\nTags:\nA short film only screened at the Ghibli Museum in Mitaka. This animated short film is based on a story piece included in a longtime classic and awards-winning children's book \"Iya Iya En\" by Rieko Nakagawa.<br><br>\nShigeru is a little boy who goes to the Tulip Nursery School. One morning at school, Shigeru sees the boys a year older building a ship with blocks. He wants to join in too. The completed ship is named the Elephant and Lion. Soon, the children realize the surroundings have transformed into a sea, and even fishes are swimming. The boys load fishing rods and ropes onto the Elephant and Lion, and set out on a whale hunt.<br><br>\n(Source: Ghibli Museum, edited)"
     },
     {
-      "id": "tt1164584",
+      "id": "kitsu:4941",
       "type": "movie",
       "name": "Hamtaro Movie 1: Ham Ham Land Big Adventure",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7329.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1164584"
-      }
+        "defaultVideoId": "kitsu:4941"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Kids/Male Protagonist/Animals/Magic/Dragons\nIt's Laura's birthday, and Laura isn't paying much attention to him. Hamtaro then went with the ham-hams to ham ham land. Hamtaro is searching for the magic sunflower seed, but, he will have to battle Maou-hamu for it."
     },
     {
-      "id": "tt0296042",
+      "id": "kitsu:4815",
       "type": "movie",
       "name": "Koro's Big Day Out",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx6975-IGMgKdc8UnJo.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0296042"
-      }
+        "defaultVideoId": "kitsu:4815"
+      },
+      "description": "Genres: Adventure\nTags:\nA short film only screened at the Ghibli Museum in Mitaka. <br><br>\nThe puppy Koro rushes out of the house chasing Sawako leaving for school, but Koro gets lost. In unfamiliar places, Koro is nearly run over by a car, threatened by an alley cat... For little Koro, everything he encounters outside is new and a big adventure. Meanwhile, Sawako comes home to learn that Koro is gone. She frantically tries to find him. <br><br>\n(Source: Ghibli Museum)"
     },
     {
       "id": "tt0971215",
@@ -259,25 +217,118 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4524.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0971215"
-      }
+      },
+      "description": "Genres: Action, Adventure\nTags:Revenge/Martial Arts/Full CGI/Male Protagonist/Gangs/Delinquents/Urban/Crime\nUsing scenes from the original SEGA Dreamcast game plus some extra made for the movie, Shenmue: the Movie details the events of the first game. After Ryo's father is murdered and a mysterious mirror taken, Ryo sets himself on a quest for revenge."
     },
     {
-      "id": "tt0232500",
+      "id": "kitsu:7249",
       "type": "movie",
       "name": "The Siamese: First Mission",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15399-u3gzuahtYxub.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0232500"
-      }
+        "defaultVideoId": "kitsu:7249"
+      },
+      "description": "Genres: Action\nTags:Female Protagonist\nJune and Naomi are a pair of two attractive women who both work as radio station DJs by day, but when night falls they are elite counter-terrorism agents under the code name The Siamese Cats.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt0312941",
+      "id": "kitsu:5884",
       "type": "movie",
       "name": "McDull: Gushi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9817.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0312941"
-      }
+        "defaultVideoId": "kitsu:5884"
+      },
+      "description": "Genres: Comedy\nTags:\nMcDull is not the brightest kid on the block, but he continually tries to do his best and please his mother. Although it seems that he may not be destined for great things in life as his mother wishes, McDull never gives up.<br><br>\nThe story focuses on several tales about McDull and his childhood. This is told as a narrative reflection of a now adult McDull. These tales muddle up in imaginative uses of Cantonese and heaps of local Hong Kong culture. From tales about a turkey dinner to dreams of following in Lee Lai-shan's footsteps, McDull faces ebbs and flows with his demanding but devoted mother.<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": "tt0385426",
+      "type": "movie",
+      "name": "Initial D 3rd Stage",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx187-QyCAlBGY3EWw.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0385426"
+      },
+      "description": "Genres: Action, Drama, Romance, Sports\nTags:Cars/Seinen/Male Protagonist/Primarily Male Cast/Rural/Heterosexual/CGI\nTakumi is approached by RedSuns leader Ryosuke Takahashi and offered to join him in forming a professional racing team. Before coming up with an answer to the proposal, Takumi seeks retribution by issuing a rematch to Emperor leader Kyouichi Sudou, who previously defeated him due to an engine failure. He is also challenged by Kai Kogashiwa, a second-generation street racer whose father was once a fierce rival of Takumi's father Bunta. <br>"
+    },
+    {
+      "id": "tt0293416",
+      "type": "movie",
+      "name": "Metropolis",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx522-4Sp8QlrufkG5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0293416"
+      },
+      "description": "Genres: Adventure, Drama, Romance, Sci-Fi\nTags:Robots/Dystopian/Fugitive/Politics/Detective/Artificial Intelligence/Urban/Crime/Police/Cyberpunk/Male Protagonist/CGI/Foreign\nIn the great city of Metropolis, severe community structures and prejudice dominate a world where humans and robots live together. Unrest and violence increase with each new day.<br><br>\nSearching for the scientist Dr. Laughton, suspected to violate human rights by trading organs, the Japanese detective Shunsaku Ban and his nephew Kenichi arrive at Metropolis. In the scientist's laboratory, Kenichi discovers a girl without any memory of her past life. He decides to help her, so they run away together. His uncle follows him and penetrates the dark secrets of the city to find Duke Red, the man ruling from the shadows. Meanwhile, Kenichi desperately tries to protect the mysterious girl from the people hunting her. However, Duke Red and his adoptive son have their own deep reasons for chasing the girl. These reasons are connected to her true identity and the struggle for the domination of Metropolis...<br><br>\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "tt0832449",
+      "type": "movie",
+      "name": "One Piece: Clockwork Island Adventure",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx460-p9HObfGUhWn0.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0832449"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Pirates/Shounen/Ensemble Cast/Super Power/Crime/Male Protagonist/Battle Royale/Kuudere/Primarily Male Cast\nInformed by the Thief Brothers his ship has been stolen by the Trump Kyoudai (Trump Siblings) who have set up base on Clockwork Island. Monkey D. Luffy, Captain of the Going Merry and aspiring Pirate King works with his crew - Ussop, Zoro, Sanji and Nami to battle their way up Clockwork Island to reclaim their ship.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:1218",
+      "type": "movie",
+      "name": "Case Closed: Countdown to Heaven",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1364-tlZLDeDo8W0z.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1218"
+      },
+      "description": "Genres: Mystery\nTags:Detective/Shounen/Male Protagonist/Police/Age Regression\nAs a pair of towers in Tokyo are being prepared for their grand opening, there is a series of murders of people connected to the towers. Conan suspects that the mysterious Syndicate may also be involved.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0804905",
+      "type": "movie",
+      "name": "Digimon Adventure 02: Revenge of Diaboromon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2398.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0804905"
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Sci-Fi\nTags:Animals/Kaiju/Virtual World/Artificial Intelligence/Ensemble Cast/Primarily Child Cast/Kids\nAfter the events of 02, everything is finally getting back to normal. That is, until a strangely familiar icon starts showing up on computer systems around the Japan. And not just computer systems... TVs, mobile phones, video games; anything with a screen with online capabilities. And this icon seems to be looking for somone... Yagami Taichi, and Ishida Yamato, who defeated it several years before. Yes, it turns out that this jellyfish digimon is in fact Diablomon, the Virus-type Digimon that was defeated in the second movie. But this time, he's learned to make himself physical, and is sending thousands of copies of himself into the real world.<br><br>\nKoushiro and Ken devise a plan to rid the world of the virus once and for all, but it'll take the help of all the Destined, past and present. Once again, it's a race against time to put a stop to Diablomon's plot... but even that is cloaked in shadow.<br><br>\nWill the revival of Omagamon be enough to stop Diablomon a second time, or will the millions of copies prove enough of a power boost to shrug off the \"Digimon Champion of Justice\"? Of course, he hasn't seen the new breed of Chosen, nor the new techniques. It's a fight to the finish, with the destruction of Tokyo resting on the line. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:2224",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Fierceness That Invites Storm! The Adult Empire Strikes Back",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2450-0Iwi4jr32Xe8.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2224"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Conspiracy/Male Protagonist/Family Life/Slapstick/Seinen/Urban/Superhero/Parody/Cars/Primarily Child Cast/Acting/Kaiju/School\nAs the 21st century approaches, a new 20th-century museum has opened in town, for the adults to relive their childhood. However, the owners of the museum seem to have other plans for it. The adults start to behave strangely, and one morning, they abandon their children for the 20th-century museum. Shinnosuke, along with his friends, must now rescue his parents and stop the world from returning to the 20th century before they get captured.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:2418",
+      "type": "movie",
+      "name": "Doraemon: Nobita's Winged Heroes",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2654.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2418"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:Shounen\nNobita and his friends gathered at Shizuka's house when they heard about the news about missing flocks of bird species. Nobita believed they were taken away by winged creatures and became obsessed on flying on his own. He created mechanical wings and upon the experiment he encountered an actual winged creature flying out of a time-space distortion. Upon helping him whose name is Gusuke, Nobita and his friends were sucked into the distortion and reached Gusuke's home, Birdpia or the world where the winged creatures live.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:2417",
+      "type": "movie",
+      "name": "Doraemon: Ganbare! Gian!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2653.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2417"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Shounen/Kids\nnull"
+    },
+    {
+      "id": "kitsu:2409",
+      "type": "movie",
+      "name": "Dorami & Doraemons: Space Land's Critical Event!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2645.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2409"
+      },
+      "description": "Genres: Fantasy\nTags:\nN/A"
     }
   ]
 }

@@ -2,7 +2,7 @@ import { TitleType } from "name-to-imdb";
 import { promises as fs } from "fs";
 import path from "path";
 import { Season, Sorting, createSortedSeasonList, monthToSeason, query } from "./query";
-import { Anilist, Imdb } from "./request";
+import { Anilist, IdResolver, IdSource, Imdb } from "./request";
 export type Meta = {
     id: string;
     type: TitleType;
@@ -24,7 +24,15 @@ export class Catalog {
      * Create a file at path with the contents of metas
      */
     async writeToFile() {
-        await fs.writeFile(this.pathFile, JSON.stringify({metas: this.metas.filter((m) => m?.id?.startsWith("tt"))}, null, 2));
+        await fs.writeFile(this.pathFile, JSON.stringify({metas: this.metas.filter((m) => m?.id?.startsWith("tt") || m?.id?.startsWith("kitsu"))}, null, 2));
+    }
+
+    describe({genres, tags, description}: {genres: string[], tags: string[], description: string}) {
+        let result = "Genres: " + genres.join(", ");
+        const isSpoilerFree = (tag:any) => !tag.isMediaSpoiler && !tag.isGeneralSpoiler;
+        result += "\nTags:" + tags.filter(isSpoilerFree).map(({name}:any) => name).join("/");
+        result += `\n${description}` ?? "";
+        return result;
     }
 
     async populate(year:number, season:Season, type:TitleType) {
@@ -35,17 +43,15 @@ export class Catalog {
         if (!results) return;
         for (const anime of results) {
             const originalName = anime.title.english ?? anime.title.romaji;
-            const name = Stremio.removeSeasonDetails(originalName);
-            let id = await Imdb.getIdFromName(name, anime.seasonYear, type) ?? await Imdb.getIdFromName(originalName, anime.seasonYear, type);
-            let nextName: string = originalName;
-            let maxRetry = nextName.match(/ /g)?.length ?? 0;
-            while (!id && maxRetry--) {
-                nextName = nextName.substring(0, nextName.lastIndexOf(" "));
-                if (nextName.trim().length == 0) break;
-                id = await Imdb.getIdFromName(nextName, anime.seasonYear, type);
-            };
+            let description = this.describe(anime);
+            let fromAnilist = new IdResolver(IdSource.ANILIST, anime.id, originalName, anime.seasonYear, type, Stremio.removeSeasonDetails);
+            let imdbId = await fromAnilist.resolveImdb();
+            let id = imdbId;
+            if (!imdbId) {
+                id = await fromAnilist.resolveKitsu();
+            }
             const poster = anime.coverImage.extraLarge ?? anime.coverImage.large ?? anime.coverImage.medium ?? anime.bannerImage;
-            this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}} as Meta);
+            this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}, description} as Meta);
         }
     }
 }
@@ -171,7 +177,7 @@ export class Manifest implements AbstractManifest {
             resources: ["catalog"],
             types: ["movie","series"],
             catalogs: [],
-            idPrefixes: ["tt"]
+            idPrefixes: ["tt","kitsu"]
           } as AbstractManifest);
     }
     static async fromFile(filePath: string) : Promise<Manifest> {

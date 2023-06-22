@@ -1,67 +1,24 @@
 {
   "metas": [
     {
-      "id": "tt0439533",
-      "type": "movie",
-      "name": "Dead Leaves",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n974-SiHTxDZkUpxY.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0439533"
-      }
-    },
-    {
-      "id": "tt0396659",
-      "type": "movie",
-      "name": "InuYasha the Movie 3: Swords of an Honorable Ruler",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx451-t0IlENS6jPDG.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt0396659"
-      }
-    },
-    {
-      "id": "tt0805605",
-      "type": "movie",
-      "name": "Saint Seiya: The Heaven Chapter - Overture",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1259-To3xqSUc49gn.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0805605"
-      }
-    },
-    {
-      "id": "tt1863338",
-      "type": "movie",
-      "name": "NITABOH: Tsugaru Shamisen Shiso Gaibun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1203.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1863338"
-      }
-    },
-    {
-      "id": "tt0347246",
-      "type": "movie",
-      "name": "Ghost in the Shell 2: Innocence",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx468-rfiX1uY8bsPp.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0347246"
-      }
-    },
-    {
-      "id": "tt0401233",
-      "type": "movie",
-      "name": "Appleseed (Movie)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx54-EIMIUlH3FuJb.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0401233"
-      }
-    },
-    {
       "id": "tt0476680",
       "type": "movie",
       "name": "Naruto the Movie: Ninja Clash in the Land of Snow",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
       "behaviorHints": {
         "defaultVideoId": "tt0476680"
-      }
+      },
+      "description": "Genres: Action, Adventure, Comedy, Drama, Supernatural\nTags:Ninja/Shounen/Male Protagonist/Acting/Primarily Child Cast/Super Power/Trains/Orphan/Anachronism/Primarily Male Cast/Drugs/Historical\nKakashi orders Naruto, Sasuke, and Sakura to watch a movie before their next mission. Naruto is a big fan of the lead actress. After the movie, they see the heroine in person and being chased. They help her and Naruto asks for an autograph but she wouldn't give him one. When the three returns, Kakashi tells them about their mission: to escort the actress to the Snow Country to film a new movie.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0435286",
+      "type": "movie",
+      "name": "Pokémon: Destiny Deoxys",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0435286"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy, Sci-Fi, Supernatural\nTags:Aliens/Dragons/Animals/Kids/CGI\nSatoshi and his friends travel to LaRousse, where they meet a boy named Tooi who is afraid of Pokemon due to an incident that happened four years earlier. Meanwhile, Deoxys, a Pokemon from space, has reappeared, putting a barrier around the city and kidnapping people. Rayquaza, a Pokemon that lives in the atmosphere, comes to fight it.<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0452039",
@@ -70,7 +27,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx875-kvQVUKDPcAKl.png",
       "behaviorHints": {
         "defaultVideoId": "tt0452039"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Psychological, Romance\nTags:Surreal Comedy/Philosophy/Primarily Adult Cast/Male Protagonist/Heterosexual/Seinen/Nudity/Gods/Yakuza/Swimming\nAudiences will begin to grasp what they are in for early on, as loser Nishi, too wimpy to try to save his childhood sweetheart from gangsters, is shot in the butt by a soccer-playing psychopath, projecting Nishi into the afterlife. In this limbo, God - shown as a series of rapidly changing characters - tells him to walk toward the light. But Nishi runs like hell in the other direction and returns to Earth a changed man, driven to live each moment to the fullest.<br>\n<br>\n(Source: Shout! Factory)"
     },
     {
       "id": "tt0348121",
@@ -79,7 +37,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx565-2ANuvDHG7SHf.png",
       "behaviorHints": {
         "defaultVideoId": "tt0348121"
-      }
+      },
+      "description": "Genres: Action, Adventure, Drama, Sci-Fi\nTags:Steampunk/Male Protagonist/Ojou-sama/Foreign/Historical/Military/Fugitive\nRay is a young inventor living in the U.K. in the middle of the 19th century. Shortly before the first ever Great Exhibition, a marvelous invention called the \"Steam Ball,\" behind which a menacing power is hidden, arrives at his door from his grandfather Lloid in the U.S. Meanwhile the nefarious O'Hara Foundation has sent men to aquire the Steam Ball so that they can use its power towards their own illicit ends.\n<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0403703",
@@ -88,7 +47,58 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1894.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0403703"
-      }
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:Card Battle/Male Protagonist/Mythology/Shounen/Urban Fantasy/Primarily Male Cast\nAnubis, an ancient Egyptian evil that was defeated by Yugi's alter ego centuries ago, has returned to exact revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:748",
+      "type": "movie",
+      "name": "Zatch Bell! 101st Devil",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/844.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:748"
+      },
+      "description": "Genres: Adventure, Supernatural\nTags:Battle Royale/Shounen/Demons\nDuring the Summer holidays, Gash and gang decide to head for Fuji Mountain for a picnic gathering. There, they encounter a girl with a white magical book. Her name is Kotoha and her book has a message saying that Gash's mother is located a cave in the forest. However, when they eventually found the cave, there was already a blond-haired youth by the name of Wiseman. In order to rescue Wiseman, Gash and the others attempt to proceed into the depths of the cave and stumble upon the entrance to another world. Soon enough, the strongest warrior, the Black Knight, appeared before them. Thinking that Gash was the one who stole the 101st magical book, the Black Knight started to attack them. Gash and Kiyomaro have to find the real criminal in exactly 24 hours, or else they will be stuck in the alternative world forever."
+    },
+    {
+      "id": "tt0783798",
+      "type": "movie",
+      "name": "Chou Henshin Cosprayers VS Ankoku Uchuu Shougun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/705.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0783798"
+      },
+      "description": "Genres: Adventure, Comedy, Sci-Fi\nTags:Henshin/Magic\nA short 10 minute film by the non-existant \"Houchiku Movie Corporation\"<br><br>\nAfter destroying the dark castles and finally defeating the enemy, Scarlett leaves the group to continue on. While Koto and her friends are together, she meet up again with Scarlett expectantly. A new, powerful enemy is back and must be defeated at all costs, he is more powerful than all of the others... but it will take all of their powers to combine and work together as one..."
+    },
+    {
+      "id": "kitsu:5885",
+      "type": "movie",
+      "name": "McDull",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9818.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5885"
+      },
+      "description": "Genres: Comedy\nTags:\nMcDull, Prince de la Bun is a 2004 animated Hong Kong film directed by Yuen Toe. Telling the life a the fictional pig McDull, it is a sequel to My Life as McDull (2001) and it was followed by McDull, the Alumni (2006).<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": "kitsu:8933",
+      "type": "movie",
+      "name": "Hi no Tori: Hagoromo-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158699-kyjlYbdz0JEb.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:8933"
+      },
+      "description": "Genres: \nTags:\nThe movie was shown at the Tezuka Osamu World Cinema in Kyoto from July 17, 2004 until the theater was closed on January 16, 2011. The production team was almost identical to the Hi no Tori TV anime series' production team, but the voice actress of the Phoenix was changed."
+    },
+    {
+      "id": "tt0347149",
+      "type": "movie",
+      "name": "Howl‘s Moving Castle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx431-dDgk19xDZjVX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0347149"
+      },
+      "description": "Genres: Adventure, Drama, Fantasy, Romance\nTags:Magic/Female Protagonist/Steampunk/Witch/War/Disability/Shapeshifting/Fairy Tale/Heterosexual/Travel/Politics/Rural/Demons/Maids/CGI/Aviation\nSophie, a quiet girl working in a hat shop, finds her life thrown into turmoil when she is literally swept off her feet by a handsome but mysterious wizard named Howl. The vain and vengeful Witch of the Waste, jealous of their friendship, puts a spell on Sophie. In a life-changing adventure, Sophie climbs aboard Howl's magnificent flying castle and enters a magical world on a quest to break the spell. <br><br>\r\n(Source: Disney)"
     },
     {
       "id": "tt0381348",
@@ -97,7 +107,178 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx433-bU0c8iHxoL2G.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0381348"
-      }
+      },
+      "description": "Genres: Drama, Romance, Sci-Fi\nTags:Military/Coming of Age/Aviation/Trains/CGI/School\nIn an alternate timeline, Japan was divided after losing World War II: Hokkaido was annexed by \"Union\" while Honshu and other southern islands were under US sovereignty. A gigantic yet mysterious tower was constructed at Hokkaido and could be seen clearly from Aomori (the northernmost prefecture of Honshu) across Tsugaru Strait. In the summer of 1996, three 9th-graders had made a promise that one day they'll build an aircraft and unravel the tower's mystery, but their project was abandoned after the girl, Sayuri Sawatari, began experiencing sleeping sickness and transferred to Tokyo for better treatment. Three years later, Hiroki Fujisawa accidentally found out that Sayuri had been in a coma since then, and he asked Takuya Shirakawa to help him finding a way to revive her. What they don't know yet is that Sayuri's unconsciousness is somehow linked with secrets of the tower and the world.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:1072",
+      "type": "movie",
+      "name": "Kakurenbo: Hide and Seek",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1192-rVDQZAHn6zxB.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1072"
+      },
+      "description": "Genres: Horror, Psychological, Supernatural\nTags:Urban Fantasy/Dystopian/Primarily Child Cast/Full CGI/Demons\nAmong the ruins of the city, there is a game only children can play. It is called &ldquo;Otokoyo&rdquo;; a game of hide-and-seek. But whenever children play this game, one by one they would disappear into the blinds of the buildings&hellip; The story begins when a boy enters the world of Otokoyo, to find his missing sister. <br>"
+    },
+    {
+      "id": "kitsu:784",
+      "type": "movie",
+      "name": "Blade of the Phantom Master",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/884.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:784"
+      },
+      "description": "Genres: Action, Fantasy\nTags:Super Power/Swordplay/Guns\nAfter wandering through the desert for days, a bitter warrior named Munsu is lost and unable to continue. His life is unexpectedly saved by Mon-ryon, a young man who dreams of becoming a secret agent for Jushin, a once-great country that was recently destroyed. Mon-ryon's goal is to save his girlfriend, Chunhyan, a born fighter who is held captive by the evil Lord Byonand. Then, from out of nowhere, blood begins trickling from his chest. He has been fatally wounded by the Sarinjas, a cannibalistic breed of desert goblin. The quick-thinking Munsu convinces these beasts to spare his life, in exchange for the peaceful handover of Mon-ryon's appetizing corpse. Although skeptical of Mon-ryon's motives, Munsu sets out to continue the mission that the young idealist described. Accompanied by an army of ghost troops, unleashed using the powers of Angyo Onshi, Munsu liberates Chunhyan. After visiting her boyfriend's final resting place, she declares herself Munsu's bodyguard and, together, they set out on a mission to punish those who stripped Jushin of its original glory. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:3460",
+      "type": "movie",
+      "name": "sound / phantasma / mirror",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4091.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:3460"
+      },
+      "description": "Genres: Slice of Life\nTags:CGI/No Dialogue\nA short amateur movie by Kojiro Shishido. Winner at the 10th annual Student CG Contest held in 2005.<br><br>\nIt shows great sensitivity towards the delicate gradations of light and shadow in the natural world, with a matching delicate soundtrack by Shishido himself."
+    },
+    {
+      "id": "kitsu:5198",
+      "type": "movie",
+      "name": "Hamtaro: The Mysterious Ogre's Picture Book Tower",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8109.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5198"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Fairy Tale/Fairy/Magic/Animals/Kids/Male Protagonist\nAyayam is a pretty hamster who excelled at everything–as a child-prodigy in school, sports and even drawing and writing. One day, however, she overhears her friends making fun of a picture book she loved and had given to one of them. She is so devastated that she decides she doesn’t need friends anymore, locks herself into the library and hasn’t taken a single step outside ever since. The God of Books sympathizes with her and gives her a Magic Quill with which she can effortlessly draw any picture and write any story she wants. Meanwhile, Hamtaro learns that Laura and her fellow students will put on \"Sunflower Taro\" as their next school play. Hamtaro and friends decide that they, too, want to try their hand at acting and prepare their own version of \"Sunflower Taro\". In the course of preparing for the play, they are suddenly sucked into a strange Picture Book Tower, where Ayayam tells them that they will be characters in her new book – a new and exciting version of the well-known fairy tale \"Sunflower Taro\". You can tell that things are getting off to an interesting start – as they always do when the Ham-Hams are involved!! <br><br>\r\n(Source: tms-e.com)"
+    },
+    {
+      "id": "tt0439533",
+      "type": "movie",
+      "name": "Dead Leaves",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n974-SiHTxDZkUpxY.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0439533"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Psychological, Sci-Fi\nTags:Surreal Comedy/Anti-Hero/Delinquents/Fugitive/Amnesia/Guns/Primarily Adult Cast/Slapstick/Gore/Space/Crime/Nudity/Super Power/Espionage\nPandy and Retro awaken naked on Earth with no recollection of their past. They embark on a devastating crime spree in search of food, clothing and transportation, but are captured by authorities and sent to the infamous lunar penitentiary named Dead Leaves. While incarcerated, they quickly discover that Dead Leaves is also a top-secret cloning facility, occupied by villainous guards and deformed genetic experiments. Ultra-manic chaos and hyper-violent bedlam ensue as they organize a prison break with the aid of their fellow mutant inmates. "
+    },
+    {
+      "id": "tt0396659",
+      "type": "movie",
+      "name": "InuYasha the Movie 3: Swords of an Honorable Ruler",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx451-t0IlENS6jPDG.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0396659"
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy\nTags:Demons/Heterosexual/Youkai/Swordplay/Shounen/Isekai/Historical/Kuudere/Shapeshifting\nIzayoi and Inu no Taishou, Inuyasha's parents, are having problems with a human named Setsuna no Takemaru. Sou'unga a magical sword that has been sealed away for 700 years is found. Now everyone is after the sword and its powers but it seems the sword has something else in mind.\n<br><br>\n(Source: Anime News Network)\n<br>"
+    },
+    {
+      "id": "kitsu:1134",
+      "type": "movie",
+      "name": "Saint Seiya: The Heaven Chapter - Overture",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1259-To3xqSUc49gn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1134"
+      },
+      "description": "Genres: Adventure, Sci-Fi\nTags:Astronomy/Mythology/Super Power/Shounen/Male Protagonist/Primarily Male Cast/Conspiracy/Gods\nAfter the Saints' victory against Hades, Seiya is left wounded and motionless in a wheel chair with no possible chance of recovery. Athena's sister Artemis, the Virgin Goddess of the Moon and twin sister of Apollo, makes an elaborate proposal - to restore Seiya's physical health in exchange for the supremacy of Sanctuary. Athena accepts and Artemis and her \"Knights of the Sky\" swiftly take control of Sanctuary. Now Seiya and his fellow Bronze Saints combat the forces of Zeus to regain their homeland but it will not be so easy. Bronze Saints Hydra Ichi and Unicorn Jabu, and Silver Saint Ophiuchus Shaina have join forces with Artemis and Apollo.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:1081",
+      "type": "movie",
+      "name": "NITABOH: Tsugaru Shamisen Shiso Gaibun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1203.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1081"
+      },
+      "description": "Genres: Drama, Music\nTags:Historical/Bullying/Male Protagonist\nAt a young age, Nitaroh is stricken with an illness that leaves him blind. He inherits the shamisen guitar once used by his mother and is taught its basics by a blind travelling shamisen player. In time with the help of friends old and new, he walks the paths that leads to his ultimate fate - that of founder of the Tsugaru style of shamisen play.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:8937",
+      "type": "movie",
+      "name": "Tetsuwan Atom Tokubetsu-hen: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17963.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:8937"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nTags:Shounen\nAnother Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:9263",
+      "type": "movie",
+      "name": "Fuichin-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107302-MhnCeEAlrDnb.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:9263"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Foreign/Autobiographical/Shoujo/Historical/Female Protagonist\nThe story is about Fuichin, a young tomboy girl living in Manchuria. Based on Toshiko Ueda's experience."
+    },
+    {
+      "id": "kitsu:43939",
+      "type": "movie",
+      "name": "Liang Shan Po yu Zhu Ying Tai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108279-h3IU5RPnENcr.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:43939"
+      },
+      "description": "Genres: Romance\nTags:Crossdressing/Female Protagonist\nThe Butterfly Lovers is an animated re-telling of the classical Chinese story of two lovers, Liang Shanbo and Zhu Yingtai. Zhu Yingtai was a girl born into an upper-class family during China's Eastern Jin Dynasty. Since women were not allowed to attend school, she begged her family to let her go, and they consented as long as she pretended to be a young man. There she met a handsome young upper-class man named Liang Shanbo. They instantly became friends and vowed to be sworn brothers forever. Yingtai hid her real identity from \"Brother Liang\" through the three years they studied together at Hangzhou. Her love for him grew to consume her, and she thought of nothing else but spending all of her days with Brother Liang.\n<br></br>(Source: IMDB)\n"
+    },
+    {
+      "id": "tt0347246",
+      "type": "movie",
+      "name": "Ghost in the Shell 2: Innocence",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx468-rfiX1uY8bsPp.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0347246"
+      },
+      "description": "Genres: Action, Psychological, Sci-Fi\nTags:Philosophy/Cyberpunk/Police/Artificial Intelligence/Male Protagonist/CGI/Female Protagonist/Robots/Seinen/Primarily Adult Cast/Noir/Cyborg/Photography/Military/Kuudere\nThe year is 2032. With the advancement of medical technology humanity has grown into a more technologically driven creature, creating a breed of cyborg citizen. Along with the development of cybernetics the world has seen rapid development in the field of artificial intelligence, making androids a commercially viable venture.<br>\n<br>\nA recent string of murders perpetrated by a prototype female android has drawn the attention of Section 9, a unit specializing in counter cyber-terrorism. With none of the victims' families pressing charges, suspicions arise regarding the nature of the androids and their production.<br>\n<br>\nMonths have passed since the end of the Puppet Master incident, and with the Major still missing investigative duties fall to her cyborg commando partner Batou and his newly recruited biological partner, Togusa. Can the two overcome their differences and discover the truth behind this string of murders?<br>\n<br>\n(Source: Bandai Entertainment)"
+    },
+    {
+      "id": "tt1010435",
+      "type": "movie",
+      "name": "One Piece: The Curse of the Sacred Sword",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx463-QDnETPoHp9oD.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1010435"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Pirates/Super Power/Shounen/Swordplay/Ensemble Cast/Male Protagonist/Ships/Shapeshifting/Fugitive/Kuudere/Fairy Tale/Animals/Cult\nLuffy and crew go to an island searching for a legendary sword, said to be the most expensive in the world. Soon attacking marines and beautiful maidens split the crew. Zoro betrays the crew to help an old friend, Luffy and Usopp wander through a cave, and the rest help a village fight marines. When Zoro defeats Sanji he takes the sacred pearls that are the only defense against the evil sword that will plunge the world into darkness. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt1133559",
+      "type": "movie",
+      "name": "Case Closed: Magician of the Silver Sky",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1367-cJLBjSfqBmRY.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1133559"
+      },
+      "description": "Genres: Adventure, Mystery\nTags:Detective/Police/Crossover/Aviation/Shounen/Age Regression/Male Protagonist\nKaito Kid strikes again in this new annual installment of the Detective Conan movies. An actress asked for Mouri Kogoro to protect a precious jewel of hers which Kid has vowed to steal. On the day of the theft, Kaito Kid dressed up as Shinichi and matched wits with Conan, and fled in the end. To thank them, the actress invited Kogoro and family and friends to Sapporo, but a bigger scheme, and a great emergency is just about to unravel high above the clouds in the plane that they're taking...\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0401233",
+      "type": "movie",
+      "name": "Appleseed (Movie)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx54-EIMIUlH3FuJb.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0401233"
+      },
+      "description": "Genres: Action, Drama, Mecha, Sci-Fi\nTags:Full CGI/Tomboy/Military/Female Protagonist/Artificial Intelligence/Primarily Adult Cast/Post-Apocalyptic/Urban/Guns/Shounen/Cyberpunk/Robots/War/Dystopian/Gore/Terrorism\nGrowing out of the chaos of a global war, the city of Utopia is populated by humans and bioroids (artificial humans). On the surface, everything is harmonious, but tensions lurk. Into this seemingly perfect society comes a survivor of the wars, Deunan Knute, who carries a legacy that will turn out to be of critical importance to the future of humanity. <br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:2420",
+      "type": "movie",
+      "name": "Doraemon: Nobita's Wannyan Space-Time Legend",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2656.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2420"
+      },
+      "description": "Genres: Adventure, Comedy, Sci-Fi\nTags:\nOne day, Nobita finds a stray dog drowning in a river while playing by the river side. Feeling sorry for the dog, he decides to take it home by hiding it in a \"kennel on the wall\" and names it Ichi (originated from \"One\", which sounds similar to \"wan\", the sound a dog makes according to the Japanese language), and secretly feeds it and plays with Ichi with his Kendama to find. Soon after, he also adopts a stray cat named Zubu (or wet in Japanese, due to the discovery of it in a rainstorm)... and many other stray cats and dogs. With so many stray cats and dogs, Nobita, along with his friends, decide to send them back in time, 300 million years ago, where there was no other living beings around. After using the Ray of Evolution to allow them to operate a food-making machine, they depart, with a promise to return to the present.<br><br>\nHowever, when they try to visit them the next day (from their point of view), they encountered a time-space anomaly, sending them crash landing 1,000 years before their original time-destination&mdash; to their surprise, They found out the dogs and cats have evolved enough to form a civilized society that rivaled those of Future Society. As the time machine is broken, they try to find help to repair it so they can continue their chrono-journey, only to learn of a bigger issue &mdash; a cluster of asteroids are going to Collide with Earth.<br><br>\nWill Nobita finally reunite with Ichi, as he promised? More over, what's with Hachi, a dog who resembles Ichi greatly? The 300 million years of time and space adventure begins.<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": "kitsu:5313",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8364.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5313"
+      },
+      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:School/Seinen/Anachronism/Urban\nShin-chan and his friends discover an abandoned movie theater where some sort of western film is being displayed to an empty room. Shinnosuke's friends mysteriously disappear thus making the Nohara family start searching for them at the location they were last seen. While looking for the other kids, the Noharas inexplicably find themselves taken into the movie being exhibited.\n<br><br>\n(Source: Anime News Network)"
     }
   ]
 }

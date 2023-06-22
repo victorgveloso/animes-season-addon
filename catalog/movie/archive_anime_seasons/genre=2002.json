@@ -1,148 +1,14 @@
 {
   "metas": [
     {
-      "id": "tt0322645",
-      "type": "movie",
-      "name": "InuYasha the Movie: Affections Touching Across Time",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx452-8Gc0rCcsXwLj.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt0322645"
-      }
-    },
-    {
-      "id": "tt0180052",
-      "type": "movie",
-      "name": "Mt. Head",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1370-LE3i3DKLVfz3.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0180052"
-      }
-    },
-    {
-      "id": "tt4130762",
-      "type": "movie",
-      "name": "∀ Gundam I: Earth Light",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3963.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt4130762"
-      }
-    },
-    {
-      "id": "tt4130788",
-      "type": "movie",
-      "name": "∀ Gundam II: Moonlight Butterfly",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3964.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt4130788"
-      }
-    },
-    {
-      "id": "tt0240900",
-      "type": "movie",
-      "name": "Ecchan no Sensou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19907.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0240900"
-      }
-    },
-    {
-      "id": "tt0997084",
-      "type": "movie",
-      "name": "One Piece: Chopper’s Kingdom on the Island of Strange Animals",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx461-DC9fMDl3AaK1.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0997084"
-      }
-    },
-    {
-      "id": "tt0990372",
-      "type": "movie",
-      "name": "Case Closed: The Phantom of Baker Street",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1365-FLEpMCC8Ghhk.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0990372"
-      }
-    },
-    {
-      "id": "tt0810831",
-      "type": "movie",
-      "name": "Digimon Tamers: Runaway Locomon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3033.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0810831"
-      }
-    },
-    {
-      "id": "tt5182844",
-      "type": "movie",
-      "name": "Mobile Police Patlabor: WXIII",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1290-EpimlnTcvT2i.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt5182844"
-      }
-    },
-    {
-      "id": "tt0311618",
-      "type": "movie",
-      "name": "A Tree of Palme",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1141-vhjeoRdDlJG1.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt0311618"
-      }
-    },
-    {
-      "id": "tt1147526",
-      "type": "movie",
-      "name": "Doraemon: Nobita to Robot Oukoku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2655-Q5IKupd2pN98.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1147526"
-      }
-    },
-    {
-      "id": "tt2180443",
-      "type": "movie",
-      "name": "Crayon Shin-chan: Arashi wo Yobu Appare! Sengoku Daikassen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3744.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt2180443"
-      }
-    },
-    {
-      "id": "tt1086280",
-      "type": "movie",
-      "name": "éX-Driver the Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b378-u7B4XiCIHHRs.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1086280"
-      }
-    },
-    {
-      "id": "tt0359692",
-      "type": "movie",
-      "name": "Doraemon: The Day When I Was Born",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2652.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt0359692"
-      }
-    },
-    {
-      "id": "tt1147526",
-      "type": "movie",
-      "name": "The☆Doraemons: Goal! Goal! Goal!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2631.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1147526"
-      }
-    },
-    {
       "id": "tt0347618",
       "type": "movie",
       "name": "The Cat Returns",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx597-sGQ5YXPMF0AS.png",
       "behaviorHints": {
         "defaultVideoId": "tt0347618"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy\nTags:Animals/Female Protagonist/Nekomimi/Anthropomorphism/Fairy Tale/Kemonomimi/Shoujo/Crossover\nThe Cat Returns is something of a loose spin-off of \"Whisper of the Heart\" as it features two characters from that film: Muta (the cat from \"Whisper\") and the Baron (the cat statue from \"Whisper\"). There is no other connection between the two movies and this is not a sequel. The story is based on Neko no Danshaku (Baron of Cat) by Hiiragi Aoi. <br><br>\nThe main character of the story, Haru, is a clueless, ordinary 17-year-old girl. She has no special abilities and neither is she an extraordinary beauty. When faced with reality, she is unable to make decisions for herself, thus often sways to others' opinions to avoid challenge. One day, Haru saves the life of a cat without considering her own safety. The cat turns out to be the Cat Prince from the Kingdom of Cats, however as a result, Haru is trapped in the world of cats. Can Baron and Muta rescue Haru who has wandered into the world of cats? <br><br>\n(Source: AniDB, edited)"
     },
     {
       "id": "tt0291350",
@@ -151,7 +17,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1033-d5p1pbd5qa4L.png",
       "behaviorHints": {
         "defaultVideoId": "tt0291350"
-      }
+      },
+      "description": "Genres: Drama, Fantasy, Romance\nTags:Acting/Biographical/Meta/Historical/Primarily Adult Cast/Work/Female Protagonist/Heterosexual/Coming of Age/War/Anachronism/Fugitive/Swordplay\n<i>Millennium Actress</i> blurs the lines between the past and the present, and truth and fiction, when a documentary filmmaker fulfills his quest to find the legendary actress Chiyoko Fujiwara, and learn why she mysteriously vanished at the height of her brilliant career. When Chiyoko grants the filmmaker’s request, he, in turn, presents her with a token – a key she had lost and thought was gone forever. The filmmaker could not have imagined that the key would not only unlock the long-held secrets of Chiyoko’s life, but also his own.<br>\n<br>\n(Source: Dreamworks)<br>\n<br>\n<i>Note: The film received an early premiere at the Fantasia Film Festival on July 28, 2001.</i>"
     },
     {
       "id": "tt0347791",
@@ -160,124 +27,148 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1120-dSMPMrXYWlER.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt0347791"
-      }
+      },
+      "description": "Genres: Adventure, Comedy, Drama\nTags:Animals/Kids/Urban Fantasy/Primarily Child Cast/Drawing/Kaiju/CGI\n Long ago, on an island called Altomare, there lived an old man and woman. One day, the couple found two small children lying on the shore, badly wounded. The couple took them in and took care of them, and the children quickly recovered. But then, the island was attacked by monsters. Within moments the island fell into the monsters' wrath. But then...Before the old man and lady's eyes, the children who they had taken care of transformed into the Eon Pokemon, Latios and Latias. They called their family from the sky. They came, and carried a stone with them containing the power to force the monsters away. This gem was known as the \"Soul Dew\". Peace returned to the island. However, later in the present, a criminal duo - Zann&acirc; and Rion - are seeking Latios and Latias in order to take control of the Soul Dew. Taking a short break in Altomare, Satoshi befriends Latias and is now dragged into the situation helping to save Altomare from becoming swallowed up by destruction again. <br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt0287717",
+      "id": "kitsu:2737",
       "type": "movie",
       "name": "Digimon Frontier: Island of Lost Digimon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3031-K7KEKEcMdpVM.png",
       "behaviorHints": {
-        "defaultVideoId": "tt0287717"
-      }
+        "defaultVideoId": "kitsu:2737"
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy\nTags:War/Virtual World\nThe five digi-destined children stumble upon an ancient island inhabited by two different types of digimon; The Beast types, and the Human types. When they see two young digimon-a beast and humanoid-have become friends, they decide something must be done about the feud.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt0318034",
+      "id": "tt0303678",
       "type": "movie",
       "name": "Armitage III: Dual Matrix",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx492-s8gMCJIBAGfR.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0318034"
-      }
+        "defaultVideoId": "tt0303678"
+      },
+      "description": "Genres: Action, Adventure, Mecha, Sci-Fi\nTags:Artificial Intelligence/Cyberpunk/Conspiracy/Robots/Primarily Adult Cast/Urban/Politics\nA few years after they first met, Naomi Armitage and Ross Syllabus have started a family. Despite their normal lives, they must keep their identities a secret because many people believe that Robots do not deserve equal status with humans. Ross has an oppurtunity to abolish these ideas on Earth through a vote, but organizations in the shadows are working so that it doesn't happen.\n<br><br>\n(Source: Anime News Network)\n<br>"
     },
     {
-      "id": "tt0459080",
+      "id": "kitsu:1500",
       "type": "movie",
       "name": "Beyblade the Movie: Decisive Battle! Takao VS Daichi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1670-D76DiH1UwcMF.png",
       "behaviorHints": {
-        "defaultVideoId": "tt0459080"
-      }
+        "defaultVideoId": "kitsu:1500"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Sci-Fi, Sports\nTags:Male Protagonist\nThe Bladebreakers are on a well deserved vacation. But, a hyperactive kid named Daichi continues to pursue Tyson for a rematch after his defeat in the Beyblade World Championships. The Bladebreakers' vacation eventually takes a turn for the worst once they encounter mysterious Beybladers who claim to be the Dark Spirits sealed inside a strange temple. With Daichi under their control, the Shadow Bladers seek to destroy the world with their Dark BitBeasts. Together, Tyson, Max, Ray, and Kai must save not only Daichi... but the world as well...\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt0339256",
+      "id": "kitsu:6639",
+      "type": "movie",
+      "name": "Guilstein",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11995.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:6639"
+      },
+      "description": "Genres: Action, Horror, Sci-Fi\nTags:Conspiracy/Dystopian/Gore/CGI/Cyberpunk/Primarily Adult Cast\nThe theatrical anime film is a full digital (3-D) action/horror film based on a manga by Tamaki Hisao, best known to Western fans for his manga adaptation of Star Wars: A New Hope. Characters were designed by Yasushi Nirasawa, a well acclaimed maker of creature action figures. Monkey Punch (Lupin III creator) served as the film's script superviser. Set in the year 2088, it depicts a dark future in which humans have been transformed into the \"Guilstein,\" creatures with no human souls in them..."
+    },
+    {
+      "id": "kitsu:6698",
       "type": "movie",
       "name": "Kinnikuman II Sei Muscle: Ninjin Soudatsu sen! Choujin Daisensou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12279.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0339256"
-      }
+        "defaultVideoId": "kitsu:6698"
+      },
+      "description": "Genres: Action, Comedy, Drama, Romance\nTags:Swordplay\nIn order to save a princess, Mantarou (Kid Muscle) and the gang must find a special ginseng. They are later joined by Kevin Mask. <br><br>\n(Source: Wikipedia) "
     },
     {
-      "id": "tt0347791",
+      "id": "kitsu:8986",
       "type": "movie",
       "name": "Gekitou! Crush Gear TURBO: Kaiservern no Chousen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19271.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0347791"
-      }
+        "defaultVideoId": "kitsu:8986"
+      },
+      "description": "Genres: Sports\nTags:Cars/Shounen\nThe very first Gear even made in the world is stolen. The gear, named Kaiservern, beats the prize winners of the Australia convention one after another. Kouya and Manganji, which won a prize in the Asia Convention, become targets too. When the unidentied gear fighter who handles Kaiservern appears in front of Kouya and Manganji, the two boys decide to fight together to win victory over their enemy. (Sunrise)"
     },
     {
-      "id": "tt0233559",
+      "id": "kitsu:6817",
       "type": "movie",
       "name": "Xevious",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12799.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0233559"
-      }
+        "defaultVideoId": "kitsu:6817"
+      },
+      "description": "Genres: Action, Adventure, Sci-Fi\nTags:\nIn the year 2150 A.D. space pilot Takeru and human computer Martha come across a giant ship which contains two mechanical beings called Sara and Ru Mi. They warn Takeru and Martha of the Gump, an alien race that is heading to Earth so that it can take over the planet. With only 40 mintues remaining until Earth's invasion, Takeru enters the Solvalou, a combat aircraft, and heads to the Gump's base on the planet Andoa.<br><br>\nBased on Namco's classic 1980s videogame of the same name.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt20834228",
+      "id": "kitsu:7610",
       "type": "movie",
       "name": "Sore Ike! Anpanman: Roll to Laura - Ukigumojou no Himitsu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17219.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt20834228"
-      }
+        "defaultVideoId": "kitsu:7610"
+      },
+      "description": "Genres: Comedy\nTags:Kids\n14th Anpanman movie."
     },
     {
-      "id": "tt8081176",
+      "id": "kitsu:5322",
       "type": "movie",
       "name": "BONOBONO: Kumomo no Ki no Koto",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8403.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt8081176"
-      }
+        "defaultVideoId": "kitsu:5322"
+      },
+      "description": "Genres: Drama\nTags:\nThe second theatrical Bonobono movie, done completely in 3D."
     },
     {
-      "id": "tt15864378",
+      "id": "kitsu:9627",
       "type": "movie",
       "name": "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20113.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt15864378"
-      }
+        "defaultVideoId": "kitsu:9627"
+      },
+      "description": "Genres: Adventure\nTags:Kids\n12th Anpanman short movie."
     },
     {
-      "id": "tt0482364",
+      "id": "kitsu:11258",
       "type": "movie",
       "name": "Gekijouban Saru Gecchu: Golden no Pipo Helmet - Ukkii Battle",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140879-SWL67FuI100j.png",
       "behaviorHints": {
-        "defaultVideoId": "tt0482364"
-      }
+        "defaultVideoId": "kitsu:11258"
+      },
+      "description": "Genres: Adventure, Comedy, Sci-Fi\nTags:Kids/Full CGI/Animals\nOne day, a strange monkey with a golden helmet drains out the insides of another monkey by kissing him. Hikaru, Spike's brother, goes out on an adventure to find this strange monkey. He soon befriends the monkeys and runs forward. But it isn't easy when every boss from the former games tries to block his path...<br>\n<br>\n(Source: MyAnimeList)<br>\n<br>\n<i>Aired in theaters with Beyblade the Movie: Decisive Battle! Takao VS Daichi</i>"
     },
     {
-      "id": "tt2752960",
+      "id": "kitsu:2258",
       "type": "movie",
       "name": "Mei and the Baby Cat Bus",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2488.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt2752960"
-      }
+        "defaultVideoId": "kitsu:2258"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:Animals/Rural/Gods\nA short film only screened at the Ghibli Museum in Mitaka. This work is a mini-sequel to the film <i>My Neighbor Totoro</i>.<br><br>\nMei is eating a caramel on one very windy day, when suddenly a whirlwind appears and starts chasing her. The whirlwind turns out to be a baby cat bus. Mei offers the kitten a caramel and the two become friends. That night, the baby cat bus visits Mei. Letting Mei ride inside him, he leaps out into the sky. They head for the midnight forest full of ghosts. Other cat buses large and small have also gathered together. In the forest, Mei encounters... <br><br>\n(Source: Ghibli Museum)"
     },
     {
-      "id": "tt0374262",
+      "id": "kitsu:1832",
       "type": "movie",
       "name": "TAMALA2010: a punk cat in space",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2033.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0374262"
-      }
+        "defaultVideoId": "kitsu:1832"
+      },
+      "description": "Genres: Comedy, Psychological, Sci-Fi\nTags:Space/Anthropomorphism/Achromatic/Dystopian/Cyberpunk/Surreal Comedy/Animals/Conspiracy/Anti-Hero/Mythology/CGI/Female Protagonist/Fugitive\nIt's the year 2010 on the planet of cats, where lies Meguro City, a megalopolis entirely controlled by the super-corporation Catty &amp; Co. The nefarious influence of this corporate empire extends malignantly across the feline galaxy. Tamala, a carefree, one-year-old kitten, decides to flee this cruel reality and boards her spaceship in search of her planet of origin. <br><br>\n(Source: IMDb)"
     },
     {
-      "id": "tt1345450",
+      "id": "kitsu:1234",
       "type": "movie",
       "name": "Blue Gender: The Warrior",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1380.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1345450"
-      }
+        "defaultVideoId": "kitsu:1234"
+      },
+      "description": "Genres: Adventure, Drama, Horror, Mecha, Sci-Fi\nTags:Post-Apocalyptic/Military\nIt is unknown how long they have existed. Some sightings date back to 2017. But in the year 2031 Humankind was replaced as the dominant species on Earth.<br>\n<br>\nThey are known only as The Blue. Many believed that the Blue were created by a rogue nation as a weapon of mass destruction. But it soon became all too evident that this was not the case. These monstrous insect-like creatures now exert their terrible will upon the planet. As a result, the remains of the human race have fled into outer space to escape the infestation of the Blue.<br>\n<br>\nSuddenly awakened after 22 years in suspended animation, Yuji Kaido finds himself thrust into a nightmarish reality. Yuji soon learns that the very survival of the entire human race rests in his hands.<br>\n<br>\n(Source: Funimation)"
     },
     {
       "id": "tt1178592",
@@ -286,16 +177,168 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/216.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt1178592"
-      }
+      },
+      "description": "Genres: Romance\nTags:\nHigh schoolers Sayaka Takai and Akihiko Kannazuki work together at a restaurant chain \"Pia Carrot.\" Both are interested in each other, but before either could make a move Sayaka was temporarily rotated to the newly established branch at a beach resort. While waitress girls at this new location did their best to confront harassment, make new friends, and attract new customers by attending a beauty contest, Sayaka's feeling for Akihiko never stops and has become stronger and stronger.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt1625545",
+      "id": "kitsu:4942",
       "type": "movie",
       "name": "Tottoko Hamtaro Movie 2: Ham Ham Ham~Jya! Maboroshi no Princess",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7330.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1625545"
-      }
+        "defaultVideoId": "kitsu:4942"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Desert/Magic/Animals/Kids/Male Protagonist\nLately, Hamtaro has been having a strange dream. In the dream, a beautiful princess hamster tearfully asks for help. Hamtaro can’t forget about her, even when he’s awake. One winter day, Laura talks to Hamtaro. She tells him that everyone in the family is going home to her father’s hometown. When Hamtaro tells his friends about it, Maxwell pulls out a Ham-Ham source book. It’s a book on old hamster history. <br><br>\r\nAccording to the book, there is a “homeland” for hamsters called “Hamja Kingdom”. When the Ham-Hams build a sand castle and recite a spell exactly the way it is written in the book, they are whooshed to the Kingdom. When at last the hamsters reach the bustling Hamja Kingdom of hamsters, the popular King Hamja, the Mini-Hams that they’ve met before in Ham-Ham Land, and many jar spirits called the Mo-Hams appear. A parade begins merrily with singing and dancing! But, the bad magic cat “Sabakunya” appears suddenly, riding the giant sheep monster “Mee Mee”, and starts to trample the town. What a disaster! <br><br>\r\nThe Ham-Hams flee underground. The Ham-Hams are told of the state of the Kingdom and find that Sabakunya has snatched the King’s daughter, Princess Shera, and is pressing her into marriage on the Kingdom’s Founding Day. Sabakunya is trying to take over the country. Something clicks in Hamtaro’s mind. Princess Shera is without a doubt the princess who appeared in his dreams! Hamtaro wants very much to run to the castle where Sabakunya is, and so he and the Ham-Hams enter the castle. In the castle, they encounter danger after danger, and Hamtaro, pursued by Sabakunya’s henchmen, is separated from others. "
+    },
+    {
+      "id": "tt0322645",
+      "type": "movie",
+      "name": "InuYasha the Movie: Affections Touching Across Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx452-8Gc0rCcsXwLj.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0322645"
+      },
+      "description": "Genres: Adventure, Comedy, Drama, Fantasy, Romance\nTags:Demons/Shounen/Youkai/Heterosexual/Isekai/Swordplay/Shapeshifting/Tsundere/Historical/Kuudere\n200 years ago, InuYasha's father sealed away a powerful demon from China named Hyoga... A Shikon Jewel shard awakens Hyoga's son, Menomaru, inspiring him to absorb the remains of his father's power to take control of the world! It's now up to InuYasha and his friends to stop this nearly invincible foe!<br>\n<br>\n(Source: Viz Media)"
+    },
+    {
+      "id": "kitsu:1224",
+      "type": "movie",
+      "name": "Mt. Head",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1370-LE3i3DKLVfz3.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:1224"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Rakugo/Surreal Comedy\nAfter a stingy man eats some cherry seeds, a cherry tree grows on his head and he gets into a lot of trouble. <br>"
+    },
+    {
+      "id": "tt4130762",
+      "type": "movie",
+      "name": "∀ Gundam I: Earth Light",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3963.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4130762"
+      },
+      "description": "Genres: Action, Drama, Mecha, Sci-Fi\nTags:Space/Military\nA movie retelling of the first half of the Turn A Gundam series. "
+    },
+    {
+      "id": "tt4130788",
+      "type": "movie",
+      "name": "∀ Gundam II: Moonlight Butterfly",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3964.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt4130788"
+      },
+      "description": "Genres: Action, Drama, Mecha, Sci-Fi\nTags:Space/Military\nThe movie retelling of the final half of the Turn A Gundam series. "
+    },
+    {
+      "id": "kitsu:9255",
+      "type": "movie",
+      "name": "Ecchan no Sensou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19907.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:9255"
+      },
+      "description": "Genres: Drama\nTags:Historical\nBased on a children's novel by Etsuko Kishikawa."
+    },
+    {
+      "id": "tt0997084",
+      "type": "movie",
+      "name": "One Piece: Chopper’s Kingdom on the Island of Strange Animals",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx461-DC9fMDl3AaK1.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0997084"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Pirates/Animals/Ships/Ensemble Cast/Shounen/Super Power/Male Protagonist/Shapeshifting/Primarily Male Cast/Kuudere\nThe crew comes upon Crown Island where the animals can talk and they makes Chopper their new king. But there are human hunters there also looking for the legendary horns that will give the person who consumes it immense power. Luffy and friends must stop them from destroying this animal kingdom.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0990372",
+      "type": "movie",
+      "name": "Case Closed: The Phantom of Baker Street",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1365-FLEpMCC8Ghhk.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0990372"
+      },
+      "description": "Genres: Adventure, Mystery\nTags:Virtual World/Male Protagonist/Video Games/Primarily Child Cast/Artificial Intelligence/Detective/Foreign/Age Regression/Crossover/Crime/Isekai/Police/Shounen/Classic Literature/Suicide\nConan was invited to a party with many other guests. They were there to test a new virtual game system, when a murder mystery occured. Now Conan must go into the game system to figure out who the murderer is with the help of the famous book character Sherlock Holmes. The lives of 49 kids testing the game are in his hands.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0810833",
+      "type": "movie",
+      "name": "Digimon Tamers: Runaway Locomon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3033.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt0810833"
+      },
+      "description": "Genres: Adventure, Comedy, Sci-Fi\nTags:Kaiju/Trains/Primarily Child Cast/Male Protagonist/Artificial Intelligence/Kuudere\nLocomon, a train digimon, has suddenly appeared in the real world. All the tamers scramble to stop the train before it reaches its final destination: the portal into the Digital world.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt0318819",
+      "type": "movie",
+      "name": "Mobile Police Patlabor: WXIII",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1290-EpimlnTcvT2i.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0318819"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nTags:Police/Real Robot/Kaiju/Primarily Adult Cast/Urban/Detective/Noir\nWhen the level of Labor accidents begin to escalate around Tokyo Bay, police detectives Kusumi and Hata are assigned to investigate. What they discover leads to a series of government cover-ups, conspiracy concerning a new biological weapon entitled WXIII-Wasted Thirteen and a tragic, personal connection to Hata. The only hope to stop this threat is to cooperate with the military and lead WXIII into a showdown with the Labors of Special Vehicle Division 2. <br><br>\n(Source: Anime News Network)<br><br>\n\nThis Movie is a Side Story that takes place in between Patlabor Movie 1 and 2 "
+    },
+    {
+      "id": "tt0311618",
+      "type": "movie",
+      "name": "A Tree of Palme",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1141-vhjeoRdDlJG1.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0311618"
+      },
+      "description": "Genres: Adventure, Drama, Fantasy, Romance\nTags:Primarily Child Cast/Classic Literature/Fairy Tale/Environmental/Robots/Artificial Intelligence/Philosophy/Male Protagonist/Mythology/Body Horror/Lost Civilization/CGI\nIn a remote corner of the planet Arcana, Palme, a sentient android crafted from a mystical wood that is said to absorb the memories of the civilizations it roots in, is awakened by Koram, a wounded warrior from the Sol tribe. Entrusting him with the mystical 'Egg of the Roof', she implores Palme to take it to the legendary realm of Tamas.<br>\n<br>\nGalvanized with purpose for his existence, he accepts Koram's quest to deliver the relic to its source: the center of the planet, which is threatened by a malevolent and destructive force.<br>\n<br>\n(Source: ADV Films)"
+    },
+    {
+      "id": "kitsu:2419",
+      "type": "movie",
+      "name": "Doraemon: Nobita to Robot Oukoku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2655-Q5IKupd2pN98.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2419"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:Kids/Shounen\nDoraemon and friends travels into another world via the time machine; where humans and robots are living together. However they soon find out that the Empress of Robot Kingdom was trying to capture robots there and turn them emotionless. As the situation goes tense, our heroes sets out to stop the Empress and her plan.<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": "kitsu:3225",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Arashi wo Yobu Appare! Sengoku Daikassen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3744.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:3225"
+      },
+      "description": "Genres: Comedy\nTags:Historical/Samurai/Male Protagonist/War/Swordplay/Seinen/Isekai\nShin-chan and his family travel to Samurai's Era by accident and try to save the Princess' city by helping in the war."
+    },
+    {
+      "id": "tt1086280",
+      "type": "movie",
+      "name": "éX-Driver the Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b378-u7B4XiCIHHRs.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1086280"
+      },
+      "description": "Genres: Adventure, Comedy, Sci-Fi\nTags:Cars/Female Protagonist/Male Protagonist/Foreign/Artificial Intelligence\nAfter winning domestic preliminary round, Lisa, Lorna, and Soichi advance to ex-Driver world race competition held in Los Angeles as representative team from Japan. Like a bad omen, they encountered a reckless AI car the first night they arrived at Los Angeles. Although they successfully stopped the car, the local police department is not very happy about that and insists to examine their car overnight. <br><br>\nHowever, the problem did not stop just there. The daughter of the United States team`s sponsor, Angela, has gone missing. Lorna realized that Angela was on the reckless AI car before. Soichi who guessed that Angel could be in danger then start looking for her. But Soichi got captured by a mysterious man, and he shocked to find Angela is also there. <br><br>\nDuring the confinement inside a warehouse, Soichi finds out that apparently there is a connection between the series of incident and illegal gambling on the ex-Driver world race competition. Now Soichi must escape from the warehouse with Angela... <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:2416",
+      "type": "movie",
+      "name": "Doraemon: The Day When I Was Born",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2652.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2416"
+      },
+      "description": "Genres: Fantasy\nTags:\nNobita believes that he was adopted. Nobita and Doraemon go back to the day that Nobita was born."
+    },
+    {
+      "id": "kitsu:2395",
+      "type": "movie",
+      "name": "The☆Doraemons: Goal! Goal! Goal!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2631.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:2395"
+      },
+      "description": "Genres: Fantasy\nTags:\nThe Doraemons, a group of culturally different versions of the Doraemon, gather to play a game of soccer.\n<br><br>\n(Source: Anime News Network)"
     }
   ]
 }

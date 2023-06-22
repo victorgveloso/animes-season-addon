@@ -1,49 +1,14 @@
 {
   "metas": [
     {
-      "id": "tt1572781",
-      "type": "movie",
-      "name": "The Disappearance of Haruhi Suzumiya",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7311-2Qu6rQgl7Aqi.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1572781"
-      }
-    },
-    {
-      "id": "tt1636780",
-      "type": "movie",
-      "name": "Gintama - The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7472-RveDgQsIZUNG.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1636780"
-      }
-    },
-    {
-      "id": "tt1715210",
-      "type": "movie",
-      "name": "Time of Eve: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7465-gBh82FNppI9h.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt1715210"
-      }
-    },
-    {
-      "id": "tt1703049",
-      "type": "movie",
-      "name": "Trigun: Badlands Rumble",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4106-hkczeGBjOzI6.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1703049"
-      }
-    },
-    {
       "id": "tt1568921",
       "type": "movie",
       "name": "The Secret World of Arrietty",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7711-IDDzqp6d3tQz.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt1568921"
-      }
+      },
+      "description": "Genres: Adventure, Drama, Fantasy\nTags:Female Protagonist/Rural/Family Life/Classic Literature/Coming of Age/Work\nArrietty, a tiny but tenacious 14-year-old, lives with her parents in the recesses of a suburban garden home, unbeknownst to the homeowner and her housekeeper. Like all little people, Arrietty remains hidden from view, except during occasional covert ventures beyond the floorboards to \"borrow\" scrap supplies like sugar cubes from her human hosts. But when 12-year-old Shou, a human boy who comes to stay in the home, discovers his mysterious housemate one evening, a secret friendship blossoms. If discovered, their relationship could drive Arrietty's family from the home and straight into danger.<br><br>\n(Source: Disney)"
     },
     {
       "id": "tt1677561",
@@ -52,16 +17,128 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8142-C8NvVbzJz7hN.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt1677561"
-      }
+      },
+      "description": "Genres: Drama, Slice of Life, Supernatural\nTags:Male Protagonist/Suicide/Philosophy/School/Rehabilitation/Family Life/Bullying/Drawing\n\"I\" died and was kicked out of the cycle of reincarnation because of the sin \"I\" committed. An angel told me that \"I\" won a lottery and he gave me a chance to remember the sin. My spirit possessed the body of the 14-year-old boy Makoto, who committed suicide and \"I\" tried to recollect my memory. \"I\" felt distressed by the terrible circumstances of Makoto and the fact that \"I\" was borrowing his body. \"I\" have started to realize that people are hurting each other because the world is too colorful to distinguish the true color of themselves from others.<br><br>\nBased on an award-winning first person narrative novel by Mori Eto. The movie won several awards in Japan."
     },
     {
-      "id": "tt1453967",
+      "id": "tt1703048",
+      "type": "movie",
+      "name": "Naruto Shippuden the Movie: The Lost Tower",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8246-KAi3bLLdJ4OI.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1703048"
+      },
+      "description": "Genres: Action, Comedy\nTags:Shounen/Super Power/Ninja/Male Protagonist\nAssigned on a mission to capture Mukade, a missing-nin, Naruto Uzumaki sets out for the once glorious historic ruins of \"Ouran\", where he pursues and corners the rogue ninja. Mukade's goal is revealed to be a dormant leyline within the ruins; he unleashes the power of the leyline, causing a light to envelop Naruto, sending him into the past, 20 years before the series began. When Naruto awakens, he comes into contact with the Fourth Hokage, Minato Namikaze.<br><br>\n(Source: Wikipedia) "
+    },
+    {
+      "id": "tt1690470",
+      "type": "movie",
+      "name": "Pokémon: Zoroark—Master of Illusions",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7695-bgE6h1GXxWMG.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1690470"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Environmental/Animals/Conspiracy/Urban Fantasy/CGI/Kids\nThe Fury of Zoroark Has Been Unleashed!<br><br>\nThe Pok&eacute;mon Baccer World Cup.<br><br>\nIt is the most anticipated event of the year, and as hundreds flock to Crown City to watch the exciting competition unfold, Ash, Pikachu, and his friends encounter a mysterious new Pok&eacute;mon they have never seen before.<br><br>\nBut when the three Legendary Pok&eacute;mon Raikou, Entei, and Suicune suddenly arrive and begin rampaging through the streets, it&rsquo;s up to Ash and his companions, along with their new Pok&eacute;mon friend Zorua, to uncover the secret behind the immense and powerful forces at work.<br><br>\nWhat strange and dangerous powers are afoot in Crown City? Why did Celebi suddenly return after vanishing for twenty years? And why is the mighty Zoroark unleashing its fury upon the town? The quest for these answers leads down an uncertain path filled with peril&mdash;can Ash and his companions find enough courage, strength, and friendship to unearth the mystery in time to save Crown City?<br><br>\n(Source: Pokemon.com)"
+    },
+    {
+      "id": "kitsu:5366",
+      "type": "movie",
+      "name": "Broken Blade 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8514.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5366"
+      },
+      "description": "Genres: Action, Fantasy, Mecha\nTags:Military/Shounen/Real Robot/War/Magic/Primarily Adult Cast/Male Protagonist/Primarily Male Cast/Lost Civilization/Swordplay/Guns\nSecond Break Blade movie."
+    },
+    {
+      "id": "kitsu:5048",
+      "type": "movie",
+      "name": "Loups=Garous",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7598.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5048"
+      },
+      "description": "Genres: Mystery, Sci-Fi, Thriller\nTags:Primarily Female Cast/Dystopian/Urban/Kuudere/Werewolf\nIn a near future, the world's population has decreased dramatically due to a deadly virus that terrorized the whole planet. <br><br>\nNow people eat only synthetic food and tend to avoid as much as possible any form of physical connection or \"real contact\" with living creatures. Real shops have disappeared from the streets, and with the exception of the community centres (what were once called schools), people communicate with each others exclusively online. <br><br>\nBut even in this tightly controlled and systematized society, there is a group of young girls who actively pursued real contact. And when a string of brutal murders emerges, their challenge to this closed world is just about to begin.<br><br>\n(Source: Production I.G.)"
+    },
+    {
+      "id": "kitsu:5265",
+      "type": "movie",
+      "name": "Metal Fight Beyblade VS Taiyou: Shakunetsu no Shinryakusha Sol Blaze",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8245.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5265"
+      },
+      "description": "Genres: Adventure, Comedy, Sports\nTags:Primarily Child Cast/Kids/Male Protagonist\nIt's summer vacation. In front of Ginga and Co, who are excited about a Beyblade tournament, Helios, a mysterious youth, stands in their way. In his hands, he possesses \"Sol Blaze\", a Beyblade that has been passed down since ancient times. As intense battle between Ginga vs. Helios unfolds, extreme weather develops throughout the world.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt2555422",
+      "type": "movie",
+      "name": "Akage no Anne: Green Gables e no Michi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8950.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2555422"
+      },
+      "description": "Genres: Adventure, Slice of Life\nTags:Historical/Female Protagonist/Adoption/Orphan/Foreign/Religion/Primarily Child Cast\nThe story covers Annes' arrival at Green Gables, where she has travelled to to live her new live with the Cuthberts after having been in an orphanage for half a year. Anne, an orphan full of character and imagination, already imagines her wonderful new life and how things will turn better in her life from now on. Unexpectedly, when she arrives at Green Gables, she has to learn that there has been made a fatal mistake as the Cuthberts wanted to adopt a young boy of her age instead. Therefore she has to face another difficult point in her life, whether she'll be able to stay in Green Gables or being sent back to the orphanage. Or even worse,  she might be sent to stay at the house of Mrs. Blewett, an elderly, strict and very intimidating woman. For once, will she be able to overcome even more difficulties and find at least a little bit of kindness and happiness?"
+    },
+    {
+      "id": "kitsu:5794",
+      "type": "movie",
+      "name": "Umi kara no Shisha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9566.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5794"
+      },
+      "description": "Genres: Sci-Fi\nTags:Achromatic\nAn independent anime project by Nosferatu.<br><br>\nThe film was screened at the Mini-Cinema Tollywood in Shimo-Kitazawa, Setagaya, Tokyo starting Saturday, August 21, 2010. <br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:5211",
+      "type": "movie",
+      "name": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8141.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5211"
+      },
+      "description": "Genres: Adventure, Comedy, Drama\nTags:\nA Hutch movie."
+    },
+    {
+      "id": "kitsu:5654",
+      "type": "movie",
+      "name": "Duel Masters Movie 3: Honoo no Kizuna XX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9282.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5654"
+      },
+      "description": "Genres: \nTags:Shounen\nThe anime film Duel Masters: Honou no Kizuna XX is the third movie in the franchise.<br><br>\nNew movie based on Card Game Wizards Of The Coast."
+    },
+    {
+      "id": "kitsu:5790",
       "type": "movie",
       "name": "CJ7: The Cartoon",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9558.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1453967"
-      }
+        "defaultVideoId": "kitsu:5790"
+      },
+      "description": "Genres: \nTags:Kids\nCJ7: The Cartoon loosely adopts the original plot of how a father and a son accidentally pick up an alien named CJ7.<br><br>\nBased on Stephen Chow's 2008 hit comedy CJ7, the film has a newly developed storyline in which CJ7 protects the environment and saves the earth."
+    },
+    {
+      "id": "kitsu:5572",
+      "type": "movie",
+      "name": "Anpanman: Blacknose and the Magical Song",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9007-4bkoLC2gxpdi.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5572"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Kids\nnull"
+    },
+    {
+      "id": "kitsu:9612",
+      "type": "movie",
+      "name": "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121835-f8XIMjaSe8bH.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:9612"
+      },
+      "description": "Genres: Fantasy\nTags:Cars/Kids\nnull"
     },
     {
       "id": "tt1785394",
@@ -70,7 +147,8 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8247-VppsQKlgXoXr.png",
       "behaviorHints": {
         "defaultVideoId": "tt1785394"
-      }
+      },
+      "description": "Genres: Action, Comedy, Supernatural\nTags:Shounen/Super Power/Male Protagonist/Henshin/Kuudere/CGI\nBleach: Jigoku-hen is set in Hell and features a fully Hollowfied Ichigo. The movie centers around Ichigo and his friends heading into Hell with the assistance of man named Kokuto to stop the merging of the two realms. However, Kokuto gives Ichigo a warning - he mustn't Hollowfy in Hell, or he will lose control of his body and never be able to return..."
     },
     {
       "id": "tt1754177",
@@ -79,16 +157,438 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8100-ta0O3nZxySqe.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt1754177"
-      }
+      },
+      "description": "Genres: Action, Adventure, Psychological, Sci-Fi\nTags:Cyberpunk/Female Protagonist/Guns/Shapeshifting/Nudity/Revenge/Henshin/Torture/Gambling/CGI\nRune Balot is a down-and-out teen prostitute in Mardock City. One day, she's picked up by an ambitious casino manager named Shell who gives her everything she could want. Renewed by a false innocence, a false past, and now the false life Shell has given her, Balot feels grateful. However, she can't help but be curious about why he's done so much for her, so she does some research about his past on a computer. This turns out to be a mistake which will change her life greatly. When Shell finds out what she's done, he attempts to burn her to death by blowing up her car.<br><br>\nDue to the high crime rate in Mardock, a new law called \"Scramble 09\" has given police carte blanche to take extreme and otherwise illegal measures to revive crime witnesses. With this in mind, they allow a professor to bring Balot back from the brink of death by reassembling her entire body with reinforced synthetic fiber. When she finally wakes up, her confused mental state eventually turns toward revenge as Shell is revealed as her killer. <br><br>\n(Source: Nippon Cinema) "
     },
     {
-      "id": "tt1734113",
+      "id": "tt1726286",
+      "type": "movie",
+      "name": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6288-I4jOmHgNyOvg.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1726286"
+      },
+      "description": "Genres: Action, Mecha, Sci-Fi\nTags:Space/Real Robot/Ensemble Cast/Military/War/Cosmic Horror\nThe year is 2314 AD, two years after Celestial Being's last great battle and the world faces a new crisis. A derelict Jupiter exploration ship, abandoned 130 years ago, has left its orbit and is approaching Earth. The ESF has also begun to exploit the power of Innovators through Descartes Shaman. The world's exposure to GN Particles has resulted in many people awakening as True Innovators. Realizing the military benefits of such individuals, the Earth Sphere Federation has begun to research Innovation and exploit the emerging Innovators' abilities. As Celestial Being and its Gundam Meisters begin their final mission to save humanity from an unimaginable threat, the Extraterrestrial Living-metal Shape-shifters (ELS), Gundam Meister Setsuna F. Seiei is about to discover the true purpose of his evolution as an Innovator and the nature of the \"dialogues\" for which Aeolia Schenberg's plan had prepared the human race.<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": "kitsu:5645",
+      "type": "movie",
+      "name": "Broken Blade 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9252.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5645"
+      },
+      "description": "Genres: Action, Fantasy, Mecha\nTags:Military/Shounen/Real Robot/Magic/War/Guns/Swordplay/Lost Civilization/Primarily Adult Cast/Male Protagonist\nThird Break Blade movie."
+    },
+    {
+      "id": "kitsu:5743",
+      "type": "movie",
+      "name": "Broken Blade 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9465.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5743"
+      },
+      "description": "Genres: Action, Fantasy, Mecha\nTags:Military/Shounen/Real Robot/War/Magic/Guns/Swordplay/Lost Civilization/Primarily Adult Cast/Male Protagonist\nFourth Break Blade Movie."
+    },
+    {
+      "id": "tt1794796",
+      "type": "movie",
+      "name": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9032-lV20OIXWzh0Y.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1794796"
+      },
+      "description": "Genres: Sports\nTags:Super Power/Football/Cute Girls Doing Cute Things\nAn organization in the future sends the specially trained Team Ogre to defeat Endou Mamoru and his team, to prevent him from influencing the world with his soccer.\n<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:5631",
       "type": "movie",
       "name": "Heart and Yummie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9204-3mUQHY46RZp7.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt1734113"
-      }
+        "defaultVideoId": "kitsu:5631"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Dinosaurs/Animals/Kids/Family Life/Found Family/Food/Cultivation\nA Tyrannosaurus called Heart was raised by a herbivorous dinosaur. As he grew up, he was scared by other dinosaurs. One day, Heart meets a baby Ankylosaurus and he names the baby \"Umasou (looks delicious)\". Umasou started to be attached to Heart and a strange family love develops between the two."
+    },
+    {
+      "id": "kitsu:6406",
+      "type": "movie",
+      "name": "Kowarekake no Orgel (Movie)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10918.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:6406"
+      },
+      "description": "Genres: Drama, Music, Sci-Fi, Slice of Life\nTags:Family Life/Amnesia/Robots/Real Robot/Band/Found Family/Artificial Intelligence\nIn 2039, helper androids are widespread as general purpose electronics. <br><br>\nKeiichiro lost his family in a traffic accident and retired from his band. One day, he finds an old model android in a garbage dump. He takes her home but after taking her to a repair shop he was told she couldn't be repaired so he planed to throw her away, but the next day he finds her making breakfast for him. Thus begin the summer days of a memoryless android and a dreamless boy. <br><br>\nKowarekake no Orgel was originally an independent animation released as an OVA. Later on it received a theatrical release that is a bit different and longer than the original. "
+    },
+    {
+      "id": "tt1794963",
+      "type": "movie",
+      "name": "Fafner: Heaven and Earth",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8098-AVGxx4gEfNkI.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1794963"
+      },
+      "description": "Genres: Drama, Mecha, Sci-Fi\nTags:War/Post-Apocalyptic/Philosophy/Robots/Aliens/Ensemble Cast/Military/Kuudere\nA hiveminded alien force reengages war with Tatsumiya Island years after Kazuki led a team of mech pilots to destroy them. In an explosive battle over the fate of humankind, the young warriors risk everything to save their only home from assimilation.<br><br>(Source: Crunchyroll)\n\n"
+    },
+    {
+      "id": "kitsu:5656",
+      "type": "movie",
+      "name": "Heartcatch Precure! Hana no Miyako de Fashion Show... Desu ka!?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9288-KBl1SCRhk7Xn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5656"
+      },
+      "description": "Genres: Action, Drama, Fantasy, Mahou Shoujo\nTags:Kids/Magic/Henshin/Foreign/Primarily Female Cast/Fashion/Revenge/Superhero/CGI/Cute Girls Doing Cute Things/Kuudere\nSakura Kurumi, Erika's mother, is preparing for a fashion show in Paris. The girls of the school's fashion club are going to model there, including some high school students. While in Paris, they meet a mysterious boy named Oliver. However, Baron Salamander of the Desert Apostles appears, and the girls transform into Pretty Cures to defend Paris."
+    },
+    {
+      "id": "kitsu:6831",
+      "type": "movie",
+      "name": "Tsuki no Sango",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12867-W69RpK1X1BdX.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:6831"
+      },
+      "description": "Genres: Drama\nTags:Post-Apocalyptic/Female Protagonist/Advertisement\nThe story takes place in approximately the year 3000, when humankind arrived at the peak of its civilization, but is losing its will to keep living. It follows a girl, called \"princess\" by those around her, who lives on a small island with a fifty-person colony and a shining coral reef. She is a descendant of the Moon people, and the story focuses on how her ancestors supposedly came to Earth. "
+    },
+    {
+      "id": "kitsu:5876",
+      "type": "movie",
+      "name": "Mr. Dough and the Egg Princess",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9798-XeVYGkub0oFT.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5876"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:\nA short film only screened at the Ghibli Museum in Mitaka. The story unfolds under the spell of Joe Hisaishi's arrangement of Antonio Vivaldi's <i>La Folia.</i> <br><br>\n\nIn a lonesome water mill deep in a forest of briers and brambles lives a witch named Baba Yaga. There the witch keeps her servant the Egg Princess confined and forces the tiny egg-girl to do all the hard daily chores around the mill. One night, a large batch of kneaded dough resting in a trough suddenly comes to life from the witch's spell. Fearful of the witch, the Egg Princess and her new friend decide to run away. What will lay ahead for the two of them...?<br><br>\n(Source: Ghibli Museum)"
+    },
+    {
+      "id": "tt1730183",
+      "type": "movie",
+      "name": "Anime Tenchou Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9861.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1730183"
+      },
+      "description": "Genres: Action\nTags:Parody/Josei\nA project made to celebrate the 10th anniversary of the Animate mascot character Anime Tenchou, screened at the Animate Ichioshi Bishoujo Matsuri event in Tokyo.<br>"
+    },
+    {
+      "id": "kitsu:11453",
+      "type": "movie",
+      "name": "Wake up!! TAMALA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98208-JqpxOWZGZLQL.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:11453"
+      },
+      "description": "Genres: Fantasy, Psychological\nTags:Animals/Environmental/Post-Apocalyptic/Kids/Denpa\nIn 2050, the world climate has changed awfully. One rainy day,TAMALA saved a honeybee from drowning in the street gutter. His name was Kuronosuke, the last bee of the cat world and he invited TAMALA to the magical journey retrograding time and toward the near future. It's the huge panorama of biodiversity of the animals and plants in the earth history. However; the modern era coming, the civilization has been wasting and destroying the nature. Finally they were roving around the wild land where all the animals had become extinct. When TAMALA had little time to live without any foods finally, Kuronosuke made an offer to eat him for her to survive.<br><br>\n\n(Source: Youtube)"
+    },
+    {
+      "id": "kitsu:5687",
+      "type": "movie",
+      "name": "Cheburashka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9340.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5687"
+      },
+      "description": "Genres: Comedy\nTags:Stop Motion\nThe stop-motion animated film based on Russia's Cheburashka character. "
+    },
+    {
+      "id": "kitsu:5774",
+      "type": "movie",
+      "name": "Junod",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9525.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5774"
+      },
+      "description": "Genres: Drama\nTags:Historical/Biographical/Educational/Medicine/Non-fiction\nMii and Yuko, two junior high school students are visiting Hiroshima Peace Memorial Park on a school trip when they come upon a monument dedicated to Dr. Marcel Junod standing forlornly in a corner of the park. They wonder who Dr. Junod was and what he did. Just then they are bathed in a strange light and transported back to Europe, more than 70 years before.<br><br>\nIt is 1935. The young Dr. Junod, who has been working in a hospital in Mulhouse, France, is heading to Ethiopia as a delegate of the ICRC. Time travelers Mii and Yuko set off along Dr. Junod's path of hardship and turmoil. In Ethiopia, Dr. Junod witnesses attacks on Red Cross workers and the use of poison gas. One after another people are felled. The young doctor sees firsthand the horrors of war, but buoyed by an indomitable spirit he willingly offers a helping hand to those who are suffering as a result of the war.<br><br>\nDr. Junod's work takes him from Ethiopia to Spain and across the European battlefields of World War II. He works to improve the treatment of prisoners of war and arranges prisoner exchanges. He establishes a method for prisoners and their families to write to each other. He secures routes for the delivery of relief supplies. As a humanitarian, Dr. Junod offers moral support to the weak. Seeing that, Mii and Yuko reflect on their own lives and problems.<br><br>\n(Source: official website)"
+    },
+    {
+      "id": "kitsu:8214",
+      "type": "movie",
+      "name": "Straight into the Universe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20507.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:8214"
+      },
+      "description": "Genres: Fantasy, Mystery, Sci-Fi\nTags:Space\nCan you share the yearning for space? An astronomy boy has grown up into an artist painting the universe, the world of Greek myths including the zodiac, and a variety of scenes with starry sky. The fulldome screen projects his fantastic CG movies. You will also see a live-action movie of the total solar eclipse in 2003 which was observed for the first time in human history in Antarctica. Receive a message from the artist, KAGAYA - \"Enjoy science and art.\" \"Chase your dreams!\"\r\n\r\n(Source: KAGAYA Studio)"
+    },
+    {
+      "id": "kitsu:5874",
+      "type": "movie",
+      "name": "Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku♪Haha Dai Bousou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9796.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5874"
+      },
+      "description": "Genres: Comedy\nTags:\nA 3D theatrical anime adaptation."
+    },
+    {
+      "id": "kitsu:6798",
+      "type": "movie",
+      "name": "Loups=Garous Pilot",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12723.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:6798"
+      },
+      "description": "Genres: Mystery, Sci-Fi, Thriller\nTags:Kuudere\nPilot film included with the DVD release."
+    },
+    {
+      "id": "kitsu:5360",
+      "type": "movie",
+      "name": "Mahou Tsukai Haley no Speed Story",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8495.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5360"
+      },
+      "description": "Genres: Fantasy\nTags:Kids/Magic\nA scientific animation and the second project of Anime Innovation Tokyo, THINK Corporation and Tokyo Metropolitan Government's investment initiative to sponsor animation works by independant animators or small studios<br><br>\nWhat would be your guess of the world's fastest moving transport?<br><br>\nHaley is a student at the school of wizardry, doing nothing but racing with his friends on flying broomsticks. One day, Haley's teacher unveils one of his latest inventions - magic goggles that measure the speed of moving objects, simply by wearing them. He has Haley and his friends use these goggles and compete against each other to decide who will measure the fastest speed of any surrounding animal. Peter, frustrated after losing against Haley, challenges him to another match and the two head toward the human world, taking with them an advanced magic broomstick their teacher had developed. Although this broomstick was incomplete, Haley and Peter succeed in flying around the human world to discover the fastest moving object. Now, what do you suppose this could be...?!<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "kitsu:5686",
+      "type": "movie",
+      "name": "Kuma no Gakkou: Jackie to Katie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9339.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5686"
+      },
+      "description": "Genres: Comedy\nTags:Kids\nThe story follows 12 bear cubs living in a dormitory on the top of a mountain.<br><br>\n(Source: AniDB)"
+    },
+    {
+      "id": "tt1572781",
+      "type": "movie",
+      "name": "The Disappearance of Haruhi Suzumiya",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7311-2Qu6rQgl7Aqi.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1572781"
+      },
+      "description": "Genres: Drama, Mystery, Sci-Fi, Supernatural\nTags:Memory Manipulation/Philosophy/Kuudere/Primarily Teen Cast/Male Protagonist/Coming of Age/Urban Fantasy/School/Aliens/School Club/Gods/Tsundere\nIt is mid-December, and SOS Brigade chief Haruhi Suzumiya announces that the Brigade is going to hold a Christmas party in their clubroom, with Japanese hotpot for dinner. The brigade members Kyon, Yuki Nagato, Mikuru Asahina and Itsuki Koizumi start preparing everything for the party, such as costumes and decorations. But a couple of days later, Kyon arrives at school only to find that Haruhi is missing. Not only that, but Mikuru claims she has never known Kyon before, Koizumi is also missing, and Yuki has become the sole member of the literature club. The SOS Brigade seems to have never existed, nor has Haruhi Suzumiya. No one in the school has ever heard about her... except for Kyon.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt1587156",
+      "type": "movie",
+      "name": "Fate/stay night: Unlimited Blade Works (Movie)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6922-g3hsIYOWGXL8.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1587156"
+      },
+      "description": "Genres: Action, Drama, Fantasy, Supernatural\nTags:Magic/Swordplay/Superhero/Super Power/Witch/Male Protagonist/Urban Fantasy/Female Protagonist/Archery/Mythology/Urban/Philosophy/Kuudere/Tsundere\nThis is the adaptation of the 2nd route of the popular visual novel: Fate/Stay Night. In this route, Tohsaka Rin will be the major female character. Revelations about Shirou and his destiny will be made.<br><br>\r\n(Source: AnimeNfo)"
+    },
+    {
+      "id": "kitsu:4802",
+      "type": "movie",
+      "name": "Yu-Gi-Oh! 3D: Bonds Beyond Time",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6951-v1SyAUSXOJXD.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:4802"
+      },
+      "description": "Genres: Adventure\nTags:Card Battle/Urban Fantasy/Cyberpunk/Crossover/Male Protagonist/Motorcycles/Shounen/Primarily Male Cast\nWhile riding with Jack Atlas and Crow Hogan, Yusei Fudos's Stardust Dragon is captured by Paradox, a mysterious Turbo Duelist from the future, during a Turbo Duel and turned into a Sin Monster. With the help of the Crimson Dragon, Yusei chases after Paradox as he enters a time slip, ending up in the past. During this time, Paradox duels against Jaden Yuki, who is still able to use the powers of Yubel and The Supreme King. However, by this time Paradox had also captured Cyber End Dragon and Rainbow Dragon and overwhelms Jaden. He is saved thanks to Yusei and the Crimson Dragon. Jaden informs Yusei of Paradox's true intentions. By stealing various monsters from across time and turning them dark, he plans to kill Maximillion Pegasus, the creator of Duel Monsters, preventing the game from being created and causing the events of all three series to never happen. Yusei and Jaden agree to pursue Paradox, which leads them to the past and causes a meeting with the King of Games, Yugi Mutou. However, by the time Yusei &amp; Jaden arrive, Paradox had already attacked his time, supposedly killing both Pegasus and Yugi's grandpa, and had also managed to steal Blue-Eyes White Dragon and Red-Eyes Black Dragon. After explaining everything to Yugi, he agrees to fight with Yusei and Jaden against Paradox in the ultimate three-on-one duel to free the trapped monsters and save both the world and time itself before it's too late.<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": "kitsu:3874",
+      "type": "movie",
+      "name": "Magical Girl Lyrical Nanoha: The Movie 1st",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4985-3eEPbpZiMWKB.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:3874"
+      },
+      "description": "Genres: Action, Drama, Fantasy, Mahou Shoujo, Sci-Fi\nTags:Magic/Primarily Female Cast/Female Protagonist/Primarily Child Cast/Super Power/Urban Fantasy/Henshin/Kuudere/Kemonomimi\nThe movie is based on the first season's story but features new battle animations and a new transformation sequence."
+    },
+    {
+      "id": "tt1679681",
+      "type": "movie",
+      "name": "Welcome to THE SPACE SHOW",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8115-qrLeUTMHOxiQ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1679681"
+      },
+      "description": "Genres: Adventure, Fantasy, Sci-Fi\nTags:Space/Aliens/Primarily Child Cast/Rural/Kids\nA tiny mountain village in a remote woodland region. Five primary school kids have come together in this idyllic spot in order to spend their summer holidays at a camp. At first the children enjoy carefree days amidst unspoiled nature far away from adult supervision. But their life changes dramatically when they come across what they believe to be a small dog, badly in need of help. The creature &ndash; known as Pochi &ndash; turns out not to be a dog at all but an alien on an important mission. <br><br>\nIt seems there is a mysterious substance on earth that is coveted throughout the universe. Pochi had almost found it but was so badly injured during a fight that he had to give up his search. Thanks to the children's help, the alien survives &ndash; and decides to reward them generously. &ldquo;Where would you most like to travel?&rdquo; is the question Pochi puts to his rescuers. Their answer is prompt, if vague: <br>\n&ldquo;As far as possible!&rdquo; Pochi suggests they try the moon first of all, and so, the alien whisks away the kids to the satellite next door. This marks the beginning of an absolutely amazing adventure. <br><br>\nDuring the course of their travels they discover that the substance coveted throughout the universe is in fact also integral to Japanese cuisine &ndash; and it just so happens that one of the kids has some of this mysterious substance in his pocket.<br><br>\n(Source: Berlinale.de)"
+    },
+    {
+      "id": "kitsu:5208",
+      "type": "movie",
+      "name": "Sergeant Keroro: The Super Duper Movie 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8134-mXWFfToczIbd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5208"
+      },
+      "description": "Genres: Comedy\nTags:Aliens/Shounen/Kuudere\nOne day, a stone carving bearing an uncanny likeness to Keroro  arrives at Fuyumi's place. To solve this mystery, the Keroro Squad travels to the isolated and mysterious Easter Island. There, they meet harmless spirits known as Mana, and the odd twins Io and Rana. Lastly, there is Akuaku, a legendary evil spirit recently awoken from its long sleep. <br><br>\n(Source: AniDB) "
+    },
+    {
+      "id": "kitsu:5409",
+      "type": "movie",
+      "name": "A Sumo Wrestler's Tail",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8632-wbS7P2vHB1Wp.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5409"
+      },
+      "description": "Genres: Comedy\nTags:Animals\nA short film only screened at the Ghibli Museum in Mitaka. This story is based on a Japanese folk tale \"The Mice's Sumo Tournament\".<br><br>\nOnce upon a time, deep in the mountains, there lived an old couple who worked day after day in exhaustion, toiling up and down the mountain field. One night, the old man stepped outside and noticed a group of mice headed somewhere. He quietly follows them to find mice gathered for a sumo tournament. When the old man and his wife learn that their home mice are always losing, they start preparing a special feast of saury fish dumplings and grilled tofu with miso sauce. They even make new red sumo uniforms for their mice team. What will happen in the next sumo games?\n<br> <br>\n(Source: Ghibli Museum)"
+    },
+    {
+      "id": "kitsu:5206",
+      "type": "movie",
+      "name": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8132.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5206"
+      },
+      "description": "Genres: Action, Mecha\nTags:\nA Romance of the Three Kingdoms retelling using SD Gundams."
+    },
+    {
+      "id": "kitsu:5306",
+      "type": "movie",
+      "name": "Himitsukessha Taka no Tsume THE MOVIE 3: http://takanotsume.jp wa Eien ni",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8357.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5306"
+      },
+      "description": "Genres: Comedy\nTags:Parody/Super Power\nThe third Eagle Talon movie."
+    },
+    {
+      "id": "kitsu:5974",
+      "type": "movie",
+      "name": "Pleasant Goat and Big Big Wolf: The Tiger Prowess",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9973.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5974"
+      },
+      "description": "Genres: Adventure, Comedy\nTags:Kids\nCrafty Gecko and General Tiger attack the Goat Village with plans to build an amusement park. Even worse, they intend to turn the castle of Wolfie (Grey Wolf) and his wife, Wolnie (Red Wolf) into a public toilet! To save their captured families from the fierce animal gang and robot soldiers, Weslie (Pleasant Goat) and Wolfie must work together to find the legendary statues that protected their ancestors. Can they beat the villains and become friends?<br><br>\n(Source: Wikipedia)"
+    },
+    {
+      "id": "kitsu:6983",
+      "type": "movie",
+      "name": "Tumulus Gal Coffy ~Cofunderella~",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13511.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:6983"
+      },
+      "description": "Genres: Comedy\nTags:\nThe Frogman Company presents, a Tumulus Cinderella Story! Once upon a time, a gentle girl named Coffy lived a life of misery, being treated like trash by her sister-by-law Daniel and her family. Coffy was not allowed to go to the dance party where Prince Charles would choose his bride, but... "
+    },
+    {
+      "id": "tt1636780",
+      "type": "movie",
+      "name": "Gintama - The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7472-RveDgQsIZUNG.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1636780"
+      },
+      "description": "Genres: Action, Comedy, Sci-Fi\nTags:Swordplay/Shounen/Primarily Male Cast/Meta/Anachronism/Parody/Male Protagonist/Pirates/Historical/Samurai/Ninja/Ensemble Cast/Kuudere\nOdd Jobs Gin has taken on a lot of odd work in the past, and when you're a Jack of All Trades agency based in a feudal Japan that's been conquered and colonized by aliens, the term \"Odd Jobs\" means REALLY ODD jobs. But when some more than slightly suspicious secrets from the shadows of Gintoki Sakata's somewhat shady former samurai past and a new pair of odd jobs collide, the action is bound to get so wild and demented that only a feature film will do it justice! <br><br>\n(Source: Sentai Filmworks) "
+    },
+    {
+      "id": "kitsu:4646",
+      "type": "movie",
+      "name": "Eden of The East the Movie II: Paradise Lost",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6637-26qRqL3enXYB.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:4646"
+      },
+      "description": "Genres: Action, Comedy, Drama, Mystery, Romance\nTags:Politics/Conspiracy/Urban/Police/Heterosexual/Battle Royale/Primarily Adult Cast/Artificial Intelligence/Terrorism/Memory Manipulation/Crime\nThe story of political and subversive intrigue in the series finally reaches endgame. Even as the law enforcement net tightens around Saki and her fellow Eden of the East associates over alleged terrorist activities, the complex web surrounding the mysterious Mr. Outside is finally untangled as the remaining Selecao attempt to outmaneuver one another. Takizawa's memories and identity are also finally revealed including his association with a former Prime Minister and his request to be the King of Eden.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt1715210",
+      "type": "movie",
+      "name": "Time of Eve: The Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7465-gBh82FNppI9h.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt1715210"
+      },
+      "description": "Genres: Sci-Fi, Slice of Life\nTags:Robots/Artificial Intelligence/Bar/Philosophy/CGI\nThe movie version is the complete version of the story. It includes all the OVAs and completely new scenes giving details on the background story of some characters.<br><br>\nSometime in future Japan, androids have been involved in every aspect of peoples lives. One day, upon checking his android's behavioral log, Rikuo, a student, noticed his android's returning times have been odd recently. With his friend Masaki, they found out the place where his android, Sammy, have been visiting: a small cafe called Eve no Jikan where androids and human are not seen as different. Upon talking with the \"people\" in the cafe and discovering more of Sammy's behavior, Rikuo changed his view about androids and treat them as friends rather than tools. At the same time, elsewhere in Japan, the Ethics committee is trying to impose policies to reduce the involvement and use of androids in society.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt1703049",
+      "type": "movie",
+      "name": "Trigun: Badlands Rumble",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4106-hkczeGBjOzI6.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1703049"
+      },
+      "description": "Genres: Action, Comedy, Sci-Fi\nTags:Male Protagonist/Fugitive/Revenge/Primarily Adult Cast/Guns/Crime/Desert/CGI\nIn town surrounded by quicksand, an outlaw from Vash the Stampede's past has resurfaced after twenty years. His name is Gasback - and he's looking to cause a little trouble. It seems Gasback has a serious beef with the town's mayor, who's paying dozens of bounty hunters to protect his turf.<br>\n<br>\nOne of those hired guns is a beautiful woman with a vendetta against Gasback. Will she get a shot at revenge? Maybe, if she can get through Gasback's bodyguard, Wolfwood. And what's Vash got to do with this mess? Nothing much - except for the fact that he personally set off the entire chain of events two decades ago!<br>\n<br>\n(Source: Funimation)"
+    },
+    {
+      "id": "kitsu:4708",
+      "type": "movie",
+      "name": "Broken Blade",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6772.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:4708"
+      },
+      "description": "Genres: Action, Fantasy, Mecha\nTags:Military/Real Robot/War/Shounen/Magic/Primarily Adult Cast/Male Protagonist/Lost Civilization/Primarily Male Cast/Swordplay/Guns/CGI\nIn the continent of Cruzon, an impending war between the Kingdom of Krisna and the nation of Athens is brimming. The people of this land are able to use quartz for whatever purpose they desire. Yet one person, Rygart Arrow, is not. He is an \"un-sorcerer,\" a person unable to use quartz. But this characteristic will enable him to pilot an ancient Golem, one strong enough to put up a fight against the invading army of Athens."
+    },
+    {
+      "id": "tt1181795",
+      "type": "movie",
+      "name": "Bungaku Shoujo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6408-UsXM2RcYTCZd.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1181795"
+      },
+      "description": "Genres: Drama, Mystery, Psychological, Romance\nTags:Classic Literature/School Club/Coming of Age/School/Male Protagonist\nThe protagonist of the story, Konoha Inoue, is a seemingly normal senior high 2nd year student. His high school life, other than a hinted incident 2 years ago, can be summed up as normal- if one can dismiss the secret fact that he used to be a female bestselling romance author. Due to that incident, however, he has now vowed never to write again.<br><br>\nThis continued on until he was forced to join the literary club by the literary club president, the 3rd year female student Amano Touko, a beautiful girl who has a taste for eating literary works. Now he has been tasked with writing her snack every day after school.<br><br>\n(Source: To Say Nothing of the Dog) "
+    },
+    {
+      "id": "tt1636815",
+      "type": "movie",
+      "name": "Case Closed: The Lost Ship in the Sky",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6467-P24FJYtNRpyE.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1636815"
+      },
+      "description": "Genres: Action, Mystery\nTags:Shounen/Detective/Police/Male Protagonist/Crossover/Terrorism/Age Regression/Tanned Skin\nThe fourteenth movies in the series, The Lost Ship in the Sky, will be released on April 17, 2010. In the film's story, Kid has his eyes set on the \"Lady of the Sky\" jewel aboard Bell 3, the largest airship in the world. However, a mysterious terrorist gorup called Red Shamu-neko [Red Siamese Cat] has hijacked the airship itself, along with Conan and his allies Kogoro and Ran.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt2653882",
+      "type": "movie",
+      "name": "Hetalia Axis Powers: Paint it, White!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7337-qorkho8BDAo5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt2653882"
+      },
+      "description": "Genres: Comedy\nTags:Aliens/Parody/Historical/Foreign/Cute Boys Doing Cute Things\nThe movie involves a mysterious force causing unusual incidents to happen all over the world, and the nations having to try to ward off the threat of human extinction from the alien race known as Pict, who seek to transform mankind and drain the color from the world (with America deciding that the world will be saved under his command).<br><br>\r\n(Source: WikiHetalia)"
+    },
+    {
+      "id": "kitsu:5207",
+      "type": "movie",
+      "name": "Precure All Stars DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8133-XlBoDplQefLt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5207"
+      },
+      "description": "Genres: Action, Comedy, Fantasy, Mahou Shoujo\nTags:Crossover/Primarily Female Cast/Henshin/Superhero/Magic/Kids/CGI/Cute Girls Doing Cute Things\nTsubomi Hanasaki is woken by her best friend Erika Kurumi only to find out that their two fairies, Coffret and Shypre, have left just leaving a note explaining where to find them. Fairy Park is not only the destination of both girls, it is also the meeting point of all other Precures who planned to spend this special day together. This magical theme park holds the Rainbow Jewel, a special gem that represents all of the hopes and dreams of the world. Such a powerful stone is the object of desire of a malefic entity named Bottom who has waited one thousand years for the opportunity to possess it."
+    },
+    {
+      "id": "kitsu:5318",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8369.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5318"
+      },
+      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:Family Life/Real Robot/School/Seinen\nFrom a bleak future, Shinnosuke Nohara sends a girl named Tamiko on a mission to bring his five-year-old self to that time period right before being captured. Reaching the past, she claims to be Shin-chan's bride and takes him and his friends on a wild adventure to try to save the world to come.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:4824",
+      "type": "movie",
+      "name": "Doraemon: Nobita's Great Mermaid Naval Battle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6988-K1aNb0ZgVoO2.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:4824"
+      },
+      "description": "Genres: Comedy\nTags:Kids/Mermaid\nNobita asks Doraemon to take him somewhere they can dive and as a result the robot-cat uses several gadgets to make it possible for both to able to swim on an imaginary ocean above sea level. Inadvertently a mermaid ends up on Nobita's backyard when they turn off the illusion. Her name is Sophia and she is a princess of an ancient underwater civilization. Doraemon, Nobita, Shizuka, Jyaian, and Suneo quickly become her friends and are invited to visit her homeland. While heading towards the underwater kingdom they find themselves amid a conflict between the mermaids and an opposing tribe that has driven them away from their home planet thousands of years ago. Doraemon, Nobita, and their friends must then aid Sophia find a legendary sword that might bring peace once again to the seas.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "kitsu:5284",
+      "type": "movie",
+      "name": "Planzet",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8297.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5284"
+      },
+      "description": "Genres: Action, Mecha, Sci-Fi\nTags:Aliens/Military/Full CGI\nIn 2047, an unknown, alien life-form descends upon the Earth, destroying all the major cities in one fell swoop. The survivors unite and build a Diffusor to stop the Februus, the invaders the military would later codename the FOS, and a temporary peace is achieved. Jump forward to 2053, the present. PLANZET: The final plan, Plan Zed, to retake Planet Earth. A last, desperate counterattack against the enemy. Hiroshi Akishima, soldier in the Planetary Defense Forces Alliance, would like nothing better than a shot at the aliens responsible for his father's death six years ago. However, the new offensive requires the Diffusor to be dropped, leaving the entire planet terribly vulnerable once more. Will humanity regain the stars or lose everything in the final, ultimate gamble? <br><br>\n(Source: Sentai Filmworks) "
+    },
+    {
+      "id": "kitsu:5263",
+      "type": "movie",
+      "name": "Mizuki Shigeru no Toono Monogatari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8243.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:5263"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:\nAn anime movie based on Mizuki Shigeru's manga <em>Mizuki Shigeru no Toono Monogatari</em>.  Toono Monogatari was originally the Japanese folklorist Yanagida Kunio's classical literature based on the oral traditions of Toono city. It's about Yokai such as Tengu, Kappa, and Zashikiwarashi. "
     }
   ]
 }

@@ -91,9 +91,17 @@ export function query(year: number, season: Season, sorting: Sorting, format: Ti
     return `query {
         Page(perPage: 50, page: 1) {
           media(seasonYear:${year}, season:${season}, sort:${sorting}, type:ANIME, ${formatFilter}) {
+            id
+            idMal
+            genres
             title {
               romaji
               english
+            }
+            tags {
+              name
+              isMediaSpoiler
+              isGeneralSpoiler
             }
             description
             seasonYear

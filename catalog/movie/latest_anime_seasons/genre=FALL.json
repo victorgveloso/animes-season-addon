@@ -1,94 +1,134 @@
 {
   "metas": [
     {
-      "id": "tt26684398",
+      "id": "tt13706018",
       "type": "movie",
       "name": "SPY x FAMILY CODE: White ",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158928-GOKy49FY46vg.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt26684398"
-      }
+        "defaultVideoId": "tt13706018"
+      },
+      "description": "Genres: Action, Adventure, Comedy, Slice of Life, Supernatural\nTags:Family Life/Espionage/Assassins\n"
     },
     {
-      "id": "tt26315255",
+      "id": "tt7326322",
+      "type": "movie",
+      "name": "Mahoutsukai no Yoru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143103-RNCq74dEnBM0.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt7326322"
+      },
+      "description": "Genres: Action, Drama, Fantasy\nTags:Magic/Urban Fantasy/Kuudere/Female Protagonist/Witch/Fairy Tale/Ensemble Cast/Werewolf/Robots\nNear the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it.<br>\n<br>\nMysterious intruders have been disrupting the bounded field in Misaki, leading Alice and Aoko to investigate. A mannequin or puppet attacks them and is incinerated. As this happens, both of them spot someone running away, a civilian who must not get away having seen magic alive.<br>\n<br>\nUnexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and comes to reside with them as well."
+    },
+    {
+      "id": "tt2294076",
       "type": "movie",
       "name": "Girls und Panzer: Saishuushou 4",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132420-kF35jIINUzrE.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt26315255"
-      }
+        "defaultVideoId": "tt2294076"
+      },
+      "description": "Genres: Action, Sports\nTags:Primarily Teen Cast/Tanks/Military/Primarily Female Cast\nThe fourth film in the six-part Girls und Panzer: Saishuushou film series."
     },
     {
-      "id": "tt23951384",
+      "id": "tt2662790",
       "type": "movie",
       "name": "Kimi no Iro",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158166-Wpw6sHdj29Ya.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt23951384"
-      }
+        "defaultVideoId": "tt2662790"
+      },
+      "description": "Genres: Music\nTags:\nTotsuko is a high-school student who attends a Christian Academy in Nagasaki and can see the hearts of people as colors. Whether they’re happy colors, sad colors, peaceful colors, frightened colors... In order to not darken her friend's and family's “colors,” Totsuko is careful to read the room and stretches the truth to keep them all brightly colored. Totsuko then meets a beautiful girl who radiates very striking colors and a boy who loves music in a used bookstore in the corner of town. The three come together and form a band to make the music of their adolescence.<br>\n<br>\n(Source: Crunchyroll, edited)"
     },
     {
-      "id": "tt16369708",
+      "id": "tt3199286",
       "type": "movie",
       "name": "The Imaginary",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142494-VOhyizFWRrAM.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt16369708"
-      }
+        "defaultVideoId": "tt3199286"
+      },
+      "description": "Genres: Fantasy\nTags:\nBorn from a young girl’s imagination, Rudger is a boy no one can see who lives in a world where imaginations can live and be eaten by others. <i>The Imaginary</i> is an extraordinarily touching and beautiful hand-drawn fantasy film in which Rudger and his new friends in “The Imaginaries Town” embark on an adventure no one can see at the risk of the futures and fates of those they love.<br>\n<br>\n(Source: Studio Ponoc)"
     },
     {
-      "id": "tt27626792",
+      "id": "kitsu:4866",
       "type": "movie",
       "name": "Komada - A Whisky Family",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164293-ZewcTcHWGS29.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt27626792"
-      }
+        "defaultVideoId": "kitsu:4866"
+      },
+      "description": "Genres: \nTags:\nKoutarou, a novice editor for a web news, visits Komada Distillery for a project on Japanese craft whisky. Led by a young female president Rui who recently took over the family business, the distillery works hard to reproduce its signature whisky KOMA they had to stop making years ago. KOMA was a brand that Rui’s grandfather and father had lovingly preserved and a symbol of happiness for all. However, not to mention financial backing, too many clues are missing to revive the whisky once lost. Rui, Koutarou, and the distillery supporters pull together every thread to bring back the whisky filled with family memories.<br>\n<br>\n(Source: GAGA International)"
     },
     {
-      "id": "tt16270512",
+      "id": "kitsu:45534",
       "type": "movie",
       "name": "Kitarou Tanjou: Gegege no Nazo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130622-sNFjHqDSscc4.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt16270512"
-      }
+        "defaultVideoId": "kitsu:45534"
+      },
+      "description": "Genres: Comedy, Supernatural\nTags:\nnull"
     },
     {
-      "id": "tt28055106",
+      "id": "tt17221100",
       "type": "movie",
       "name": "Kaina of the Great Snow Sea: Star Sage",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159886-dV4gugSsKsXU.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt28055106"
-      }
+        "defaultVideoId": "tt17221100"
+      },
+      "description": "Genres: Drama, Fantasy\nTags:\nnull"
     },
     {
-      "id": "tt22474136",
+      "id": "kitsu:44947",
       "type": "movie",
       "name": "Digimon Adventure 02 THE BEGINNING",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137310-qNfVFVDY6SDk.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt22474136"
-      }
+        "defaultVideoId": "kitsu:44947"
+      },
+      "description": "Genres: \nTags:Kids\nA new Digimon Adventure 02 movie telling the story of the first person to ever partner with a Digimon.\n"
     },
     {
-      "id": "tt27187061",
+      "id": "kitsu:47354",
+      "type": "movie",
+      "name": "Hokkyoku Hyakkaten no Concierge-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164226-OL6ZFw5jdjAZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:47354"
+      },
+      "description": "Genres: Fantasy\nTags:Female Protagonist/Seinen\nAll customers are animals. Story of a mysterious department store!\n<br><br>\nThe story is set in a mysterious department store where all customers who come are animals.\nOur heroine is Akino (a human girl) who works as a new concierge. Every time in front of her an animal customer of an \"extinct species\" appears.\n<br><br>\n(Source: Shogakukan)"
+    },
+    {
+      "id": "kitsu:13076",
       "type": "movie",
       "name": "Precure All Stars F",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159429-1PIrdKbEH9LR.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt27187061"
-      }
+        "defaultVideoId": "kitsu:13076"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Henshin/Crossover/Primarily Female Cast\nA movie celebrating the 20th anniversary of the Precure franchise, featuring characters from all 20 series so far!"
     },
     {
-      "id": "tt17164334",
+      "id": "kitsu:47287",
       "type": "movie",
       "name": "Pole Princess!! Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163363-67NlqPZMUxf1.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt17164334"
-      }
+        "defaultVideoId": "kitsu:47287"
+      },
+      "description": "Genres: Slice of Life, Sports\nTags:Dancing/Primarily Female Cast/Female Protagonist\nnull"
+    },
+    {
+      "id": "kitsu:47224",
+      "type": "movie",
+      "name": "Madogiwa no Totto-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162904-duWmU34yIjOs.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:47224"
+      },
+      "description": "Genres: \nTags:Autobiographical\n\n\nThis engaging series of childhood recollections tells about an ideal school in Tokyo during World War II that combined learning with fun, freedom, and love. This unusual school had old railroad cars for classrooms, and it was run by an extraordinary man-its founder and headmaster, Sosaku Kobayashi--who was a firm believer in freedom of expression and activity.\n<br><br>\nIn real life, the Totto-chan of the book has become one of Japan's most popular television personalities--Tetsuko Kuroyanagi. She attributes her success in life to this wonderful school and its headmaster.\n<br><br>\nThe charm of this account has won the hearts of millions of people of all ages and made this book a runaway bestseller in Japan, with sales hitting the 4.5 million mark in its first year.<br><br>\n(Source: Kodansha)"
     }
   ]
 }
