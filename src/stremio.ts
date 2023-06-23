@@ -8,7 +8,7 @@ export type Meta = {
     type: TitleType;
     name: string;
     poster: string;
-    behaviorHints: {
+    behaviorHints?: {
         defaultVideoId: string;
     }
 }
@@ -51,7 +51,13 @@ export class Catalog {
                 id = await fromAnilist.resolveKitsu();
             }
             const poster = anime.coverImage.extraLarge ?? anime.coverImage.large ?? anime.coverImage.medium ?? anime.bannerImage;
-            this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}, description} as Meta);
+            switch (type) {
+                case "movie":
+                    this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}, description} as Meta);
+                    break;
+                default:
+                    this.addMeta({id,type,name:originalName,poster, description} as Meta);
+            }
         }
     }
 }
