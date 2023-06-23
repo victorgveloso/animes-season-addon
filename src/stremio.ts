@@ -194,7 +194,7 @@ export class Manifest implements AbstractManifest {
     }
     private static dateToYears(today: Date) : string[] {
         const years = []
-        for (let y = 2001; y < today.getFullYear(); y++) {
+        for (let y = today.getFullYear() - 1; y >= 2001; y--) {
             years.push(y.toString());
         }
         return years
