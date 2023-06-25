@@ -68,7 +68,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt19861160"
       },
-      "description": "Genres: Action, Adventure, Drama, Fantasy, Mahou Shoujo, Romance\nTags:Urban Fantasy/Space/Aliens/Found Family/War/Coming of Age/Shoujo/Henshin/Primarily Female Cast/Magic/Cosmic Horror/Philosophy/School/School Club/Astronomy/Crossdressing/Demons/Female Protagonist/LGBTQ+ Themes/Bisexual/Mythology/Superhero\nUsagi Tsukino and her friends are living peaceful lives as ordinary high school students. Mamoru Chiba, Usagi's boyfriend, is headed to America to study abroad. At the airport, after Mamoru proposes to Usagi, he is then mysteriously extinguished by someone's hand. Unable to accept Mamoru's disppearance, Usagi hides her memory of that event. Meanwhile, Shadow Galactica, led by Sailor Galaxia, as well as Sailor Starlights appear in front of Usagi. Without knowing whether Sailor Starlights are allies or enemies, the Sailor Guardians are robbed of their Sailor Crystals, the source of their power, by almighty Sailor Galaxia, and are killed by one after another. In a hopeless situation, Usagi, as Eternal Sailor Moon, challenges Sailor Galaxia for the final battle."
+      "description": "Genres: Action, Adventure, Drama, Fantasy, Mahou Shoujo, Romance\nTags:Urban Fantasy/Space/Aliens/Found Family/War/Coming of Age/Shoujo/Henshin/Primarily Female Cast/Magic/Cosmic Horror/Philosophy/Mythology/School/School Club/Astronomy/Crossdressing/Female Protagonist/Demons/LGBTQ+ Themes/Bisexual/Superhero\nUsagi Tsukino and her friends are living peaceful lives as ordinary high school students. Mamoru Chiba, Usagi's boyfriend, is headed to America to study abroad. At the airport, after Mamoru proposes to Usagi, he is then mysteriously extinguished by someone's hand. Unable to accept Mamoru's disppearance, Usagi hides her memory of that event. Meanwhile, Shadow Galactica, led by Sailor Galaxia, as well as Sailor Starlights appear in front of Usagi. Without knowing whether Sailor Starlights are allies or enemies, the Sailor Guardians are robbed of their Sailor Crystals, the source of their power, by almighty Sailor Galaxia, and are killed by one after another. In a hopeless situation, Usagi, as Eternal Sailor Moon, challenges Sailor Galaxia for the final battle."
     },
     {
       "id": "tt1216159",
@@ -81,16 +81,6 @@
       "description": "Genres: Fantasy, Horror, Mystery\nTags:\nOn their way home from high school, Tamahi and some classmates are shocked as they witness someone fall from the rooftop of nearby apartment. Panicked and confused, they rush to the building only to find it deserted. As Tamahi wonders about this, she has the uneasy feeling they are being watched. What is the strange presence around her…<br><br>(Source: HIDIVE)"
     },
     {
-      "id": "tt5100366",
-      "type": "movie",
-      "name": "Rakudai Majo: Fuuka to Yami no Majo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140173-lQdG4Ci8aC9G.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt5100366"
-      },
-      "description": "Genres: Adventure, Fantasy\nTags:Witch/Kids\nFuuka, a little witch, is training to be a better witch like her mother, a queen of Silver Castle. She is a lively girl and cares about her friends, but she gets into trouble sometimes. Karin, a princess of Green Castle, is Fuuka's best friend; and Chitose, a prince of Blue Castle, is her friend from childhood. Fuuka goes to the Wood of Wolf to look for a tunnel with them, but they find a hole instead. This is an exciting story of adventure and friendship.<br><br>\n(Source: POPLAR, edited)"
-    },
-    {
       "id": "kitsu:11497",
       "type": "movie",
       "name": "Meitantei Conan: Kurogane no Submarine",
@@ -99,6 +89,16 @@
         "defaultVideoId": "kitsu:11497"
       },
       "description": "Genres: Drama, Mystery\nTags:Detective/Age Regression/Shounen/Tanned Skin\nThis time's location is set in the sea near the Hachijo-jima island, Tokyo. Engineers from around the world have gathered for the full-scale operation of \"Pacific Buoy,\" an offshore facility to connect security cameras owned by the worldwide police forces. A test of a certain \"new technology\" based on a face recognition system is underway there.\n<br><br>\nMeanwhile, Conan and the Detective Boys visit Hachijo-jima at Sonoko's invitation and receive a phone call from Subaru Okiya (a graduate student in the Graduate School of Engineering at Tokyo Metropolitan University, who is an FBI agent Shuichi Akai and a black-robed organization's Rye) informing them that a Europol employee was murdered in Germany by the Black Organization's Jin.\n<br><br>\nConan, who is disquieted, sneaks into the facility and finds that a female engineer has been kidnapped by the Black Organization...! Furthermore, a USB drive containing certain information in her possession ends up in the hands of the organization... A black shadow also creeps up on Ai Haibara (Detective Boys' Ai Haibara / Shiho Miyano / the Black Organization's Sherry),..\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt5100366",
+      "type": "movie",
+      "name": "Rakudai Majo: Fuuka to Yami no Majo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140173-lQdG4Ci8aC9G.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt5100366"
+      },
+      "description": "Genres: Adventure, Fantasy\nTags:Witch/Kids\nFuuka, a little witch, is training to be a better witch like her mother, a queen of Silver Castle. She is a lively girl and cares about her friends, but she gets into trouble sometimes. Karin, a princess of Green Castle, is Fuuka's best friend; and Chitose, a prince of Blue Castle, is her friend from childhood. Fuuka goes to the Wood of Wolf to look for a tunnel with them, but they find a hole instead. This is an exciting story of adventure and friendship.<br><br>\n(Source: POPLAR, edited)"
     },
     {
       "id": "tt27892601",
