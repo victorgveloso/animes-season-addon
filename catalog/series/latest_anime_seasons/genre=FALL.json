@@ -33,7 +33,7 @@
       "type": "series",
       "name": "Sousou no Frieren",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-n9kWblePJJDf.jpg",
-      "description": "Genres: Adventure, Drama, Fantasy\nTags:Philosophy/Elf/Magic/Travel/Female Protagonist/Demons/Fairy Tale/Iyashikei/Episodic/Dungeon/Shounen\nThe adventure is over but life goes on for an elf mage just beginning to learn what living is all about. <br>\n<br>\nElf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. With the great struggle over, they all go their separate ways to live a quiet life. But as an elf, Frieren, nearly immortal, will long outlive the rest of her former party. How will she come to terms with the mortality of her friends? How can she find fulfillment in her own life, and can she learn to understand what life means to the humans around her? Frieren begins a new journey to find the answer.<br>\n<br>\n(Source: Viz Media)"
+      "description": "Genres: Adventure, Drama, Fantasy\nTags:Philosophy/Magic/Elf/Travel/Female Protagonist/Demons/Fairy Tale/Iyashikei/Episodic/Dungeon/Shounen\nThe adventure is over but life goes on for an elf mage just beginning to learn what living is all about. <br>\n<br>\nElf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. With the great struggle over, they all go their separate ways to live a quiet life. But as an elf, Frieren, nearly immortal, will long outlive the rest of her former party. How will she come to terms with the mortality of her friends? How can she find fulfillment in her own life, and can she learn to understand what life means to the humans around her? Frieren begins a new journey to find the answer.<br>\n<br>\n(Source: Viz Media)"
     },
     {
       "id": "tt9679542",
@@ -50,18 +50,18 @@
       "description": "Genres: Action, Adventure, Fantasy, Mystery, Psychological\nTags:Isekai\nThe second season of <i>Saihate no Paladin</i>."
     },
     {
-      "id": "tt11448214",
-      "type": "series",
-      "name": "Kanojo mo Kanojo 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154692-H1d1F1DIGq3k.png",
-      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Female Harem/Love Triangle/Male Protagonist/Primarily Female Cast/Heterosexual/Slapstick/School/Primarily Teen Cast\nThe second season of <i>Kanojo mo Kanojo</i>."
-    },
-    {
       "id": "tt13196080",
       "type": "series",
       "name": "Tokyo Revengers: Tenjiku-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-IwFrtk7HkFQ9.jpg",
       "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Gangs/Crime/Heterosexual/Delinquents/Guns\nThe third season of <i>Tokyo Revengers</i>."
+    },
+    {
+      "id": "tt11448214",
+      "type": "series",
+      "name": "Kanojo mo Kanojo 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154692-H1d1F1DIGq3k.png",
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Female Harem/Love Triangle/Male Protagonist/Primarily Female Cast/Heterosexual/Slapstick/School/Primarily Teen Cast\nThe second season of <i>Kanojo mo Kanojo</i>."
     },
     {
       "id": "tt5334364",
@@ -127,18 +127,18 @@
       "description": "Genres: Action, Sports\nTags:Martial Arts/Male Protagonist/Primarily Adult Cast/Wrestling/Boxing/Athletics/Ensemble Cast\nThe second season of <i>Kengan Ashura</i>."
     },
     {
-      "id": "tt9054364",
-      "type": "series",
-      "name": "Tensei Shitara Slime Datta Ken: Coleus no Yume",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161802-Ra8acfv0cSov.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai\nAnnounced as part of the Tensura 10th anniversary celebration, the novel \"Coleus no Yume\" (included as bonus booklets in the \"Tensei Shitara Slime Datta Ken 2nd Season\" Blu-ray sets) will be adapted into a 3-episode original anime in the fall of 2023!<br><br>\nDetails on how to watch it will be announced at a later date! The story takes place between the first and second seasons of the TV anime. A spectacular story unfolds in which Rimuru confronts the conspiracies swirling within the Coleus Kingdom!"
-    },
-    {
       "id": "kitsu:12000",
       "type": "series",
       "name": "Hoshikuzu Telepath",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155419-1I89V5wkGBrS.png",
       "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Educational/Coming of Age/Female Protagonist/Yuri/Aliens/School Club/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
+    },
+    {
+      "id": "tt9054364",
+      "type": "series",
+      "name": "Tensei Shitara Slime Datta Ken: Coleus no Yume",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161802-Ra8acfv0cSov.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai\nAnnounced as part of the Tensura 10th anniversary celebration, the novel \"Coleus no Yume\" (included as bonus booklets in the \"Tensei Shitara Slime Datta Ken 2nd Season\" Blu-ray sets) will be adapted into a 3-episode original anime in the fall of 2023!<br><br>\nDetails on how to watch it will be announced at a later date! The story takes place between the first and second seasons of the TV anime. A spectacular story unfolds in which Rimuru confronts the conspiracies swirling within the Coleus Kingdom!"
     },
     {
       "id": "tt4744926",
@@ -153,6 +153,13 @@
       "name": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154384-3tpmugzrVpE9.jpg",
       "description": "Genres: Drama, Fantasy, Romance\nTags:Age Regression/Female Protagonist/Economics/Villainess/Ojou-sama/School/Shoujo\nSurrounded by the hate-filled gazes of her people, the selfish princess of the fallen Tearmoon Empire, Mia, takes one last look at the bleeding sun before the guillotine blade falls... Only to wake back up as a twelve-year-old! With time rewound and a second chance at life dropped into her lap, she sets out to right the countless wrongs that plague the ailing Empire. Corrupt governance? Check. Border troubles? Check. Natural calamities and economic strife? Check. My, seems like a lot of work. Hard work and Mia don’t mix, so she seeks out the aid of others, starting with her loyal maid, Anne, and the brilliant minister, Ludwig. Together, they strive day and night to restore the Empire. Little by little, their tireless efforts begin to change the course of history, pushing the whole of the continent toward a new future. And why did the selfish princess have a change of heart, you ask? Simple—she didn’t. She’s just terrified of the guillotine. They hurt like hell, and Mia hates pain more than work.<br>\n<br>\n(Source: J-Novel Club)"
+    },
+    {
+      "id": "tt7326322",
+      "type": "series",
+      "name": "Mahoutsukai no Yome SEASON 2 Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166452-TMOZ4WUy3tcQ.png",
+      "description": "Genres: Drama, Fantasy, Romance, Slice of Life, Supernatural\nTags:Female Protagonist/Magic/Mythology/Urban Fantasy\nThe second cour of <i>Mahoutsukai no Yome SEASON 2</i>."
     },
     {
       "id": "tt27489241",
@@ -174,13 +181,6 @@
       "name": "Under Ninja",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138788-eRXc0ineFTKW.jpg",
       "description": "Genres: Action, Comedy\nTags:Ninja\nEven in this day and age, Ninjas walk among us, hide within plain sight, still waiting for their mission orders. However, for some, it takes much longer to receive orders than others! Meet Kumogakure Kurou, a NEET and a Ninja. After being a long time without work, he finally receives orders from the higher ups!"
-    },
-    {
-      "id": "tt7326322",
-      "type": "series",
-      "name": "Mahoutsukai no Yome SEASON 2 Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166452-TMOZ4WUy3tcQ.png",
-      "description": "Genres: Drama, Fantasy, Romance, Slice of Life, Supernatural\nTags:Female Protagonist/Magic/Mythology/Urban Fantasy\nThe second cour of <i>Mahoutsukai no Yome SEASON 2</i>."
     },
     {
       "id": "tt5355196",
