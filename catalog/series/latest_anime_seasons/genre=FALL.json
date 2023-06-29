@@ -19,7 +19,7 @@
       "type": "series",
       "name": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162314-xdkc7xVmr83C.jpg",
-      "description": "Genres: Action, Drama, Fantasy, Psychological, Romance, Supernatural\nTags:Kaiju/Survival/Seinen/Philosophy/Military/Post-Apocalyptic/Super Power\nThe second half of the last part of the final season of Attack On Titan, concluding the ending arc story of Eren and the others."
+      "description": "Genres: Action, Drama, Fantasy, Psychological, Romance, Supernatural\nTags:Survival/Kaiju/Seinen/Philosophy/Military/Post-Apocalyptic/Super Power\nThe second half of the last part of the final season of Attack On Titan, concluding the ending arc story of Eren and the others."
     },
     {
       "id": "tt14115938",
@@ -106,13 +106,6 @@
       "description": "Genres: Action, Drama, Fantasy\nTags:Revenge/Magic/Gore/Witch/Male Protagonist/Urban Fantasy/Urban/Homeless/Nudity\nFor ages, humanity flourished through the power of magic, a gift from witches to aid mankind. But times have changed. The scientific Gear Expansion has made both magic and witches obsolete. In order to liberate humanity from the blight of magic, the mighty Redia Empire began a ruthless hunt to exterminate all witches. Adonis was only a boy when the hunt began, apprentice to a witch he dearly loved. When she perishes at the hands of the empire, Adonis vows revenge. By this furious wizard’s power, blood will flow!\n<br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "tt27053797",
-      "type": "series",
-      "name": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148862-GcNjytJhbkRs.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist/Shounen/Magic\nPercival is a kind boy who lives out on the frontier called \"Finger of God\" along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey.\n<br><br>\n(Source: Kodansha USA)"
-    },
-    {
       "id": "tt5420560",
       "type": "series",
       "name": "Ragna Crimson",
@@ -120,11 +113,25 @@
       "description": "Genres: Action, Adventure, Fantasy, Mystery\nTags:Revenge/Dragons/Magic/Male Protagonist\nDragons reign terror over the earth, sea and sky. If sworn dragon hunters like Ragna are to have any hope of dealing death to these seemingly invincible, fire-breathing beasts, they must find a way to level the odds. Ragna teams up with a mysterious man named Crimson who has likewise sworn to stand against the dragons menacing the world. But although Crimson’s motivations may be mysterious, his goal and Ragna’s perfectly align, and together they’ll fight to vanquish the dragons once and for all.<br>\n<br>\n(Source: Sentai Filmworks)"
     },
     {
+      "id": "tt27053797",
+      "type": "series",
+      "name": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148862-GcNjytJhbkRs.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist/Shounen/Magic\nPercival is a kind boy who lives out on the frontier called \"Finger of God\" along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey.\n<br><br>\n(Source: Kodansha USA)"
+    },
+    {
       "id": "tt9058134",
       "type": "series",
       "name": "KENGAN ASHURA Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146638-THVltMZx1WLk.jpg",
       "description": "Genres: Action, Sports\nTags:Martial Arts/Male Protagonist/Primarily Adult Cast/Wrestling/Boxing/Athletics/Ensemble Cast\nThe second season of <i>Kengan Ashura</i>."
+    },
+    {
+      "id": "tt27489241",
+      "type": "series",
+      "name": "Dead Mount Death Play Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b162803-U2lkVpkVZMQl.png",
+      "description": "Genres: Action, Fantasy, Supernatural, Thriller\nTags:\nThe second cour of <i>Dead Mount Death Play</i>."
     },
     {
       "id": "tt9054364",
@@ -139,13 +146,6 @@
       "name": "Hoshikuzu Telepath",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155419-1I89V5wkGBrS.png",
       "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Educational/Coming of Age/Female Protagonist/Yuri/Aliens/School Club/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
-    },
-    {
-      "id": "tt27489241",
-      "type": "series",
-      "name": "Dead Mount Death Play Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b162803-U2lkVpkVZMQl.png",
-      "description": "Genres: Action, Fantasy, Supernatural, Thriller\nTags:\nThe second cour of <i>Dead Mount Death Play</i>."
     },
     {
       "id": "tt4744926",
@@ -225,6 +225,13 @@
       "description": "Genres: \nTags:Full CGI\nnull"
     },
     {
+      "id": "tt0122356",
+      "type": "series",
+      "name": "I Shall Survive Using Potions!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161992-6NA6zUVbKTqv.png",
+      "description": "Genres: Fantasy\nTags:Isekai/Female Protagonist/Gods\nNagase Kaoru, a 22-year-old office lady, suddenly finds herself reincarnated in another world. To help her survive in this new world, a being that amounts to its god gives Kaoru a younger body and... the ability to make insanely overpowered potions?! The reincarnated Kaoru must use her knowledge and cheatery to survive!<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt24017294",
       "type": "series",
       "name": "Mask Danshi wa Koishitakunai no ni",
@@ -253,18 +260,18 @@
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Video Games\nA new type of VRMMO called \"One More Free Life Online\" is out. He logs in as a young boy avatar called \"Earth\". Taichi Tanaka (38, single) has a regular office job and enjoys playing video games in his free time. In a world where the player is free to do as they wish, he decides to master a skill that's been deemed to be useless! He makes potions that are too much of a hassle to make, cooks food that is excessively too good, and uses bizarre original weapons to hunt monsters...<br>\n<br>\n(Source: Alpha Manga)"
     },
     {
-      "id": "tt8400662",
-      "type": "series",
-      "name": "Jashin-chan Dropkick [Seikimatsu-hen]",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164551-QysYBZwUrpYv.png",
-      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Monster Girl/Female Protagonist/Travel\nThanks to a successful crowdfunding campaign supported by its loyal fans, this single-episode special of <i>Dropkick on My Devil!</i> is being made in support of Takamori, a town located in Kumamoto Prefecture's Aso District. The story begins after aliens destroy Jinbocho, where the main series takes place. Following the stars, Jashin-chan heads south to find Yurine in Takamori. <br><br>\n(Source: Crunchyroll, edited)"
-    },
-    {
       "id": "kitsu:40758",
       "type": "series",
       "name": "Yuzuki-san Chi no Yon Kyoudai.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164312-4rstdsgYFA9X.jpg",
       "description": "Genres: Comedy, Drama, Slice of Life\nTags:Coming of Age/Family Life/Shoujo/Male Protagonist/Primarily Male Cast/Iyashikei/School/Teacher\nThe Yuzuki family consists of four brothers: Hayato, Mikoto, Minato, and Gakuto. The eldest son, Hayato, happily lives every day to the fullest. There are tears, laughter and excitement at home, at school, and in the neighborhood!"
+    },
+    {
+      "id": "tt8400662",
+      "type": "series",
+      "name": "Jashin-chan Dropkick [Seikimatsu-hen]",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164551-QysYBZwUrpYv.png",
+      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Monster Girl/Female Protagonist/Travel\nThanks to a successful crowdfunding campaign supported by its loyal fans, this single-episode special of <i>Dropkick on My Devil!</i> is being made in support of Takamori, a town located in Kumamoto Prefecture's Aso District. The story begins after aliens destroy Jinbocho, where the main series takes place. Following the stars, Jashin-chan heads south to find Yurine in Takamori. <br><br>\n(Source: Crunchyroll, edited)"
     },
     {
       "id": "tt3069742",
