@@ -31,16 +31,6 @@
       "description": "Genres: Action, Adventure, Fantasy, Supernatural\nTags:Desert/CGI/Demons\nIn a desert world where both demons and humans suffer from an extreme water shortage, Beelzebub, the prince of demons, and Rao, a small-town sheriff, form a tag-team and set off on an adventure in search of the Phantom Lake somewhere in the desert.<br>\n<br>\n(Source: Bandai Namco Entertainment)"
     },
     {
-      "id": "tt19861160",
-      "type": "movie",
-      "name": "Bishoujo Senshi Sailor Moon: Cosmos - Kouhen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160850-oS5TUqnC8oFY.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt19861160"
-      },
-      "description": "Genres: Action, Adventure, Fantasy, Mahou Shoujo, Romance\nTags:Coming of Age/Space/Cosmic Horror/Found Family/War/Philosophy/Henshin/Aliens/Shoujo/Primarily Female Cast/Demons/Female Protagonist/Magic/Urban Fantasy/Mythology\nThe second film in a duology adapting the Bishoujo Senshi Sailor Moon \"Stars\" arc."
-    },
-    {
       "id": "tt26674627",
       "type": "movie",
       "name": "Resident Evil: Death Island",
@@ -49,6 +39,16 @@
         "defaultVideoId": "tt26674627"
       },
       "description": "Genres: Action, Horror\nTags:Full CGI/Zombie/Guns/Survival\nD.S.O. agent Leon S. Kennedy is on a mission to rescue Dr. Antonio Taylor from kidnappers, when a mysterious woman thwarts his pursuit. Meanwhile, B.S.A.A. agent Chris Redfield is investigating a zombie outbreak in San Francisco, where the cause of the infection cannot be identified. The only thing the victims have in common is that they all visited Alcatraz Island recently. Following that clue, Chris and his team head to the island, where a new horror awaits them. <br><br>\n\n(Source: Sony Pictures Entertainment)"
+    },
+    {
+      "id": "tt19861160",
+      "type": "movie",
+      "name": "Bishoujo Senshi Sailor Moon: Cosmos - Kouhen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160850-oS5TUqnC8oFY.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt19861160"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Mahou Shoujo, Romance\nTags:Coming of Age/Space/Cosmic Horror/Found Family/War/Philosophy/Henshin/Aliens/Shoujo/Primarily Female Cast/Demons/Female Protagonist/Magic/Urban Fantasy/Mythology\nThe second film in a duology adapting the Bishoujo Senshi Sailor Moon \"Stars\" arc."
     },
     {
       "id": "tt0097067",
