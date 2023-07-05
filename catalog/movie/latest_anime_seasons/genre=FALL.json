@@ -91,22 +91,22 @@
       "description": "Genres: Drama, Fantasy\nTags:\nnull"
     },
     {
-      "id": "tt0210418",
+      "id": "tt22474136",
       "type": "movie",
       "name": "Digimon Adventure 02 THE BEGINNING",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137310-qNfVFVDY6SDk.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt0210418"
+        "defaultVideoId": "tt22474136"
       },
       "description": "Genres: \nTags:Kids\nA new Digimon Adventure 02 movie telling the story of the first person to ever partner with a Digimon.\n"
     },
     {
-      "id": "kitsu:5100",
+      "id": "kitsu:47354",
       "type": "movie",
       "name": "Hokkyoku Hyakkaten no Concierge-san",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164226-OL6ZFw5jdjAZ.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:5100"
+        "defaultVideoId": "kitsu:47354"
       },
       "description": "Genres: Fantasy\nTags:Female Protagonist/Seinen\nAll customers are animals. Story of a mysterious department store!\n<br><br>\nThe story is set in a mysterious department store where all customers who come are animals.\nOur heroine is Akino (a human girl) who works as a new concierge. Every time in front of her an animal customer of an \"extinct species\" appears.\n<br><br>\n(Source: Shogakukan)"
     },
@@ -131,12 +131,12 @@
       "description": "Genres: Slice of Life, Sports\nTags:Dancing/Primarily Female Cast/Female Protagonist\nnull"
     },
     {
-      "id": "kitsu:1513",
+      "id": "kitsu:47224",
       "type": "movie",
       "name": "Madogiwa no Totto-chan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162904-duWmU34yIjOs.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:1513"
+        "defaultVideoId": "kitsu:47224"
       },
       "description": "Genres: \nTags:Autobiographical\n\n\nThis engaging series of childhood recollections tells about an ideal school in Tokyo during World War II that combined learning with fun, freedom, and love. This unusual school had old railroad cars for classrooms, and it was run by an extraordinary man-its founder and headmaster, Sosaku Kobayashi--who was a firm believer in freedom of expression and activity.\n<br><br>\nIn real life, the Totto-chan of the book has become one of Japan's most popular television personalities--Tetsuko Kuroyanagi. She attributes her success in life to this wonderful school and its headmaster.\n<br><br>\nThe charm of this account has won the hearts of millions of people of all ages and made this book a runaway bestseller in Japan, with sales hitting the 4.5 million mark in its first year.<br><br>\n(Source: Kodansha)"
     }
