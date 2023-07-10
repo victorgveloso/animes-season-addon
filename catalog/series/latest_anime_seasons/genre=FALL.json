@@ -12,7 +12,7 @@
       "type": "series",
       "name": "SPY x FAMILY Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158927-VhtOEwPQ4tzo.jpg",
-      "description": "Genres: Action, Comedy, Slice of Life, Supernatural\nTags:Family Life/Found Family/Espionage/Assassins/School/Shounen/Male Protagonist/Foreign\nThe second season of <i>SPY×FAMILY</i>."
+      "description": "Genres: Action, Comedy, Slice of Life, Supernatural\nTags:Family Life/Found Family/Espionage/Assassins/School/Male Protagonist/Shounen/Foreign\nThe second season of <i>SPY×FAMILY</i>."
     },
     {
       "id": "tt2560140",
@@ -120,6 +120,13 @@
       "description": "Genres: Action, Drama, Fantasy\nTags:Revenge/Magic/Witch/Gore/Male Protagonist/Urban Fantasy/Urban/Homeless/Nudity\nWitches once blessed the human race with wisdom and peace. But the Redia Empire's \"Gear Expansion\" brought about a culture of science that far surpassed magic, and witches were viewed as enemies impeding the progress of civilization. Thus began the witch hunts. One human named Adonis, who was raised by a witch named Chloe, swears revenge against the human race that took his beloved mentor from him. What salvation can be found at the end of a bloodbath fueled by utter despair?\n<br><br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt4967674",
+      "type": "series",
+      "name": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154459-Z3BDJDKK7Krl.jpg",
+      "description": "Genres: Drama, Romance, Slice of Life\nTags:Gyaru/Heterosexual/School/Coming of Age/Love Triangle/Primarily Teen Cast/Male Protagonist\nThe story centers on the relationship between Ryuuto Kashima, a gloomy social outcast, and Runa Shirakawa, a popular girl at school. Their relationship begins when Ryuuto has to ask Runa out as part of losing a game, and she ends up going out with him after saying \"Well, I'm free right now, after all.\" They have completely different social circles, and completely different hobbies, but as they hang out with each other, they begin recognizing and even accepting those differences as something to bond over.<br>\n<br>\n(Source: Anime News Network, edited)"
+    },
+    {
       "id": "tt0095474",
       "type": "series",
       "name": "Hikikomari Kyuuketsuki no Monmon",
@@ -190,7 +197,7 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Educational/Coming of Age/Female Protagonist/Yuri/Aliens/School Club/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
     },
     {
-      "id": "tt17921714",
+      "id": "tt28313387",
       "type": "series",
       "name": "A Returner's Magic Should Be Special",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163142-0IkEQ9xpcuT6.png",
@@ -342,13 +349,6 @@
       "name": "Pokémon Concierge",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-lWEGDf3YCdfe.jpg",
       "description": "Genres: Fantasy, Slice of Life\nTags:Animals/Stop Motion/Kids\n<i>Pack your bags—an all-new Pokémon paradise awaits!</i>\n<br><br>\nIntroducing <i>Pokémon Concierge</i>, a new collaboration between Pokémon and Netflix featuring stop-motion animation by dwarf studio. Follow Haru, a worker at the Pokémon Resort, and Psyduck as they meet Pokémon and Trainers on vacation! <br><br>\n(Source: Official Pokémon YouTube video description) \n<br><br>\n<i>Note: Announced on Pokémon Day 2023.</i>"
-    },
-    {
-      "id": "tt8273192",
-      "type": "series",
-      "name": "Kibou no Chikara: Otona Precure '23",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162720-cGaeZOFfpFvc.jpg",
-      "description": "Genres: Fantasy, Mahou Shoujo\nTags:Primarily Adult Cast\nOne of the anime projects to commemorate the 20th anniversary of the Precure franchise, this sequel will show Nozomi Yumehara and other characters from <i>Yes! Precure 5</i>, <i>Yes! Precure 5 GoGo!</i> and <i>Futari wa Precure: Splash☆Star</i> as grown-ups.<br><br>\n\n(Source: Anime News Network, edited)"
     }
   ]
 }
