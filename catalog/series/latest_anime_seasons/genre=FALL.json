@@ -169,13 +169,6 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist/Shounen/Magic\nPercival is a kind boy who lives out on the frontier called \"Finger of God\" along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey.\n<br><br>\n(Source: Kodansha USA)"
     },
     {
-      "id": "tt9058134",
-      "type": "series",
-      "name": "KENGAN ASHURA Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146638-THVltMZx1WLk.jpg",
-      "description": "Genres: Action, Sports\nTags:Martial Arts/Male Protagonist/Primarily Adult Cast/Wrestling/Boxing/Athletics/Ensemble Cast\nThe second season of <i>Kengan Ashura</i>."
-    },
-    {
       "id": "tt9054364",
       "type": "series",
       "name": "Tensei Shitara Slime Datta Ken: Coleus no Yume",
@@ -183,7 +176,14 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai\nAnnounced as part of the Tensura 10th anniversary celebration, the novel \"Coleus no Yume\" (included as bonus booklets in the \"Tensei Shitara Slime Datta Ken 2nd Season\" Blu-ray sets) will be adapted into a 3-episode original anime in the fall of 2023!<br><br>\nDetails on how to watch it will be announced at a later date! The story takes place between the first and second seasons of the TV anime. A spectacular story unfolds in which Rimuru confronts the conspiracies swirling within the Coleus Kingdom!"
     },
     {
-      "id": "tt7326322",
+      "id": "tt9058134",
+      "type": "series",
+      "name": "KENGAN ASHURA Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146638-THVltMZx1WLk.jpg",
+      "description": "Genres: Action, Sports\nTags:Martial Arts/Male Protagonist/Primarily Adult Cast/Wrestling/Boxing/Athletics/Ensemble Cast\nThe second season of <i>Kengan Ashura</i>."
+    },
+    {
+      "id": "tt15766292",
       "type": "series",
       "name": "Mahoutsukai no Yome SEASON 2 Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166452-t6f6pdGcTUSe.jpg",
@@ -246,18 +246,18 @@
       "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Demons/Male Protagonist/Heterosexual/Magic\nDeep in the forest lives Allen, a misanthropic wizard. He is called \"Demon Lord\" and feared by those around him. One day, while living out his life as a hermit, he finds a young girl named Charlotte who collapsed in the forest. Although innocent, she was accused of committing evil deeds, had her engagement annulled, and was forced to flee her country. Upon hearing that, Allen recalled the bitter experience of being betrayed by a party he once believed to be his companions. Hearing the story of the 17-year-old's exploitation, Allen decides, \"I'll let her live in my mansion, and I'll teach her all sorts of bad things...\" "
     },
     {
-      "id": "tt12648404",
-      "type": "series",
-      "name": "The IDOLM@STER Million Live!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120755-89DKmUHrMdGx.png",
-      "description": "Genres: Music\nTags:Idol/Musical/Primarily Female Cast/CGI/Dancing/Cute Girls Doing Cute Things/Band/Episodic/Full CGI\nMirai Kasuga, who wants to carry on a dream she has yet to see. Shizuka Mogami, who yearns to be an idol and is shaken. Tsubasa Ibuki, who does not know what she can be serious about.<br>\n<br>\nAt 765 Production new idols gather and everyone's \"dreams\" will brought into brilliance at the theater! The long-awaited anime of <i>\"The IDOLM@STER Million Live!!</i> <br><br>\n(Source: Official Site, translated)"
-    },
-    {
       "id": "tt8010544",
       "type": "series",
       "name": "Paradox Live THE ANIMATION",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150077-40T50Llw8RyV.png",
       "description": "Genres: Music\nTags:\nAvex and GCREST's hip-hop-themed multimedia project takes place in the near future, where rappers wear accessories that contain a metallic substance called Phantom Metal. Through the Phantom Metal's chemical reaction with the rappers' own DNA, the rapper can create illusions linked to their emotions during their performance. The result is a new type of spectacular concert.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt12648404",
+      "type": "series",
+      "name": "The IDOLM@STER Million Live!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120755-89DKmUHrMdGx.png",
+      "description": "Genres: Music\nTags:Idol/Musical/Primarily Female Cast/CGI/Dancing/Cute Girls Doing Cute Things/Band/Episodic/Full CGI\nMirai Kasuga, who wants to carry on a dream she has yet to see. Shizuka Mogami, who yearns to be an idol and is shaken. Tsubasa Ibuki, who does not know what she can be serious about.<br>\n<br>\nAt 765 Production new idols gather and everyone's \"dreams\" will brought into brilliance at the theater! The long-awaited anime of <i>\"The IDOLM@STER Million Live!!</i> <br><br>\n(Source: Official Site, translated)"
     },
     {
       "id": "tt0202430",
