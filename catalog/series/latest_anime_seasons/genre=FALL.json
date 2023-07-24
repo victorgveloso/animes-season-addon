@@ -50,18 +50,18 @@
       "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Gangs/Crime/Heterosexual/Delinquents/Guns\nThe third season of <i>Tokyo Revengers</i>."
     },
     {
-      "id": "tt26737616",
-      "type": "series",
-      "name": "PLUTO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-m4xOCYyycU4E.png",
-      "description": "Genres: Action, Mystery, Psychological, Sci-Fi\nTags:Robots/Seinen/Police/Artificial Intelligence/Detective/Philosophy/Crime/Foreign/Politics/Noir/Anachronism/War\nA murder occurs in an orderly world where robots are unable to kill humans. The robotic Europol investigator Gesicht takes the case, but the mystery deepens when he finds no trace of a human at the scene of the crime. As he pursues the truth, Gesicht uncovers the most evil manifestation of hate that history ever seen, one that is bent on bringing destruction to the world ...<br>\n<br>\n(Source: Netflix)"
-    },
-    {
       "id": "tt0426711",
       "type": "series",
       "name": "The Apothecary Diaries",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-tmbiujHG0bXI.jpg",
       "description": "Genres: Drama, Mystery\nTags:Female Protagonist/Historical/Medicine/Detective/Maids\nMaomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt26737616",
+      "type": "series",
+      "name": "PLUTO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-m4xOCYyycU4E.png",
+      "description": "Genres: Action, Mystery, Psychological, Sci-Fi\nTags:Robots/Seinen/Police/Artificial Intelligence/Detective/Philosophy/Crime/Foreign/Politics/Noir/Anachronism/War\nA murder occurs in an orderly world where robots are unable to kill humans. The robotic Europol investigator Gesicht takes the case, but the mystery deepens when he finds no trace of a human at the scene of the crime. As he pursues the truth, Gesicht uncovers the most evil manifestation of hate that history ever seen, one that is bent on bringing destruction to the world ...<br>\n<br>\n(Source: Netflix)"
     },
     {
       "id": "tt14476244",
@@ -134,18 +134,18 @@
       "description": "Genres: Action, Comedy, Fantasy\nTags:Primarily Female Cast/Vampire/Yuri/Female Protagonist/Magic/LGBTQ+ Themes/Hikikomori/Tsundere\nThree years into her life as a shut-in, vampire Terakomari Gandesblood (Komari for short), awakens to find she’s been appointed as a Commander in the Mulnite Imperial Army! The thing is, her new unit consists solely of belligerent ruffians who revolt against their superiors at the slightest hint of weakness. Although Komari hails from a line of vampires as powerful as they are prestigious, her refusal to drink blood has made her the picture of mediocrity—scrawny, un-coordinated, and inept at magic. With the odds stacked against her, will the help of her trusty (and slightly infatuated) maid Vill be enough for this recluse to blunder her way to success? Or will Komari rue the day she ever left the safety of her room?<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt28299608",
-      "type": "series",
-      "name": "MF GHOST",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143327-6gv1QzquNg2o.png",
-      "description": "Genres: Sci-Fi, Sports\nTags:Cars/Seinen/CGI/Male Protagonist\n202X A.D., a future beyond <i>Initial D. </i>\n<br><br>\nSelf-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. <br><br>\n(Source; Crunchyroll)\n\n "
-    },
-    {
       "id": "tt27489241",
       "type": "series",
       "name": "Dead Mount Death Play Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162803-PpLNUasyuLag.jpg",
       "description": "Genres: Action, Fantasy, Supernatural, Thriller\nTags:\nThe second cour of <i>Dead Mount Death Play</i>."
+    },
+    {
+      "id": "tt28299608",
+      "type": "series",
+      "name": "MF GHOST",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143327-6gv1QzquNg2o.png",
+      "description": "Genres: Sci-Fi, Sports\nTags:Cars/Seinen/CGI/Male Protagonist\n202X A.D., a future beyond <i>Initial D. </i>\n<br><br>\nSelf-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. <br><br>\n(Source; Crunchyroll)\n\n "
     },
     {
       "id": "tt27120167",
@@ -160,6 +160,13 @@
       "name": "Ragna Crimson",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146493-CqZyE9u7xgJ4.jpg",
       "description": "Genres: Action, Adventure, Fantasy, Mystery\nTags:Revenge/Dragons/Magic/Male Protagonist\nDragons reign terror over the earth, sea and sky. If sworn dragon hunters like Ragna are to have any hope of dealing death to these seemingly invincible, fire-breathing beasts, they must find a way to level the odds. Ragna teams up with a mysterious man named Crimson who has likewise sworn to stand against the dragons menacing the world. But although Crimson’s motivations may be mysterious, his goal and Ragna’s perfectly align, and together they’ll fight to vanquish the dragons once and for all.<br>\n<br>\n(Source: Sentai Filmworks)"
+    },
+    {
+      "id": "tt27404658",
+      "type": "series",
+      "name": "Seiken Gakuin no Maken Tsukai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140501-pXY8yUDScfHS.jpg",
+      "description": "Genres: Ecchi, Fantasy, Romance\nTags:Demons/Male Protagonist/Female Protagonist/Female Harem\nOne of the most powerful demon lords in history has been sealed away for a thousand years. When he finally awakens, he is reincarnated as...a 10-year-old boy?! Now under the care of the girl who released him, the demon lord Leonis must navigate the perils of Excalibur Academy!<br>\n<br>\n(Source: Yen Press)"
     },
     {
       "id": "tt3909224",
@@ -197,18 +204,18 @@
       "description": "Genres: Action, Sports\nTags:Martial Arts/Male Protagonist/Primarily Adult Cast/Wrestling/Boxing/Athletics/Ensemble Cast\nThe second season of <i>Kengan Ashura</i>."
     },
     {
-      "id": "kitsu:12000",
-      "type": "series",
-      "name": "Hoshikuzu Telepath",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155419-1I89V5wkGBrS.png",
-      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Educational/Coming of Age/Female Protagonist/Yuri/Aliens/School Club/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
-    },
-    {
       "id": "tt1160524",
       "type": "series",
       "name": "NARUTO (2023)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162561-Uk4eZAwcmcWk.jpg",
       "description": "Genres: \nTags:Ninja/Shounen\nThe official website for the <i>NARUTO</i> anime franchise announced a new anime project: to air four \"brand-new\" episodes starting in September 2023 to celebrate the TV anime's 20th anniversary back in 2022. <br><br>(Source: Anime News Network, edited) <br><br>\n<i>Note: Title, format, and relations are provisional and will be updated when more info is announced.</i>"
+    },
+    {
+      "id": "kitsu:12000",
+      "type": "series",
+      "name": "Hoshikuzu Telepath",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155419-1I89V5wkGBrS.png",
+      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Educational/Coming of Age/Female Protagonist/Yuri/Aliens/School Club/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
     },
     {
       "id": "tt28313387",
@@ -228,7 +235,7 @@
       "id": "tt2358913",
       "type": "series",
       "name": "Berserk of Gluttony",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156039-vifaJn4hlb13.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156039-tclqW8C8NTEX.jpg",
       "description": "Genres: Action, Adventure, Drama, Fantasy, Romance\nTags:\nFate Barbatos has never tasted real power. Born with the magical skill Gluttony, he constantly hungers in a way that can’t be satiated, and has been shunned and looked down upon his entire life. One day, while working as a gatekeeper for a noble family and fighting a trespassing thief, he discovers Gluttony’s true power: when he kills someone, he devours their skills and feeds his gnawing hunger at last. In that grisly realization, Fate is awakened to his true potential. How many lives will he feed on to satisfy this hunger, and is the world ready for the frightening warrior he’ll become?<br>\n<br>\n(Source: Seven Seas Entertainment)"
     },
     {
@@ -267,18 +274,18 @@
       "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Demons/Male Protagonist/Heterosexual/Magic\nDeep in the forest lives Allen, a misanthropic wizard. He is called \"Demon Lord\" and feared by those around him. One day, while living out his life as a hermit, he finds a young girl named Charlotte who collapsed in the forest. Although innocent, she was accused of committing evil deeds, had her engagement annulled, and was forced to flee her country. Upon hearing that, Allen recalled the bitter experience of being betrayed by a party he once believed to be his companions. Hearing the story of the 17-year-old's exploitation, Allen decides, \"I'll let her live in my mansion, and I'll teach her all sorts of bad things...\" "
     },
     {
+      "id": "tt28102247",
+      "type": "series",
+      "name": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156184-b7RvzRvR5RCp.jpg",
+      "description": "Genres: Adventure, Fantasy\nTags:\nThe life of an adventurer isn’t always a glamorous one. Belgrieve finds this out the hard way when a deadly encounter robs him of his leg and the ability to pursue his dreams not long after setting off for fame and fortune. But fate isn’t finished with this retired adventurer! While gathering herbs in the wilderness, he discovers an abandoned baby girl and names her Angeline after deciding to raise her as his own. Angeline grows up to become a top-tier adventurer in her own right, yet after venturing out into the world and making a name for herself, fame, fortune, and power hold no allure for the accomplished S-rank adventurer: her heartfelt wish is for nothing more than to see her father again.<br>\n<br>\n(Source: J-Novel Club)"
+    },
+    {
       "id": "tt8010544",
       "type": "series",
       "name": "Paradox Live THE ANIMATION",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150077-40T50Llw8RyV.png",
       "description": "Genres: Music\nTags:\nAvex and GCREST's hip-hop-themed multimedia project takes place in the near future, where rappers wear accessories that contain a metallic substance called Phantom Metal. Through the Phantom Metal's chemical reaction with the rappers' own DNA, the rapper can create illusions linked to their emotions during their performance. The result is a new type of spectacular concert.<br>\n<br>\n(Source: Anime News Network)"
-    },
-    {
-      "id": "tt28102247",
-      "type": "series",
-      "name": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156184-v1oRZoCPd6mG.jpg",
-      "description": "Genres: Adventure, Fantasy\nTags:\nThe life of an adventurer isn’t always a glamorous one. Belgrieve finds this out the hard way when a deadly encounter robs him of his leg and the ability to pursue his dreams not long after setting off for fame and fortune. But fate isn’t finished with this retired adventurer! While gathering herbs in the wilderness, he discovers an abandoned baby girl and names her Angeline after deciding to raise her as his own. Angeline grows up to become a top-tier adventurer in her own right, yet after venturing out into the world and making a name for herself, fame, fortune, and power hold no allure for the accomplished S-rank adventurer: her heartfelt wish is for nothing more than to see her father again.<br>\n<br>\n(Source: J-Novel Club)"
     },
     {
       "id": "tt0202430",
@@ -342,13 +349,6 @@
       "name": "Yuzuki-san Chi no Yon Kyoudai.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164312-4rstdsgYFA9X.jpg",
       "description": "Genres: Comedy, Drama, Slice of Life\nTags:Coming of Age/Family Life/Shoujo/Male Protagonist/Primarily Male Cast/Iyashikei/School/Teacher\nThe Yuzuki family consists of four brothers: Hayato, Mikoto, Minato, and Gakuto. The eldest son, Hayato, happily lives every day to the fullest. There are tears, laughter and excitement at home, at school, and in the neighborhood!"
-    },
-    {
-      "id": "tt12362302",
-      "type": "series",
-      "name": "Hypnosis Mic -Division Rap Battle- Rhyme Anima+",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163140-99mUhgXp8t5T.jpg",
-      "description": "Genres: Action, Music, Sci-Fi\nTags:\nThe second season of <i>Hypnosis Mic: Division Rap Battle - Rhyme Anima</i>."
     }
   ]
 }
