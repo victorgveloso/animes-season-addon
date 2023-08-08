@@ -26,7 +26,7 @@
       "type": "series",
       "name": "Horimiya: The Missing Pieces",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163132-C220CO5UrTxY.jpg",
-      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Heterosexual/Achronological Order/School/Primarily Teen Cast/Shounen/Male Protagonist/Female Protagonist/Family Life/Ensemble Cast/Slapstick\nA new anime project adapting popular side stories that were left out from the previous adaptation."
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Heterosexual/Achronological Order/School/Male Protagonist/Primarily Teen Cast/Female Protagonist/Shounen/Family Life/Ensemble Cast/Slapstick\nA new anime project adapting popular side stories that were left out from the previous adaptation."
     },
     {
       "id": "tt0434665",
@@ -78,18 +78,18 @@
       "description": "Genres: Action, Fantasy\nTags:School/Magic/Male Protagonist/Primarily Teen Cast/Samurai/Swordplay/Animals/Alchemy\nIt’s springtime at Kimberly Magic Academy, and new students are beginning their first year. Among them are a skilled and studious boy, Oliver, and a headstrong samurai girl, Nanao. They soon form a unique bond in the halls of Kimberly, but this picturesque school isn’t what it seems. Dark secrets and endless danger lurk behind every corner. Can these wizards make it to graduation alive?!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt5679720",
-      "type": "series",
-      "name": "Bungo Stray Dogs 5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
-      "description": "Genres: Action, Comedy, Mystery, Supernatural\nTags:Urban Fantasy/Anti-Hero/Ensemble Cast/Detective/Mafia/Crime/Super Power/Male Protagonist/Primarily Adult Cast/Primarily Male Cast/Seinen/Classic Literature\nThe fifth season of <i>Bungou Stray Dogs</i>. <br><br>\nDetective employees are caught one after another, and Kamui, the leader of Tenjin Goshui, is closing in on the Armed Detective Agency. Will the Agency survive?! <br><br>\n(Source: Crunchyroll)"
-    },
-    {
       "id": "tt4689276",
       "type": "series",
       "name": "Am I Actually the Strongest?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154391-IEyLPkJBsMxO.jpg",
       "description": "Genres: Comedy, Ecchi, Fantasy, Romance\nTags:Isekai/Magic/Kemonomimi/Gods/Male Protagonist/Demons/Revenge/Age Regression\nAfter being a shut-in, Haruto is reincarnated as a baby. And amazingly, that baby is a prince! However, he's abandoned in a forest on the day he's born because of his low magic level... What will be the fate of Haruto, who was inadvertently given 1000 times the normal amount of magic by the goddess of reincarnation without anyone noticing?!<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt5679720",
+      "type": "series",
+      "name": "Bungo Stray Dogs 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
+      "description": "Genres: Action, Comedy, Mystery, Supernatural\nTags:Urban Fantasy/Anti-Hero/Ensemble Cast/Detective/Mafia/Crime/Super Power/Male Protagonist/Primarily Adult Cast/Primarily Male Cast/Seinen/Classic Literature\nThe fifth season of <i>Bungou Stray Dogs</i>. <br><br>\nDetective employees are caught one after another, and Kamui, the leader of Tenjin Goshui, is closing in on the Armed Detective Agency. Will the Agency survive?! <br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt0182629",
@@ -131,7 +131,7 @@
       "type": "series",
       "name": "Classroom for Heroes",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139606-LrYkytn7fVwt.jpg",
-      "description": "Genres: Action, Fantasy, Slice of Life\nTags:Female Harem/School/Male Protagonist/Nudity/Swordplay/Demons\nThe story is set in Rosewood Academy, a school that trains future heroes destined to protect mankind. The school accepts only those with the most potential. Arnest Flaming, a girl who boasts the top record in the academy, is assigned to guide a mysterious but cheerful new student named Blade who rivals her own power.<br>\n<br>\n(Source: Anime News Network)"
+      "description": "Genres: Action, Fantasy, Slice of Life\nTags:School/Female Harem/Male Protagonist/Nudity/Swordplay/Demons\nThe story is set in Rosewood Academy, a school that trains future heroes destined to protect mankind. The school accepts only those with the most potential. Arnest Flaming, a girl who boasts the top record in the academy, is assigned to guide a mysterious but cheerful new student named Blade who rivals her own power.<br>\n<br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt21844490",
@@ -180,7 +180,7 @@
       "type": "series",
       "name": "The Masterful Cat is Depressed Again Today",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149883-D2LSB7hm5bhv.png",
-      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Animals/Female Protagonist/Shoujo/Office Lady/Iyashikei/Anthropomorphism/Food/CGI\nWhen Saku took in a stray black cat, she never expected that he would become the equivalent of a housekeeping life partner. But Yukichi, a giant cat who towers over Saku, is not your ordinary feline. He takes great pride in his culinary skills, and a good sale at the supermarket always gets his whiskers twitching. Saku may not have her act together yet, but at least she has Yukichi!<br>\n<br>\n(Source: Seven Seas Entertainment)"
+      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Animals/Female Protagonist/Shoujo/Office Lady/Anthropomorphism/Iyashikei/Food/CGI\nWhen Saku took in a stray black cat, she never expected that he would become the equivalent of a housekeeping life partner. But Yukichi, a giant cat who towers over Saku, is not your ordinary feline. He takes great pride in his culinary skills, and a good sale at the supermarket always gets his whiskers twitching. Saku may not have her act together yet, but at least she has Yukichi!<br>\n<br>\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt27571647",
@@ -208,7 +208,14 @@
       "type": "series",
       "name": "The Most Heretical Last Boss Queen: From Villainess to Savior",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156040-qWlfbAk6GJJR.png",
-      "description": "Genres: Comedy, Fantasy, Romance\nTags:Female Protagonist/Villainess/Super Power/Ojou-sama/Historical/Josei/Isekai/Magic/Male Harem/Swordplay/Family Life/Guns/Heterosexual\nIt’s one thing to get reincarnated as a righteous hero. It’s another thing entirely to get reincarnated as a villain! Our protagonist was just reincarnated into the body of Princess Pride Royal Ivy, the last boss and ultimate villain of her favorite otome game. But evil just isn’t her style, so she’ll use Pride’s powerful abilities to sow peace and love instead of discord! Can she change the fate of this vile villainess, or is her role in the story already rotten to the core?<br>\n<br>\n(Source: HIDIVE)"
+      "description": "Genres: Comedy, Fantasy, Romance\nTags:Female Protagonist/Villainess/Super Power/Ojou-sama/Historical/Josei/Isekai/Magic/Swordplay/Family Life/Guns/Male Harem/Heterosexual\nIt’s one thing to get reincarnated as a righteous hero. It’s another thing entirely to get reincarnated as a villain! Our protagonist was just reincarnated into the body of Princess Pride Royal Ivy, the last boss and ultimate villain of her favorite otome game. But evil just isn’t her style, so she’ll use Pride’s powerful abilities to sow peace and love instead of discord! Can she change the fate of this vile villainess, or is her role in the story already rotten to the core?<br>\n<br>\n(Source: HIDIVE)"
+    },
+    {
+      "id": "tt2320220",
+      "type": "series",
+      "name": "Baki Hanma Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146646-RMrHipfzvfTM.jpg",
+      "description": "Genres: Action, Sports\nTags:Martial Arts/Dinosaurs/Gore\nThe second season of <I>Hanma Baki</i>. <br><br>\nIn Hanma Baki’s first season, the fighter Baki — the strongest high schooler in the land — trained in a prison against fellow inmates, defeating a giant praying mantis and formidable opponents like Biscuit “Mr. Unchained” Oliva and Jun “Mr. Second” Guevaru. Now, Baki is back and gearing up to battle Pickle, a perfectly preserved prehistoric man so powerful, he once preyed on dinosaurs. If Baki can take down Pickle, his final matchup will be with his all-powerful father, Yujiro Hanma.<br><br>\n(Source: Netflix)"
     },
     {
       "id": "tt28101962",
@@ -223,13 +230,6 @@
       "name": "Go-toubun no Hanayome∽",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163327-xBQznOwq6emq.jpg",
       "description": "Genres: Drama, Romance, Slice of Life\nTags:Female Harem/Twins/Coming of Age/Ojou-sama\nA new anime adaptation called <i>Gotoubun no Hanayome∽</i>. It will adapt stories from the manga that weren't adapted in the original anime series.<br><br>\n\n<i>Note: The anime was pre-screened in Japan theatrically for 3 weeks on July 14, 2023.</i>"
-    },
-    {
-      "id": "tt2320220",
-      "type": "series",
-      "name": "Baki Hanma Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146646-RMrHipfzvfTM.jpg",
-      "description": "Genres: Action, Sports\nTags:Martial Arts/Dinosaurs/Gore\nThe second season of <I>Hanma Baki</i>. <br><br>\nIn Hanma Baki’s first season, the fighter Baki — the strongest high schooler in the land — trained in a prison against fellow inmates, defeating a giant praying mantis and formidable opponents like Biscuit “Mr. Unchained” Oliva and Jun “Mr. Second” Guevaru. Now, Baki is back and gearing up to battle Pickle, a perfectly preserved prehistoric man so powerful, he once preyed on dinosaurs. If Baki can take down Pickle, his final matchup will be with his all-powerful father, Yujiro Hanma.<br><br>\n(Source: Netflix)"
     },
     {
       "id": "tt13676344",
@@ -250,7 +250,7 @@
       "type": "series",
       "name": "Level 1 Demon Lord and One Room Hero",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146836-UWMpVYgMcvwk.jpg",
-      "description": "Genres: Action, Adventure, Comedy, Ecchi, Fantasy\nTags:Primarily Adult Cast/Urban Fantasy/Age Regression/Demons/LGBTQ+ Themes/Isekai/Nudity\nAfter his embarrassing defeat at the hands of a brave hero, the Demon Lord is back and ready for revenge… but after ten years apart, the hero, Max, isn’t the dashing do-gooder the Demon Lord remembers. In fact, Max has turned into a shut-in slob with no interest in an epic rematch. Can the Demon Lord whip his former nemesis back into shape, or will he be defeated by the hero-turned-couch-potato once again and join him in his lazy life?<br>\n<br>\n(Source: HIDIVE)"
+      "description": "Genres: Action, Adventure, Comedy, Ecchi, Fantasy\nTags:Primarily Adult Cast/Urban Fantasy/Age Regression/Gender Bending/Demons/LGBTQ+ Themes/Isekai/Nudity\nAfter his embarrassing defeat at the hands of a brave hero, the Demon Lord is back and ready for revenge… but after ten years apart, the hero, Max, isn’t the dashing do-gooder the Demon Lord remembers. In fact, Max has turned into a shut-in slob with no interest in an epic rematch. Can the Demon Lord whip his former nemesis back into shape, or will he be defeated by the hero-turned-couch-potato once again and join him in his lazy life?<br>\n<br>\n(Source: HIDIVE)"
     },
     {
       "id": "tt13399402",
@@ -306,7 +306,7 @@
       "type": "series",
       "name": "Tokubetsu-hen Hibike! Euphonium: Ensemble Contest",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150429-5KvbB5BBt2Yz.jpg",
-      "description": "Genres: Drama, Music, Slice of Life\nTags:Band/Female Protagonist\n<i>The long-awaited new work will be screened in theaters as a medium-length animation in the summer of 2023!</i><br><br>\n\nAlong with the summer brass band competition, the ensemble contest, commonly known as \"Ancon,\" is a place where exciting performances are held. The performance of several people in one group has a charm different from that of a competition.<br><br>\n\nIn order to participate in the Kyoto prefectural tournament of Ancon, a representative team is selected in the school's preliminary round. However, with over 50 members, the Kitauji High School brass band is facing a variety of problems! Will Kumiko, the newly appointed head of the club, be able to make it through the preliminary rounds?<br><br>\nThe days of struggle begin.<br><br>\n\n(Source: Official Website, Translated)"
+      "description": "Genres: Drama, Music, Slice of Life\nTags:Band/Female Protagonist/Coming of Age\n<i>The long-awaited new work will be screened in theaters as a medium-length animation in the summer of 2023!</i><br><br>\n\nAlong with the summer brass band competition, the ensemble contest, commonly known as \"Ancon,\" is a place where exciting performances are held. The performance of several people in one group has a charm different from that of a competition.<br><br>\n\nIn order to participate in the Kyoto prefectural tournament of Ancon, a representative team is selected in the school's preliminary round. However, with over 50 members, the Kitauji High School brass band is facing a variety of problems! Will Kumiko, the newly appointed head of the club, be able to make it through the preliminary rounds?<br><br>\nThe days of struggle begin.<br><br>\n\n(Source: Official Website, Translated)"
     },
     {
       "id": "tt26140070",
@@ -330,18 +330,18 @@
       "description": "Genres: Drama, Music, Slice of Life\nTags:Band/Primarily Female Cast/Full CGI/Ensemble Cast/School/Primarily Teen Cast\nThe best way to fit in at a new school? Start a band! Anon has just transferred to Haneoka Girls’ Academy where girl bands are all the rage. But she started school late, so there aren’t many girls left to recruit. Then she meets her first friend and Haneoka’s misfit, Tomori, who’s hesitant to join. Still, Anon is determined to persuade Tomori and experience the true power of friendship and music. <br><br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "kitsu:13110",
-      "type": "series",
-      "name": "Hizukuri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98875-DaOUqpdr99ng.jpg",
-      "description": "Genres: Adventure, Fantasy, Sci-Fi\nTags:\nIn a city of a parallel world. A boy finds a pair of broken scissors from his father’s belongings after he passed away. \nAnd a boy’s mother tells him that his father had been a gardener in the past. \nThen he figures out the scissors were made by Sasuke, who is an artisan living in a foreign country. \nThe boy travels all the way to a place where Sasuke lives in order to get his scissors fixed.  <br></br>(Source: Official Site)"
-    },
-    {
       "id": "tt25010142",
       "type": "series",
       "name": "The Seven Deadly Sins: Grudge of Edinburgh Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162291-zo1U7pwrgEEh.jpg",
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Full CGI/Super Power\nThe second half of <i>The Seven Deadly Sins: Grudge of Edinburgh</i>."
+    },
+    {
+      "id": "kitsu:13110",
+      "type": "series",
+      "name": "Hizukuri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98875-DaOUqpdr99ng.jpg",
+      "description": "Genres: Adventure, Fantasy, Sci-Fi\nTags:\nIn a city of a parallel world. A boy finds a pair of broken scissors from his father’s belongings after he passed away. \nAnd a boy’s mother tells him that his father had been a gardener in the past. \nThen he figures out the scissors were made by Sasuke, who is an artisan living in a foreign country. \nThe boy travels all the way to a place where Sasuke lives in order to get his scissors fixed.  <br></br>(Source: Official Site)"
     },
     {
       "id": "tt10980934",

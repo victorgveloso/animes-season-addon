@@ -91,12 +91,12 @@
       "description": "Genres: \nTags:Kids\nA new Digimon Adventure 02 movie telling the story of the first person to ever partner with a Digimon.\n"
     },
     {
-      "id": "kitsu:5100",
+      "id": "tt28607487",
       "type": "movie",
       "name": "Hokkyoku Hyakkaten no Concierge-san",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164226-OL6ZFw5jdjAZ.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:5100"
+        "defaultVideoId": "tt28607487"
       },
       "description": "Genres: Fantasy\nTags:Female Protagonist/Seinen\nAll customers are animals. Story of a mysterious department store!\n<br><br>\nThe story is set in a mysterious department store where all customers who come are animals.\nOur heroine is Akino (a human girl) who works as a new concierge. Every time in front of her an animal customer of an \"extinct species\" appears.\n<br><br>\n(Source: Shogakukan)"
     },
