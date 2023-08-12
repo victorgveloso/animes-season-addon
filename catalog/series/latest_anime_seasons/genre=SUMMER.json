@@ -204,18 +204,18 @@
       "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Heterosexual/Religion/Female Protagonist/Male Protagonist/Iyashikei/Rural/Shounen\nSaint Cecilia is beloved by the townspeople—not only is she elegant and composed, she benevolently shares her wisdom with all who seek it. That is, until the last person has left—at which point she becomes totally hopeless! Only Pastor Lawrence, is keeping the Saint put together enough to do her duties...and though she may test him, it's all in a day's work!<br>\n<br>\n(Source: Kodansha USA)"
     },
     {
-      "id": "tt2320220",
-      "type": "series",
-      "name": "Baki Hanma Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146646-RMrHipfzvfTM.jpg",
-      "description": "Genres: Action, Sports\nTags:Martial Arts/Dinosaurs/Gore/Primarily Male Cast\nThe second season of <I>Hanma Baki</i>. <br><br>\nIn Hanma Baki’s first season, the fighter Baki — the strongest high schooler in the land — trained in a prison against fellow inmates, defeating a giant praying mantis and formidable opponents like Biscuit “Mr. Unchained” Oliva and Jun “Mr. Second” Guevaru. Now, Baki is back and gearing up to battle Pickle, a perfectly preserved prehistoric man so powerful, he once preyed on dinosaurs. If Baki can take down Pickle, his final matchup will be with his all-powerful father, Yujiro Hanma.<br><br>\n(Source: Netflix)"
-    },
-    {
       "id": "tt10885406",
       "type": "series",
       "name": "The Most Heretical Last Boss Queen: From Villainess to Savior",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156040-qWlfbAk6GJJR.png",
       "description": "Genres: Comedy, Fantasy, Romance\nTags:Female Protagonist/Villainess/Isekai/Super Power/Ojou-sama/Historical/Josei/Swordplay/Male Harem/Magic/Family Life/Guns/Heterosexual\nIt’s one thing to get reincarnated as a righteous hero. It’s another thing entirely to get reincarnated as a villain! Our protagonist was just reincarnated into the body of Princess Pride Royal Ivy, the last boss and ultimate villain of her favorite otome game. But evil just isn’t her style, so she’ll use Pride’s powerful abilities to sow peace and love instead of discord! Can she change the fate of this vile villainess, or is her role in the story already rotten to the core?<br>\n<br>\n(Source: HIDIVE)"
+    },
+    {
+      "id": "tt2320220",
+      "type": "series",
+      "name": "Baki Hanma Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146646-RMrHipfzvfTM.jpg",
+      "description": "Genres: Action, Sports\nTags:Martial Arts/Dinosaurs/Gore/Primarily Male Cast\nThe second season of <I>Hanma Baki</i>. <br><br>\nIn Hanma Baki’s first season, the fighter Baki — the strongest high schooler in the land — trained in a prison against fellow inmates, defeating a giant praying mantis and formidable opponents like Biscuit “Mr. Unchained” Oliva and Jun “Mr. Second” Guevaru. Now, Baki is back and gearing up to battle Pickle, a perfectly preserved prehistoric man so powerful, he once preyed on dinosaurs. If Baki can take down Pickle, his final matchup will be with his all-powerful father, Yujiro Hanma.<br><br>\n(Source: Netflix)"
     },
     {
       "id": "tt28101962",
@@ -264,14 +264,7 @@
       "type": "series",
       "name": "The Gene of AI",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158530-CT38yZ23cabT.png",
-      "description": "Genres: Drama, Psychological, Sci-Fi\nTags:Artificial Intelligence/Cyborg/Medicine/Episodic/Primarily Adult Cast/Agender/Anthropomorphism/Urban/Cyberpunk/Shounen/LGBTQ+ Themes\nThe future is here and a new species lives among people: humanoids. Similar to man, these robotic beings are highly sentient and suffer from unique ailments. Thankfully, Dr. Hikaru Sudou can help. He vows to treat the humanoids even by illegal means, causing him to lead a double life. But when strange diseases emerge as a result of this coexistence, ethical lines become blurred.<br><br>\n(Source: Crunchyroll, edited)"
-    },
-    {
-      "id": "tt28266753",
-      "type": "series",
-      "name": "AYAKA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155982-IZNOPZyon0QI.jpg",
-      "description": "Genres: Action, Supernatural\nTags:Super Power/Shounen/Urban Fantasy/Orphan/Male Protagonist/Primarily Male Cast/CGI/Adoption/Hikikomori/Guns\nAs an orphan, Yukito Yanagi’s life is filled with questions, but that all changed when he meets his father’s disciple who takes him to his birthplace on Ayaka. A strange island filled with legends of dragons and mysterious beings. But there’s more to this trip than a reunion—the harmony of Ayaka is on the brink of collapsing into chaos. Can Yukito prevent this catastrophe?<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Drama, Psychological, Sci-Fi\nTags:Artificial Intelligence/Cyborg/Medicine/Urban/Episodic/Primarily Adult Cast/Cyberpunk/Agender/Anthropomorphism/Shounen/LGBTQ+ Themes\nThe future is here and a new species lives among people: humanoids. Similar to man, these robotic beings are highly sentient and suffer from unique ailments. Thankfully, Dr. Hikaru Sudou can help. He vows to treat the humanoids even by illegal means, causing him to lead a double life. But when strange diseases emerge as a result of this coexistence, ethical lines become blurred.<br><br>\n(Source: Crunchyroll, edited)"
     },
     {
       "id": "kitsu:47622",
@@ -279,6 +272,13 @@
       "name": "TONIKAWA: Over The Moon For You ~High School Days~",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166104-0oRQjclE7X3S.jpg",
       "description": "Genres: Comedy, Romance, Slice of Life\nTags:Male Protagonist/Marriage/School/Shounen\nThe new anime centers on the series' protagonist Nasa, who is asked by his junior high teacher to hold a class in an all-girls high school. The students end up seeking Nasa's advice about their love problems. On the other hand, Tsukasa pretends to be cool, but is actually nervous knowing that Nasa is surrounded by young high school girls.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt28266753",
+      "type": "series",
+      "name": "AYAKA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155982-IZNOPZyon0QI.jpg",
+      "description": "Genres: Action, Supernatural\nTags:Super Power/Shounen/Urban Fantasy/Orphan/Male Protagonist/Primarily Male Cast/CGI/Adoption/Hikikomori/Guns\nAs an orphan, Yukito Yanagi’s life is filled with questions, but that all changed when he meets his father’s disciple who takes him to his birthplace on Ayaka. A strange island filled with legends of dragons and mysterious beings. But there’s more to this trip than a reunion—the harmony of Ayaka is on the brink of collapsing into chaos. Can Yukito prevent this catastrophe?<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt25697580",
