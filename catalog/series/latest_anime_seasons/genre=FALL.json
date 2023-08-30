@@ -50,18 +50,18 @@
       "description": "Genres: Action, Adventure, Comedy, Sci-Fi\nTags:Educational/Ensemble Cast\nThe second cour  of <i>Dr. STONE: NEW WORLD</i>."
     },
     {
-      "id": "tt13196080",
-      "type": "series",
-      "name": "Tokyo Revengers: Tenjiku-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-IwFrtk7HkFQ9.jpg",
-      "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Gangs/Crime/Delinquents/Heterosexual/Guns\nThe third season of <i>Tokyo Revengers</i>."
-    },
-    {
       "id": "tt26743760",
       "type": "series",
       "name": "The Apothecary Diaries",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-7I8Cip7XRDhV.jpg",
       "description": "Genres: Drama, Mystery\nTags:Female Protagonist/Historical/Medicine/Detective/Maids\nMaomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt13196080",
+      "type": "series",
+      "name": "Tokyo Revengers: Tenjiku-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-IwFrtk7HkFQ9.jpg",
+      "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Gangs/Crime/Delinquents/Heterosexual/Guns\nThe third season of <i>Tokyo Revengers</i>."
     },
     {
       "id": "tt26737616",
@@ -181,13 +181,6 @@
       "name": "MF GHOST",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143327-6gv1QzquNg2o.png",
       "description": "Genres: Sci-Fi, Sports\nTags:Cars/Seinen/CGI/Male Protagonist\n202X A.D., a future beyond <i>Initial D. </i>\n<br><br>\nSelf-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. <br><br>\n(Source; Crunchyroll)\n\n "
-    },
-    {
-      "id": "tt0409591",
-      "type": "series",
-      "name": "NARUTO (2023)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162561-Uk4eZAwcmcWk.jpg",
-      "description": "Genres: Action, Adventure, Comedy\nTags:Ninja/Shounen/Male Protagonist\nThe official website for the <i>NARUTO</i> anime franchise announced a new anime project: to air four \"brand-new\" episodes starting in September 2023 to celebrate the TV anime's 20th anniversary back in 2022. <br><br>(Source: Anime News Network, edited) <br><br>\n<i>Note: Title, format, and relations are provisional and will be updated when more info is announced.</i>"
     },
     {
       "id": "tt15483602",
@@ -349,6 +342,13 @@
       "name": "Toaru Ossan no VRMMO Katsudouki",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161364-X0Nk5FvL6GHj.jpg",
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Video Games/Virtual World/Archery/Artificial Intelligence\nA new type of VRMMO called \"One More Free Life Online\" is out. He logs in as a young boy avatar called \"Earth\". Taichi Tanaka (38, single) has a regular office job and enjoys playing video games in his free time. In a world where the player is free to do as they wish, he decides to master a skill that's been deemed to be useless! He makes potions that are too much of a hassle to make, cooks food that is excessively too good, and uses bizarre original weapons to hunt monsters...<br><br>\n(Source: Alpha Manga)<br>\n<br><i>Note: The first 2 episodes were exclusively shown as a world premiere during the Anime Messe Babelsberg 2023 in July as a part of a special Anime Panel. </i><br>\n"
+    },
+    {
+      "id": "tt28772401",
+      "type": "series",
+      "name": "Bokura no Ameiro Protocol",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166896-5y4fdIpFwmrA.png",
+      "description": "Genres: Drama\nTags:E-Sports\nThe story centers on Shun Tokinoya, a second-year high school living with his mother and younger sister. After his father's death in an accident and his sister's injury, he quit the game he was passionate about, and now works at an esports café called \"FOX ONE.\" He spends all his time studying and working part-time while hanging out with his childhood gaming friends. Suddenly, he learns that \"FOX ONE\" has a huge amount of debts. In order to repay the debts, Shun and his friends aim to win the \"Xaxerion Championship\" and win the prize money. With a sense of guilt, Shun jumps back into the world of online games, and is confronted by Bakuretsu-kun, who used to play the game with him.<br>\n<br>\n(Source: Crunchyroll)"
     }
   ]
 }
