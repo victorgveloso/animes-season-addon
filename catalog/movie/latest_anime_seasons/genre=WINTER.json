@@ -91,12 +91,12 @@
       "description": "Genres: Adventure, Comedy, Sci-Fi\nTags:Kids\nnull"
     },
     {
-      "id": "tt23642616",
+      "id": "tt2398674",
       "type": "movie",
       "name": "Aikatsu! 10th STORY: Mirai e no STARWAY (2023)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b155738-PuAQSHIolqoH.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt23642616"
+        "defaultVideoId": "tt2398674"
       },
       "description": "Genres: Music\nTags:Primarily Female Cast/Henshin/Idol\nA new Aikatsu! film set for 2023 following <i>Aikatsu! 10th STORY ~Mirai e no STARWAY~</i>."
     },
