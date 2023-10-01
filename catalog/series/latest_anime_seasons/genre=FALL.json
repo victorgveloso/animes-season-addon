@@ -40,7 +40,7 @@
       "type": "series",
       "name": "Frieren: Beyond Journey’s End",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-n1fmjRv4JQUd.jpg",
-      "description": "Genres: Adventure, Drama, Fantasy\nTags:Philosophy/Elf/Travel/Magic/Female Protagonist/Fairy Tale/Demons/Iyashikei/Episodic/Coming of Age/Dungeon/Kuudere/Environmental/Shounen\nThe adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…\n<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Adventure, Drama, Fantasy\nTags:Travel/Elf/Magic/Philosophy/Female Protagonist/Iyashikei/Coming of Age/Environmental/Fairy Tale/Kuudere/Demons/Episodic/Dungeon\nThe adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt13005652",
@@ -61,7 +61,7 @@
       "type": "series",
       "name": "Tokyo Revengers: Tenjiku-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-lGJRnYV9dcjc.jpg",
-      "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Gangs/Crime/Delinquents/Heterosexual/Guns\nThe third season of <i>Tokyo Revengers</i>.\n<br><br>\nWith a future where Toman has been destroyed by Mikey's twisted ideas and Takemichi returning to the past, he decides to become stronger in order to stop Kisaki's plans. On one side, a mysterious gang from Yokohama known as Tenjiku begins to overthrow all the Toman divisions, deciding to destroy all the gangs in Japan, becoming the most powerful and unique.\n<br><br>\nKisaki has been planning something for his purposes against Toman, now that he is banned."
+      "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Gangs/Crime/Delinquents/Heterosexual/Guns/Age Regression\nThe third season of <i>Tokyo Revengers</i>.\n<br><br>\nWith a future where Toman has been destroyed by Mikey's twisted ideas and Takemichi returning to the past, he decides to become stronger in order to stop Kisaki's plans. On one side, a mysterious gang from Yokohama known as Tenjiku begins to overthrow all the Toman divisions, deciding to destroy all the gangs in Japan, becoming the most powerful and unique.\n<br><br>\nKisaki has been planning something for his purposes against Toman, now that he is banned."
     },
     {
       "id": "tt5334364",
@@ -148,13 +148,6 @@
       "description": "Genres: Action, Fantasy, Supernatural, Thriller\nTags:\nThe second cour of <i>Dead Mount Death Play</i>."
     },
     {
-      "id": "tt13049906",
-      "type": "series",
-      "name": "The Saint's Magic Power is Omnipotent II",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146206-76MkUJBXlq4v.jpg",
-      "description": "Genres: Fantasy, Romance, Slice of Life\nTags:Isekai/Female Protagonist/Magic/Primarily Adult Cast/Shoujo/Medicine/Iyashikei\nThe second season of <i>Seijo no Maryoku wa Bannou desu</i>.\n<br><br>\nSei, an office worker in her twenties, was suddenly summoned to another world as a \"Saint\". Taking advantage of her natural love of plants, she started working at a medicinal plant research institute. In addition, Sei's evaluation explodes when she activates a tremendously powerful purification magic in monster subjugation! Being officially recognized as a \"saint\", she gains people's respect as the savior of the Kingdom of Saluntania. Those who watch over and support her are Johann and Jude from the research institute, Yuri from the Imperial Court Mage Division, and Albert Hawke, the \"Ice Knight\" who is attracted to each other but is still less than a lover. Even after becoming the most important person in the kingdom, Sei remains obsessed with research, but her relationship with Albert gradually deepens, and there is a new development in their love story!?\n<br><br>\n[Source: Official Website]"
-    },
-    {
       "id": "tt0095474",
       "type": "series",
       "name": "The Vexations of a Shut-In Vampire Princess",
@@ -162,11 +155,11 @@
       "description": "Genres: Action, Comedy, Fantasy\nTags:Primarily Female Cast/Vampire/Female Protagonist/Yuri/Magic/LGBTQ+ Themes/Hikikomori/Tsundere\nThree years into her life as a shut-in, vampire Terakomari Gandesblood (Komari for short), awakens to find she’s been appointed as a Commander in the Mulnite Imperial Army! The thing is, her new unit consists solely of belligerent ruffians who revolt against their superiors at the slightest hint of weakness. Although Komari hails from a line of vampires as powerful as they are prestigious, her refusal to drink blood has made her the picture of mediocrity—scrawny, un-coordinated, and inept at magic. With the odds stacked against her, will the help of her trusty (and slightly infatuated) maid Vill be enough for this recluse to blunder her way to success? Or will Komari rue the day she ever left the safety of her room?<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt10777610",
+      "id": "tt13049906",
       "type": "series",
-      "name": "After-school Hanako-kun",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159074-6sc64nKBa1wE.jpg",
-      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Ghost/School/Mythology/Youkai/Ensemble Cast/Shounen/Heterosexual/Gender Bending/Twins\nThe ghostly Hanako-kun and his mortal assistant, Nene Yashiro, usually have their hands full resolving various supernatural incidents in Kamome Academy, but how do they spend their time when they get a break from all that?\n<br><br>\n(Source: Yen Press)"
+      "name": "The Saint's Magic Power is Omnipotent II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146206-76MkUJBXlq4v.jpg",
+      "description": "Genres: Fantasy, Romance, Slice of Life\nTags:Isekai/Female Protagonist/Magic/Primarily Adult Cast/Shoujo/Medicine/Iyashikei\nThe second season of <i>Seijo no Maryoku wa Bannou desu</i>.\n<br><br>\nSei, an office worker in her twenties, was suddenly summoned to another world as a \"Saint\". Taking advantage of her natural love of plants, she started working at a medicinal plant research institute. In addition, Sei's evaluation explodes when she activates a tremendously powerful purification magic in monster subjugation! Being officially recognized as a \"saint\", she gains people's respect as the savior of the Kingdom of Saluntania. Those who watch over and support her are Johann and Jude from the research institute, Yuri from the Imperial Court Mage Division, and Albert Hawke, the \"Ice Knight\" who is attracted to each other but is still less than a lover. Even after becoming the most important person in the kingdom, Sei remains obsessed with research, but her relationship with Albert gradually deepens, and there is a new development in their love story!?\n<br><br>\n[Source: Official Website]"
     },
     {
       "id": "tt28776190",
@@ -174,6 +167,13 @@
       "name": "Shangri-La Frontier",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-qFKtRhOaSqa0.jpg",
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Virtual World/Video Games/Isekai\n \"When was the last time I played a game that wasn't crap?\" This is a world in the near future where games that use display screens are classified as retro. Anything that can't keep up with state-of-the-art VR technology is called a \"crap game,\" and you see a large number of crap games coming out. Those who devote their lives to clearing these games are called \"crap-game hunters,\" and Rakuro Hizutome is one of them. The game he's chosen to tackle next is Shangri-La Frontier, a \"god-tier game\" that has a total of thirty million players. Online friends... An expansive world... Encounters with rivals... These are changing Rakuro and all the other players' fates! The best game adventure tale by the strongest \"crap game\" player begins now!<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt10777610",
+      "type": "series",
+      "name": "After-school Hanako-kun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159074-6sc64nKBa1wE.jpg",
+      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Ghost/School/Mythology/Youkai/Ensemble Cast/Shounen/Heterosexual/Gender Bending/Twins\nThe ghostly Hanako-kun and his mortal assistant, Nene Yashiro, usually have their hands full resolving various supernatural incidents in Kamome Academy, but how do they spend their time when they get a break from all that?\n<br><br>\n(Source: Yen Press)"
     },
     {
       "id": "tt2358913",
@@ -190,18 +190,18 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist/Magic/School/Age Regression/Swordplay/Ensemble Cast/Demons\nShadow Realms have ravaged the earth and decimated almost everyone in their way. The survival of humanity hinges upon the success of just six mages, including analytic fighter Desir Herrman. The remaining heroes make one final stand to end the bloodshed...but to no avail. Desir closes his eyes on what should be the end of his life—only to open them and see the beginning of his school days?! Desir has returned thirteen years back to the past, where he’s been given another chance. A chance to see the loved ones he lost, a chance to meet his fellow warriors again, and a chance to save the world…!\n<br><br>\n(Source: Yen Press)"
     },
     {
+      "id": "tt4744926",
+      "type": "series",
+      "name": "A Girl & Her Guard Dog",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155527-yaZUYJXRHi01.jpg",
+      "description": "Genres: Drama, Romance\nTags:Yakuza/Heterosexual/Shoujo/School\nIsaku just wants to live a normal life. But as the granddaughter of a yakuza boss, that’s a pretty tall order. For years, it’s been difficult for Isaku to make friends and find love. So, she decides to enroll in a high school far from her hometown in hopes of a fresh start. But her plans take an unexpected turn when a worried member of the yakuza, Keiya, enrolls in the same school to protect her.<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt28299608",
       "type": "series",
       "name": "MF GHOST",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143327-6gv1QzquNg2o.png",
-      "description": "Genres: Sci-Fi, Sports\nTags:Cars/Seinen/CGI/Male Protagonist\n202X A.D., a future beyond <i>Initial D. </i>\n<br><br>\nSelf-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. <br><br>\n(Source; Crunchyroll)\n\n "
-    },
-    {
-      "id": "tt4744926",
-      "type": "series",
-      "name": "A Girl & Her Guard Dog",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155527-e48xpNkarwlJ.jpg",
-      "description": "Genres: Drama, Romance\nTags:Yakuza/Heterosexual/Shoujo/School\nIsaku just wants to live a normal life. But as the granddaughter of a yakuza boss, that’s a pretty tall order. For years, it’s been difficult for Isaku to make friends and find love. So, she decides to enroll in a high school far from her hometown in hopes of a fresh start. But her plans take an unexpected turn when a worried member of the yakuza, Keiya, enrolls in the same school to protect her.<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Sci-Fi, Sports\nTags:Cars/Seinen/Primarily Male Cast/CGI/Male Protagonist/School\n202X A.D., a future beyond <i>Initial D. </i>\n<br><br>\nSelf-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. <br><br>\n(Source: Crunchyroll)\n\n "
     },
     {
       "id": "tt21105364",
@@ -211,6 +211,13 @@
       "description": "Genres: Drama, Fantasy, Romance, Slice of Life, Supernatural\nTags:Heterosexual/Female Protagonist/Magic/Mythology/Urban Fantasy\nThe second cour of <i>Mahoutsukai no Yome SEASON 2</i>. <br><br>\n\nMore magical adventures await Elias, Chise, and all of her new friends at the College. Just how strong will Chise’s magic grow?<br><br>\n\n(Source: Crunchyroll News)\n"
     },
     {
+      "id": "tt29171939",
+      "type": "series",
+      "name": "Stardust Telepath",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155419-tPkRvXYb9ffC.png",
+      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Female Protagonist/Educational/Aliens/Yuri/Coming of Age/School Club/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
+    },
+    {
       "id": "tt15483602",
       "type": "series",
       "name": "Tensei Shitara Slime Datta Ken: Coleus no Yume",
@@ -218,32 +225,11 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai\nAnnounced as part of the Tensura 10th anniversary celebration, the novel \"Coleus no Yume\" (included as bonus booklets in the \"Tensei Shitara Slime Datta Ken 2nd Season\" Blu-ray sets) will be adapted into a 3-episode original anime in the fall of 2023!<br><br>\nDetails on how to watch it will be announced at a later date! The story takes place between the first and second seasons of the TV anime. A spectacular story unfolds in which Rimuru confronts the conspiracies swirling within the Coleus Kingdom!"
     },
     {
-      "id": "kitsu:12000",
-      "type": "series",
-      "name": "Stardust Telepath",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155419-tPkRvXYb9ffC.png",
-      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Female Protagonist/Educational/Aliens/Yuri/Coming of Age/School Club/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
-    },
-    {
       "id": "tt4623928",
       "type": "series",
       "name": "SHY",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155389-qB3aiPB5IkAi.png",
-      "description": "Genres: Action, Drama\nTags:Henshin/Female Protagonist/Superhero/Super Power/Shounen/Ninja/LGBTQ+ Themes\nAround the middle of the 21st century, all war on Earth ceased.<br>\n<br>\nThe sudden widespread appearance of \"Heroes\", people with supernatural powers who wish only for peace, has drastically transformed the world. In a world where the Heroes of each country work to maintain this newfound peace, the one protecting Japan is a young girl named Shy who is... <i>cripplingly shy.</i>\n<br><br>\n(Source: Crunchyroll)"
-    },
-    {
-      "id": "tt3909224",
-      "type": "series",
-      "name": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148862-6J1kf9tZO1GY.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist/Shounen/Magic\nPercival is a kind boy who lives out on the frontier called \"Finger of God\" along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey.\n<br><br>\n(Source: Kodansha USA)"
-    },
-    {
-      "id": "tt0279077",
-      "type": "series",
-      "name": "FLCL: Grunge",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146472-1Www8Sr5n3f4.jpg",
-      "description": "Genres: Action, Sci-Fi\nTags:CGI/Dystopian/Aliens/Coming of Age/Full CGI/Surreal Comedy/Robots/Gangs/Achronological Order/Male Protagonist/Swordplay/Bullying/Heterosexual/Motorcycles/Artificial Intelligence/Fishing/Food/Slapstick/Achromatic\nThe fourth season of FLCL, and sequel to <i>FLCL Alternative</i>. It centers on three teenagers who graduated and have started working. The CGI anime will have a theme of the feeling of being an adult.\n<br><br>\n(Source: Anime News Network, edited)"
+      "description": "Genres: Action, Drama\nTags:Henshin/Female Protagonist/Superhero/Super Power/Shounen/Primarily Female Cast/Ninja/LGBTQ+ Themes\nAround the middle of the 21st century, all war on Earth ceased.<br>\n<br>\nThe sudden widespread appearance of \"Heroes\", people with supernatural powers who wish only for peace, has drastically transformed the world. In a world where the Heroes of each country work to maintain this newfound peace, the one protecting Japan is a young girl named Shy who is... <i>cripplingly shy.</i>\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt28102247",
@@ -253,6 +239,13 @@
       "description": "Genres: Adventure, Fantasy\nTags:Swordplay/Rural/Disability/Magic/Adoption\nThe young adventurer Belgrieve retires to a quieter life after losing his leg to a beast. While gathering herbs in the woods one day, he rescues an abandoned child. Angeline trains with her father and later achieves S-Rank in the capital’s adventurer guild. Five years later, she decides to return home. Will Belgrieve get another chance at being an adventurer? Will Angeline return home unscathed?<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt3909224",
+      "type": "series",
+      "name": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148862-6J1kf9tZO1GY.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist/Shounen/Magic\nPercival is a kind boy who lives out on the frontier called \"Finger of God\" along with his grandfather. However, the world was not kind enough to let peace and tranquility last for long. An encounter with a mysterious knight changed their destiny, and a shocking truth comes to light. The boy then sets off on an endless journey.\n<br><br>\n(Source: Kodansha USA)"
+    },
+    {
       "id": "tt5355196",
       "type": "series",
       "name": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
@@ -260,18 +253,18 @@
       "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Heterosexual/Magic/Male Protagonist/Demons/Shoujo\nAllen Crawford is a misanthropic sorcerer known as the “Dark Lord.” When he comes across Charlotte Evans, a noblewoman exiled on false charges, his memories of being betrayed three years ago come rushing back. He decides to teach Charlotte about all the pleasures, vices, and joys of naughty living. Can a broken heart be mended with riotous living? These two are bound to find out!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt0279077",
+      "type": "series",
+      "name": "FLCL: Grunge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146472-1Www8Sr5n3f4.jpg",
+      "description": "Genres: Action, Sci-Fi\nTags:CGI/Dystopian/Aliens/Coming of Age/Full CGI/Surreal Comedy/Robots/Gangs/Achronological Order/Male Protagonist/Swordplay/Bullying/Heterosexual/Motorcycles/Artificial Intelligence/Fishing/Food/Slapstick/Achromatic\nThe fourth season of FLCL, and sequel to <i>FLCL Alternative</i>. It centers on three teenagers who graduated and have started working. The CGI anime will have a theme of the feeling of being an adult.\n<br><br>\n(Source: Anime News Network, edited)"
+    },
+    {
       "id": "tt7451284",
       "type": "series",
       "name": "UNDER NINJA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138788-CXUvAraN1xha.jpg",
       "description": "Genres: Action, Comedy\nTags:Ninja\nNinjas still exist in Japan today. They number around 200,000. The ninja organization NIN (National Intelligence of NINJA) is not controlled by the civilian government, with its elite members performing assassinations and sabotage in secret. There is an organization that opposes NIN: UN (Under Ninja). Ninja versus ninja: What lies waiting at the end of this shadowy feud?<br>\n<br>\n(Source: Crunchyroll)"
-    },
-    {
-      "id": "tt9058134",
-      "type": "series",
-      "name": "KENGAN ASHURA Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146638-THVltMZx1WLk.jpg",
-      "description": "Genres: Action, Sports\nTags:Martial Arts/Male Protagonist/Primarily Adult Cast/Boxing/Wrestling/Ensemble Cast/Athletics/CGI\nThe second season of <i>Kengan Ashura</i>."
     },
     {
       "id": "tt7712706",
@@ -285,7 +278,7 @@
       "type": "series",
       "name": "OVERTAKE!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160515-02jyy9B3qpFc.jpg",
-      "description": "Genres: Sports\nTags:Cars/Photography\nHaruka Asahina is a 16 year old high school boy racing F4 cars while staying at Komaki Motos, an auto-body shop in Shizuoka prefecture. Komaki Motors ia family-run shop that regularly competes in F4 with the team comprised of: owner Futoshi Komaki who is also a mechanic,his daugter Mako Komaki and now Haruka Asahina. Because this is a family-run business, they receive no support usually from any major manufacturers. Haruka Asahina boldly confronts the top teams head-on to get the attention of these revered companies in hopes of making it to the podium himself.<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Sports\nTags:Cars/Photography\nHaruka Asahina is a 16 year old high school boy racing F4 cars while staying at Komaki Motos, an auto-body shop in Shizuoka prefecture. Komaki Motors is a family-run shop that regularly competes in F4 with the team comprised of: owner Futoshi Komaki who is also a mechanic, his daugter Mako Komaki, and now Haruka Asahina. Because this is a family-run business, they receive no support usually from any major manufacturers. Haruka Asahina boldly confronts the top teams head-on to get the attention of these revered companies in hopes of making it to the podium himself.<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt29257041",
@@ -295,7 +288,7 @@
       "description": "Genres: Action, Fantasy\nTags:Dystopian/Pandemic/War/Terrorism/Amnesia/Kemonomimi\nOripathy, an incurable disease that slowly crystallizes the bodies of those infected until their deaths.\n<br><br>\nRhodes Island is a pharmaceutical company that endeavors to find a cure and solve the problems that follow in the disease's wake,\nand in an attempt to put a stop to the revolt of the terrorist organization known as Reunion Movement whose ultimate goal is the salvation of the Infected,\nRhodes Island has formed a contract with the Yanese city of Lungmen and continues its mission there.\n<br><br>\nHowever, Amiya has found herself despondent since their battle against Skullshatterer, unable to accept the fact they were unable to save Misha.\n<br><br>\nIn the meantime, Rhodes Island deploys a reconnaissance squad to an abandoned city discovered in the Lungmen countryside.\nThere, the squad notices a strange phenomenon unfolding before them…"
     },
     {
-      "id": "tt9174718",
+      "id": "tt28766864",
       "type": "series",
       "name": "Butareba -The Story of a Man Turned into a Pig-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142599-0IwWtxGRmZT8.jpg",
@@ -316,13 +309,6 @@
       "description": "Genres: Sci-Fi\nTags:\nThe fifth season of FLCL, and sequel to <i>FLCL: Grunge</i>. The anime will take place 10 years after <i>FLCL Alternative</i> and will center on a high school boy and girl. <br><br>\n(Source: Anime News Network, edited) "
     },
     {
-      "id": "kitsu:46141",
-      "type": "series",
-      "name": "Paradox Live THE ANIMATION",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150077-40T50Llw8RyV.png",
-      "description": "Genres: Music\nTags:\nAvex and GCREST's hip-hop-themed multimedia project takes place in the near future, where rappers wear accessories that contain a metallic substance called Phantom Metal. Through the Phantom Metal's chemical reaction with the rappers' own DNA, the rapper can create illusions linked to their emotions during their performance. The result is a new type of spectacular concert.<br>\n<br>\n(Source: Anime News Network)"
-    },
-    {
       "id": "tt28772401",
       "type": "series",
       "name": "Protocol: Rain",
@@ -330,11 +316,11 @@
       "description": "Genres: Drama\nTags:E-Sports\nThe story centers on Shun Tokinoya, a second-year high school living with his mother and younger sister. After his father's death in an accident and his sister's injury, he quit the game he was passionate about, and now works at an esports café called \"FOX ONE.\" He spends all his time studying and working part-time while hanging out with his childhood gaming friends. Suddenly, he learns that \"FOX ONE\" has a huge amount of debts. In order to repay the debts, Shun and his friends aim to win the \"Xaxerion Championship\" and win the prize money. With a sense of guilt, Shun jumps back into the world of online games, and is confronted by Bakuretsu-kun, who used to play the game with him.<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt8253268",
+      "id": "kitsu:46141",
       "type": "series",
-      "name": "Uma Musume: Pretty Derby Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156632-QnKMOaso3n2y.jpg",
-      "description": "Genres: Drama, Slice of Life, Sports\nTags:Kemonomimi/Athletics/Primarily Female Cast/Animals/Idol/Female Protagonist/Primarily Teen Cast/School\nThe third season of <i>Uma Musume: Pretty Derby</i>."
+      "name": "Paradox Live THE ANIMATION",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150077-40T50Llw8RyV.png",
+      "description": "Genres: Music\nTags:\nAvex and GCREST's hip-hop-themed multimedia project takes place in the near future, where rappers wear accessories that contain a metallic substance called Phantom Metal. Through the Phantom Metal's chemical reaction with the rappers' own DNA, the rapper can create illusions linked to their emotions during their performance. The result is a new type of spectacular concert.<br>\n<br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt28769801",
@@ -344,11 +330,25 @@
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Video Games/Virtual World/Archery/Artificial Intelligence\nA new type of VRMMO called \"One More Free Life Online\" is out. He logs in as a young boy avatar called \"Earth\". Taichi Tanaka (38, single) has a regular office job and enjoys playing video games in his free time. In a world where the player is free to do as they wish, he decides to master a skill that's been deemed to be useless! He makes potions that are too much of a hassle to make, cooks food that is excessively too good, and uses bizarre original weapons to hunt monsters...<br><br>\n(Source: Alpha Manga)<br>\n<br><i>Note: The first 2 episodes were exclusively shown as a world premiere during the Anime Messe Babelsberg 2023 in July as a part of a special Anime Panel. </i><br>\n"
     },
     {
+      "id": "tt8253268",
+      "type": "series",
+      "name": "Uma Musume: Pretty Derby Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156632-QnKMOaso3n2y.jpg",
+      "description": "Genres: Drama, Slice of Life, Sports\nTags:Kemonomimi/Athletics/Primarily Female Cast/Animals/Idol/Female Protagonist/Primarily Teen Cast/School\nThe third season of <i>Uma Musume: Pretty Derby</i>."
+    },
+    {
       "id": "kitsu:47227",
       "type": "series",
       "name": "KamiErabi GOD.app",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162984-UzH4iQYyqSwf.jpg",
       "description": "Genres: \nTags:Full CGI/Battle Royale\nGoro, a first-year high school student at a private high school in Tokyo, has no hopes, no dreams, and no ambitions. The world is indifferent to him, and he has a faint longing for Honoka, a classmate from the same school. He and his best friend Akitsu live a boring, unchanging life. One day, Goro receives a strange notification on his smartphone: “You have been chosen. Breathe into me your wish.\" Thinking it malicious spam, Goro types, \"I want to have sex with Honoka, the woman of my dreams.” \n<br><br>\nThe next day, Honoka invites him to drop his pants at an unpopular arcade… “Congratulations on your great accomplishment!” Then, a mysterious girl, Lall, suddenly appears. Confused by this series of events, Goro is told of a cruel fate. Goro has been chosen by the \"Great Will\" to become a god to make his wish come true. With other potential gods, they are to kill one another until there is only one left. The ability given is the \"Scripture of Fools\". At the cost of the \"Misfortune\" that befalls you, the power to twist the cause and effect of the world and manipulate the reason of this world at will. \n<br><br>\nThe first god candidate who appeared to kill Goro was, of course, Honoka, whom he had longed for. What choice will Goro make against Honoka, who attacks him mercilessly? Thus, the fetish battle royal by the god candidates, each with their own secrets, begins!<br><br>\n(Source: Slow Curve)"
+    },
+    {
+      "id": "tt29171927",
+      "type": "series",
+      "name": "I Shall Survive Using Potions!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161992-XwIJpQUHXwQv.jpg",
+      "description": "Genres: Fantasy\nTags:Isekai/Female Protagonist/Gods/Magic\nNagase Kaoru, a 22-year-old office lady, suddenly finds herself reincarnated in another world. To help her survive in this new world, a being that amounts to its god gives Kaoru a younger body and... the ability to make insanely overpowered potions?! The reincarnated Kaoru must use her knowledge and cheatery to survive!<br>\n<br>\n(Source: Crunchyroll)"
     }
   ]
 }
