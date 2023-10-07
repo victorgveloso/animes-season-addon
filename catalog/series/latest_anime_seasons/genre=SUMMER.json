@@ -61,7 +61,7 @@
       "type": "series",
       "name": "Reign of the Seven Spellblades",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142598-0jpRK2h0v1hd.jpg",
-      "description": "Genres: Action, Fantasy\nTags:Magic/School/Primarily Teen Cast/Swordplay/Male Protagonist/Samurai/Gore/Torture/Animals/Alchemy\nIt’s springtime at Kimberly Magic Academy, and new students are beginning their first year. Among them are a skilled and studious boy, Oliver, and a headstrong samurai girl, Nanao. They soon form a unique bond in the halls of Kimberly, but this picturesque school isn’t what it seems. Dark secrets and endless danger lurk behind every corner. Can these wizards make it to graduation alive?!<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Action, Fantasy\nTags:Magic/School/Primarily Teen Cast/Gore/Ensemble Cast/Shounen/Swordplay/Male Protagonist/Samurai/Torture/Animals/Alchemy\nIt’s springtime at Kimberly Magic Academy, and new students are beginning their first year. Among them are a skilled and studious boy, Oliver, and a headstrong samurai girl, Nanao. They soon form a unique bond in the halls of Kimberly, but this picturesque school isn’t what it seems. Dark secrets and endless danger lurk behind every corner. Can these wizards make it to graduation alive?!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt11448214",
@@ -138,7 +138,7 @@
       "type": "series",
       "name": "Classroom for Heroes",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139606-LrYkytn7fVwt.jpg",
-      "description": "Genres: Action, Fantasy, Slice of Life\nTags:Male Protagonist/School/Female Harem/Nudity/Swordplay/Demons/Magic/Centaur/Primarily Teen Cast\nThe story is set in Rosewood Academy, a school that trains future heroes destined to protect mankind. The school accepts only those with the most potential. Arnest Flaming, a girl who boasts the top record in the academy, is assigned to guide a mysterious but cheerful new student named Blade who rivals her own power.<br>\n<br>\n(Source: Anime News Network)"
+      "description": "Genres: Action, Fantasy, Slice of Life\nTags:Male Protagonist/School/Female Harem/Nudity/Swordplay/Demons/Magic/Centaur/Primarily Teen Cast/Dragons\nThe story is set in Rosewood Academy, a school that trains future heroes destined to protect mankind. The school accepts only those with the most potential. Arnest Flaming, a girl who boasts the top record in the academy, is assigned to guide a mysterious but cheerful new student named Blade who rivals her own power.<br>\n<br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt0972713",
@@ -309,6 +309,13 @@
       "description": "Genres: Drama, Music, Slice of Life\nTags:Female Protagonist/Band/School/Coming of Age/Primarily Female Cast/Ensemble Cast/School Club/Primarily Teen Cast\nAlong with the summer brass band competition, the ensemble contest, commonly known as \"Ancon,\" is a place where exciting performances are held. The performance of several people in one group has a charm different from that of a competition.<br><br>\n\nIn order to participate in the Kyoto prefectural tournament of Ancon, a representative team is selected in the school's preliminary round. However, with over 50 members, the Kitauji High School brass band is facing a variety of problems! Will Kumiko, the newly appointed head of the club, be able to make it through the preliminary rounds?<br><br>\nThe days of struggle begin.<br><br>\n\n(Source: Official Site, translated)"
     },
     {
+      "id": "tt0279077",
+      "type": "series",
+      "name": "FLCL: Grunge",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146472-1Www8Sr5n3f4.jpg",
+      "description": "Genres: Action, Sci-Fi\nTags:CGI/Dystopian/Aliens/Coming of Age/Full CGI/Surreal Comedy/Robots/Gangs/Achronological Order/Male Protagonist/Swordplay/Bullying/Heterosexual/Motorcycles/Artificial Intelligence/Fishing/Food/Slapstick/Achromatic\nThe fourth season of FLCL, and sequel to <i>FLCL Alternative</i>. It centers on three teenagers who graduated and have started working. The CGI anime will have a theme of the feeling of being an adult.\n<br><br>\n(Source: Anime News Network, edited)"
+    },
+    {
       "id": "tt26140070",
       "type": "series",
       "name": "Malevolent Spirits: Mononogatari Cour 2",
@@ -342,13 +349,6 @@
       "name": "The Seven Deadly Sins: Grudge of Edinburgh Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162291-zo1U7pwrgEEh.jpg",
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Fairy/Swordplay/Full CGI/Super Power/CGI\nThe second half of <i>The Seven Deadly Sins: Grudge of Edinburgh</i>. <br><br>\n\nReunited with Lancelot for the first time since their tragic accident, Tristan must learn to conquer his inner demons in order to save his mother's life. <br><br>\n\n(Source: Netflix)"
-    },
-    {
-      "id": "kitsu:13110",
-      "type": "series",
-      "name": "Hizukuri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98875-DaOUqpdr99ng.jpg",
-      "description": "Genres: Adventure, Fantasy, Sci-Fi\nTags:\nIn a city of a parallel world. A boy finds a pair of broken scissors from his father’s belongings after he passed away. \nAnd a boy’s mother tells him that his father had been a gardener in the past. \nThen he figures out the scissors were made by Sasuke, who is an artisan living in a foreign country. \nThe boy travels all the way to a place where Sasuke lives in order to get his scissors fixed.  <br></br>(Source: Official Site)"
     }
   ]
 }
