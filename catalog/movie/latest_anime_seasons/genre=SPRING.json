@@ -103,7 +103,7 @@
     {
       "id": "tt27892601",
       "type": "movie",
-      "name": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD",
+      "name": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 1",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161440-V9Uzs9dw0BBb.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt27892601"
@@ -129,6 +129,16 @@
         "defaultVideoId": "tt15560314"
       },
       "description": "Genres: Drama\nTags:\nIn the 19th century, a rice merchant encounters a mother who tries to buy rice in exchange for her own child's clothes. The merchant becomes Monk Seishin and relieves the islanders of Miyajima from poverty by digging wells and starting the wooden ladle industry."
+    },
+    {
+      "id": "tt27892601",
+      "type": "movie",
+      "name": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170087-uznAU6AOZiPj.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27892601"
+      },
+      "description": "Genres: Music\nTags:\nDay 2 of IDOLiSH's Concert Film - BEYOND THE PERIOD"
     }
   ]
 }
