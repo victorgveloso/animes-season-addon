@@ -20,6 +20,10 @@ export class Catalog {
         this.metas.push(meta);
     }
 
+    getMetas() : Meta[] {
+        return this.metas;
+    }
+
     /**
      * Create a file at path with the contents of metas
      */
