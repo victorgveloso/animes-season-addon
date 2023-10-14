@@ -121,16 +121,6 @@
       "description": "Genres: Music, Slice of Life\nTags:Idol/Primarily Adult Cast/Primarily Male Cast\nTheatrical follow-up to <i>Eikyuu Shounen: Eternal Boys</i>."
     },
     {
-      "id": "tt15560314",
-      "type": "movie",
-      "name": "Monk SEISHIN",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168553-FgYmrNklcGAE.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt15560314"
-      },
-      "description": "Genres: Drama\nTags:\nIn the 19th century, a rice merchant encounters a mother who tries to buy rice in exchange for her own child's clothes. The merchant becomes Monk Seishin and relieves the islanders of Miyajima from poverty by digging wells and starting the wooden ladle industry."
-    },
-    {
       "id": "tt27892601",
       "type": "movie",
       "name": "IDOLiSH7: LIVE 4bit - BEYOND THE PERiOD DAY 2",
@@ -139,6 +129,16 @@
         "defaultVideoId": "tt27892601"
       },
       "description": "Genres: Music\nTags:Idol/Primarily Male Cast/Full CGI\nDay 2 of IDOLiSH's Concert Film - BEYOND THE PERIOD"
+    },
+    {
+      "id": "tt15560314",
+      "type": "movie",
+      "name": "Monk SEISHIN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168553-FgYmrNklcGAE.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15560314"
+      },
+      "description": "Genres: Drama\nTags:\nIn the 19th century, a rice merchant encounters a mother who tries to buy rice in exchange for her own child's clothes. The merchant becomes Monk Seishin and relieves the islanders of Miyajima from poverty by digging wells and starting the wooden ladle industry."
     }
   ]
 }
