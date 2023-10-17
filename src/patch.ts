@@ -2,6 +2,7 @@ import * as fs from "fs";
 import * as path from "path";
 import { Catalog } from "./stremio";
 export class Patches {
+    private line: string = "";
     private filePath: string;
     private patches: any = {
         movie: {
@@ -20,6 +21,23 @@ export class Patches {
     constructor(filePath?: string) {
         this.filePath = filePath || path.join(__dirname, "../../postprocess/fix/catalog/manual.csv");
     }
+    private popNext(): string {
+        let separator = ","
+        if (this.line[0] === '"') {
+            separator = "\",";
+            this.line = this.line.slice(1);
+        }
+        const nextQuote = this.line.indexOf(separator);
+        let result;
+        if (nextQuote === -1) {
+            result = this.line;
+        } else {
+            result = this.line.slice(0, nextQuote);
+        }
+        console.log(`popNext: ${this.line} => ${result}`);
+        this.line = this.line.slice(nextQuote + separator.length);
+        return result;
+    }
     loadCatalogManualFixPatches() {
         /**
          * Reads the manual fix patches from the file system and return map.
@@ -28,7 +46,8 @@ export class Patches {
         const patchFilepath = this.filePath;
         const patchFileContent = fs.readFileSync(patchFilepath, "utf8");
         for (const line of patchFileContent.split("\n")) {
-            const [type,season,name,oldID,newID] = line.split(",");
+            this.line = line;
+            const [type,season,name,oldID,newID] = [this.popNext(),this.popNext(),this.popNext(),this.popNext(),this.popNext()];
             if (!isNaN(season as any)) {
                 this.patches[type] = {...this.patches[type], [season]: this.patches[type][season] || new Map()};
             }

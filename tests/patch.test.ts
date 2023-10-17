@@ -29,11 +29,13 @@ describe('loadCatalogManualFixPatches summer movie', () => {
     });
 });
 
-describe('loadCatalogManualFixPatches 2001 series', () => {
+describe.each([ ["series,2001,Fruits Basket,tt0279850,tt0279851", "Fruits Basket"],
+                ['series,2001,"Fruits Basket",tt0279850,tt0279851', "Fruits Basket"],
+                ['series,2001,"Fruits,Basket",tt0279850,tt0279851', "Fruits,Basket"]])('loadCatalogManualFixPatches 2001 series', (input, name) => {
     let filepath = "tests-loadCatalogManualFixPatches-manual.csv";
     const patchCtl = new Patches(filepath);
     beforeEach(()=>{
-        fs.writeFileSync(filepath, "series,2001,Fruits Basket,tt0279850,tt0279851");
+        fs.writeFileSync(filepath, input);
     });
     it('should map with only Fruits Basket in 2001 series', () => {
         let res = patchCtl.loadCatalogManualFixPatches();
@@ -49,7 +51,7 @@ describe('loadCatalogManualFixPatches 2001 series', () => {
                 WINTER: new Map(),
                 SPRING: new Map(),
                 FALL: new Map(),
-                2001: new Map([["Fruits Basket", {"tt0279850": "tt0279851"}]])
+                2001: new Map([[name, {"tt0279850": "tt0279851"}]])
             }
         });
     });
