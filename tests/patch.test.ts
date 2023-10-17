@@ -1,13 +1,14 @@
-import { loadCatalogManualFixPatches } from '../src/patch';
+import { Patches } from '../src/patch';
 import * as fs from "fs";
 
 describe('loadCatalogManualFixPatches summer movie', () => {
     let filepath = "tests-loadCatalogManualFixPatches-summer-movie-manual.csv";
+    const patchCtl = new Patches(filepath);
     beforeEach(()=>{
         fs.writeFileSync(filepath, "movie,SUMMER,The God of High School,tt12451520,tt1245152");
     });
     it('should map with only The God of High School in SUMMER movies', () => {
-        let res = loadCatalogManualFixPatches(filepath);
+        let res = patchCtl.loadCatalogManualFixPatches();
         expect(res).toEqual({
             movie: {
                 SUMMER: new Map([["The God of High School", {"tt12451520": "tt1245152"}]]),
@@ -30,11 +31,12 @@ describe('loadCatalogManualFixPatches summer movie', () => {
 
 describe('loadCatalogManualFixPatches 2001 series', () => {
     let filepath = "tests-loadCatalogManualFixPatches-manual.csv";
+    const patchCtl = new Patches(filepath);
     beforeEach(()=>{
         fs.writeFileSync(filepath, "series,2001,Fruits Basket,tt0279850,tt0279851");
     });
     it('should map with only Fruits Basket in 2001 series', () => {
-        let res = loadCatalogManualFixPatches(filepath);
+        let res = patchCtl.loadCatalogManualFixPatches();
         expect(res).toEqual({
             movie: {
                 SUMMER: new Map(),
