@@ -34,7 +34,6 @@ export class Patches {
         } else {
             result = this.line.slice(0, nextQuote);
         }
-        console.log(`popNext: ${this.line} => ${result}`);
         this.line = this.line.slice(nextQuote + separator.length);
         return result;
     }
