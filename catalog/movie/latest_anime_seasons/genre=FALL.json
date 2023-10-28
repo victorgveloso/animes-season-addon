@@ -28,7 +28,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt11822984"
       },
-      "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Mixed Gender Harem/Male Harem/Female Harem/Isekai/Shoujo/Villainess/Female Protagonist/Incest\nnull"
+      "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:Mixed Gender Harem/Male Harem/Female Harem/Isekai/Female Protagonist/Villainess/Shoujo/Incest\nnull"
     },
     {
       "id": "tt2294076",
@@ -93,20 +93,20 @@
     {
       "id": "tt22474136",
       "type": "movie",
-      "name": "Digimon Adventure 02 THE BEGINNING",
+      "name": "Digimon Adventure 02 The Beginning",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137310-vs8V9IrCHIZ2.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt22474136"
       },
-      "description": "Genres: \nTags:Kids\nA new Digimon Adventure 02 movie telling the story of the first person to ever partner with a Digimon.\n"
+      "description": "Genres: Drama, Fantasy\nTags:Kids\nA new Digimon Adventure 02 movie telling the story of the first person to ever partner with a Digimon.\n"
     },
     {
-      "id": "tt20414228",
+      "id": "tt17075702",
       "type": "movie",
       "name": "Gintama on Theater 2D: Baragaki-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169000-LR5Cg0WPsZoj.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt20414228"
+        "defaultVideoId": "tt17075702"
       },
       "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:\nTheatrical cut of the Thorny Arc (episodes 244-247) featuring extra footage. The movie is a part of the \"Gintama 20th Anniversary Project\"."
     },
