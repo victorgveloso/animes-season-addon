@@ -19,7 +19,7 @@
       "type": "series",
       "name": "Frieren: Beyond Journey’s End",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-n1fmjRv4JQUd.jpg",
-      "description": "Genres: Adventure, Drama, Fantasy\nTags:Travel/Magic/Elf/Philosophy/Female Protagonist/Iyashikei/Shoujo/Coming of Age/Environmental/Kuudere/Dragons/Demons/Dungeon/Episodic\nThe adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…\n<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Adventure, Drama, Fantasy\nTags:Travel/Magic/Elf/Philosophy/Female Protagonist/Iyashikei/Coming of Age/Environmental/Kuudere/Dragons/Demons/Shoujo/Dungeon/Episodic\nThe adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt14115938",
@@ -82,7 +82,7 @@
       "type": "series",
       "name": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162694-7dx7dawGFylP.png",
-      "description": "Genres: Comedy, Ecchi, Romance\nTags:Female Harem/Ensemble Cast/Primarily Female Cast/Surreal Comedy/Parody/Meta/Tsundere/Male Protagonist/Slapstick/Seinen/Primarily Teen Cast\nRentarou Aijou was rejected 100 times in middle school. He visits a shrine and prays for better luck in high school. The God of Love appears and promises that he’ll soon meet 100 people he’s destined to date. But there’s a catch—once destiny introduces someone to him, the two must happily love each other. If they don’t, they’ll die. What will befall Rentarou and his 100 girlfriends in high school?\n<br><br>\n(Source: Crunchyroll) "
+      "description": "Genres: Comedy, Ecchi, Romance\nTags:Female Harem/Ensemble Cast/Primarily Female Cast/Surreal Comedy/Parody/Meta/Male Protagonist/Tsundere/Slapstick/Seinen/Primarily Teen Cast\nRentarou Aijou was rejected 100 times in middle school. He visits a shrine and prays for better luck in high school. The God of Love appears and promises that he’ll soon meet 100 people he’s destined to date. But there’s a catch—once destiny introduces someone to him, the two must happily love each other. If they don’t, they’ll die. What will befall Rentarou and his 100 girlfriends in high school?\n<br><br>\n(Source: Crunchyroll) "
     },
     {
       "id": "tt28776190",
@@ -99,13 +99,6 @@
       "description": "Genres: Action, Adventure, Fantasy, Mystery\nTags:Dragons/Revenge/Shounen/Magic/Male Protagonist/Gender Bending\nDragons reign terror over the earth, sea and sky. If sworn dragon hunters like Ragna are to have any hope of dealing death to these seemingly invincible, fire-breathing beasts, they must find a way to level the odds. Ragna teams up with a mysterious man named Crimson who has likewise sworn to stand against the dragons menacing the world. But although Crimson’s motivations may be mysterious, his goal and Ragna’s perfectly align, and together they’ll fight to vanquish the dragons once and for all.<br>\n<br>\n(Source: Sentai Filmworks)<br>\n<br>\n<i>Note: The first episode aired with a runtime of ~47 minutes.</i>"
     },
     {
-      "id": "tt4967674",
-      "type": "series",
-      "name": "Our Dating Story: The Experienced You and The Inexperienced Me",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154459-foR6BMJayEbi.jpg",
-      "description": "Genres: Romance\nTags:Heterosexual/Gyaru/Love Triangle/Coming of Age/Male Protagonist/Primarily Teen Cast/School\nRyuuto Kashima is the school’s gloomy introvert, and he’s got a crush on Runa Shirakawa, the popular girl. After losing a bet to classmates, he confesses his feelings to Runa one day. Shocked and secretly just as inexperienced as Ryuuto, Runa agrees to date him. The relationship grows between two people who are as similar as they are different. Will their young love blossom? Time will tell!<br>\n<br>\n(Source: Crunchyroll)"
-    },
-    {
       "id": "tt2358913",
       "type": "series",
       "name": "Berserk of Gluttony",
@@ -113,18 +106,25 @@
       "description": "Genres: Action, Adventure, Drama, Fantasy, Romance\nTags:Male Protagonist/Magic/Swordplay/Bullying/Goblin\nFate Graphite was born into a world where magical skills shape your destiny. His skill is Gluttony, a seemingly useless curse of unending hunger that has left him shunned and looked down upon. Until one day, after he takes the life of a thief, his true power awakens: he can devour the skill of anyone he kills to feed his appetite. Will he learn to control this gruesome ability for the better?<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt4967674",
+      "type": "series",
+      "name": "Our Dating Story: The Experienced You and The Inexperienced Me",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154459-foR6BMJayEbi.jpg",
+      "description": "Genres: Romance\nTags:Heterosexual/Gyaru/Love Triangle/Coming of Age/Male Protagonist/Primarily Teen Cast/School\nRyuuto Kashima is the school’s gloomy introvert, and he’s got a crush on Runa Shirakawa, the popular girl. After losing a bet to classmates, he confesses his feelings to Runa one day. Shocked and secretly just as inexperienced as Ryuuto, Runa agrees to date him. The relationship grows between two people who are as similar as they are different. Will their young love blossom? Time will tell!<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt26737616",
       "type": "series",
       "name": "PLUTO",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99088-4Icp2tI40TZL.png",
-      "description": "Genres: Action, Mystery, Psychological, Sci-Fi\nTags:Robots/Detective/Artificial Intelligence/Seinen/Police/Politics/Crime/Philosophy/War/Foreign/Noir/Anachronism\nA murder occurs in an orderly world where robots are unable to kill humans. The robotic Europol investigator Gesicht takes the case, but the mystery deepens when he finds no trace of a human at the scene of the crime. As he pursues the truth, Gesicht uncovers the most evil manifestation of hate that history ever seen, one that is bent on bringing destruction to the world ...<br>\n<br>\n(Source: Netflix)"
+      "description": "Genres: Action, Mystery, Psychological, Sci-Fi\nTags:Robots/Artificial Intelligence/Detective/Seinen/Police/Politics/Crime/Philosophy/War/Foreign/Noir/Anachronism/Guns\nA murder occurs in an orderly world where robots are unable to kill humans. The robotic Europol investigator Gesicht takes the case, but the mystery deepens when he finds no trace of a human at the scene of the crime. As he pursues the truth, Gesicht uncovers the most evil manifestation of hate that history ever seen, one that is bent on bringing destruction to the world ...<br>\n<br>\n(Source: Netflix)"
     },
     {
       "id": "tt29370857",
       "type": "series",
       "name": "Ron Kamonohashi's Forbidden Deductions",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158926-u3Sb0d0jagoI.jpg",
-      "description": "Genres: Drama, Mystery\nTags:Detective/Work/Police/Male Protagonist/Crime/Urban/Primarily Adult Cast/Hikikomori/Shounen/Episodic/Amnesia\nRon Kamonohashi was once regarded as a genius at the top detective training academy. But after a fatal mistake, he was expelled and forbidden to become a detective. Years later, police officer Totomaru Isshiki knocks on Ron’s door seeking help on a serial murder case. He finds Ron, now a messy-haired recluse, who agrees. Together, this mismatched detective team begins solving their first mystery!<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Drama, Mystery\nTags:Detective/Work/Police/Male Protagonist/Primarily Adult Cast/Crime/Hikikomori/Shounen/Episodic/Urban/Amnesia\nRon Kamonohashi was once regarded as a genius at the top detective training academy. But after a fatal mistake, he was expelled and forbidden to become a detective. Years later, police officer Totomaru Isshiki knocks on Ron’s door seeking help on a serial murder case. He finds Ron, now a messy-haired recluse, who agrees. Together, this mismatched detective team begins solving their first mystery!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt1183366",
@@ -159,7 +159,7 @@
       "type": "series",
       "name": "The Vexations of a Shut-In Vampire Princess",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159808-svpzcGb6ig4X.jpg",
-      "description": "Genres: Action, Comedy, Fantasy\nTags:Yuri/Vampire/Primarily Female Cast/Female Protagonist/War/LGBTQ+ Themes/Hikikomori/Tsundere/Nudity/Magic/Maids/Gore\nThree years into her life as a shut-in, vampire Terakomari Gandesblood (Komari for short), awakens to find she’s been appointed as a Commander in the Mulnite Imperial Army! The thing is, her new unit consists solely of belligerent ruffians who revolt against their superiors at the slightest hint of weakness. Although Komari hails from a line of vampires as powerful as they are prestigious, her refusal to drink blood has made her the picture of mediocrity—scrawny, un-coordinated, and inept at magic. With the odds stacked against her, will the help of her trusty (and slightly infatuated) maid Vill be enough for this recluse to blunder her way to success? Or will Komari rue the day she ever left the safety of her room?<br>\n<br>\n(Source: Yen Press)"
+      "description": "Genres: Action, Comedy, Fantasy\nTags:Vampire/Primarily Female Cast/Yuri/Female Protagonist/War/Hikikomori/Tsundere/Nudity/LGBTQ+ Themes/Magic/Maids/Gore\nThree years into her life as a shut-in, vampire Terakomari Gandesblood (Komari for short), awakens to find she’s been appointed as a Commander in the Mulnite Imperial Army! The thing is, her new unit consists solely of belligerent ruffians who revolt against their superiors at the slightest hint of weakness. Although Komari hails from a line of vampires as powerful as they are prestigious, her refusal to drink blood has made her the picture of mediocrity—scrawny, un-coordinated, and inept at magic. With the odds stacked against her, will the help of her trusty (and slightly infatuated) maid Vill be enough for this recluse to blunder her way to success? Or will Komari rue the day she ever left the safety of her room?<br>\n<br>\n(Source: Yen Press)"
     },
     {
       "id": "tt28313387",
@@ -208,7 +208,7 @@
       "type": "series",
       "name": "MF GHOST",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143327-6gv1QzquNg2o.png",
-      "description": "Genres: Sci-Fi, Sports\nTags:Cars/Seinen/Primarily Male Cast/Male Protagonist/CGI/School\n202X A.D., a future beyond <i>Initial D. </i>\n<br><br>\nSelf-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. <br><br>\n(Source: Crunchyroll)\n\n "
+      "description": "Genres: Sci-Fi, Sports\nTags:Cars/Seinen/Primarily Male Cast/Male Protagonist/CGI/School/Primarily Adult Cast\n202X A.D., a future beyond <i>Initial D. </i>\n<br><br>\nSelf-driving cars are in widespread use in Japan, and public roadways are used for auto racing. In such an era, a race called MFG has become popular around the globe. Porsche, Ferrari, Lamborghini… Participants are invited to race with their fastest cars. One such participant, a British racing school graduate, Kanata Rivington, returns to Japan to achieve his goal. <br><br>\n(Source: Crunchyroll)\n\n "
     },
     {
       "id": "tt4744926",
@@ -236,7 +236,7 @@
       "type": "series",
       "name": "Stardust Telepath",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155419-tPkRvXYb9ffC.png",
-      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Aliens/Female Protagonist/Coming of Age/Educational/Yuri/School Club/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
+      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Aliens/Female Protagonist/Coming of Age/Educational/School Club/Yuri/Seinen\nKonohoshi Umika is a high-schooler who is very bad at communicating with others. Feeling almost like an alien trapped on Earth with nowhere to belong, one day she meets a girl who claims to be an actual alien!"
     },
     {
       "id": "tt7326322",
@@ -285,7 +285,7 @@
       "type": "series",
       "name": "The Family Circumstances of the Irregular Witch",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154454-9gZSDOmcBwrn.jpg",
-      "description": "Genres: Comedy, Fantasy\nTags:Witch/Family Life/Magic/Found Family/Cute Girls Doing Cute Things/Primarily Female Cast/Female Protagonist/Tanned Skin\nWhen witch Alyssa found a baby on her doorstep, she didn’t expect her life to take a topsy-turvy turn. Despite her bewilderment, she names the child Viola and decides to raise her. Fast-forward 16 years, and her “daughter” Viola isn’t just taller—she’s towering! Join this bewitching duo in a hilariously chaotic journey of mistaken identities and supernatural shenanigans!<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Comedy, Fantasy\nTags:Witch/Family Life/Magic/Found Family/Primarily Female Cast/Cute Girls Doing Cute Things/Female Protagonist/Tanned Skin\nWhen witch Alyssa found a baby on her doorstep, she didn’t expect her life to take a topsy-turvy turn. Despite her bewilderment, she names the child Viola and decides to raise her. Fast-forward 16 years, and her “daughter” Viola isn’t just taller—she’s towering! Join this bewitching duo in a hilariously chaotic journey of mistaken identities and supernatural shenanigans!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt3909224",
@@ -313,7 +313,7 @@
       "type": "series",
       "name": "Butareba -The Story of a Man Turned into a Pig-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142599-0IwWtxGRmZT8.jpg",
-      "description": "Genres: Comedy, Fantasy\nTags:Male Protagonist/Isekai/Magic/Survival/Conspiracy/Amnesia/Female Protagonist\nAn unappealing otaku awakens in the body of a pig after he passes out while eating raw pig liver. Pig finds himself in the company of Jess, an innocent girl who can read people's minds, and she accepts him despite his boorish thoughts... although she does plan to eat him. When Jess is in danger of succumbing to a dark destiny, can Pig save her using only his quick wits, wisdom, and refined sense of smell?"
+      "description": "Genres: Comedy, Fantasy\nTags:Male Protagonist/Isekai/Magic/Survival/Conspiracy/Amnesia/Female Protagonist/Maids/Primarily Teen Cast/Religion/Slavery/Super Power\nAn unappealing otaku awakens in the body of a pig after he passes out while eating raw pig liver. Pig finds himself in the company of Jess, an innocent girl who can read people's minds, and she accepts him despite his boorish thoughts... although she does plan to eat him. When Jess is in danger of succumbing to a dark destiny, can Pig save her using only his quick wits, wisdom, and refined sense of smell?"
     },
     {
       "id": "tt28521881",
@@ -348,7 +348,7 @@
       "type": "series",
       "name": "My New Boss is Goofy",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165070-0OlcD1TA6pe4.jpg",
-      "description": "Genres: Comedy\nTags:Cute Boys Doing Cute Things/Primarily Male Cast/Iyashikei/Male Protagonist/Work/Slapstick/Primarily Adult Cast/Shoujo/LGBTQ+ Themes/Bisexual\nAfter his power-tripping boss broke his spirit and his health, Momose leaves his job for a new job in sales at an advertising agency. However, on the very first day of his new job, Momose is unable to move due to a stomachache caused by his past traumas. \"What should I do if my new boss also abuses his power?\"<br>\n<br>\nThat's when his new boss, Shirosaki, takes him out to see clients. Just what exactly is Shirosaki going to do...?!<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Comedy\nTags:Cute Boys Doing Cute Things/Primarily Male Cast/Male Protagonist/Iyashikei/Work/Primarily Adult Cast/Slapstick/Shoujo/LGBTQ+ Themes/Boys' Love\nAfter his power-tripping boss broke his spirit and his health, Momose leaves his job for a new job in sales at an advertising agency. However, on the very first day of his new job, Momose is unable to move due to a stomachache caused by his past traumas. \"What should I do if my new boss also abuses his power?\"<br>\n<br>\nThat's when his new boss, Shirosaki, takes him out to see clients. Just what exactly is Shirosaki going to do...?!<br><br>\n(Source: Crunchyroll)"
     }
   ]
 }
