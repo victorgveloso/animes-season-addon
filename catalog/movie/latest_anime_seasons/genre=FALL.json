@@ -81,16 +81,6 @@
       "description": "Genres: Drama, Fantasy\nTags:\nnull"
     },
     {
-      "id": "tt16270512",
-      "type": "movie",
-      "name": "Kitarou Tanjou: Gegege no Nazo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130622-teeWBNWE9RPk.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt16270512"
-      },
-      "description": "Genres: Comedy, Horror, Supernatural\nTags:Youkai\nnull"
-    },
-    {
       "id": "tt22474136",
       "type": "movie",
       "name": "Digimon Adventure 02 The Beginning",
@@ -99,6 +89,16 @@
         "defaultVideoId": "tt22474136"
       },
       "description": "Genres: Drama, Fantasy\nTags:\nA new Digimon Adventure 02 movie telling the story of the first person to ever partner with a Digimon.\n"
+    },
+    {
+      "id": "tt16270512",
+      "type": "movie",
+      "name": "Kitarou Tanjou: Gegege no Nazo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130622-teeWBNWE9RPk.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt16270512"
+      },
+      "description": "Genres: Comedy, Horror, Supernatural\nTags:Youkai\nnull"
     },
     {
       "id": "tt17075702",
