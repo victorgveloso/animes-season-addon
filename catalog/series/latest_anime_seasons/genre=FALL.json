@@ -19,14 +19,14 @@
       "type": "series",
       "name": "The Rising of the Shield Hero Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111322-2jQMDQva4YD7.png",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Magic/Male Protagonist/Kemonomimi/Female Harem/Slavery/CGI\nThe third season of <i>Tate no Yuusha no Nariagari</i>.<br><br>\nAfter defeating the Spirit Tortoise, Naofumi has no time for rest. An attack from the next Guardian Beast is imminent, but the three other Cardinal Heroes have gone missing. So, Naofumi and his party set out to search for the legendary trio. <br><br>\n(Source: Crunchyroll News)"
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Magic/Male Protagonist/Kemonomimi/Slavery/CGI/Female Harem\nThe third season of <i>Tate no Yuusha no Nariagari</i>.<br><br>\nAfter defeating the Spirit Tortoise, Naofumi has no time for rest. An attack from the next Guardian Beast is imminent, but the three other Cardinal Heroes have gone missing. So, Naofumi and his party set out to search for the legendary trio. <br><br>\n(Source: Crunchyroll News)"
     },
     {
       "id": "tt2560140",
       "type": "series",
       "name": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162314-ocaEhYmvznFO.jpg",
-      "description": "Genres: Action, Drama, Fantasy, Psychological, Romance, Supernatural\nTags:Shapeshifting/Survival/Super Power/Kaiju/Anti-Hero/Revenge/Military/Post-Apocalyptic/Philosophy/CGI/Suicide/Primarily Adult Cast/Heterosexual/Shounen\nEren, as the Founding Titan, advances on Fort Salta with countless other Titans. Appearing before the refugees, who stand on the brink of despair, are Mikasa, Armin, Jean, Conny, Reiner, Pieck, and Levi, who narrowly escaped from the rumbling. The battle between former comrades and childhood friends with Eren concludes here.\n<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Action, Drama, Fantasy, Psychological, Romance, Supernatural\nTags:Shapeshifting/Survival/Super Power/Kaiju/Anti-Hero/Revenge/Military/Post-Apocalyptic/Philosophy/CGI/Suicide/Heterosexual/Primarily Adult Cast/Shounen\nEren, as the Founding Titan, advances on Fort Salta with countless other Titans. Appearing before the refugees, who stand on the brink of despair, are Mikasa, Armin, Jean, Conny, Reiner, Pieck, and Levi, who narrowly escaped from the rumbling. The battle between former comrades and childhood friends with Eren concludes here.\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt14115938",
@@ -47,14 +47,7 @@
       "type": "series",
       "name": "Undead Unluck",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154116-UetMXpm9W8nC.jpg",
-      "description": "Genres: Action, Comedy, Sci-Fi, Supernatural\nTags:Gore/Super Power/Female Protagonist/Male Protagonist/Shounen/Zombie/Martial Arts/Primarily Adult Cast/Nudity/Body Horror/Heterosexual/Suicide/Memory Manipulation/Real Robot\nAll Fuuko wants is a passionate romance like the one in her favorite shoujo manga. Unfortunately, her Unluck ability makes that impossible. But just as Fuuko hits rock bottom, Andy sweeps her off her feet—literally! Now she's become Andy's unwilling test subject as he works to find a way to trigger a stroke of Unluck big enough to kill him for good. However, when the pair discovers a secret organization is hunting them, it puts Andy's burial plans on hold.<br>\n<br>\n(Source: Viz Media)"
-    },
-    {
-      "id": "tt9679542",
-      "type": "series",
-      "name": "Dr. STONE New World Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162670-07XrFq2hreTx.jpg",
-      "description": "Genres: Action, Adventure, Comedy, Sci-Fi\nTags:Survival/Educational/Post-Apocalyptic/Ensemble Cast/Shounen/Male Protagonist/Asexual\nThe second cour  of <i>Dr. STONE: NEW WORLD</i>."
+      "description": "Genres: Action, Comedy, Sci-Fi, Supernatural\nTags:Female Protagonist/Male Protagonist/Super Power/Gore/Shounen/Zombie/Martial Arts/Primarily Adult Cast/Nudity/Body Horror/Heterosexual/Suicide/Memory Manipulation/Real Robot\nAll Fuuko wants is a passionate romance like the one in her favorite shoujo manga. Unfortunately, her Unluck ability makes that impossible. But just as Fuuko hits rock bottom, Andy sweeps her off her feet—literally! Now she's become Andy's unwilling test subject as he works to find a way to trigger a stroke of Unluck big enough to kill him for good. However, when the pair discovers a secret organization is hunting them, it puts Andy's burial plans on hold.<br>\n<br>\n(Source: Viz Media)"
     },
     {
       "id": "tt26743760",
@@ -62,6 +55,13 @@
       "name": "The Apothecary Diaries",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-7I8Cip7XRDhV.jpg",
       "description": "Genres: Drama, Mystery\nTags:Female Protagonist/Medicine/Historical/Detective/Work/Politics/Maids/Episodic/Chibi/Primarily Female Cast\nMaomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt9679542",
+      "type": "series",
+      "name": "Dr. STONE New World Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162670-07XrFq2hreTx.jpg",
+      "description": "Genres: Action, Adventure, Comedy, Sci-Fi\nTags:Survival/Educational/Post-Apocalyptic/Ensemble Cast/Shounen/Male Protagonist/Asexual\nThe second cour  of <i>Dr. STONE: NEW WORLD</i>."
     },
     {
       "id": "tt28776190",
@@ -110,7 +110,7 @@
       "type": "series",
       "name": "Berserk of Gluttony",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156039-JnepQcVxXLLW.jpg",
-      "description": "Genres: Action, Adventure, Drama, Fantasy, Romance\nTags:Male Protagonist/Magic/Swordplay/Bullying/Goblin\nFate Graphite was born into a world where magical skills shape your destiny. His skill is Gluttony, a seemingly useless curse of unending hunger that has left him shunned and looked down upon. Until one day, after he takes the life of a thief, his true power awakens: he can devour the skill of anyone he kills to feed his appetite. Will he learn to control this gruesome ability for the better?<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Action, Adventure, Drama, Fantasy, Romance\nTags:Male Protagonist/Magic/Swordplay/Bullying/Goblin/Anachronism\nFate Graphite was born into a world where magical skills shape your destiny. His skill is Gluttony, a seemingly useless curse of unending hunger that has left him shunned and looked down upon. Until one day, after he takes the life of a thief, his true power awakens: he can devour the skill of anyone he kills to feed his appetite. Will he learn to control this gruesome ability for the better?<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt4967674",
@@ -187,7 +187,7 @@
       "type": "series",
       "name": "SHY",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155389-qB3aiPB5IkAi.png",
-      "description": "Genres: Action, Drama\nTags:Henshin/Female Protagonist/Superhero/Super Power/Primarily Female Cast/Shounen/Ninja/LGBTQ+ Themes\nOn the brink of a third World War, superheroes appeared on Earth. Gifted with powers, their appearance brings peace to the world. The heroes each selected a country in which they would reside, serve, and protect its citizens. Shy is Japan’s hero, endowed with super strength. Her most daunting enemy yet? Crippling shyness. Join Shy and her super friends as she defends Earth and gains confidence!</i>\n<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Action, Drama\nTags:Henshin/Female Protagonist/Superhero/Primarily Female Cast/Super Power/Shounen/Ninja/LGBTQ+ Themes\nOn the brink of a third World War, superheroes appeared on Earth. Gifted with powers, their appearance brings peace to the world. The heroes each selected a country in which they would reside, serve, and protect its citizens. Shy is Japan’s hero, endowed with super strength. Her most daunting enemy yet? Crippling shyness. Join Shy and her super friends as she defends Earth and gains confidence!</i>\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt13049906",
@@ -292,7 +292,7 @@
       "type": "series",
       "name": "The Family Circumstances of the Irregular Witch",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154454-9gZSDOmcBwrn.jpg",
-      "description": "Genres: Comedy, Fantasy\nTags:Witch/Magic/Family Life/Found Family/Cute Girls Doing Cute Things/Primarily Female Cast/Female Protagonist/Tanned Skin\nWhen witch Alyssa found a baby on her doorstep, she didn’t expect her life to take a topsy-turvy turn. Despite her bewilderment, she names the child Viola and decides to raise her. Fast-forward 16 years, and her “daughter” Viola isn’t just taller—she’s towering! Join this bewitching duo in a hilariously chaotic journey of mistaken identities and supernatural shenanigans!<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Comedy, Fantasy\nTags:Female Protagonist/Witch/Magic/Family Life/Found Family/Primarily Female Cast/Surreal Comedy/Episodic/Cute Girls Doing Cute Things/Tanned Skin\nWhen witch Alyssa found a baby on her doorstep, she didn’t expect her life to take a topsy-turvy turn. Despite her bewilderment, she names the child Viola and decides to raise her. Fast-forward 16 years, and her “daughter” Viola isn’t just taller—she’s towering! Join this bewitching duo in a hilariously chaotic journey of mistaken identities and supernatural shenanigans!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt3909224",
@@ -323,6 +323,13 @@
       "description": "Genres: Comedy, Fantasy\nTags:Male Protagonist/Isekai/Magic/Survival/Conspiracy/Amnesia/Religion/Slavery/Primarily Teen Cast/Female Protagonist/Maids/Super Power\nAn unappealing otaku awakens in the body of a pig after he passes out while eating raw pig liver. Pig finds himself in the company of Jess, an innocent girl who can read people's minds, and she accepts him despite his boorish thoughts... although she does plan to eat him. When Jess is in danger of succumbing to a dark destiny, can Pig save her using only his quick wits, wisdom, and refined sense of smell?"
     },
     {
+      "id": "tt16969708",
+      "type": "series",
+      "name": "Scott Pilgrim Takes Off",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170206-OQYWJWKKvO3g.jpg",
+      "description": "Genres: Action, Comedy, Drama, Mystery, Romance, Supernatural\nTags:Primarily Adult Cast/Foreign/Parody/Heterosexual/Urban Fantasy/Urban/LGBTQ+ Themes/Band/Super Power/Anti-Hero/Otaku Culture/Male Protagonist/Robots/Swordplay/Ninja\n<i>When girl meets boy, love takes off...</i>\n<br><br>\n\nScott Pilgrim meets the girl of his dreams, Ramona Flowers, but learns he must defeat her seven evil exes in order to date her. Then things get even more complicated. Based on the graphic novels by Bryan Lee O'Malley. <br><br>\n\n(Source: Science Saru, Netflix)"
+    },
+    {
       "id": "tt29340934",
       "type": "series",
       "name": "The Yuzuki Family’s Four Sons",
@@ -334,7 +341,7 @@
       "type": "series",
       "name": "Paradox Live THE ANIMATION",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150077-40T50Llw8RyV.png",
-      "description": "Genres: Drama, Music, Sci-Fi\nTags:Band/Primarily Male Cast/Idol/CGI/Ensemble Cast/Super Power/Musical/Primarily Adult Cast/Urban/Found Family/Transgender\nSaturated in hip hop culture comes the birth of a new movement known as “Phantom Live ”. Each of the artists have a metal accessory known as “Phantom Metal” which chemically reacts to the wearer’s emotions to produce an image, setting a magnificent stage for enthusiastic youths. With legendary club “CLUB paradox” hosting the mysterious Paradox Live, four teams: BAE, The Cat’s Whiskers, cozmez and Akanyatsura each receive an invitation to participate, each with their own genre of music in a race to the top. Each of the four teams go into the competition for a reason. As the competition heats up, so do the unimaginably large motives each of them hides…<br>\n<br>\nThe curtain now rises on a swirling illusory stage battle between light and darkness–!<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Drama, Music, Sci-Fi\nTags:Band/Primarily Male Cast/Idol/CGI/Ensemble Cast/Super Power/Musical/Primarily Adult Cast/Urban/Found Family/Transgender/LGBTQ+ Themes\nSaturated in hip hop culture comes the birth of a new movement known as “Phantom Live ”. Each of the artists have a metal accessory known as “Phantom Metal” which chemically reacts to the wearer’s emotions to produce an image, setting a magnificent stage for enthusiastic youths. With legendary club “CLUB paradox” hosting the mysterious Paradox Live, four teams: BAE, The Cat’s Whiskers, cozmez and Akanyatsura each receive an invitation to participate, each with their own genre of music in a race to the top. Each of the four teams go into the competition for a reason. As the competition heats up, so do the unimaginably large motives each of them hides…<br>\n<br>\nThe curtain now rises on a swirling illusory stage battle between light and darkness–!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt28919932",
@@ -342,13 +349,6 @@
       "name": "My New Boss is Goofy",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165070-0OlcD1TA6pe4.jpg",
       "description": "Genres: Comedy\nTags:Cute Boys Doing Cute Things/Primarily Male Cast/Iyashikei/Work/Male Protagonist/Slapstick/Primarily Adult Cast/Shoujo/LGBTQ+ Themes/Boys' Love\nAfter his power-tripping boss broke his spirit and his health, Momose leaves his job for a new job in sales at an advertising agency. However, on the very first day of his new job, Momose is unable to move due to a stomachache caused by his past traumas. \"What should I do if my new boss also abuses his power?\"<br>\n<br>\nThat's when his new boss, Shirosaki, takes him out to see clients. Just what exactly is Shirosaki going to do...?!<br><br>\n(Source: Crunchyroll)"
-    },
-    {
-      "id": "tt28772401",
-      "type": "series",
-      "name": "Protocol: Rain",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166896-I28S6PPq9etk.png",
-      "description": "Genres: Drama\nTags:E-Sports/Video Games/CGI/Disability/Gambling\nThe story centers on Shun Tokinoya, a second-year high school living with his mother and younger sister. After his father's death in an accident and his sister's injury, he quit the game he was passionate about, and now works at an esports café called \"FOX ONE.\" He spends all his time studying and working part-time while hanging out with his childhood gaming friends. Suddenly, he learns that \"FOX ONE\" has a huge amount of debts. In order to repay the debts, Shun and his friends aim to win the \"Xaxerion Championship\" and win the prize money. With a sense of guilt, Shun jumps back into the world of online games, and is confronted by Bakuretsu-kun, who used to play the game with him.<br>\n<br>\n(Source: Crunchyroll)"
     }
   ]
 }
