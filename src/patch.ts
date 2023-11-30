@@ -48,6 +48,7 @@ export class Patches {
             this.line = line;
             const [type,season,name,oldID,newID] = [this.popNext(),this.popNext(),this.popNext(),this.popNext(),this.popNext()];
             if (!isNaN(season as any)) {
+                console.log(`Type: ${type}, Season: ${season}, Name: ${name}, Old ID: ${oldID}, New ID: ${newID}`);
                 this.patches[type] = {...this.patches[type], [season]: this.patches[type][season] || new Map()};
             }
             this.patches[type][season]?.set(name, {[oldID]: newID});
