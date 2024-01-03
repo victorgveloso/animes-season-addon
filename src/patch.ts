@@ -59,7 +59,7 @@ export class Patches {
     applyPatches(catalog: Catalog, type: string, season: string) {
         catalog.getMetas().forEach(meta => {
             console.log(`Applying patch for ${meta.name} ${meta.id}`);
-            const patch = this.patches[type][season].get(meta.name);
+            const patch = this.patches[type][season]?.get(meta.name);
             console.log(patch);
             if (patch) {
                 console.log(`Found patch for ${meta.name}: ${meta.id}=>${patch[meta.id]}`);
