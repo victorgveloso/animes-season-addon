@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.5.1",
+  "version": "1.6.1",
   "name": "Animes' season",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
@@ -135,5 +135,5 @@
     "tt",
     "kitsu"
   ],
-  "lastUpdatedAt": "2023-12-01T04:35:29.255Z"
+  "lastUpdatedAt": "2024-01-03T09:34:14.491Z"
 }
