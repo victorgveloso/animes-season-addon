@@ -38,7 +38,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt15978212"
       },
-      "description": "Genres: Comedy, Drama, Music, Supernatural\nTags:Female Protagonist/Male Protagonist/Seinen/Work/Idol\nCompilation film of <i>Ya Boy Kongming!</i> The film will feature new footage in some of Eiko's performances."
+      "description": "Genres: Comedy, Drama, Music, Supernatural\nTags:Idol/Female Protagonist/Male Protagonist/Seinen/Work\nCompilation film of <i>Ya Boy Kongming!</i> The film will feature new footage in some of Eiko's performances."
     },
     {
       "id": "kitsu:47834",
@@ -81,14 +81,14 @@
       "description": "Genres: Adventure, Comedy, Music, Sci-Fi\nTags:Primarily Child Cast/Kids\nMusic exists in our daily lives for granted. But what would happen if music disappeared from the earth? This is a completely original story about Doraemon and his friends who are trying to save the earth from a crisis with the familiar theme of music! <br><br>\n\n(Source: Crunchyroll News)"
     },
     {
-      "id": "tt30832543",
+      "id": "tt31078761",
       "type": "movie",
       "name": "Boku to Roboco Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-FzStp14IqKGm.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt30832543"
+        "defaultVideoId": "tt31078761"
       },
-      "description": "Genres: Comedy, Slice of Life\nTags:Shounen/Robots/Maids\nnull"
+      "description": "Genres: Comedy, Slice of Life\nTags:Robots/Shounen/Maids\nnull"
     },
     {
       "id": "tt29788605",
