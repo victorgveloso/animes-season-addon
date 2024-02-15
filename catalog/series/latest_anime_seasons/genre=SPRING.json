@@ -204,6 +204,13 @@
       "description": "Genres: Action, Comedy, Drama, Romance\nTags:Yakuza/Seinen/Assassins/Urban/Guns/Primarily Adult Cast\nWhen you're the infamous prodigy hitman known only as “Fable,” many things come easy. Being a normal person, however, isn't one of them. In fact, being told that he can't kill anyone for a while may just be the hardest job Fable’s ever taken...<br>\n<br>\n(Source: Kodansha USA)"
     },
     {
+      "id": "tt30643971",
+      "type": "series",
+      "name": "Seiyuu Radio no Uraomote",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159039-Mn5n9H7PBBjY.png",
+      "description": "Genres: Comedy, Drama, Slice of Life\nTags:Female Protagonist/Primarily Female Cast/Work/Acting/Idol/Gyaru/LGBTQ+ Themes\nYuuhi Yuugure and Yasumi Utatane, two high school voice actresses who just happened to attend the same school and coincidentally got placed into the same class, are the two hosts of a radio weekly program. As fellow classmates and voice actresses, they show all the listeners their great friendship! At least, on the surface. In reality, the quiet girl Chika and the gyaru Yumiko are complete opposites. And they absolutely cannot stand each other. Off air, chaos and insults erupt. On air, they're the best of friends. Just where will this tumultuous relationship lead them?"
+    },
+    {
       "id": "tt31250134",
       "type": "series",
       "name": "Girls Band Cry",
@@ -288,18 +295,18 @@
       "description": "Genres: Comedy, Sports\nTags:Amnesia/Baseball/Male Protagonist/Primarily Male Cast/School Club/Shounen\nThe story of <i>Bouyaku Battery</i> follows Haruka Kiyomine and Kei Kaname, a pair of young baseball players who set the field afire as an unstoppable pitcher / catcher battery in middle school. Although they were scouted by elite sports schools all over Japan, the two instead enroll in an ordinary high school in Tokyo, because Kei is suffering from amnesia and his athletic skills have reverted to the level of a rank amateur. <br><br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "kitsu:47267",
-      "type": "series",
-      "name": "Rinkai!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163141-dWqdA3MOGtYz.png",
-      "description": "Genres: Sports\nTags:Cycling/Female Protagonist\nThe story centers on the sport of women's cycling, which debuted in Japan shortly after World War II. However, organized competitions folded after just 15 years and laid dormant for several decades. Then the Rinkai! League launched to revive the sport.<br><br>\n(Source: Anime News Network)"
-    },
-    {
       "id": "tt31108835",
       "type": "series",
       "name": "Viral Hit",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174653-cGG0tMx8E9mH.png",
       "description": "Genres: Action, Comedy\nTags:Bullying/Martial Arts/Delinquents\nScrawny high school student Hobin Yu is probably the last guy you’d expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Hobin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Hobin keep this up, or will he eventually meet his match?\n<br><br>\n(Source: WEBTOON)"
+    },
+    {
+      "id": "kitsu:47267",
+      "type": "series",
+      "name": "Rinkai!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163141-dWqdA3MOGtYz.png",
+      "description": "Genres: Sports\nTags:Cycling/Female Protagonist\nThe story centers on the sport of women's cycling, which debuted in Japan shortly after World War II. However, organized competitions folded after just 15 years and laid dormant for several decades. Then the Rinkai! League launched to revive the sport.<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt30494894",
@@ -342,13 +349,6 @@
       "name": "Mahjong Soul Kan!!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172964-yXtQvRV70bX0.jpg",
       "description": "Genres: Comedy\nTags:Mahjong/Kemonomimi/Gangs\nSequel to <i>Jongtama PONG☆</i>. Following up the prior animated series, this time you will see quirky Jyanshis trying out live streaming, two guys traveling together, unfortunate(?) fights against gangs, and more situations where the charm of the Jyanshis comes to shine. <br><br>\n\n(Source: Mahjong Soul News, edited)"
-    },
-    {
-      "id": "tt22012992",
-      "type": "series",
-      "name": "Shin Yaranaika",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170593-B3ftC3rFmkwv.jpg",
-      "description": "Genres: Comedy\nTags:Boys' Love/Primarily Adult Cast/Parody\nA prep school student \"Masaki Michishita\" is running as fast as he can to the restroom in the park when he catches sight of a nice guy \"Takakazu Abe\" sitting on a bench. Their gazes overlap. Abe asked Michishita if he wanted to play with him and invited him to a brief wrestling match. Michishita, who has a weakness for nice guys, readily follows him and ...... their great adventure begins!<br><br>\n(Source: Official Website, Translated)"
     }
   ]
 }
