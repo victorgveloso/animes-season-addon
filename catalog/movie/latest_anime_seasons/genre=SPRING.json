@@ -8,7 +8,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt28671146"
       },
-      "description": "Genres: Sports\nTags:Male Protagonist/Football/School\n<i>My life was full of boredom. Until I met him.</i>\n<br><br>\nA movie centered about Nagi Seishirou before he enters Blue Lock."
+      "description": "Genres: Sports\nTags:Football/Male Protagonist/School\n<i>My life was full of boredom. Until I met him.</i>\n<br><br>\nA movie centered about Nagi Seishirou before he enters Blue Lock."
     },
     {
       "id": "tt14764464",
@@ -28,7 +28,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt28813376"
       },
-      "description": "Genres: Comedy, Drama, Sci-Fi, Slice of Life\nTags:Seinen/Female Protagonist/Politics/Military/Dystopian/Philosophy/Coming of Age/Aliens/Language Barrier/Surreal Comedy/Primarily Female Cast/School\nThe Japan Self-Defense Forces are still looking for a way to combat the alien threat, but so far conventional weapons have had no effect. Maybe it’s time to try something unconventional.<br>\n<br>\nMeanwhile, Kadode Koyama and her best friend avidly track the aliens’ movements on social media and less enthusiastically study for college entrance exams. When the end of the world looms overhead, you learn to take things one step at a time.<br>\n<br>\n(Source: Viz Media)"
+      "description": "Genres: Comedy, Drama, Sci-Fi, Slice of Life\nTags:Seinen/Female Protagonist/Politics/Military/Dystopian/Coming of Age/Philosophy/Aliens/Language Barrier/Surreal Comedy/Primarily Female Cast/School\nThe Japan Self-Defense Forces are still looking for a way to combat the alien threat, but so far conventional weapons have had no effect. Maybe it’s time to try something unconventional.<br>\n<br>\nMeanwhile, Kadode Koyama and her best friend avidly track the aliens’ movements on social media and less enthusiastically study for college entrance exams. When the end of the world looms overhead, you learn to take things one step at a time.<br>\n<br>\n(Source: Viz Media)"
     },
     {
       "id": "tt29176372",
@@ -38,7 +38,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt29176372"
       },
-      "description": "Genres: Comedy, Music, Slice of Life\nTags:Band/Cute Girls Doing Cute Things/Yuri/Primarily Teen Cast/Female Protagonist/Hikikomori/Primarily Female Cast\nCompilation film of <i>Bocchi the Rock!</i> The first of the Bocchi compilation movie duology."
+      "description": "Genres: Comedy, Music, Slice of Life\nTags:Band/Cute Girls Doing Cute Things/Female Protagonist/Primarily Teen Cast/Yuri/Hikikomori/Primarily Female Cast\nCompilation film of <i>Bocchi the Rock!</i> The first of the Bocchi compilation movie duology."
     },
     {
       "id": "tt31142500",
@@ -89,6 +89,26 @@
         "defaultVideoId": "tt1685401"
       },
       "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things\nA spin-off of the <I>Yuru Yuri</i> series featuring Sakurako and her sisters. The second film of the <i>Oomuro-ke</i> duology.\n<br><br>\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "tt26505552",
+      "type": "movie",
+      "name": "i☆Ris the Movie: Full Energy!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156727-dySorVrt1aEz.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt26505552"
+      },
+      "description": "Genres: Fantasy, Music\nTags:Isekai/Idol\ni☆Ris has reached the 10th anniversary of their debut and is enjoying smooth sailing, but there was a thought that came to the minds of the girls. \"What will happen to us in the next 10 years?\"\n<br><br>\nOn the day of a live concert, a mysterious talking white squirrel suddenly appears from a T-shirt of goods delivered to i☆Ris' dressing room! Suddenly, they are enveloped in a dazzling light, and what spreads out before their eyes is a mysterious world with many big rainbows floating on it. This is Risu Risu Land, a world where you can be anything you want to be!\n<br><br>\nThe five of them are enjoying themselves in this fun and wonderful place, fulfilling their dreams, but they realize that there is something \"missing\" in this world. There is no \"song\" in this world. Shirorisu asks i☆Ris for help to bring back the \"song\"....\n<br><br>\nWhy did the \"song\" disappear? Can they bring \"Song\" back to this world once again? And at the end of this journey, will the girls find what they really want to be?　<br><br>\n(Source: Crunchyroll News)\n"
+    },
+    {
+      "id": "tt29767737",
+      "type": "movie",
+      "name": "RABBITS KINGDOM THE MOVIE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169766-wrgUxlD9ntRT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt29767737"
+      },
+      "description": "Genres: Fantasy, Music\nTags:\nA project to commemorate the 10th Anniversary of  <i>Tsukiuta.</i><br><br>\n\nThe Black Rabbit Kingdom and the White Rabbit Kingdom — Two different worlds existing side by side. The two worlds, which were supposed to be a \"pair,\" had never met, perhaps by a twist of fate. The situation remained unstable and incomplete.\n<br><br>\nHajime, the young king of the Balck Rabbit Kingdom, is distressed by the calamities in the surrounding countries. The Prime Minister Haru, his close aides Kakeru and Koi, the prince Aoi, and his escort Arata are busy preparing for the upcoming World Congress and the ball to commemorate the 15th anniversary of Hajime's reign.\n<br><br>\nAt the same time, in the White Rabbit Kingdom at the suggestion of Shuno, who calls himself the Demon King, the king, Kai, the prince, Rui, the guards, Yoh and Iku, and the former military officer, Yoru, are going on a \"picnic\" to the Black Rabbit Kingdom.\n<br><br>\nWhat will be born from the encounter between the Black Rabbit Kingdom and the White Rabbit Kingdom?<br><br>\n(Source: Crunchyroll News)\n"
     }
   ]
 }
