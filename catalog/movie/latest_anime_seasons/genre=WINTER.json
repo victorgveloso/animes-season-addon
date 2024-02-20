@@ -101,12 +101,12 @@
       "description": "Genres: Comedy, Mystery\nTags:\nWill Oshiri Tantei be able to solve the biggest mystery in history??"
     },
     {
-      "id": "kitsu:8288",
+      "id": "tt31392425",
       "type": "movie",
       "name": "Shimajirou Miracle-jima no Nana-iro Carnation",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172976-aVwpVKzEDr6G.png",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:8288"
+        "defaultVideoId": "tt31392425"
       },
       "description": "Genres: Comedy, Fantasy\nTags:\nnull"
     }
