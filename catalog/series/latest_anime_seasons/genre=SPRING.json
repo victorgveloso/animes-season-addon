@@ -96,7 +96,7 @@
       "type": "series",
       "name": "Hananoi-kun to Koi no Yamai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165855-LjroTVaBinTV.jpg",
-      "description": "Genres: Drama, Romance\nTags:Shoujo/Female Protagonist/School/Heterosexual/Primarily Teen Cast\nHotaru is a 16-year-old high school first-year who has always been ambivalent about love, preferring instead to have a lively life with her family and friends. So when she sees her schoolmate, Hananoi-kun, sitting in the snow after a messy, public breakup, she thinks nothing of offering to share her umbrella. But when he asks her out in the middle of her classroom the next day, she can’t help but feel that her life is about to change in a big way...<br>\n<br>\n(Source: Kodansha USA)"
+      "description": "Genres: Drama, Romance\nTags:Shoujo/Female Protagonist/Heterosexual/School/Primarily Teen Cast\nHotaru is a 16-year-old high school first-year who has always been ambivalent about love, preferring instead to have a lively life with her family and friends. So when she sees her schoolmate, Hananoi-kun, sitting in the snow after a messy, public breakup, she thinks nothing of offering to share her umbrella. But when he asks her out in the middle of her classroom the next day, she can’t help but feel that her life is about to change in a big way...<br>\n<br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt29605391",
@@ -260,6 +260,13 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Goblin\nAfter meeting an untimely death, Tomokui Kanata is reincarnated as a lowly goblin, but he’s worked up a monstrous appetite. Thanks to his new ability that allows him to grow stronger the more he feeds, his feeble status quickly changes, and he rises to become the goblin leader. With a mix of his past memories, new body, and strong stomach, he’s taking a bite out of this new fantastical world!. <br><br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt31146105",
+      "type": "series",
+      "name": "THE NEW GATE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-3WR59SUhqVI5.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai\nTHE NEW GATE—an online game transformed into a life-and-death struggle for its players. Thanks to the valiant efforts of Shin, the most powerful of them all, an end to the game and freedom for everyone seemed within reach. But just moments after Shin defeats the game’s final boss, he finds himself bathed in an unknown light and transported some 500 years into the future of the in-game world. Thrown from a simple game gone wrong into a strange new land, one young swordsman of unrivalled strength is about to embark on a legendary journey!<br>\n<br>\n(Source: One Peace Books)"
+    },
+    {
       "id": "tt12648404",
       "type": "series",
       "name": "The iDOLM@STER: Shiny Colors",
@@ -342,13 +349,6 @@
       "name": "NIJIYON ANIMATION 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172242-1VjrQuON0Zfu.png",
       "description": "Genres: Comedy, Music, Slice of Life\nTags:Idol/Chibi\nAnnounced in the \"LoveLive! Nijigasaki High School Idol Club 6th Live! I love You ⇆ You love Me\" Day 2 concert at Aichi Sky Expo: a second season to the <i>NIJIYON ANIMATION</i> series."
-    },
-    {
-      "id": "tt27142031",
-      "type": "series",
-      "name": "Ooi! Tonbo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164440-HF78GuBwQSg2.jpg",
-      "description": "Genres: Drama, Sports\nTags:Golf\n The story begins with Igarashi, who was disqualified as a pro golfer after a certain \"incident\" and thus moves to Kagoshima Prefecture's Tokara Islands to step out of the limelight. On these islands known as \"Japan's last unexplored wilderness,\" he encounters a naive girl named Tonbo.\n<br><br>\nAs it turns out, these supposedly unexplored islands have a homemade golf course, where Tonbo plays every day. She demonstrates genius-level prowess, playing every kind of shot with just one golf club, a 3-iron. Igarashi is amazed at Tonbo's talent, even as he harbors doubts about her only using a 3-iron. Yet, hidden deep in Tonbo's heart lies a painful, sad past…. <br><br>\n(Source: Anime News Network)"
     }
   ]
 }
