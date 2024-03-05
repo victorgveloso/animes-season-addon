@@ -64,18 +64,18 @@
       "description": "Genres: Action, Comedy, Sports\nTags:Tennis\nThe sequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP. </i>"
     },
     {
-      "id": "tt27052533",
-      "type": "series",
-      "name": "Duel Masters LOST:  Tsuioku no Suishou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175473-ac4u5CtY0Rcl.jpg",
-      "description": "Genres: Adventure\nTags:Card Battle\nnull"
-    },
-    {
       "id": "tt31543920",
       "type": "series",
       "name": "The iDOLM@STER: Shiny Colors 2nd season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175533-XHrNOYD9NWIh.jpg",
       "description": "Genres: Music\nTags:Primarily Female Cast/Idol\nThe second season of <i>The iDOLM@STER: Shiny Colors</i>.<br><br>\n<i>Note: The series is having a three-part theatrical pre-screening in Japan starting in July 2024. Regular TV broadcast begins in Fall 2024.<br>\n• Part 1 releasing theatrically on July 5, 2024.<br>\n• Part 2 releasing theatrically on August 23, 2024.<br>\n• Part 3 releasing theatrically on September 20, 2024.<br></i>"
+    },
+    {
+      "id": "tt27052533",
+      "type": "series",
+      "name": "Duel Masters LOST:  Tsuioku no Suishou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175473-ac4u5CtY0Rcl.jpg",
+      "description": "Genres: Adventure\nTags:Card Battle\nnull"
     }
   ]
 }
