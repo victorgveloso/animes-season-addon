@@ -21,12 +21,12 @@
       "description": "Genres: Drama, Music, Romance\nTags:Boys' Love\nSequel to <i>Given: Hiiragi mix</i>."
     },
     {
-      "id": "tt28648011",
+      "id": "tt12942328",
       "type": "movie",
       "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175138-blZxuYbgsfSc.png",
       "behaviorHints": {
-        "defaultVideoId": "tt28648011"
+        "defaultVideoId": "tt12942328"
       },
       "description": "Genres: Comedy\nTags:Ninja\nnull"
     }
