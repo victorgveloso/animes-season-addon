@@ -91,16 +91,6 @@
       "description": "Genres: Mystery\nTags:Detective/Age Regression/Tanned Skin\nThe 27th <i>Detective Conan</i> movie."
     },
     {
-      "id": "tt1685401",
-      "type": "movie",
-      "name": "Oomuro-ke: dear friends",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174383-WIAKPEGRV4b8.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt1685401"
-      },
-      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things\nA spin-off of the <I>Yuru Yuri</i> series featuring Sakurako and her sisters. The second film of the <i>Oomuro-ke</i> duology.\n<br><br>\n(Source: Anime News Network, edited)"
-    },
-    {
       "id": "tt30008198",
       "type": "movie",
       "name": "Gintama on Theater 2D: Ikkoku Keisei-hen",
@@ -109,6 +99,16 @@
         "defaultVideoId": "tt30008198"
       },
       "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:\nTheatrical cut of the Courtesan of a Nation Arc (episodes 257-261). The movie is a part of the \"Gintama 20th Anniversary Project\"."
+    },
+    {
+      "id": "tt1685401",
+      "type": "movie",
+      "name": "Oomuro-ke: dear friends",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174383-WIAKPEGRV4b8.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt1685401"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things\nA spin-off of the <I>Yuru Yuri</i> series featuring Sakurako and her sisters. The second film of the <i>Oomuro-ke</i> duology.\n<br><br>\n(Source: Anime News Network, edited)"
     },
     {
       "id": "tt26505552",
