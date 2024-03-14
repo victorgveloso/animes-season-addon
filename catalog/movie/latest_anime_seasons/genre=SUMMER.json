@@ -81,16 +81,6 @@
       "description": "Genres: Music\nTags:\nThe film's story begins when a high schooler who makes music videos meets a teacher who has given up on music. Amateur music video creator Kanata Asaya sees teacher and musician Yuu Orie busking on the street, and decides to make a music video of her music. <br><br>\n\n(Source: Anime News Network, edited)"
     },
     {
-      "id": "kitsu:47930",
-      "type": "movie",
-      "name": "Zegapain STA",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168998-nvkgzBPyZFw9.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:47930"
-      },
-      "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:\nSequel to the 2006 <i>Zegapain</i> TV series as part of \"Zegapain PROJECT REUNION\". The new sequel installment has the subtitle \"Olta Moda Arc\", named after the brand new force in the Zegapain universe \"Olta Moda\"."
-    },
-    {
       "id": "tt0856346",
       "type": "movie",
       "name": "Ghost Cat Anzu",
@@ -99,6 +89,16 @@
         "defaultVideoId": "tt0856346"
       },
       "description": "Genres: Supernatural\nTags:\nKarin, 11 years old, is abandoned by her father at her grandfather’s house, the monk of a small town in the Japanese countryside. Her grandfather asks Anzu, his jovial and helpful although rather capricious ghost cat, to look after her. The meeting of their strong characters causes sparks, at least at the beginning…"
+    },
+    {
+      "id": "kitsu:47930",
+      "type": "movie",
+      "name": "Zegapain STA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168998-nvkgzBPyZFw9.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:47930"
+      },
+      "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:\nSequel to the 2006 <i>Zegapain</i> TV series as part of \"Zegapain PROJECT REUNION\". The new sequel installment has the subtitle \"Olta Moda Arc\", named after the brand new force in the Zegapain universe \"Olta Moda\"."
     },
     {
       "id": "tt30400536",
