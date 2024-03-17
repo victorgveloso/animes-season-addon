@@ -21,6 +21,16 @@
       "description": "Genres: Drama, Music, Romance\nTags:Boys' Love\nSequel to <i>Given: Hiiragi mix</i>."
     },
     {
+      "id": "tt29355143",
+      "type": "movie",
+      "name": "Wonderful Precure! The Movie!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169403-E3YZFNf6yS6t.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt29355143"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Animals/Magic/Primarily Female Cast\nMovie of <i>Wonderful Precure!</i>, first announced during during screenings of <i>Precure All Stars F</i>."
+    },
+    {
       "id": "tt12942328",
       "type": "movie",
       "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
