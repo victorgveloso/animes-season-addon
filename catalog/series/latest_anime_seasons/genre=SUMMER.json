@@ -99,11 +99,11 @@
       "description": "Genres: Action, Drama\nTags:Superhero/Female Protagonist/Ninja/LGBTQ+ Themes/Primarily Female Cast\nThe second season of <i>SHY</i>."
     },
     {
-      "id": "tt26240414",
+      "id": "kitsu:5327",
       "type": "series",
       "name": "Shikanoko Nokonoko Koshitantan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-9pVzocc9B76A.jpg",
-      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:School/Monster Girl/Surreal Comedy/Yuri/Delinquents/CGI\n<i>Girl meets elk-girl—and chaos ensues!</i>\n<br><br>\nNo one knows Torako used to be a delinquent. All of her classmates only know her as the perfect student. But everything changes when Nokotan, a transfer student with antlers, enters her life. Antlers aren’t the only thing strange about Nokotan. Her deer nose can sniff out Torako’s secret past! Whether it’s at school or the zoo, chaos follows this doe-eyed girl’s every step. Torako has so many questions! Is Nokotan a deer, a girl, or something in-between?\n<br><br>\n(Source: Seven Seas Entertainment)"
+      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:School/Monster Girl/Surreal Comedy/Delinquents/Yuri/CGI\n<i>Girl meets elk-girl—and chaos ensues!</i>\n<br><br>\nNo one knows Torako used to be a delinquent. All of her classmates only know her as the perfect student. But everything changes when Nokotan, a transfer student with antlers, enters her life. Antlers aren’t the only thing strange about Nokotan. Her deer nose can sniff out Torako’s secret past! Whether it’s at school or the zoo, chaos follows this doe-eyed girl’s every step. Torako has so many questions! Is Nokotan a deer, a girl, or something in-between?\n<br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "kitsu:47004",
@@ -127,18 +127,18 @@
       "description": "Genres: Comedy, Fantasy, Mahou Shoujo, Romance\nTags:Shounen\nThe story centers on Mira, the clever brains behind an evil organization that invades and destroys everything in its path. One day, a magical girl named Byakuya Mimori decides to stand up to the organization, and Mira falls in love with her at first sight.<br>\n<br>\n(Source: Anime News Network)"
     },
     {
+      "id": "tt28369144",
+      "type": "series",
+      "name": "Make Heroine ga Oosugiru!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-y6ppaa7ESp82.jpg",
+      "description": "Genres: Comedy, Romance\nTags:\nKazuhiko Nukumizu is a high school boy content to blend in with the background mob, until he witnessed his more popular classmate Anna Yanami get dumped by her childhood friend. He felt like he had to try to comfort Yanami, but this led him to become entangled with other girls who have met defeat at love?"
+    },
+    {
       "id": "tt31122245",
       "type": "series",
       "name": "Mayonaka Punch",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174044-GLY0ks5Dp2le.png",
       "description": "Genres: Comedy\nTags:Primarily Female Cast/Female Protagonist\n<i>Mayonaka Punch</i> centers on Masaki, a member of the NewTuber group \"Harakiri Sisters\", who gets fired because of a certain incident. Aiming for a comeback, Masaki meets Live. The two girls have different goals, but together, they make a high-tension comeback and aim to reach 1 million subscribers on NewTube. <br><br>\n\n(Source: Anime News Network, edited)"
-    },
-    {
-      "id": "tt19265192",
-      "type": "series",
-      "name": "Boku no Tsuma wa Kanjou ga Nai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175450-8bylpE9MYZVe.jpg",
-      "description": "Genres: Comedy, Romance, Sci-Fi, Slice of Life\nTags:Robots/Artificial Intelligence\nTakuma is a single guy who does nothing but go to work and come home. Too tired to do chores, he decides to get a robot to cook and keep house. “Mina-chan” is such a good housekeeper, Takuma jokes that she should become his wife. Mina takes Takuma’s joke seriously, and slowly the two start doing more things together, like having a picnic outside. As time goes by, Takuma starts to fall for Mina, but can a human and a robot ever have an equal, loving relationship? \n<br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt30495119",
@@ -148,11 +148,18 @@
       "description": "Genres: Action, Adventure, Drama, Fantasy\nTags:Demons/Male Protagonist/War\nIke is known as \"the strongest magician in the demon king's army\" and is a single-handedly conquering fortresses.\nThe way he mowed down the enemies with his immense magic is truly a \"\"monster\"\" that makes him feared by both allies and foes alike.<br>\n<br>\nHowever, he had a secret that he could not tell other demons.<br>\n<br>\n<i>\"--I'm actually human.\"</i><br>\n<br>\nAiming for a coexistence between demons and humans while the leader of demon's army is hiding the fact that he is actually a human!?<br>\n<br>\n(Source: Happinet)"
     },
     {
-      "id": "tt23844810",
+      "id": "tt19265192",
       "type": "series",
-      "name": "Bye Bye, Earth",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157371-K122OMMSKhXK.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:\nIn a world of anthropomorphic animals, Belle Lablac was born as the only human being.<br>\n<br>\nHaving no fangs, fur, or scales, she was called \"Faceless,\" and she lived a lonely life with no one else she could identify with.<br>\n<br>\n\"I want to be part of the world...\"<br>\n<br>\nWith such longing in her heart, she decides to set out on a journey to find her roots, carrying the Runding, a great sword as tall as she is. She doesn’t know how many adversities await her along the way...<br>\n<br>\n(Source: Crunchyroll)"
+      "name": "Boku no Tsuma wa Kanjou ga Nai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175450-8bylpE9MYZVe.jpg",
+      "description": "Genres: Comedy, Romance, Sci-Fi, Slice of Life\nTags:Robots/Artificial Intelligence\nTakuma is a single guy who does nothing but go to work and come home. Too tired to do chores, he decides to get a robot to cook and keep house. “Mina-chan” is such a good housekeeper, Takuma jokes that she should become his wife. Mina takes Takuma’s joke seriously, and slowly the two start doing more things together, like having a picnic outside. As time goes by, Takuma starts to fall for Mina, but can a human and a robot ever have an equal, loving relationship? \n<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt29432583",
+      "type": "series",
+      "name": "Tasogare Outfocus",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166700-nOuVsSQe2ML2.jpg",
+      "description": "Genres: Drama, Romance\nTags:Boys' Love/School Club/School/Male Protagonist/Primarily Male Cast/Acting/Filmmaking\nFilm enthusiast Mao Tsuchiya and his lone wolf roommate Hisashi Otomo make three promises: <br><br>\n(1) That Mao will never tell anyone that Hisashi is gay and has a boyfriend,<br>\n(2) That Hisashi will never approach Mao \"in that way,\" and<br>\n(3) That they’ll respect each other's \"private time.\"<br><br>\nThe second-years' ground rules should ensure a peaceful life together in their dorm, but reality is never as simple as it seems in the movies, and some things are not so easily promised...\n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt30236310",
@@ -162,11 +169,11 @@
       "description": "Genres: Adventure, Fantasy, Slice of Life\nTags:Isekai/Twins\nTakumi gets accidentally killed by the wind god Syl and is reborn and summoned to another world. After giving Takumi his sincerest apologies, Syl grants Takumi with skills and sends him to the world Etelldia that Syl presides over. However, this new world is a vast forest filled with dangerous monsters... In the forest, Takumi finds a young boy and girl who appear to be twins. He is worried about their safety and names them Alan and Elena, and decides to take care of them. He soon finds out to his surprise they are able to defeat a monster with their bare hands. The three of them reach a town, and Takumi decides to register at a guild to make a living. He begins his life as an adventurer while taking care of the two children. An isekai fantasy about an adventurer with two kids!<br>\n<br>\n(Source: Alpha Manga)"
     },
     {
-      "id": "tt28369144",
+      "id": "tt23844810",
       "type": "series",
-      "name": "Make Heroine ga Oosugiru!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-y6ppaa7ESp82.jpg",
-      "description": "Genres: Comedy, Romance\nTags:\nKazuhiko Nukumizu is a high school boy content to blend in with the background mob, until he witnessed his more popular classmate Anna Yanami get dumped by her childhood friend. He felt like he had to try to comfort Yanami, but this led him to become entangled with other girls who have met defeat at love?"
+      "name": "Bye Bye, Earth",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157371-K122OMMSKhXK.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:\nIn a world of anthropomorphic animals, Belle Lablac was born as the only human being.<br>\n<br>\nHaving no fangs, fur, or scales, she was called \"Faceless,\" and she lived a lonely life with no one else she could identify with.<br>\n<br>\n\"I want to be part of the world...\"<br>\n<br>\nWith such longing in her heart, she decides to set out on a journey to find her roots, carrying the Runding, a great sword as tall as she is. She doesn’t know how many adversities await her along the way...<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt31596104",
@@ -183,7 +190,7 @@
       "description": "Genres: Adventure, Comedy, Fantasy\nTags:Dungeon\nClay was trained by her father to be an expert member of the thieves’ guild. Since her father disappeared three years ago, she’s been using her skills to search for him in a dungeon filled with goblins, a Minotaur, and all manner of other dangerous creatures. When Clay reaches deeper than anyone ever has before, she meets the caretaker of the dungeon. To her surprise, Clay is invited to join the staff! And thus begins Clay’s new job–to learn the inner workings and behind-the-scenes secrets of the dungeon from the inside.\n<br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "tt21996318",
+      "id": "tt28428915",
       "type": "series",
       "name": "Mob kara Hajimaru Tansaku Eiyuutan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-VlmehPdjTjmH.jpg",
@@ -193,7 +200,7 @@
       "id": "tt29338030",
       "type": "series",
       "name": "Kinnikuman: Kanpeki Choujin Shiso-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162796-vxqwOlDm1T5N.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162796-VddCUfyXLPYH.jpg",
       "description": "Genres: Action, Comedy, Sports\nTags:Wrestling/Male Protagonist\nA new <i>Kinnikuman</i> series to celebrate the 40th anniversary of the original TV anime. Adapts the <i>Perfect Origin Arc</i> from the Manga."
     },
     {
