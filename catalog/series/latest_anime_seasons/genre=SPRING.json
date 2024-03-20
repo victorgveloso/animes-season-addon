@@ -75,7 +75,7 @@
       "type": "series",
       "name": "Whisper Me a Love Song",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160181-EGC0Scngy5In.jpg",
-      "description": "Genres: Drama, Music, Romance\nTags:Yuri/Female Protagonist/LGBTQ+ Themes/Primarily Female Cast/Primarily Teen Cast/Band/Cute Girls Doing Cute Things/School/School Club/Coming of Age\nAfter performing a song at her school’s opening ceremony, musician Yori Asanagi receives an apparent love confession from freshman Himari Kino. But just as Yori decides she wants to return Himari’s feelings, Himari reveals that she did not “love” her, but “admires” her! But you can’t unring a bell once struck, and Yori is determined to make Himari fall for her, not just her music. Will their hearts ever beat as one, or will their love fall out of tune?<br>\n<br>\n(Source: HIDIVE)"
+      "description": "Genres: Drama, Music, Romance\nTags:Yuri/LGBTQ+ Themes/Female Protagonist/Primarily Female Cast/Primarily Teen Cast/Band/Cute Girls Doing Cute Things/School/School Club/Coming of Age\nAfter performing a song at her school’s opening ceremony, musician Yori Asanagi receives an apparent love confession from freshman Himari Kino. But just as Yori decides she wants to return Himari’s feelings, Himari reveals that she did not “love” her, but “admires” her! But you can’t unring a bell once struck, and Yori is determined to make Himari fall for her, not just her music. Will their hearts ever beat as one, or will their love fall out of tune?<br>\n<br>\n(Source: HIDIVE)"
     },
     {
       "id": "tt7742120",
@@ -85,18 +85,18 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Outdoor/Cute Girls Doing Cute Things/Iyashikei/Primarily Female Cast/Female Protagonist/School Club/Seinen/Food/Educational/Mopeds/Ensemble Cast/Motorcycles/Primarily Teen Cast\nThe third season of <i>Yuru Camp△</i>."
     },
     {
+      "id": "tt28082379",
+      "type": "series",
+      "name": "GO! GO! Loser Ranger!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158417-7MeruwCybJSo.jpg",
+      "description": "Genres: Action, Fantasy\nTags:Tokusatsu/Male Protagonist/Anti-Hero/Revenge/Henshin/Shounen/Espionage/Shapeshifting/Dystopian\nWhen the Monster Army invaded Earth thirteen years ago, the Divine Dragon Rangers rose up to stop them! With the war raging on, these great heroes are mankind’s last hope!<br>\n<br>\n<i>...or are they?</i><br>\n<br>\nIn truth, the invaders were subjugated within a year, forced to continue to crank out a monster a week for the Rangers to crush in front of their adoring fans! But one monster has had enough. Something has to change! He’ll rebel against the might of the Dragon Rangers and destroy them all...from the inside!<br>\n<br>\n(Source: Kodansha USA)"
+    },
+    {
       "id": "tt31186319",
       "type": "series",
       "name": "Sound! Euphonium Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109731-PBjrX9CebGus.png",
       "description": "Genres: Drama, Music, Slice of Life\nTags:Band/Female Protagonist/Coming of Age/Primarily Female Cast/School Club\nThe third season of <i>Hibike! Euphonium</i>.\n<br><br>\nKumiko's third year finally begins! With the concert band at Kitauji High School over 90 members, Kumiko is now the president and does her best with her final high school club activities to try to win her long-desired gold at nationals.\n<br><br>\n(Source: Crunchyroll, edited)"
-    },
-    {
-      "id": "tt28082379",
-      "type": "series",
-      "name": "Sentai Daishikkaku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158417-7MeruwCybJSo.jpg",
-      "description": "Genres: Action, Fantasy\nTags:Tokusatsu/Male Protagonist/Anti-Hero/Revenge/Henshin/Shounen/Espionage/Shapeshifting/Dystopian\nWhen the Monster Army invaded Earth thirteen years ago, the Divine Dragon Rangers rose up to stop them! With the war raging on, these great heroes are mankind’s last hope!<br>\n<br>\n<i>...or are they?</i><br>\n<br>\nIn truth, the invaders were subjugated within a year, forced to continue to crank out a monster a week for the Rangers to crush in front of their adoring fans! But one monster has had enough. Something has to change! He’ll rebel against the might of the Dragon Rangers and destroy them all...from the inside!<br>\n<br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt29605391",
@@ -159,7 +159,7 @@
       "type": "series",
       "name": "Gods' Games We Play",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144176-PJME6vmcmO3R.jpg",
-      "description": "Genres: Comedy, Drama, Ecchi, Fantasy, Romance\nTags:\nIn their (overabundance of) free time, the gods grew bored and decided to create challenging battles of wits to spice things up! Their opponent? Humanity! A select few players called “apostles” meet the gods on the spiritual realm’s playing field to beat the deities at their own games. A former god named Leshea has woken after sleeping for thousands of years, and her first demand is to meet “this era’s very best player!” She is introduced to Fay, an acclaimed rookie apostle. Together, they plan to challenge the gods and win the ultimate prize, but no one in human history has managed to clear ten games—because the gods can be capricious, outrageous, and sometimes downright incomprehensible! In the face of absurdity, what can the apostles do but enjoy the contest to its fullest?<br><br>\n(Source: Yen Press)"
+      "description": "Genres: Comedy, Drama, Ecchi, Fantasy, Romance\nTags:\nIn their (overabundance of) free time, the gods grew bored and decided to create challenging battles of wits to spice things up! Their opponent? Humanity! A select few players called “apostles” meet the gods on the spiritual realm’s playing field to beat the deities at their own games. A former god named Leoleshea has woken after sleeping for thousands of years, and her first demand is to meet “this era’s very best player!” She is introduced to Fay, an acclaimed rookie apostle. Together, they plan to challenge the gods and win the ultimate prize, but no one in human history has managed to clear ten games—because the gods can be capricious, outrageous, and sometimes downright incomprehensible! In the face of absurdity, what can the apostles do but enjoy the contest to its fullest?<br><br>\n(Source: Yen Press)"
     },
     {
       "id": "tt27237459",
@@ -218,18 +218,18 @@
       "description": "Genres: Comedy, Drama, Slice of Life\nTags:Female Protagonist/Primarily Female Cast/Work/Acting/Gyaru/Idol/LGBTQ+ Themes\nYuuhi Yugure and Yasumi Utatane, high school classmates and co-hosts of a weekly radio program, paint a picture-perfect friendship for their listeners. Yet, in reality, they couldn’t be more different. Their off-air dynamic is a whirlwind of chaos and insults. As their tumultuous relationship unfolds, they navigate the turbulent waters of friendship and rivalry in the cutthroat realm of showbiz. <br><br>\n(Source: Crunchyroll, edited)"
     },
     {
-      "id": "tt28329410",
-      "type": "series",
-      "name": "The Fable",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg",
-      "description": "Genres: Action, Comedy, Drama, Romance\nTags:Yakuza/Seinen/Assassins/Urban/Guns/Primarily Adult Cast\nWhen you're the infamous prodigy hitman known only as “Fable,” many things come easy. Being a normal person, however, isn't one of them. In fact, being told that he can't kill anyone for a while may just be the hardest job Fable’s ever taken...<br>\n<br>\n(Source: Kodansha USA)"
-    },
-    {
       "id": "tt31146105",
       "type": "series",
       "name": "THE NEW GATE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170890-me6a8u2b36M4.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai\nTHE NEW GATE—an online game transformed into a life-and-death struggle for its players. Thanks to the valiant efforts of Shin, the most powerful of them all, an end to the game and freedom for everyone seemed within reach. But just moments after Shin defeats the game’s final boss, he finds himself bathed in an unknown light and transported some 500 years into the future of the in-game world. Thrown from a simple game gone wrong into a strange new land, one young swordsman of unrivalled strength is about to embark on a legendary journey!<br>\n<br>\n(Source: One Peace Books)"
+    },
+    {
+      "id": "tt28329410",
+      "type": "series",
+      "name": "The Fable",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg",
+      "description": "Genres: Action, Comedy, Drama, Romance\nTags:Yakuza/Seinen/Assassins/Urban/Guns/Primarily Adult Cast\nWhen you're the infamous prodigy hitman known only as “Fable,” many things come easy. Being a normal person, however, isn't one of them. In fact, being told that he can't kill anyone for a while may just be the hardest job Fable’s ever taken...<br>\n<br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt31250134",
@@ -295,18 +295,18 @@
       "description": "Genres: Comedy, Romance, Sci-Fi\nTags:Heterosexual/Aliens/Food\nTakumi, a gifted chef, was just let go from his job. He lands a gig at an old boarding house called Astro-sou, but hesitates to accept after learning he must also live there full-time. That is until he meets the beautiful and charming caretaker, Mira, and he’s sold. The two begin to work together and their connection deepens. But Mira has a secret: she isn’t from this world!<br><br>\n\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt29485149",
-      "type": "series",
-      "name": "Tadaima, Okaeri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169698-pmIhuxlGufON.jpg",
-      "description": "Genres: Drama, Romance, Slice of Life\nTags:Boys' Love/Omegaverse/Family Life/Male Protagonist/Primarily Male Cast\nMasaki Fujiyoshi is a stay-at-home spouse and parent. He has fought long and hard with feelings of being a burden to his loving husband, Hiromu, due to his status as an omega—and the difficulty they faced to achieve this domesticity. When their son, Hikari, was born, the family moved to an area better suited for raising children.<br>\n<br>\nDespite their newfound domestic bliss, the family's ties to their past are in tatters. There are people they left behind to pursue the creation of their happy family, and when they begin to return, Masaki and Hiromu aren't quite sure they have good intentions.\n<br><br>\n(Source: Crunchyroll)"
-    },
-    {
       "id": "kitsu:47692",
       "type": "series",
       "name": "Henjin no Salad Bowl",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166828-WPY0GYK5cIHy.jpg",
       "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Male Protagonist/Female Protagonist/Isekai/Magic/Cult/Homeless/Detective/Otaku Culture/Ensemble Cast\nSousuke Kaburaya, an impoverished detective, met Sara, a princess from another world with magical powers.\n<br><br>\nSara began living with Sousuke, and she quickly adjusted to life in modern Japan.<br>\nMeanwhile, Livia, a female knight who came from the same world as Sara, found herself lost and homeless, but surprisingly enjoyed her days here.\n<br><br>\nThese two people, who live a positive life despite their situation, began to have an impact on Sousuke and the other oddballs in the neighborhood, including a devilish lawyer, a divorce agent, and a cult leader. <br><br>\n(Source: Shogakukan, translated)"
+    },
+    {
+      "id": "tt29485149",
+      "type": "series",
+      "name": "Tadaima, Okaeri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169698-pmIhuxlGufON.jpg",
+      "description": "Genres: Drama, Romance, Slice of Life\nTags:Boys' Love/Omegaverse/Family Life/Male Protagonist/Primarily Male Cast\nMasaki Fujiyoshi is a stay-at-home spouse and parent. He has fought long and hard with feelings of being a burden to his loving husband, Hiromu, due to his status as an omega—and the difficulty they faced to achieve this domesticity. When their son, Hikari, was born, the family moved to an area better suited for raising children.<br>\n<br>\nDespite their newfound domestic bliss, the family's ties to their past are in tatters. There are people they left behind to pursue the creation of their happy family, and when they begin to return, Masaki and Hiromu aren't quite sure they have good intentions.\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt31543920",
