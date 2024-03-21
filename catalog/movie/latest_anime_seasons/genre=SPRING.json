@@ -21,42 +21,72 @@
       "description": "Genres: Action, Drama, Mecha, Sci-Fi, Thriller\nTags:Robots\nA new <i>Code Geass</i> anime series which was announced on the Code Geass New Project Presentation livestream."
     },
     {
-      "id": "kitsu:47470",
+      "id": "tt29176372",
       "type": "movie",
       "name": "Bocchi the Rock! Re:",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165253-mEb7BQD1ZkQU.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:47470"
+        "defaultVideoId": "tt29176372"
       },
       "description": "Genres: Comedy, Music, Slice of Life\nTags:Band/Cute Girls Doing Cute Things/Female Protagonist/Primarily Teen Cast/Hikikomori/Primarily Female Cast\nCompilation film of <i>Bocchi the Rock!</i> The first of the Bocchi compilation movie duology."
     },
     {
-      "id": "kitsu:48360",
+      "id": "tt31142500",
+      "type": "movie",
+      "name": "trapezium",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171291-puXWrX84pw5g.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt31142500"
+      },
+      "description": "Genres: Music\nTags:Female Protagonist/Idol\nThe novel <i>trapezium</i> depicts the 10 years of Yuu Higashi, a high school girl, who aims to be an idol. To achieve her dream, she sets four rules for herself: she will not be active on social media, she will not have a boyfriend, she will not stand out in school, and she will make friends with beautiful girls from the north, south, east, and west.<br><br>\n\n(Source: Anime News Network, edited)\n\n"
+    },
+    {
+      "id": "tt30648377",
       "type": "movie",
       "name": "Uma Musume: Pretty Derby - BEGINNING OF A NEW ERA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172420-HESdYonTsoee.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:48360"
+        "defaultVideoId": "tt30648377"
       },
       "description": "Genres: Drama, Slice of Life, Sports\nTags:Kemonomimi/Primarily Female Cast/Athletics\nThe film follows Jungle Pocket, who wishes to participate in the Triple Crown Classic race, which can only be run once in a lifetime. She faces rivals Agnes Tachyon and Manhattan Cafe.<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>Note: Relations are provisional and will be updated when more info is announced.</i>"
     },
     {
-      "id": "kitsu:48018",
+      "id": "tt31688642",
+      "type": "movie",
+      "name": "Kuramerukagari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171608-ptzZZt2djIkL.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt31688642"
+      },
+      "description": "Genres: Fantasy\nTags:\nIn the coal mining town crowded with small-scale miners, known as the \"Hakoniwa\", there is a girl named Kagari who runs a map shop, and her childhood friend Yuya, who dreams of breaking free from the \"Hakoniwa\" and the ever-changing labyrinth-like tow. Lately, suspicious \"sinkhole accidents\" occurring frequently in the town begin to encroach on their daily lives. Will Kagari be able to overcome this situation and determine the fate of the town? Beyond the challenges, the girl will grow up a bit today.<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt15286358",
+      "type": "movie",
+      "name": "Kurayukaba",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169778-MR1MKtO5BG4p.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt15286358"
+      },
+      "description": "Genres: Fantasy, Mystery\nTags:Detective/Trains\nBusiness is slow for the Ootsuji Detective Agency. Sotaro and his juvenile sidekick Saki will take any job that comes along, even one that sounds like a lot more risk than it’s worth. It’s festival season in the city but away from the public eye, a wave of mysterious disappearances has occurred. A newspaperman hires Sotaro to investigate, suggesting that answers might lie somewhere in the Dark, the notorious, anarchic maze that is the city’s physical, social, and moral underground. Sotaro subcontracts the gig to Saki, but soon enough regrets it when the kid also goes missing. Now Sotaro is obligated to venture into the Dark himself, and confront its dubious subterranean denizens, including the malicious Laughing Masks gang and the renegade police squad piloting the fearsome Demon 463 armoured train!\n<br><br>\n(Source: Fantasia Festival)"
+    },
+    {
+      "id": "tt31474158",
       "type": "movie",
       "name": "Meitantei Conan: 100-man Dol no Michishirube",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169754-QKY28ON9onrB.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:48018"
+        "defaultVideoId": "tt31474158"
       },
       "description": "Genres: Mystery\nTags:Detective/Age Regression/Tanned Skin\nThe 27th <i>Detective Conan</i> movie."
     },
     {
-      "id": "kitsu:8608",
+      "id": "tt30008198",
       "type": "movie",
       "name": "Gintama on Theater 2D: Ikkoku Keisei-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175573-b3AO39ztEitP.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:8608"
+        "defaultVideoId": "tt30008198"
       },
       "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:\nTheatrical cut of the Courtesan of a Nation Arc (episodes 257-261). The movie is a part of the \"Gintama 20th Anniversary Project\"."
     },
@@ -71,24 +101,34 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things\nA spin-off of the <I>Yuru Yuri</i> series featuring Sakurako and her sisters. The second film of the <i>Oomuro-ke</i> duology.\n<br><br>\n(Source: Anime News Network, edited)"
     },
     {
-      "id": "kitsu:48545",
+      "id": "tt26505552",
       "type": "movie",
       "name": "i☆Ris the Movie: Full Energy!!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156727-dySorVrt1aEz.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:48545"
+        "defaultVideoId": "tt26505552"
       },
       "description": "Genres: Fantasy, Music\nTags:Isekai/Idol\ni☆Ris has reached the 10th anniversary of their debut and is enjoying smooth sailing, but there was a thought that came to the minds of the girls. \"What will happen to us in the next 10 years?\"\n<br><br>\nOn the day of a live concert, a mysterious talking white squirrel suddenly appears from a T-shirt of goods delivered to i☆Ris' dressing room! Suddenly, they are enveloped in a dazzling light, and what spreads out before their eyes is a mysterious world with many big rainbows floating on it. This is Risu Risu Land, a world where you can be anything you want to be!\n<br><br>\nThe five of them are enjoying themselves in this fun and wonderful place, fulfilling their dreams, but they realize that there is something \"missing\" in this world. There is no \"song\" in this world. Shirorisu asks i☆Ris for help to bring back the \"song\"....\n<br><br>\nWhy did the \"song\" disappear? Can they bring \"Song\" back to this world once again? And at the end of this journey, will the girls find what they really want to be?　<br><br>\n(Source: Crunchyroll News)\n"
     },
     {
-      "id": "kitsu:46543",
+      "id": "tt31392336",
       "type": "movie",
       "name": "RABBITS KINGDOM THE MOVIE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169766-wrgUxlD9ntRT.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:46543"
+        "defaultVideoId": "tt31392336"
       },
       "description": "Genres: Fantasy, Music\nTags:\nA project to commemorate the 10th Anniversary of  <i>Tsukiuta.</i><br><br>\n\nThe Black Rabbit Kingdom and the White Rabbit Kingdom — Two different worlds existing side by side. The two worlds, which were supposed to be a \"pair,\" had never met, perhaps by a twist of fate. The situation remained unstable and incomplete.\n<br><br>\nHajime, the young king of the Balck Rabbit Kingdom, is distressed by the calamities in the surrounding countries. The Prime Minister Haru, his close aides Kakeru and Koi, the prince Aoi, and his escort Arata are busy preparing for the upcoming World Congress and the ball to commemorate the 15th anniversary of Hajime's reign.\n<br><br>\nAt the same time, in the White Rabbit Kingdom at the suggestion of Shuno, who calls himself the Demon King, the king, Kai, the prince, Rui, the guards, Yoh and Iku, and the former military officer, Yoru, are going on a \"picnic\" to the Black Rabbit Kingdom.\n<br><br>\nWhat will be born from the encounter between the Black Rabbit Kingdom and the White Rabbit Kingdom?<br><br>\n(Source: Crunchyroll News)\n"
+    },
+    {
+      "id": "tt28813376",
+      "type": "movie",
+      "name": "Dead Dead Demon's Dededededestruction Koushou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176218-kkYx4siBXa3s.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt28813376"
+      },
+      "description": "Genres: Comedy, Drama, Sci-Fi, Slice of Life\nTags:\nThe second film of the <i>Dead Dead Demon's Dededededestruction</i> duology."
     }
   ]
 }
