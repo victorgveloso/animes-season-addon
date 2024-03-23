@@ -21,6 +21,16 @@
       "description": "Genres: Drama, Music, Romance\nTags:Boys' Love\nSequel to <i>Given: Hiiragi mix</i>."
     },
     {
+      "id": "tt3114358",
+      "type": "movie",
+      "name": "Ganbatte Ikimasshoi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176245-EJTb2acrDtC0.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt3114358"
+      },
+      "description": "Genres: Drama, Sports\nTags:Primarily Female Cast/Primarily Teen Cast/Female Protagonist/School Club\nnull"
+    },
+    {
       "id": "tt28648011",
       "type": "movie",
       "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",

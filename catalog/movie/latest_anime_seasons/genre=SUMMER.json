@@ -108,7 +108,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt31806053"
       },
-      "description": "Genres: Mahou Shoujo\nTags:Female Protagonist/Henshin/Kids/Primarily Female Cast/Video Games/Magic/Animals\nMovie of <i>Wonderful Precure!</i>, first announced during screenings of <i>Precure All Stars F</i>."
+      "description": "Genres: Mahou Shoujo\nTags:Kids/Female Protagonist/Henshin/Magic/Primarily Female Cast/Video Games/Animals\nMovie of <i>Wonderful Precure!</i>, first announced during screenings of <i>Precure All Stars F</i>."
     },
     {
       "id": "tt30400536",
@@ -118,7 +118,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt30400536"
       },
-      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:Dinosaurs/Kids\nThe 32nd <i>Crayon Shin-chan</i> film. The movie will follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur.\" Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad. <br><br>\n\n(Source: Anime News Network, edited)"
+      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:Kids/Dinosaurs\nThe 32nd <i>Crayon Shin-chan</i> film. The movie will follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur.\" Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad. <br><br>\n\n(Source: Anime News Network, edited)"
     },
     {
       "id": "tt29685796",
@@ -129,6 +129,16 @@
         "defaultVideoId": "tt29685796"
       },
       "description": "Genres: Comedy, Fantasy\nTags:Kids\nThe film's story centers on Anpanman's nemesis Baikinman, but this time, he attempts to become a warrior of love and courage when he is sucked into a picture book. Inside the book is a large forest where fairies live. Baikinman meets the fairy Lulun, who asks him to defeat an elephant that is rampaging in the forest. Although Baikinman is reluctant, he tries his best to defeat the elephant. However, it is too strong for Baikinman, so he tells Lulun to call Anpanman to help protect the picture book world.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt31358065",
+      "type": "movie",
+      "name": "KING OF PRISM COME BACK (Provisional Title)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176275-py1b0EkGqaEa.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt31358065"
+      },
+      "description": "Genres: Music, Sports\nTags:Idol/Ice Skating/Primarily Male Cast\nNew KING OF PRISM film.<br><br>\n\n<i>Note: The current title  and relations is provisional and may change when more info is announced.</i>"
     }
   ]
 }
