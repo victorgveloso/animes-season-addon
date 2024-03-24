@@ -1,22 +1,12 @@
 {
   "metas": [
     {
-      "id": "tt30467885",
-      "type": "movie",
-      "name": "Fureru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171109-2a3I43Q5tqe7.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt30467885"
-      },
-      "description": "Genres: Drama\nTags:Coming of Age\n<i>Fureru</i> is a coming-of-age film set in present-day Tokyo, centering on childhood friends who find a creature with mysterious powers that pushes them to discover the bonds that tie the three students together. <br><br>\n(Source: Crunchyroll News, edited)"
-    },
-    {
-      "id": "tt28523838",
+      "id": "kitsu:48571",
       "type": "movie",
       "name": "Given: Umi e",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175199-rK5lFUlEhUfg.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt28523838"
+        "defaultVideoId": "kitsu:48571"
       },
       "description": "Genres: Drama, Music, Romance\nTags:Boys' Love\nSequel to <i>Given: Hiiragi mix</i>."
     },
@@ -24,21 +14,11 @@
       "id": "tt3114358",
       "type": "movie",
       "name": "Ganbatte Ikimasshoi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176245-EJTb2acrDtC0.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176245-OoBRZRVUwO7t.png",
       "behaviorHints": {
         "defaultVideoId": "tt3114358"
       },
       "description": "Genres: Drama, Sports\nTags:Primarily Female Cast/Primarily Teen Cast/Female Protagonist/School Club\nnull"
-    },
-    {
-      "id": "tt28648011",
-      "type": "movie",
-      "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175138-blZxuYbgsfSc.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt28648011"
-      },
-      "description": "Genres: Comedy\nTags:Ninja\nnull"
     }
   ]
 }
