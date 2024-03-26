@@ -91,16 +91,6 @@
       "description": "Genres: Mystery\nTags:Detective/Age Regression/Tanned Skin\nThe 27th <i>Detective Conan</i> movie."
     },
     {
-      "id": "kitsu:8608",
-      "type": "movie",
-      "name": "Gintama on Theater 2D: Ikkoku Keisei-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175573-b3AO39ztEitP.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:8608"
-      },
-      "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:\nTheatrical cut of the Courtesan of a Nation Arc (episodes 257-261). The movie is a part of the \"Gintama 20th Anniversary Project\"."
-    },
-    {
       "id": "tt1685401",
       "type": "movie",
       "name": "Oomuro-ke: dear friends",
@@ -111,14 +101,14 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things\nA spin-off of the <I>Yuru Yuri</i> series featuring Sakurako and her sisters. The second film of the <i>Oomuro-ke</i> duology.\n<br><br>\n(Source: Anime News Network, edited)"
     },
     {
-      "id": "kitsu:48545",
+      "id": "kitsu:8608",
       "type": "movie",
-      "name": "i☆Ris the Movie: Full Energy!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156727-dySorVrt1aEz.jpg",
+      "name": "Gintama on Theater 2D: Ikkoku Keisei-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175573-b3AO39ztEitP.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:48545"
+        "defaultVideoId": "kitsu:8608"
       },
-      "description": "Genres: Fantasy, Music\nTags:Idol/Isekai\ni☆Ris has reached the 10th anniversary of their debut and is enjoying smooth sailing, but there was a thought that came to the minds of the girls. \"What will happen to us in the next 10 years?\"\n<br><br>\nOn the day of a live concert, a mysterious talking white squirrel suddenly appears from a T-shirt of goods delivered to i☆Ris' dressing room! Suddenly, they are enveloped in a dazzling light, and what spreads out before their eyes is a mysterious world with many big rainbows floating on it. This is Risu Risu Land, a world where you can be anything you want to be!\n<br><br>\nThe five of them are enjoying themselves in this fun and wonderful place, fulfilling their dreams, but they realize that there is something \"missing\" in this world. There is no \"song\" in this world. Shirorisu asks i☆Ris for help to bring back the \"song\"....\n<br><br>\nWhy did the \"song\" disappear? Can they bring \"Song\" back to this world once again? And at the end of this journey, will the girls find what they really want to be?　<br><br>\n(Source: Crunchyroll News)\n"
+      "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:\nTheatrical cut of the Courtesan of a Nation Arc (episodes 257-261). The movie is a part of the \"Gintama 20th Anniversary Project\"."
     },
     {
       "id": "tt27522506",
@@ -129,6 +119,16 @@
         "defaultVideoId": "tt27522506"
       },
       "description": "Genres: Drama, Slice of Life, Sports\nTags:\nTheatrical version of <i>Uma Musume: Pretty Derby - ROAD TO THE TOP</i> which includes new extra scenes."
+    },
+    {
+      "id": "tt21957774",
+      "type": "movie",
+      "name": "i☆Ris the Movie: Full Energy!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156727-dySorVrt1aEz.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt21957774"
+      },
+      "description": "Genres: Fantasy, Music\nTags:Idol/Isekai\ni☆Ris has reached the 10th anniversary of their debut and is enjoying smooth sailing, but there was a thought that came to the minds of the girls. \"What will happen to us in the next 10 years?\"\n<br><br>\nOn the day of a live concert, a mysterious talking white squirrel suddenly appears from a T-shirt of goods delivered to i☆Ris' dressing room! Suddenly, they are enveloped in a dazzling light, and what spreads out before their eyes is a mysterious world with many big rainbows floating on it. This is Risu Risu Land, a world where you can be anything you want to be!\n<br><br>\nThe five of them are enjoying themselves in this fun and wonderful place, fulfilling their dreams, but they realize that there is something \"missing\" in this world. There is no \"song\" in this world. Shirorisu asks i☆Ris for help to bring back the \"song\"....\n<br><br>\nWhy did the \"song\" disappear? Can they bring \"Song\" back to this world once again? And at the end of this journey, will the girls find what they really want to be?　<br><br>\n(Source: Crunchyroll News)\n"
     },
     {
       "id": "kitsu:46543",

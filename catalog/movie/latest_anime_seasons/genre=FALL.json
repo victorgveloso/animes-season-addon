@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "kitsu:44530",
+      "type": "movie",
+      "name": "Overlord: Sei Oukoku-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133845-dcRFG8lscdHJ.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:44530"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Skeleton/Magic/Male Protagonist/Female Harem/Maids\nTheatrical follow-up to <i>Overlord IV</i>. The film will cover the \"Holy Kingdom\" arc."
+    },
+    {
       "id": "kitsu:48571",
       "type": "movie",
       "name": "Given: Umi e",
