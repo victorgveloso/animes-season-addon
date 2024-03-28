@@ -33,7 +33,7 @@
       "type": "series",
       "name": "Ao no Hako",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-g6t28KIY1lPR.png",
-      "description": "Genres: Romance, Slice of Life, Sports\nTags:Coming of Age/School Club/School/Badminton/Heterosexual/Male Protagonist/Female Protagonist/Athletics/Basketball/Primarily Teen Cast\nTaiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)"
+      "description": "Genres: Romance, Slice of Life, Sports\nTags:Coming of Age/School Club/School/Heterosexual/Badminton/Male Protagonist/Female Protagonist/Athletics/Basketball/Primarily Teen Cast\nTaiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)"
     },
     {
       "id": "tt5936660",
@@ -148,18 +148,18 @@
       "description": "Genres: Mecha, Sci-Fi\nTags:Full CGI/Real Robot/CGI\nBandai Namco Filmworks announced the new animation project Mobile Suit Gundam: Requiem for Vengeance during its Anime Expo industry panel on July 1, 2023. The staff is producing the animation entirely with Epic Games' Unreal Engine 5, as previewed in a trailer presented at the panel.<br><br>\nEpisodes are set in the Universal Century chronology of the first Mobile Suit Gundam story and its sequels, and the story is told from the Zeon faction's perspective, particularly from the Zaku mobile suits' cockpits.<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "kitsu:47886",
-      "type": "series",
-      "name": "Haigakura",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168537-ktIEcCtQnR3w.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Josei/Gods\nNozomu wants to be a writer, but for now she's just trying to find the right story. Walking home from school one day she bumps into some guys, and even though it's an accident, they hassle her until she is saved by a mysterious man. His name is Ichiyou, and he is searching for Gods. Nozomu sends him along his way only to be approached by Tenkou, who is searching for his Master. Nozomu reunites Ichiyou and Tenkou; (and their abusive relationship), and gets a view of another world. The two men are on a journey to find the Gods. The world that was once supported by four evil Gods, has fallen to a crisis. Using song and dance, it is up to the kashikans to bring back the Gods which fled from their confinement…"
-    },
-    {
       "id": "tt20228550",
       "type": "series",
       "name": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176292-Rym5hd47oqrr.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nTags:\nThe second season of <i>Nanatsu no Taizai: Mokushiroku no Yonkishi.</i>"
+    },
+    {
+      "id": "kitsu:47886",
+      "type": "series",
+      "name": "Haigakura",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168537-ktIEcCtQnR3w.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Josei/Gods\nNozomu wants to be a writer, but for now she's just trying to find the right story. Walking home from school one day she bumps into some guys, and even though it's an accident, they hassle her until she is saved by a mysterious man. His name is Ichiyou, and he is searching for Gods. Nozomu sends him along his way only to be approached by Tenkou, who is searching for his Master. Nozomu reunites Ichiyou and Tenkou; (and their abusive relationship), and gets a view of another world. The two men are on a journey to find the Gods. The world that was once supported by four evil Gods, has fallen to a crisis. Using song and dance, it is up to the kashikans to bring back the Gods which fled from their confinement…"
     },
     {
       "id": "kitsu:48468",
@@ -209,6 +209,13 @@
       "name": "Duel Masters LOST:  Tsuioku no Suishou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175473-ac4u5CtY0Rcl.jpg",
       "description": "Genres: Adventure\nTags:Card Battle\nnull"
+    },
+    {
+      "id": "kitsu:48644",
+      "type": "series",
+      "name": "Neko ni Tensei Shita Oji-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176191-OaNJKGnQVMLW.jpg",
+      "description": "Genres: Comedy, Slice of Life\nTags:Animals\nThe story of <i>Neko ni Tensei Shita Oji-san</i>  follows an ordinary old man who one day suddenly is reincarnated as a cute cat, and the president of the company he works for picks him up. <br><br>(Source: Anime News Network, edited) "
     }
   ]
 }

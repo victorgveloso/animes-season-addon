@@ -11,6 +11,16 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Skeleton/Magic/Male Protagonist/Female Harem/Maids\nTheatrical follow-up to <i>Overlord IV</i>. The film will cover the \"Holy Kingdom\" arc."
     },
     {
+      "id": "kitsu:48655",
+      "type": "movie",
+      "name": "Fureru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171109-2a3I43Q5tqe7.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:48655"
+      },
+      "description": "Genres: Drama\nTags:Coming of Age\n<i>Fureru</i> is a coming-of-age film set in present-day Tokyo, centering on childhood friends who find a creature with mysterious powers that pushes them to discover the bonds that tie the three students together. <br><br>\n(Source: Crunchyroll News, edited)"
+    },
+    {
       "id": "kitsu:48571",
       "type": "movie",
       "name": "Given: Umi e",
