@@ -1,12 +1,12 @@
 {
   "metas": [
     {
-      "id": "kitsu:48541",
+      "id": "tt31711040",
       "type": "movie",
       "name": "Look Back",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174788-XeYkoUFacher.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:48541"
+        "defaultVideoId": "tt31711040"
       },
       "description": "Genres: Drama, Slice of Life\nTags:Drawing/Female Protagonist/Coming of Age/Primarily Female Cast/Shounen\nAyumu Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for the paper...\n<br><br>\n(Source: MANGA Plus, edited)"
     },
@@ -31,22 +31,22 @@
       "description": "Genres: Fantasy, Horror, Mystery, Psychological, Supernatural\nTags:\nAnnounced at the <i>Mononoke</i> 15th Anniversary Festival."
     },
     {
-      "id": "kitsu:46809",
+      "id": "tt23951384",
       "type": "movie",
       "name": "Kimi no Iro",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158166-sZiN2dt4ye9q.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:46809"
+        "defaultVideoId": "tt23951384"
       },
       "description": "Genres: Music\nTags:Band/School Club/Coming of Age/School\nTotsuko is a high-school student who attends a Christian Academy in Nagasaki and can see the hearts of people as colors. Whether they’re happy colors, sad colors, peaceful colors, frightened colors... In order to not darken her friend's and family's “colors,” Totsuko is careful to read the room and stretches the truth to keep them all brightly colored. Totsuko then meets a beautiful girl who radiates very striking colors and a boy who loves music in a used bookstore in the corner of town. The three come together and form a band to make the music of their adolescence.<br>\n<br>\n(Source: Crunchyroll News, edited)"
     },
     {
-      "id": "kitsu:48210",
+      "id": "tt29176372",
       "type": "movie",
       "name": "Bocchi the Rock! Re:Re:",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171099-yrjMLJnK3l2h.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:48210"
+        "defaultVideoId": "tt29176372"
       },
       "description": "Genres: Comedy, Music, Slice of Life\nTags:Band/Female Protagonist\nCompilation film of <i>Bocchi the Rock!</i> The second of the Bocchi compilation movie duology."
     },
@@ -91,14 +91,54 @@
       "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:\nSequel to the 2006 <i>Zegapain</i> TV series as part of \"Zegapain PROJECT REUNION\". The new sequel installment has the subtitle \"Olta Moda Arc\", named after the brand new force in the Zegapain universe \"Olta Moda\"."
     },
     {
-      "id": "tt10720352",
+      "id": "tt31806053",
+      "type": "movie",
+      "name": "Wonderful Precure! The Movie!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169403-E3YZFNf6yS6t.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt31806053"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Kids/Female Protagonist/Henshin/Video Games/Primarily Female Cast/Magic/Animals\nMovie of <i>Wonderful Precure!</i>, first announced during screenings of <i>Precure All Stars F</i>."
+    },
+    {
+      "id": "tt30400536",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171145-tvVUfRjbD4AZ.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt30400536"
+      },
+      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:Dinosaurs/Kids\nThe 32nd <i>Crayon Shin-chan</i> film. The movie will follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur.\" Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad. <br><br>\n\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "tt31893935",
+      "type": "movie",
+      "name": "StPri: Hajimari no Monogatari - Strawberry School Festival!!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176319-iS9jyHQ7CaJW.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt31893935"
+      },
+      "description": "Genres: Music, Slice of Life\nTags:Primarily Male Cast\nA movie about the VTuber boy band Strawberry Prince."
+    },
+    {
+      "id": "tt31358065",
       "type": "movie",
       "name": "KING OF PRISM COME BACK (Provisional Title)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176275-py1b0EkGqaEa.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt10720352"
+        "defaultVideoId": "tt31358065"
       },
       "description": "Genres: Music, Sports\nTags:Idol/Ice Skating/Primarily Male Cast\nNew KING OF PRISM film.<br><br>\n\n<i>Note: The current title  and relations is provisional and may change when more info is announced.</i>"
+    },
+    {
+      "id": "tt29685796",
+      "type": "movie",
+      "name": "Sore Ike! Anpanman: Baikinman to Ehon no Lulun",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172965-DP0UGsCWM7W0.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt29685796"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:Kids\nThe film's story centers on Anpanman's nemesis Baikinman, but this time, he attempts to become a warrior of love and courage when he is sucked into a picture book. Inside the book is a large forest where fairies live. Baikinman meets the fairy Lulun, who asks him to defeat an elephant that is rampaging in the forest. Although Baikinman is reluctant, he tries his best to defeat the elephant. However, it is too strong for Baikinman, so he tells Lulun to call Anpanman to help protect the picture book world.<br><br>\n(Source: Anime News Network)"
     }
   ]
 }
