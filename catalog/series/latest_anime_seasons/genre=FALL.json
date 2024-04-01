@@ -64,18 +64,18 @@
       "description": "Genres: Drama, Fantasy, Slice of Life, Supernatural\nTags:Youkai/Iyashikei/Male Protagonist/Rural/Shoujo\nThe seventh season of <i>Natsume Yuujinchou.<br>"
     },
     {
-      "id": "tt29473209",
-      "type": "series",
-      "name": "Houkago Shounen Hanako-kun 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170893-zqmpX7iYUumi.jpg",
-      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Ghost/School/Mythology/Episodic/Youkai/Ensemble Cast\nA sequel of <i>Houkago Shounen Hanako-kun.</i>"
-    },
-    {
       "id": "tt3028018",
       "type": "series",
       "name": "Ao no Exorcist: Yuki no Hate-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176311-CpwCHol1qQNX.jpg",
       "description": "Genres: Action, Fantasy, Supernatural\nTags:Urban Fantasy/Shounen\nSequel to <i>Ao no Exorcist: Shimane Illuminati-hen.</i>"
+    },
+    {
+      "id": "tt29473209",
+      "type": "series",
+      "name": "Houkago Shounen Hanako-kun 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170893-zqmpX7iYUumi.jpg",
+      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Ghost/School/Mythology/Episodic/Youkai/Ensemble Cast\nA sequel of <i>Houkago Shounen Hanako-kun.</i>"
     },
     {
       "id": "tt30689669",
@@ -141,13 +141,6 @@
       "description": "Genres: Comedy, Romance\nTags:Crossdressing/Primarily Adult Cast/Shoujo/College/Tomboy/Heterosexual\nCollege student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they're greeted by three dazzlingly handsome men?! But as the two groups get to know each other, they find themselves getting closer in unexpected ways.<br><br>\n(Source: MANGA UP!)"
     },
     {
-      "id": "tt30277745",
-      "type": "series",
-      "name": "GUNDAM: Requiem for Vengeance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166703-PfOrjA0ngSWJ.jpg",
-      "description": "Genres: Mecha, Sci-Fi\nTags:Full CGI/Real Robot/CGI\nBandai Namco Filmworks announced the new animation project Mobile Suit Gundam: Requiem for Vengeance during its Anime Expo industry panel on July 1, 2023. The staff is producing the animation entirely with Epic Games' Unreal Engine 5, as previewed in a trailer presented at the panel.<br><br>\nEpisodes are set in the Universal Century chronology of the first Mobile Suit Gundam story and its sequels, and the story is told from the Zeon faction's perspective, particularly from the Zaku mobile suits' cockpits.<br><br>\n(Source: Anime News Network)"
-    },
-    {
       "id": "tt20228550",
       "type": "series",
       "name": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
@@ -155,11 +148,11 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:\nThe second season of <i>Nanatsu no Taizai: Mokushiroku no Yonkishi.</i>"
     },
     {
-      "id": "kitsu:47886",
+      "id": "tt30277745",
       "type": "series",
-      "name": "Haigakura",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168537-ktIEcCtQnR3w.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Josei/Gods\nNozomu wants to be a writer, but for now she's just trying to find the right story. Walking home from school one day she bumps into some guys, and even though it's an accident, they hassle her until she is saved by a mysterious man. His name is Ichiyou, and he is searching for Gods. Nozomu sends him along his way only to be approached by Tenkou, who is searching for his Master. Nozomu reunites Ichiyou and Tenkou; (and their abusive relationship), and gets a view of another world. The two men are on a journey to find the Gods. The world that was once supported by four evil Gods, has fallen to a crisis. Using song and dance, it is up to the kashikans to bring back the Gods which fled from their confinement…"
+      "name": "GUNDAM: Requiem for Vengeance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166703-PfOrjA0ngSWJ.jpg",
+      "description": "Genres: Mecha, Sci-Fi\nTags:Full CGI/Real Robot/CGI\nBandai Namco Filmworks announced the new animation project Mobile Suit Gundam: Requiem for Vengeance during its Anime Expo industry panel on July 1, 2023. The staff is producing the animation entirely with Epic Games' Unreal Engine 5, as previewed in a trailer presented at the panel.<br><br>\nEpisodes are set in the Universal Century chronology of the first Mobile Suit Gundam story and its sequels, and the story is told from the Zeon faction's perspective, particularly from the Zaku mobile suits' cockpits.<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt23036426",
@@ -167,6 +160,13 @@
       "name": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-aHYSmA5B76TZ.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nTags:\nThe story follows Raust, a healer who can only use one basic spell and is expelled from a first-class party for being too weak. While the leader of that party realizes how great his abilities actually are after hiring another healer, Raust finds new friends like Narsena who support him and his rise to the top.<br><br>\n(Source: Crunchyroll News)"
+    },
+    {
+      "id": "kitsu:47886",
+      "type": "series",
+      "name": "Haigakura",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168537-ktIEcCtQnR3w.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Josei/Gods\nNozomu wants to be a writer, but for now she's just trying to find the right story. Walking home from school one day she bumps into some guys, and even though it's an accident, they hassle her until she is saved by a mysterious man. His name is Ichiyou, and he is searching for Gods. Nozomu sends him along his way only to be approached by Tenkou, who is searching for his Master. Nozomu reunites Ichiyou and Tenkou; (and their abusive relationship), and gets a view of another world. The two men are on a journey to find the Gods. The world that was once supported by four evil Gods, has fallen to a crisis. Using song and dance, it is up to the kashikans to bring back the Gods which fled from their confinement…"
     },
     {
       "id": "tt28371434",
@@ -188,6 +188,13 @@
       "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165810-Erimm4rrZMBy.png",
       "description": "Genres: Action, Comedy, Sports\nTags:Tennis\nThe sequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP. </i>"
+    },
+    {
+      "id": "tt28776190",
+      "type": "series",
+      "name": "Shangri-La Frontier 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-1ugnumO0WcIZ.png",
+      "description": "Genres: \nTags:Video Games/Virtual World/Male Protagonist/Swordplay/Shounen/Anthropomorphism/Magic/Martial Arts/Travel\nThe second season of <i>Shangri-La Frontier<i>."
     },
     {
       "id": "tt31543920",
