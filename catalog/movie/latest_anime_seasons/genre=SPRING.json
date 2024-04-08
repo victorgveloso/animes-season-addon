@@ -8,7 +8,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt28671146"
       },
-      "description": "Genres: Action, Sports\nTags:Male Protagonist/Football/School\n<i>My life was full of boredom. Until I met him.</i>\n<br><br>\nA movie centered about Nagi Seishirou before he enters Blue Lock."
+      "description": "Genres: Action, Sports\nTags:Football/Male Protagonist/School\n<i>My life was full of boredom. Until I met him.</i>\n<br><br>\nA movie centered about Nagi Seishirou before he enters Blue Lock."
     },
     {
       "id": "tt13592980",
@@ -28,7 +28,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt29176372"
       },
-      "description": "Genres: Comedy, Music, Slice of Life\nTags:Band/Cute Girls Doing Cute Things/Female Protagonist/Primarily Teen Cast/Hikikomori/Primarily Female Cast\nCompilation film of <i>Bocchi the Rock!</i> The first of the Bocchi compilation movie duology."
+      "description": "Genres: Comedy, Music, Slice of Life\nTags:Band/Cute Girls Doing Cute Things/Hikikomori/Female Protagonist/Primarily Teen Cast/Primarily Female Cast\nCompilation film of <i>Bocchi the Rock!</i> The first of the Bocchi compilation movie duology."
     },
     {
       "id": "tt31142500",
@@ -81,16 +81,6 @@
       "description": "Genres: Fantasy\nTags:\nIn the coal mining town crowded with small-scale miners, known as the \"Hakoniwa\", there is a girl named Kagari who runs a map shop, and her childhood friend Yuya, who dreams of breaking free from the \"Hakoniwa\" and the ever-changing labyrinth-like tow. Lately, suspicious \"sinkhole accidents\" occurring frequently in the town begin to encroach on their daily lives. Will Kagari be able to overcome this situation and determine the fate of the town? Beyond the challenges, the girl will grow up a bit today.<br><br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt31474158",
-      "type": "movie",
-      "name": "Case Closed: The Million-dollar Pentagram",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169754-QKY28ON9onrB.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt31474158"
-      },
-      "description": "Genres: Adventure, Mystery\nTags:Detective/Age Regression/Tanned Skin\nThe 27th <i>Detective Conan</i> movie. <br><br>\n\nA message has arrived from Kid the Phantom Thief, that he will steal a Japanese sword belonging to the wealthy Onoe Family in Hakodate, Hokkaido. Conan and Heiji Hattori, who happened to be in Hakodate, are on the case to capture Kid. Onoe Family's collections are associated with Toshizo Hijikata, a historic figure who perished in Hakodate. Why is Kid, who specializes in jewels, going after a Japanese sword?\n<br><br>\nCoincidentally the family lawyer of Onoe is found murdered in the warehouse district, apparently slaughtered by a Japanese sword. The suspect is an investor/arms dealer who is said to be after Onoe family's hidden treasure.\n<br><br>\nThe grandfather of Onoe family's patriarch was deeply involved with the army industry during wartime, and it was rumored he hid some powerful weapon that could “change the course of war” somewhere in Hakodate. Is Kid after that weapon? Meanwhile, Heiji is trying to find a perfect viewpoint to declare his love to Kazuha…\n<br><br>\nIn the North among cherry blossoms, the exciting hunt for treasure begins!<br><br>\n(Source: TMS Entertainment USA)"
-    },
-    {
       "id": "tt1685401",
       "type": "movie",
       "name": "Oomuro-ke: dear friends",
@@ -101,10 +91,20 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Cute Girls Doing Cute Things\nA spin-off of the <I>Yuru Yuri</i> series featuring Sakurako and her sisters. The second film of the <i>Oomuro-ke</i> duology.\n<br><br>\n(Source: Anime News Network, edited)"
     },
     {
+      "id": "tt31474158",
+      "type": "movie",
+      "name": "Case Closed: The Million-dollar Pentagram",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169754-QKY28ON9onrB.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt31474158"
+      },
+      "description": "Genres: Adventure, Mystery\nTags:Detective/Age Regression/Tanned Skin\nThe 27th <i>Detective Conan</i> movie. <br><br>\n\nA message has arrived from Kid the Phantom Thief, that he will steal a Japanese sword belonging to the wealthy Onoe Family in Hakodate, Hokkaido. Conan and Heiji Hattori, who happened to be in Hakodate, are on the case to capture Kid. Onoe Family's collections are associated with Toshizo Hijikata, a historic figure who perished in Hakodate. Why is Kid, who specializes in jewels, going after a Japanese sword?\n<br><br>\nCoincidentally the family lawyer of Onoe is found murdered in the warehouse district, apparently slaughtered by a Japanese sword. The suspect is an investor/arms dealer who is said to be after Onoe family's hidden treasure.\n<br><br>\nThe grandfather of Onoe family's patriarch was deeply involved with the army industry during wartime, and it was rumored he hid some powerful weapon that could “change the course of war” somewhere in Hakodate. Is Kid after that weapon? Meanwhile, Heiji is trying to find a perfect viewpoint to declare his love to Kazuha…\n<br><br>\nIn the North among cherry blossoms, the exciting hunt for treasure begins!<br><br>\n(Source: TMS Entertainment USA)"
+    },
+    {
       "id": "tt30008198",
       "type": "movie",
       "name": "Gintama on Theater 2D: Ikkoku Keisei-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175573-b3AO39ztEitP.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175573-jf4woESV4dx9.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt30008198"
       },
