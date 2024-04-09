@@ -1,7 +1,7 @@
 {
   "metas": [
     {
-      "id": "tt29053475",
+      "id": "tt31070072",
       "type": "series",
       "name": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-BSMUKU4zb31e.jpg",
@@ -33,7 +33,7 @@
       "type": "series",
       "name": "Shangri-La Frontier 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-1ugnumO0WcIZ.png",
-      "description": "Genres: \nTags:Video Games/Virtual World/Male Protagonist/Swordplay/Shounen/Anthropomorphism/Magic/Martial Arts/Travel\nThe second season of <i>Shangri-La Frontier<i>."
+      "description": "Genres: Action, Adventure, Comedy, Fantasy, Sci-Fi\nTags:Video Games/Virtual World/Male Protagonist/Swordplay/Shounen/Anthropomorphism/Magic/Martial Arts/Travel\nThe second season of <i>Shangri-La Frontier<i>."
     },
     {
       "id": "tt30523856",
@@ -47,7 +47,7 @@
       "type": "series",
       "name": "Sword Art Online Alternative: Gun Gale Online II",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167141-sGq8sN0V3swY.jpg",
-      "description": "Genres: Action, Sci-Fi\nTags:Guns/Female Protagonist/Isekai\nThe second season of <i>Sword Art Online Alternative: Gun Gale Online</i>."
+      "description": "Genres: Action, Sci-Fi\nTags:Guns/Video Games/Female Protagonist/Isekai\nThe second season of <i>Sword Art Online Alternative: Gun Gale Online</i>."
     },
     {
       "id": "tt29370857",
@@ -57,7 +57,7 @@
       "description": "Genres: Drama, Mystery\nTags:Detective/Work\nThe second season of <i>Kamonohashi Ron no Kindan Suiri</i>."
     },
     {
-      "id": "tt3028018",
+      "id": "tt30523856",
       "type": "series",
       "name": "Ao no Exorcist: Yuki no Hate-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176311-CpwCHol1qQNX.jpg",
@@ -155,18 +155,18 @@
       "description": "Genres: Comedy, Romance\nTags:Crossdressing/Primarily Adult Cast/Shoujo/College/Tomboy/Heterosexual\nCollege student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they're greeted by three dazzlingly handsome men?! But as the two groups get to know each other, they find themselves getting closer in unexpected ways.<br><br>\n(Source: MANGA UP!)"
     },
     {
+      "id": "tt23036426",
+      "type": "series",
+      "name": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-aHYSmA5B76TZ.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:\nThe story follows Raust, a healer who can only use one basic spell and is expelled from a first-class party for being too weak. While the leader of that party realizes how great his abilities actually are after hiring another healer, Raust finds new friends like Narsena who support him and his rise to the top.<br><br>\n(Source: Crunchyroll News)"
+    },
+    {
       "id": "tt30277745",
       "type": "series",
       "name": "GUNDAM: Requiem for Vengeance",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166703-PfOrjA0ngSWJ.jpg",
       "description": "Genres: Mecha, Sci-Fi\nTags:Full CGI/Real Robot/CGI\nBandai Namco Filmworks announced the new animation project Mobile Suit Gundam: Requiem for Vengeance during its Anime Expo industry panel on July 1, 2023. The staff is producing the animation entirely with Epic Games' Unreal Engine 5, as previewed in a trailer presented at the panel.<br><br>\nEpisodes are set in the Universal Century chronology of the first Mobile Suit Gundam story and its sequels, and the story is told from the Zeon faction's perspective, particularly from the Zaku mobile suits' cockpits.<br><br>\n(Source: Anime News Network)"
-    },
-    {
-      "id": "tt30801607",
-      "type": "series",
-      "name": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-aHYSmA5B76TZ.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:\nThe story follows Raust, a healer who can only use one basic spell and is expelled from a first-class party for being too weak. While the leader of that party realizes how great his abilities actually are after hiring another healer, Raust finds new friends like Narsena who support him and his rise to the top.<br><br>\n(Source: Crunchyroll News)"
     },
     {
       "id": "kitsu:47886",
@@ -190,7 +190,7 @@
       "description": "Genres: Comedy, Romance\nTags:Shoujo/Teacher/Otaku Culture\nThe slightly strange high school student Murai confessed love to his teacher and otome-game fanatic Tanaka-sensei. She refused by telling him she's not interested in (real-life) long, black-haired boys. The next day, Murai came back with short blonde hair, which made him look just like Tanaka-sensei's favorite game character! A non-stop romantic comedy between a stubborn high school boy and his favorite teacher!"
     },
     {
-      "id": "tt31596104",
+      "id": "tt22012992",
       "type": "series",
       "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165810-Erimm4rrZMBy.png",
