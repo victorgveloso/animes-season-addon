@@ -40,7 +40,7 @@
       "type": "series",
       "name": "Ao no Hako",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-k0peVLJfHtbd.png",
-      "description": "Genres: Romance, Slice of Life, Sports\nTags:Heterosexual/Coming of Age/School Club/School/Badminton/Athletics/Male Protagonist/Female Protagonist/Primarily Teen Cast/Basketball\nTaiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)"
+      "description": "Genres: Romance, Slice of Life, Sports\nTags:Heterosexual/Coming of Age/School Club/School/Badminton/Athletics/Male Protagonist/Female Protagonist/Primarily Teen Cast/Basketball/Shounen\nTaiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)"
     },
     {
       "id": "tt5936660",
@@ -138,7 +138,7 @@
       "type": "series",
       "name": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176292-Rym5hd47oqrr.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:\nThe second season of <i>Nanatsu no Taizai: Mokushiroku no Yonkishi.</i>"
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Shounen\nThe second season of <i>Nanatsu no Taizai: Mokushiroku no Yonkishi.</i>"
     },
     {
       "id": "tt30523856",
@@ -208,7 +208,7 @@
       "type": "series",
       "name": "Hyakushou Kizoku 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171689-g58G2W9D5YiH.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:Agriculture/Animals\nThe second season of <i>Hyakushou Kizoku</i>."
+      "description": "Genres: Comedy, Slice of Life\nTags:Agriculture/Animals/Shoujo\nThe second season of <i>Hyakushou Kizoku</i>."
     },
     {
       "id": "tt27052533",
@@ -223,6 +223,13 @@
       "name": "Neko ni Tensei Shita Oji-san",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176191-OaNJKGnQVMLW.jpg",
       "description": "Genres: Comedy, Slice of Life\nTags:Animals\nThe story of <i>Neko ni Tensei Shita Oji-san</i>  follows an ordinary old man who one day suddenly is reincarnated as a cute cat, and the president of the company he works for picks him up. <br><br>(Source: Anime News Network, edited) "
+    },
+    {
+      "id": "tt30643971",
+      "type": "series",
+      "name": "Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-bwUcnJaNsQGi.jpg",
+      "description": "Genres: Action, Adventure, Comedy, Fantasy, Psychological\nTags:Male Protagonist/Magic/Seinen/Swordplay\nNoel has grown up idolizing his grandfather, a legendary adventurer of the class known as Seekers. But when it comes time for Noel to set out on his own, much to his dismay, he turns out to be a Talker: a support class with meager abilities. But Noel’s got ambition in spades–and the smarts to match–so he’s determined to do whatever it takes to make the world know his name!<br>\n<br>\n(Source: Seven Seas Entertainment)"
     }
   ]
 }
