@@ -41,16 +41,6 @@
       "description": "Genres: Music\nTags:Female Protagonist/Idol/Primarily Female Cast/Primarily Teen Cast\nThe novel <i>trapezium</i> depicts the 10 years of Yuu Higashi, a high school girl, who aims to be an idol. To achieve her dream, she sets four rules for herself: she will not be active on social media, she will not have a boyfriend, she will not stand out in school, and she will make friends with beautiful girls from the north, south, east, and west.<br><br>\n\n(Source: Anime News Network, edited)\n\n"
     },
     {
-      "id": "tt28813303",
-      "type": "movie",
-      "name": "Dead Dead Demon's Dededededestruction Koushou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176218-kkYx4siBXa3s.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt28813303"
-      },
-      "description": "Genres: Comedy, Drama, Sci-Fi, Slice of Life\nTags:Seinen\nThe second film of the <i>Dead Dead Demon's Dededededestruction</i> duology."
-    },
-    {
       "id": "tt15286358",
       "type": "movie",
       "name": "Kurayukaba",
@@ -59,6 +49,16 @@
         "defaultVideoId": "tt15286358"
       },
       "description": "Genres: Fantasy, Mystery\nTags:Detective/Trains/Guns/Steampunk/Circus/CGI\nBusiness is slow for the Ootsuji Detective Agency. Sotaro and his juvenile sidekick Saki will take any job that comes along, even one that sounds like a lot more risk than it’s worth. It’s festival season in the city but away from the public eye, a wave of mysterious disappearances has occurred. A newspaperman hires Sotaro to investigate, suggesting that answers might lie somewhere in the Dark, the notorious, anarchic maze that is the city’s physical, social, and moral underground. Sotaro subcontracts the gig to Saki, but soon enough regrets it when the kid also goes missing. Now Sotaro is obligated to venture into the Dark himself, and confront its dubious subterranean denizens, including the malicious Laughing Masks gang and the renegade police squad piloting the fearsome Demon 463 armoured train!\n<br><br>\n(Source: Fantasia Festival)"
+    },
+    {
+      "id": "tt28813303",
+      "type": "movie",
+      "name": "Dead Dead Demon's Dededededestruction Koushou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176218-kkYx4siBXa3s.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt28813303"
+      },
+      "description": "Genres: Comedy, Drama, Sci-Fi, Slice of Life\nTags:Seinen\nThe second film of the <i>Dead Dead Demon's Dededededestruction</i> duology."
     },
     {
       "id": "tt31688642",
