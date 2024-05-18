@@ -8,7 +8,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt31711040"
       },
-      "description": "Genres: Drama, Slice of Life\nTags:Drawing/Female Protagonist/Coming of Age/Primarily Female Cast/Autobiographical/Shounen/Hikikomori/School/Work\nAyumu Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for the paper...\n<br><br>\n(Source: MANGA Plus, edited)"
+      "description": "Genres: Drama, Slice of Life\nTags:Drawing/Female Protagonist/Coming of Age/Primarily Female Cast/Autobiographical/Shounen/Hikikomori/Work/School\nAyumu Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for the paper...\n<br><br>\n(Source: MANGA Plus, edited)"
     },
     {
       "id": "tt32176689",
@@ -81,6 +81,16 @@
       "description": "Genres: Supernatural\nTags:\nKarin, 11 years old, is abandoned by her father at her grandfather’s house, the monk of a small town in the Japanese countryside. Her grandfather asks Anzu, his jovial and helpful although rather capricious ghost cat, to look after her. The meeting of their strong characters causes sparks, at least at the beginning…"
     },
     {
+      "id": "tt30608459",
+      "type": "movie",
+      "name": "Wonderful Precure! The Movie!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169403-E3YZFNf6yS6t.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt30608459"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Video Games/Henshin/Female Protagonist/Kids/Primarily Female Cast/Magic/Animals\nMovie of <i>Wonderful Precure!</i>, first announced during screenings of <i>Precure All Stars F</i>."
+    },
+    {
       "id": "kitsu:47930",
       "type": "movie",
       "name": "Zegapain STA",
@@ -89,16 +99,6 @@
         "defaultVideoId": "kitsu:47930"
       },
       "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:\nSequel to the 2006 <i>Zegapain</i> TV series as part of \"Zegapain PROJECT REUNION\". The new sequel installment has the subtitle \"Olta Moda Arc\", named after the brand new force in the Zegapain universe \"Olta Moda\"."
-    },
-    {
-      "id": "tt30608459",
-      "type": "movie",
-      "name": "Wonderful Precure! The Movie!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169403-E3YZFNf6yS6t.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt30608459"
-      },
-      "description": "Genres: Mahou Shoujo\nTags:Kids/Female Protagonist/Henshin/Video Games/Magic/Primarily Female Cast/Animals\nMovie of <i>Wonderful Precure!</i>, first announced during screenings of <i>Precure All Stars F</i>."
     },
     {
       "id": "tt31893935",
