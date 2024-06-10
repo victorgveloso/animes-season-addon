@@ -41,12 +41,12 @@
       "description": "Genres: Fantasy, Horror, Mystery, Psychological, Supernatural\nTags:Male Protagonist\nAnnounced at the <i>Mononoke</i> 15th Anniversary Festival."
     },
     {
-      "id": "tt29176372",
+      "id": "tt32561659",
       "type": "movie",
       "name": "Bocchi the Rock! Re:Re:",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171099-yrjMLJnK3l2h.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt29176372"
+        "defaultVideoId": "tt32561659"
       },
       "description": "Genres: Comedy, Music, Slice of Life\nTags:Band/Female Protagonist/Rock Music\nCompilation film of <i>Bocchi the Rock!</i> The second of the Bocchi compilation movie duology."
     },
@@ -108,7 +108,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt31893935"
       },
-      "description": "Genres: Music, Slice of Life\nTags:VTuber/Primarily Male Cast/Idol\nA movie about the VTuber boy band Strawberry Prince."
+      "description": "Genres: Music, Slice of Life\nTags:Primarily Male Cast/VTuber/Idol\nA movie about the VTuber boy band Strawberry Prince."
     },
     {
       "id": "tt30400536",
@@ -128,7 +128,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt31358065"
       },
-      "description": "Genres: Music, Sports\nTags:Idol/Ice Skating/Primarily Male Cast\nNew KING OF PRISM film.<br><br>\n\n<i>Note: The current title  and relations is provisional and may change when more info is announced.</i>"
+      "description": "Genres: Music, Sports\nTags:Idol/Primarily Male Cast/Ice Skating\nNew KING OF PRISM film.<br><br>\n\n<i>Note: The current title  and relations is provisional and may change when more info is announced.</i>"
     },
     {
       "id": "tt32298591",
