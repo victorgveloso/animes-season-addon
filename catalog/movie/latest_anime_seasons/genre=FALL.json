@@ -51,16 +51,6 @@
       "description": "Genres: Drama, Sports\nTags:Primarily Female Cast/Primarily Teen Cast/Female Protagonist/School Club/Full CGI\nA high-school girl, Etsuko, just spends her days without any aims or purpose, until one day, Riina, a transfer student, asks her help to set up a boat club. Although Etsuko reluctantly accepts after hearing Riina speak passionately about her dream, she gradually starts to embrace the club after spending time with her teammates. <br><br>\n(Source: Annecy Festival)"
     },
     {
-      "id": "tt0306365",
-      "type": "movie",
-      "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175138-blZxuYbgsfSc.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt0306365"
-      },
-      "description": "Genres: Comedy\nTags:Ninja\nnull"
-    },
-    {
       "id": "tt30008198",
       "type": "movie",
       "name": "Gintama on Theater 2D: Kintama-hen",
@@ -69,6 +59,16 @@
         "defaultVideoId": "tt30008198"
       },
       "description": "Genres: Action, Comedy, Sci-Fi\nTags:\nTheatrical cut of the Kintama Arc (episodes 253-256). The movie is a part of the \"Gintama 20th Anniversary Project\"."
+    },
+    {
+      "id": "tt0306365",
+      "type": "movie",
+      "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175138-blZxuYbgsfSc.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt0306365"
+      },
+      "description": "Genres: Comedy\nTags:Ninja\nnull"
     }
   ]
 }
