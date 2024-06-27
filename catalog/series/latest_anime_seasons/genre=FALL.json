@@ -50,14 +50,14 @@
       "description": "Genres: Action, Adventure, Comedy, Fantasy, Romance\nTags:Dungeon/Female Harem/Male Protagonist\nThe fifth season of <i>Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka</i>.<br><br>\nGoddess Festival—A fruit festival that brings the labyrinth city of Orario to life. Goddesses symbolizing fertility are enshrined on the altar, and among them is the Goddess of Beauty. Bell Cranel, who has survived and returned to his daily life from the dead depths of the dungeon, is here and ready to enjoy the bustle of the Goddess Festival until he receives a letter from a girl at a small bar in a corner of Orario—\"To Mr. Bell, please go on a date with just the two of us at the upcoming Goddess Festival. From Syr.\" Syr's single-minded determination will drive both Bell and the labyrinth city crazy. Meanwhile, the Einherjar, the warriors who claim to be the \"strongest,\" are now suddenly on the move...<br><br>\n\n(Source: HIDIVE)"
     },
     {
-      "id": "tt32460380",
+      "id": "tt32639706",
       "type": "series",
       "name": "Ao no Hako",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-k0peVLJfHtbd.png",
       "description": "Genres: Romance, Slice of Life, Sports\nTags:Heterosexual/Coming of Age/School Club/School/Male Protagonist/Badminton/Athletics/Female Protagonist/Primarily Teen Cast/Basketball/Shounen\nTaiki Inomata is on the boys' badminton team at sports powerhouse Eimei Junior and Senior High. He's in love with basketball player Chinatsu Kano, the older girl he trains alongside every morning in the gym. One Spring day, their relationship takes a sharp turn ... And thus begins this brand-new series of love, sports and youth!<br><br>(Source: MANGA Plus)"
     },
     {
-      "id": "tt5936660",
+      "id": "tt7978710",
       "type": "series",
       "name": "Sword Art Online Alternative: Gun Gale Online II",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167141-sGq8sN0V3swY.jpg",
@@ -85,6 +85,13 @@
       "description": "Genres: Comedy, Romance, Slice of Life\nTags:Maids/Assassins/School/Kuudere/Shounen/Female Protagonist/Heterosexual\nThis is the story of a maid who is all alone in the world, but who finally finds a family.<br>\n<br>\nTold from young that her only worth is as a killer, Yuki had known nothing else except cold efficiency and following orders. Now that she has a chance to leave her past behind, she arrives at the doorstep of Hitoyoshi Yokoya, asking to be employed… as a maid?! Thus begins the journey of a former assassin learning what it means to be ‘normal’!<br>\n<br>\n(Source: Shogakukan)"
     },
     {
+      "id": "tt29473209",
+      "type": "series",
+      "name": "After-school Hanako-kun Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170893-zqmpX7iYUumi.jpg",
+      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Ghost/School/Mythology/Episodic/Youkai/Ensemble Cast\nContinuation of <i>Houkago Shounen Hanako-kun.</i> <br><br>\nThe spirit Hanako-kun and his human assistant, first-year student Nene Yashiro, keep the peace between supernatural forces and the students of Kamome Academy. When they’re not fighting to maintain balance between the living and spirit worlds, how do they spend their time? Join Hanako-kun and Nene on their adventures after school!<br><br>\n\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt30796980",
       "type": "series",
       "name": "Natsume Yuujinchou Shichi",
@@ -92,11 +99,11 @@
       "description": "Genres: Drama, Fantasy, Slice of Life, Supernatural\nTags:Youkai/Iyashikei/Male Protagonist/Rural/Shoujo\nThe seventh season of <i>Natsume Yuujinchou.<br>"
     },
     {
-      "id": "tt29473209",
+      "id": "tt31975847",
       "type": "series",
-      "name": "After-school Hanako-kun Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170893-zqmpX7iYUumi.jpg",
-      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Ghost/School/Mythology/Episodic/Youkai/Ensemble Cast\nContinuation of <i>Houkago Shounen Hanako-kun.</i> <br><br>\nThe spirit Hanako-kun and his human assistant, first-year student Nene Yashiro, keep the peace between supernatural forces and the students of Kamome Academy. When they’re not fighting to maintain balance between the living and spirit worlds, how do they spend their time? Join Hanako-kun and Nene on their adventures after school!<br><br>\n\n(Source: Crunchyroll)"
+      "name": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png",
+      "description": "Genres: Adventure, Fantasy\nTags:Isekai/Coming of Age/Magic/Swordplay/Male Protagonist/Shounen\nThe second season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>."
     },
     {
       "id": "tt29141921",
@@ -111,13 +118,6 @@
       "name": "Love Live! Superstar!! 3rd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-0nEJrr05Gt9U.jpg",
       "description": "Genres: Music, Slice of Life\nTags:Idol/Primarily Female Cast/Dancing/Female Protagonist/Cute Girls Doing Cute Things\nThe third season of <i>Love Live! Superstar!!</i>"
-    },
-    {
-      "id": "tt31975847",
-      "type": "series",
-      "name": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png",
-      "description": "Genres: Adventure, Fantasy\nTags:Isekai/Coming of Age/Magic/Swordplay/Male Protagonist/Shounen\nThe second season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>."
     },
     {
       "id": "tt31596104",
@@ -204,18 +204,18 @@
       "description": "Genres: Drama\nTags:Male Protagonist/Historical/Samurai/Shounen\nIt's 1863, the twilight of the shogunate, and Japan is on the cusp of monumental change. The streets of the nation's capital are soaked in blood as political upheaval and rising tensions between masterless, wandering ronin and government samurai set the stage for one of the most turbulent times in Japan's history. Young orphan Nio is no stranger to the harsh realities of the world, and yet he can't help but cling to his burning passion for justice and desire to change the world for the better.<br><br>\n\nOne day, he crosses paths with two men who will become central figures of the coming revolution: Hijikata Toshizo and Okita Souji, two of the founding members of a group of hated ronin known as the Miburo—who would later become known as the Shinsengumi. Inspired by the efforts of the so-called \"Blues Wolves of Mibu,\" Nio decides to join the ranks to help carve a path to the world he wishes to see. But with new betrayals and reversals every day, will Nio be able to stay true to his conscience?<br><br>\n\n(Source: Kodansha USA, edited)"
     },
     {
-      "id": "tt31704029",
-      "type": "series",
-      "name": "Acro Trip",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157965-QOdPVslzVw6q.jpg",
-      "description": "Genres: Comedy, Fantasy, Mahou Shoujo\nTags:Shoujo/Magic/Female Protagonist/Henshin\nChizuko, who lives in Sakai City, Niigata Prefecture, is an otaku girl who is a big fan of the magical girl Berry Blossom who protects the city against the evil organisation Fossa Magna. However, nobody was worried about the battle of the two anymore because Chroma, the wicked evil villain, was too lazy and weak.<br>\n<br>\nSo Chizuko decided “I want to make my magical girl shine more…!” That desire (?) leads the shy junior high school student down a strange, evil path…"
-    },
-    {
       "id": "tt30643998",
       "type": "series",
       "name": "Goukon ni Ittara Onna ga Inakatta Hanashi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-Rk1e9cl0kD2Q.jpg",
       "description": "Genres: Comedy, Romance\nTags:Crossdressing/Tomboy/Primarily Adult Cast/Shoujo/College/Heterosexual\nCollege student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they're greeted by three dazzlingly handsome men?! But as the two groups get to know each other, they find themselves getting closer in unexpected ways.<br><br>\n(Source: MANGA UP!)"
+    },
+    {
+      "id": "tt31704029",
+      "type": "series",
+      "name": "Acro Trip",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157965-QOdPVslzVw6q.jpg",
+      "description": "Genres: Comedy, Fantasy, Mahou Shoujo\nTags:Shoujo/Magic/Female Protagonist/Henshin\nChizuko, who lives in Sakai City, Niigata Prefecture, is an otaku girl who is a big fan of the magical girl Berry Blossom who protects the city against the evil organisation Fossa Magna. However, nobody was worried about the battle of the two anymore because Chroma, the wicked evil villain, was too lazy and weak.<br>\n<br>\nSo Chizuko decided “I want to make my magical girl shine more…!” That desire (?) leads the shy junior high school student down a strange, evil path…"
     },
     {
       "id": "tt32501772",
@@ -270,7 +270,7 @@
       "id": "tt29475583",
       "type": "series",
       "name": "Kamierabi Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172199-swnZYXxtUDhb.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172199-hDMw0MLQhbJt.jpg",
       "description": "Genres: Action, Drama, Psychological, Supernatural\nTags:Full CGI\nThe second season of <i>Kamierabi</i>."
     },
     {
