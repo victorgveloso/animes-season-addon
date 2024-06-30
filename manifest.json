@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.8.1",
+  "version": "1.9.1",
   "name": "Animes' season",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
@@ -25,7 +25,7 @@
             "WINTER",
             "SPRING"
           ],
-          "isRequired": true
+          "isRequired": false
         }
       ],
       "extraSupported": [
@@ -45,7 +45,7 @@
             "WINTER",
             "SPRING"
           ],
-          "isRequired": true
+          "isRequired": false
         }
       ],
       "extraSupported": [

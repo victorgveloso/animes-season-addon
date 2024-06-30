@@ -222,7 +222,7 @@ export class Manifest implements AbstractManifest {
             extra: [{ 
                 name: "genre", 
                 options: catalogType == CatalogType.LATEST ? this.seasons : this.years, 
-                isRequired: true }
+                isRequired: catalogType === CatalogType.ARCHIVE}
             ],
             "extraSupported": ["genre"]
           });
