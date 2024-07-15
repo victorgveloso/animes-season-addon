@@ -18,7 +18,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt23951384"
       },
-      "description": "Genres: Music\nTags:Band/Primarily Teen Cast/Iyashikei/Cute Girls Doing Cute Things/Boarding School/Female Protagonist/Nun/Cute Boys Doing Cute Things/Religion/Coming of Age/School/Dancing/School Club\nTotsuko is a high school student with the ability to see the 'colors' of others. Colors of bliss, excitement, and serenity, plus a color she treasures as her favorite. Kimi, a classmate at her school, gives off the most beautiful color of all. Although she doesn’t play an instrument, Totsuko forms a band with Kimi and Rui, a quiet music enthusiast they meet at a used bookstore in a far corner of town. As they practice at an old church on a remote island, music brings them together, forming friendships and stirring affections. Will they discover their true 'colors'?<br>\n<br>\n(Source: GKIDS)"
+      "description": "Genres: Music\nTags:Band/Primarily Teen Cast/Iyashikei/Boarding School/Cute Girls Doing Cute Things/Female Protagonist/Religion/Cute Boys Doing Cute Things/Nun/Coming of Age/School/Dancing/School Club\nTotsuko is a high school student with the ability to see the 'colors' of others. Colors of bliss, excitement, and serenity, plus a color she treasures as her favorite. Kimi, a classmate at her school, gives off the most beautiful color of all. Although she doesn’t play an instrument, Totsuko forms a band with Kimi and Rui, a quiet music enthusiast they meet at a used bookstore in a far corner of town. As they practice at an old church on a remote island, music brings them together, forming friendships and stirring affections. Will they discover their true 'colors'?<br>\n<br>\n(Source: GKIDS)"
     },
     {
       "id": "tt32574149",
@@ -51,6 +51,16 @@
       "description": "Genres: Music, Slice of Life\nTags:Idol/School Club/Primarily Female Cast\nThe first in a trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA."
     },
     {
+      "id": "tt28523838",
+      "type": "movie",
+      "name": "Given: Umi e",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175199-WxlBkrVGK8Fg.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt28523838"
+      },
+      "description": "Genres: Drama, Music, Romance\nTags:Boys' Love\nSequel to <i>Given: Hiiragi mix</i>."
+    },
+    {
       "id": "tt28036831",
       "type": "movie",
       "name": "Ghost Cat Anzu",
@@ -78,7 +88,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt30608459"
       },
-      "description": "Genres: Mahou Shoujo\nTags:Video Games/Henshin/Female Protagonist/Kids/Animals/Primarily Female Cast/Magic\nKomugi, Iroha, Yuki, Mayu, Daifuku and Satoru all got together to play the super popular game \"Dokidoki♡TanuKingdom!\"\n<br>But, as everyone was about to start enjoying the game, a suspicious tanuki somehow dragged them into the world of the game...\n<br>Then there's an even bigger problem! Komugi gets separated from Iroha and all the others...?!\n<br><br>\n\"I <i>aaalways</i> want to stay by Iroha's side-wan!\"\n<br>In order to reunite with her beloved Iroha, Komugi takes on all kinds of games and challenges!\n<br><br>\nWhy in the world did it end up like this...? Just what kind of secret is the game world hiding...?\n<br>The clues are held by the girl who made the game, Natsuki.\n<br><br>\n<i>Hirogaru Sky! Precure </i>and <i>Mahoutsukai Precure!</i> also makes an appearance!\n<br>When everyone's feelings become one, a miracle happens?!\n<br><br>\n(Source: Official website, translated)"
+      "description": "Genres: Mahou Shoujo\nTags:Kids/Female Protagonist/Henshin/Video Games/Animals/Magic/Primarily Female Cast\nKomugi, Iroha, Yuki, Mayu, Daifuku and Satoru all got together to play the super popular game \"Dokidoki♡TanuKingdom!\"\n<br>But, as everyone was about to start enjoying the game, a suspicious tanuki somehow dragged them into the world of the game...\n<br>Then there's an even bigger problem! Komugi gets separated from Iroha and all the others...?!\n<br><br>\n\"I <i>aaalways</i> want to stay by Iroha's side-wan!\"\n<br>In order to reunite with her beloved Iroha, Komugi takes on all kinds of games and challenges!\n<br><br>\nWhy in the world did it end up like this...? Just what kind of secret is the game world hiding...?\n<br>The clues are held by the girl who made the game, Natsuki.\n<br><br>\n<i>Hirogaru Sky! Precure </i>and <i>Mahoutsukai Precure!</i> also makes an appearance!\n<br>When everyone's feelings become one, a miracle happens?!\n<br><br>\n(Source: Official website, translated)"
     },
     {
       "id": "tt31893935",
@@ -88,7 +98,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt31893935"
       },
-      "description": "Genres: Music, Slice of Life\nTags:Idol/Primarily Male Cast/VTuber/Cute Boys Doing Cute Things\nA movie about the VTuber boy band Strawberry Prince."
+      "description": "Genres: Music, Slice of Life\nTags:Primarily Male Cast/VTuber/Idol/Cute Boys Doing Cute Things\nA movie about the VTuber boy band Strawberry Prince."
     },
     {
       "id": "tt30400536",
