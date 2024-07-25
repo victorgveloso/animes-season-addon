@@ -33,7 +33,7 @@
       "type": "series",
       "name": "BLEACH: Thousand-Year Blood War - The Conflict",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
-      "description": "Genres: Action, Adventure, Supernatural\nTags:War/Swordplay/Super Power/Urban Fantasy/Male Protagonist/Gods/Shounen\nThe third part of <i>BLEACH: Sennen Kessen-hen</i>. "
+      "description": "Genres: Action, Adventure, Supernatural\nTags:War/Swordplay/Super Power/Urban Fantasy/Gods/Male Protagonist/Shounen\nThe third part of <i>BLEACH: Sennen Kessen-hen</i>. "
     },
     {
       "id": "kitsu:46454",
@@ -106,18 +106,18 @@
       "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Ghost/School/Mythology/Episodic/Youkai/Ensemble Cast\nContinuation of <i>Houkago Shounen Hanako-kun.</i> <br><br>\nThe spirit Hanako-kun and his human assistant, first-year student Nene Yashiro, keep the peace between supernatural forces and the students of Kamome Academy. When they’re not fighting to maintain balance between the living and spirit worlds, how do they spend their time? Join Hanako-kun and Nene on their adventures after school!<br><br>\n\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt30970523",
-      "type": "series",
-      "name": "Natsume Yuujinchou Shichi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166611-h9lgyY93Hf5z.png",
-      "description": "Genres: Drama, Fantasy, Slice of Life, Supernatural\nTags:Youkai/Iyashikei/Male Protagonist/Rural/Shoujo\nThe seventh season of <i>Natsume Yuujinchou.<br>"
-    },
-    {
       "id": "tt32512773",
       "type": "series",
       "name": "Loner Life in Another World",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-SDOP5zakdqnP.png",
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Male Protagonist/Hikikomori/Necromancy/Surreal Comedy\nWhen acerbic loner Haruka gets transported to another world with his class, he’s not big on adventuring, but he wouldn’t mind some cool magic of his own. Unfortunately, the magic powers are first-come-first-served, and by Haruka’s turn, there’s nothing good left to choose from. Now he’ll have to take on this fantasy world the hard way, with a hodgepodge selection of bizarre skills…and with all the girls in class tagging along!\n<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt30970523",
+      "type": "series",
+      "name": "Natsume Yuujinchou Shichi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166611-h9lgyY93Hf5z.png",
+      "description": "Genres: Drama, Fantasy, Slice of Life, Supernatural\nTags:Youkai/Iyashikei/Male Protagonist/Rural/Shoujo\nThe seventh season of <i>Natsume Yuujinchou.<br>"
     },
     {
       "id": "tt29141921",
@@ -232,13 +232,6 @@
       "description": "Genres: Drama\nTags:Male Protagonist/Historical/Samurai/Shounen\nIt's 1863, the twilight of the shogunate, and Japan is on the cusp of monumental change. The streets of the nation's capital are soaked in blood as political upheaval and rising tensions between masterless, wandering ronin and government samurai set the stage for one of the most turbulent times in Japan's history. Young orphan Nio is no stranger to the harsh realities of the world, and yet he can't help but cling to his burning passion for justice and desire to change the world for the better.<br><br>\n\nOne day, he crosses paths with two men who will become central figures of the coming revolution: Hijikata Toshizo and Okita Souji, two of the founding members of a group of hated ronin known as the Miburo—who would later become known as the Shinsengumi. Inspired by the efforts of the so-called \"Blues Wolves of Mibu,\" Nio decides to join the ranks to help carve a path to the world he wishes to see. But with new betrayals and reversals every day, will Nio be able to stay true to his conscience?<br><br>\n\n(Source: Kodansha USA, edited)"
     },
     {
-      "id": "tt32863895",
-      "type": "series",
-      "name": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107372-4N3N0xVgI8go.jpg",
-      "description": "Genres: Fantasy\nTags:School/Magic\n\nKurumi Mirai is in the first year of high school. <br><br>\n\nShe has enrolled in junior high section of the Redrun Magic School, the world's only facility for mages that approved by International Mage League and able to work under royal families when graduates, and she was always top of the class. However, when she applies for the high school section and took the examination to get into a mage training class \"Ma-gumi (Mage Class)\", she wasn't able to get in in spite having full scores and was top of the class for the whole three years. <br><br>\n\nThere are some students in the class next to her that takes that class. Among that there's someone she admires. How will Kurumi Mirai who has extraordinary brain but didn't get in to be a mage candidate try to overcome and grow up? What is the aim for Minami Suzuki, a loyal mage who suddenly appears to be the homeroom teacher? This is a relaxing story of her growth.\n<br><br>\n(Source: MAL News)"
-    },
-    {
       "id": "tt32501772",
       "type": "series",
       "name": "Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru",
@@ -246,11 +239,25 @@
       "description": "Genres: Action, Adventure, Comedy, Fantasy, Psychological\nTags:Male Protagonist/Magic/Seinen/Swordplay\nNoel has grown up idolizing his grandfather, a legendary adventurer of the class known as Seekers. But when it comes time for Noel to set out on his own, much to his dismay, he turns out to be a Talker: a support class with meager abilities. But Noel’s got ambition in spades–and the smarts to match–so he’s determined to do whatever it takes to make the world know his name!<br>\n<br>\n(Source: Seven Seas Entertainment)"
     },
     {
+      "id": "tt32863895",
+      "type": "series",
+      "name": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107372-4N3N0xVgI8go.jpg",
+      "description": "Genres: Fantasy\nTags:School/Magic\n\nKurumi Mirai is in the first year of high school. <br><br>\n\nShe has enrolled in junior high section of the Redrun Magic School, the world's only facility for mages that approved by International Mage League and able to work under royal families when graduates, and she was always top of the class. However, when she applies for the high school section and took the examination to get into a mage training class \"Ma-gumi (Mage Class)\", she wasn't able to get in in spite having full scores and was top of the class for the whole three years. <br><br>\n\nThere are some students in the class next to her that takes that class. Among that there's someone she admires. How will Kurumi Mirai who has extraordinary brain but didn't get in to be a mage candidate try to overcome and grow up? What is the aim for Minami Suzuki, a loyal mage who suddenly appears to be the homeroom teacher? This is a relaxing story of her growth.\n<br><br>\n(Source: MAL News)"
+    },
+    {
       "id": "tt33021990",
       "type": "series",
       "name": "Goukon ni Ittara Onna ga Inakatta Hanashi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-Rk1e9cl0kD2Q.jpg",
       "description": "Genres: Comedy, Romance\nTags:Crossdressing/Tomboy/Primarily Adult Cast/Shoujo/College/Heterosexual\nCollege student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they're greeted by three dazzlingly handsome men?! But as the two groups get to know each other, they find themselves getting closer in unexpected ways.<br><br>\n(Source: MANGA UP!)"
+    },
+    {
+      "id": "tt30870625",
+      "type": "series",
+      "name": "Chi.: Chikyuu no Undou ni Tsuite",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151514-24XL1blFR0YI.jpg",
+      "description": "Genres: Drama\nTags:Historical/Seinen/Religion/Foreign/Astronomy/Philosophy\nThe setting is 15th-century Poland. It was a time when heretical ideas lead those to who possessed such a mindset to being burned at the stake for their beliefs.<br><br>\n\nThe protagonist, Rafał, a child prodigy, is expected to major in theology, the most important subject at the time, at the university where he plans to skip a grade. One day, however, he comes across a mysterious man, and is now studying a possible \"truth\" in the midst of heretical thought!<br><br>\n(Source: Shogakukan, translated)"
     },
     {
       "id": "tt32524882",
@@ -306,7 +313,7 @@
       "type": "series",
       "name": "Youkai Gakkou no Sensei Hajimemashita!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171545-dZRip6eYorII.jpg",
-      "description": "Genres: Comedy, Supernatural\nTags:Youkai/School/Male Protagonist/Teacher/Urban Fantasy/Shounen\nRookie teacher Haruaki Abe is as cowardly as they come. It's hard enough for him to handle human students without whimpering-and now he's going to be teaching at a school full of monsters?! It's a classroom of horrors for Haruaki, as his mischievous students use every means at their disposal to prank him! Will this poor teacher be able to get his group of ghouls under control, or is this class destined for failure?<br>\n<br>\n(Source: Yen Press)"
+      "description": "Genres: Comedy, Supernatural\nTags:Youkai/School/Teacher/Male Protagonist/Urban Fantasy/Shounen/Primarily Teen Cast\nRookie teacher Haruaki Abe is as cowardly as they come. It's hard enough for him to handle human students without whimpering-and now he's going to be teaching at a school full of monsters?! It's a classroom of horrors for Haruaki, as his mischievous students use every means at their disposal to prank him! Will this poor teacher be able to get his group of ghouls under control, or is this class destined for failure?<br>\n<br>\n(Source: Yen Press)"
     },
     {
       "id": "tt31308294",
@@ -342,13 +349,6 @@
       "name": "Ooi! Tonbo 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178729-s6TlozoHTrY0.jpg",
       "description": "Genres: Drama, Sports\nTags:Golf/Female Protagonist\nThe second season of <i>Ooi! Tonbo</i>."
-    },
-    {
-      "id": "tt14408130",
-      "type": "series",
-      "name": "Puniru wa Kawaii Slime",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171400-TrpGBjc9fuS1.jpg",
-      "description": "Genres: Comedy, Fantasy, Romance, Slice of Life\nTags:School/Primarily Teen Cast/Monster Girl/Urban Fantasy/Ojou-sama/Agender/Robots/Maids/Female Protagonist/Male Protagonist/Shapeshifting/Cosplay\nThe slime created by the boy Kotarou can transform into a super beautiful girl! Kotarou is constantly getting pushed around by Puniru's freewheeling antics. It's a joyful and exciting life every day!"
     }
   ]
 }
