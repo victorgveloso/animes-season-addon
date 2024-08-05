@@ -51,6 +51,16 @@
       "description": "Genres: Drama, Music\nTags:Primarily Female Cast/Band\nCompilation films of <i>BanG Dream! It's MyGO!!!!!</i>"
     },
     {
+      "id": "tt32579772",
+      "type": "movie",
+      "name": "PUI PUI Molcar the Movie MOLMAX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173884-2jNt8jq28FTV.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt32579772"
+      },
+      "description": "Genres: Comedy\nTags:CGI/Animals/Cars\nA new <i>PUI PUI Molcar</i> movie that will be CG animated.\n<br><br>\n<i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>"
+    },
+    {
       "id": "tt30008198",
       "type": "movie",
       "name": "Gintama on Theater 2D: Kintama-hen",
