@@ -41,16 +41,6 @@
       "description": "Genres: Comedy, Music, Slice of Life\nTags:Band/Cute Girls Doing Cute Things/Rock Music/Female Protagonist/Seinen\nCompilation film of <i>Bocchi the Rock!</i> The second of the Bocchi compilation movie duology."
     },
     {
-      "id": "tt32919667",
-      "type": "movie",
-      "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166476-2MRsdtwMRZxR.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt32919667"
-      },
-      "description": "Genres: Music, Slice of Life\nTags:Idol/School Club/Primarily Female Cast\nThe first in a trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA."
-    },
-    {
       "id": "tt28523838",
       "type": "movie",
       "name": "Given: Umi e",
@@ -59,6 +49,16 @@
         "defaultVideoId": "tt28523838"
       },
       "description": "Genres: Drama, Music, Romance\nTags:Boys' Love\nSequel to <i>Given: Hiiragi mix</i>."
+    },
+    {
+      "id": "tt32919667",
+      "type": "movie",
+      "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166476-2MRsdtwMRZxR.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt32919667"
+      },
+      "description": "Genres: Music, Slice of Life\nTags:Idol/School Club/Primarily Female Cast\nThe first in a trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA."
     },
     {
       "id": "tt28036831",
