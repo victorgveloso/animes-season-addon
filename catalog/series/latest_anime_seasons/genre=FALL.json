@@ -29,7 +29,7 @@
       "description": "Genres: Drama, Horror, Mystery, Supernatural\nTags:Achromatic/Cosmic Horror/Gore/Body Horror/Rotoscoping/Episodic/Female Protagonist/Seinen/Survival/Primarily Child Cast/Detective\nFour episode anime adaptation of the Junji Ito manga. \n<br><br>\nKurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurouzu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...\n<br><br>\n(Source: Viz Media)"
     },
     {
-      "id": "tt21874396",
+      "id": "tt13544802",
       "type": "series",
       "name": "Seirei Gensouki: Spirit Chronicles Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg",
@@ -41,6 +41,13 @@
       "name": "BLEACH: Thousand-Year Blood War - The Conflict",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
       "description": "Genres: Action, Adventure, Supernatural\nTags:War/Swordplay/Super Power/Gods/Male Protagonist/Shounen/Urban Fantasy\nThe third part of <i>BLEACH: Sennen Kessen-hen</i>. "
+    },
+    {
+      "id": "kitsu:46454",
+      "type": "series",
+      "name": "Arifureta: From Commonplace to World's Strongest Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Psychological\nTags:Anti-Hero/Male Protagonist/Isekai/Magic/Heterosexual/Kemonomimi/Demons/Female Harem/Monster Girl/Vampire/Guns\nThe third season of <i>Arifureta Shokugyou de Sekai Saikyou</i>. <br><br>\nHajime Nagumo and his high school class are suddenly summoned to a fantastical land as heroes. But while most of his classmates have powerful stats and abilities, Hajime does not. Underappreciated and unprepared, he tumbles into the depths of a monster-infested dungeon where voracity and sacrifice are his only options. To thrive in this savage world, he’ll have no choice but to welcome the abyss.\n<br><br>\n(Source: Crunchyroll)\n"
     },
     {
       "id": "tt28776190",
@@ -64,7 +71,7 @@
       "description": "Genres: Romance, Slice of Life, Sports\nTags:Heterosexual/Coming of Age/School Club/Athletics/Badminton/School/Male Protagonist/Basketball/Female Protagonist/Primarily Teen Cast/Shounen\n<i>Do these sports-crossed lovers have a chance?</i>\n<br><br>\nTaiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!<br><br>(Source: TMS Anime)"
     },
     {
-      "id": "tt5936660",
+      "id": "tt7978710",
       "type": "series",
       "name": "Sword Art Online Alternative: Gun Gale Online II",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167141-sGq8sN0V3swY.jpg",
@@ -120,7 +127,7 @@
       "description": "Genres: Action, Comedy, Romance\nTags:Gender Bending/Martial Arts/Shapeshifting/Arranged Marriage/Female Harem/Episodic/Love Triangle/School/Tomboy/Slapstick/Tsundere/Male Protagonist/Ensemble Cast/LGBTQ+ Themes/Animals/Crossdressing/Male Harem/Transgender\nA new anime adaptation of Rumiko Takahashi's <i>Ranma 1/2</i>.\n<br><br>\nRanma Saotome and Akane Tendou of Tendou Dojo are betrothed to each other by their parents. But Ranma faces a unique problem…<br><br>\n\nEver since he fell into the cursed springs of Jusenkyo while training in China, his body has acquired the peculiar trait of transforming into a girl when doused with cold water and reverting to a boy with hot water.<br><br>\n\nGet ready for the slapstick, action-packed rom com featuring Ranma, Akane, and a vibrant cast of unique characters!<br><br>\n(Source: Ranma 1/2 PR Official Site, edited)"
     },
     {
-      "id": "tt32863895",
+      "id": "tt32812118",
       "type": "series",
       "name": "I’ll Become a Villainess Who Goes Down in History",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg",
@@ -162,13 +169,6 @@
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Isekai/Magic\nThe Demon Lord continues his adventure in this re-vamped series! After encountering the mysterious entity in the lowest level of the Bastille Dungeon, he sets out for Hellion Territory, where Grand Devils vie for domination of the realm. With the addition of a new advisor—the (seemingly) hopeless optimist Akane—the Demon Lord’s army grows even more colorful, and their hijinks even wackier.<br><br>\n(Source:  J-Novel Club)"
     },
     {
-      "id": "tt33063890",
-      "type": "series",
-      "name": "Love Live! Superstar!! 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-PYqyrtywELYr.jpg",
-      "description": "Genres: Music, Slice of Life\nTags:Idol/Dancing/Cute Girls Doing Cute Things/Female Protagonist/Primarily Female Cast\nThe third season of <i>Love Live! Superstar!!</i>"
-    },
-    {
       "id": "tt28299608",
       "type": "series",
       "name": "MF GHOST Season 2",
@@ -176,10 +176,17 @@
       "description": "Genres: Sci-Fi, Sports\nTags:Cars/Seinen/Heterosexual\nThe second season of <i>MF Ghost.</i>"
     },
     {
+      "id": "tt33063890",
+      "type": "series",
+      "name": "Love Live! Superstar!! 3rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-PYqyrtywELYr.jpg",
+      "description": "Genres: Music, Slice of Life\nTags:Idol/Dancing/Cute Girls Doing Cute Things/Female Protagonist/Primarily Female Cast\nThe third season of <i>Love Live! Superstar!!</i>"
+    },
+    {
       "id": "tt22249034",
       "type": "series",
       "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171637-autSUMT9SGEB.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171637-DhtxarIIQnIb.jpg",
       "description": "Genres: Action, Adventure, Drama, Romance\nTags:Samurai/Swordplay/Male Protagonist/Historical/Shounen\nThe second season of <i>Rurouni Kenshin: Meiji Kenkaku Romantan (2023)</i>."
     },
     {
@@ -229,7 +236,7 @@
       "type": "series",
       "name": "Good Bye, Dragon Life",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176053-HfPo4pUm6Ktg.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Dragons/Rural/Male Protagonist/Monster Girl\nAfter living a long life as the strongest and oldest dragon, he is slain by a human hero. He awakes to find himself reborn as a human, Dolan, in a remote village. He works hard as a farmer and sometimes hunts for food. His life is simple in this small village, but he is surrounded by love. He soon finds happiness he'd never experienced in his life as a dragon. However, dangerous monsters are lurking around his village lately and he goes to the woods to investigate when he finds out an army of monsters are heading his way...\n<br><br>\n(Source: Alpha Manga)"
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Dragons/Rural/Male Protagonist/Monster Girl\nLong ago, the most ancient of divine dragons was slain by a human. The mighty dragon accepted its death when suddenly, it was reborn as Dolan, a man who lives in a quiet village. While spending another peaceful day toiling in the fields, he meets Celina, a half-human, half-snake creature looking for a partner. The unlikely duo become friends, but challenges lie ahead that threaten their new bond.\n<br><br>\n(Source: Cunchyroll)"
     },
     {
       "id": "tt30476504",
@@ -239,18 +246,18 @@
       "description": "Genres: Action, Comedy, Fantasy, Mahou Shoujo\nTags:Magic/Work/Female Protagonist/Primarily Adult Cast/Urban Fantasy/Shounen/Software Development\n“Magical Girl”— A profession that undertakes the work of exterminating a kind of natural disaster called “Kaii.” Kana Sakuragi, a female college student who struggles with job hunting, is picked up by a magical girl startup company and…?! Magical Girl work-life starts now!\n<br><br>\n(Source: MANGA Plus)"
     },
     {
-      "id": "tt30523856",
-      "type": "series",
-      "name": "Ao no Miburo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
-      "description": "Genres: Drama\nTags:Male Protagonist/Historical/Samurai/Shounen\nIt's 1863, the twilight of the shogunate, and Japan is on the cusp of monumental change. The streets of the nation's capital are soaked in blood as political upheaval and rising tensions between masterless, wandering ronin and government samurai set the stage for one of the most turbulent times in Japan's history. Young orphan Nio is no stranger to the harsh realities of the world, and yet he can't help but cling to his burning passion for justice and desire to change the world for the better.<br><br>\n\nOne day, he crosses paths with two men who will become central figures of the coming revolution: Hijikata Toshizo and Okita Souji, two of the founding members of a group of hated ronin known as the Miburo—who would later become known as the Shinsengumi. Inspired by the efforts of the so-called \"Blues Wolves of Mibu,\" Nio decides to join the ranks to help carve a path to the world he wishes to see. But with new betrayals and reversals every day, will Nio be able to stay true to his conscience?<br><br>\n\n(Source: Kodansha USA, edited)"
-    },
-    {
       "id": "tt32501772",
       "type": "series",
       "name": "Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-bwUcnJaNsQGi.jpg",
       "description": "Genres: Action, Adventure, Comedy, Fantasy, Psychological\nTags:Male Protagonist/Magic/Seinen/Swordplay\nNoel has grown up idolizing his grandfather, a legendary adventurer of the class known as Seekers. But when it comes time for Noel to set out on his own, much to his dismay, he turns out to be a Talker: a support class with meager abilities. But Noel’s got ambition in spades–and the smarts to match–so he’s determined to do whatever it takes to make the world know his name!<br>\n<br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt30523856",
+      "type": "series",
+      "name": "Ao no Miburo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
+      "description": "Genres: Drama\nTags:Male Protagonist/Historical/Samurai/Shounen\nIt's 1863, the twilight of the shogunate, and Japan is on the cusp of monumental change. The streets of the nation's capital are soaked in blood as political upheaval and rising tensions between masterless, wandering ronin and government samurai set the stage for one of the most turbulent times in Japan's history. Young orphan Nio is no stranger to the harsh realities of the world, and yet he can't help but cling to his burning passion for justice and desire to change the world for the better.<br><br>\n\nOne day, he crosses paths with two men who will become central figures of the coming revolution: Hijikata Toshizo and Okita Souji, two of the founding members of a group of hated ronin known as the Miburo—who would later become known as the Shinsengumi. Inspired by the efforts of the so-called \"Blues Wolves of Mibu,\" Nio decides to join the ranks to help carve a path to the world he wishes to see. But with new betrayals and reversals every day, will Nio be able to stay true to his conscience?<br><br>\n\n(Source: Kodansha USA, edited)"
     },
     {
       "id": "tt32524882",
@@ -337,7 +344,7 @@
       "description": "Genres: Action, Drama, Psychological, Supernatural\nTags:Full CGI\nThe second season of <i>Kamierabi</i>."
     },
     {
-      "id": "tt22012992",
+      "id": "tt31596104",
       "type": "series",
       "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165810-Erimm4rrZMBy.png",
