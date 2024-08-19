@@ -31,6 +31,16 @@
       "description": "Genres: Action, Drama, Mystery, Supernatural\nTags:Tokusatsu/Henshin/Detective\nWhat happened to Shotarou, Phillip, and Sokichi Narumi on the night \"Kamen Rider W\" was born?.....<br><br>\nAn adaptation of Fuuto P.I. volume #6, which is a extended version of the \"Begins' Night\" chapter from the original Live-Action series."
     },
     {
+      "id": "tt28369144",
+      "type": "movie",
+      "name": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176470-QfMtYL4BEmDn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt28369144"
+      },
+      "description": "Genres: Comedy, Romance, Slice of Life, Supernatural\nTags:Boys' Love\nMovie compiling <i>30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii</i> which also has new footage content not in the TV anime."
+    },
+    {
       "id": "tt3114358",
       "type": "movie",
       "name": "Ganbatte Ikimasshoi",
