@@ -35,7 +35,8 @@ export enum IdSource {
 abstract class UrlResolver {
     protected next?: UrlResolver;
     setNext(resolver: UrlResolver) {
-        this.next = resolver;
+        if (!!this.next) this.next.setNext(resolver);
+        else this.next = resolver;
     }
     protected async fetch(source:IdSource, id:string) {
         const response = await fetch(this.getUrl(source, id));
