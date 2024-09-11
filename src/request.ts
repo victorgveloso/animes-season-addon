@@ -115,11 +115,11 @@ export class IdResolver {
         private readonly type?: TitleType,
         private readonly preprocessName?: (s: string) => string
     ) {
-        this.urlResolver = new KitsuUrlResolver();
-        this.urlResolver.setNext(new YunaUrlResolver());
+        this.urlResolver = new YunaUrlResolver();
         if (!!this.name) {
             this.urlResolver.setNext(new NameToImdbUrlResolver(this.name, this.year, this.type, preprocessName));
         }
+        this.urlResolver.setNext(new KitsuUrlResolver());
     }
     async resolveImdb() {
         return await this.urlResolver.handle(this.source, IdSource.IMDB, this.id);
