@@ -36,7 +36,7 @@
       "name": "Ganbatte Ikimasshoi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176245-OoBRZRVUwO7t.png",
       "behaviorHints": {
-        "defaultVideoId": "tt3114358"
+        "defaultVideoId": "tt33311726"
       },
       "description": "Genres: Drama, Sports\nTags:Full CGI/School Club/Female Protagonist/Primarily Teen Cast/Primarily Female Cast\nA high-school girl, Etsuko, just spends her days without any aims or purpose, until one day, Riina, a transfer student, asks her help to set up a boat club. Although Etsuko reluctantly accepts after hearing Riina speak passionately about her dream, she gradually starts to embrace the club after spending time with her teammates. <br><br>\n(Source: Annecy Festival)"
     },
@@ -51,16 +51,6 @@
       "description": "Genres: Drama, Music\nTags:Band/Primarily Female Cast\nCompilation films of <i>BanG Dream! It's MyGO!!!!!</i>"
     },
     {
-      "id": "tt27117596",
-      "type": "movie",
-      "name": "Genjitsu no Yohane: SUNSHINE in the MIRROR Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178782-vm6H9P5Sq20r.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt27117596"
-      },
-      "description": "Genres: Fantasy, Music, Slice of Life\nTags:\nTheatrical compilation of <i>Genjitsu no Yohane: Sunshine in the Mirror</i> announced during the <i>Love Live! Sunshine! Aqours 9th Anniversary Project Presentation</i>."
-    },
-    {
       "id": "tt33318428",
       "type": "movie",
       "name": "Inazuma Eleven: Soushuuhen - Densetsu no Kickoff",
@@ -69,6 +59,16 @@
         "defaultVideoId": "tt10534392"
       },
       "description": "Genres: Action, Sports\nTags:\nCompilation film of <i>Inazuma Eleven;</i> a recap of the original video game and the first 26 episodes of the series which focuses on the matches."
+    },
+    {
+      "id": "tt27117596",
+      "type": "movie",
+      "name": "Genjitsu no Yohane: SUNSHINE in the MIRROR Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178782-vm6H9P5Sq20r.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27117596"
+      },
+      "description": "Genres: Fantasy, Music, Slice of Life\nTags:\nTheatrical compilation of <i>Genjitsu no Yohane: Sunshine in the Mirror</i> announced during the <i>Love Live! Sunshine! Aqours 9th Anniversary Project Presentation</i>."
     },
     {
       "id": "tt32579772",
