@@ -101,16 +101,6 @@
       "description": "Genres: Action, Comedy, Sci-Fi\nTags:\nTheatrical cut of the Kintama Arc (episodes 253-256). The movie is a part of the \"Gintama 20th Anniversary Project\"."
     },
     {
-      "id": "tt5672290",
-      "type": "movie",
-      "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175138-mmYRCjQIOFGf.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt5672290"
-      },
-      "description": "Genres: Comedy\nTags:Ninja\nnull"
-    },
-    {
       "id": "tt7132924",
       "type": "movie",
       "name": "BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta & FILM LIVE",
@@ -119,6 +109,16 @@
         "defaultVideoId": "tt7132924"
       },
       "description": "Genres: Drama, Music\nTags:\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The second of the Bandori MyGO compilation movie duology."
+    },
+    {
+      "id": "tt5672290",
+      "type": "movie",
+      "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175138-mmYRCjQIOFGf.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt5672290"
+      },
+      "description": "Genres: Comedy\nTags:Ninja\nnull"
     }
   ]
 }
