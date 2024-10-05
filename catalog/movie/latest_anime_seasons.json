@@ -111,12 +111,12 @@
       "description": "Genres: Drama, Music\nTags:\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The second of the Bandori MyGO compilation movie duology."
     },
     {
-      "id": "tt5672290",
+      "id": "tt33615466",
       "type": "movie",
       "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175138-SLaKyfkWnY0y.png",
       "behaviorHints": {
-        "defaultVideoId": "tt5672290"
+        "defaultVideoId": "tt33615466"
       },
       "description": "Genres: Comedy\nTags:Ninja\nnull"
     }
