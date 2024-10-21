@@ -71,16 +71,6 @@
       "description": "Genres: Action, Drama, Supernatural\nTags:Cyborg/Full CGI/Anti-Hero/Yakuza/Vampire\nAfter human experimentation turns Kisaragi into a cyborg, he finds himself pursued by multiple organizations: An undying coven of vampires bent on the conquest of Tokyo, and an immortal order of Knights, and a group of Yakuza, sworn to avenge the killing of their leader.<br><br>\n<i>\"I might not have any reason to live, but that's no reason to let them kill me.\"</i><br><br>\nKisaragi will have to use his cyborg-body and his unique \"blood\", as well as anything else he can to make his big escape!!!<br><br>\n(Source: Polygon Pictures)"
     },
     {
-      "id": "tt29402528",
-      "type": "movie",
-      "name": "Doraemon: Nobita no Chikyuu Symphony",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166976-oq43bwzCtPZO.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt29402528"
-      },
-      "description": "Genres: Adventure, Comedy, Music, Sci-Fi\nTags:Kids/Primarily Child Cast\nMusic exists in our daily lives for granted. But what would happen if music disappeared from the earth? This is a completely original story about Doraemon and his friends who are trying to save the earth from a crisis with the familiar theme of music! <br><br>\n\n(Source: Crunchyroll News)"
-    },
-    {
       "id": "tt31152166",
       "type": "movie",
       "name": "Kizumonogatari: Koyomi Vamp",
@@ -89,6 +79,16 @@
         "defaultVideoId": "tt31152166"
       },
       "description": "Genres: Action, Drama, Horror, Mystery, Supernatural\nTags:Vampire\nCompilation film of the three <i>Kizumonogatari</i> movies.<br><br>\n\nSpring break, an interval of time between the second and third year of high school. It was one fateful evening when Koyomi Araragi encounters her.<br><br>\n\nKiss-shot Acerola-orion Heart-under-blade.<br>\nLegendary Vampire. Killer of Apparitions. King of Apparitions.<br><br>\n\nHer legs and arms were cruelly torn apart, her extravagant dress soaked in red; she's a monster who finds herself in a tragic state, laying in a pool of her own blood. However, Koyomi finds her to be beautiful this way. <br><br>\n\nOn the brink of death after losing her four limbs, she asks Koyomi to save her. After experiencing fear, chaos, and finally conflict, Koyomi gives his own blood in order to save her.\nBut when he awakens, he finds himself re-born as her vampire kin.<br><br>\n\nKoyomi wishes to revert to being a human from a vampire. However, he must take back all of Kiss-shot's limbs to do so. Working as a negotiator, Meme Oshino stands in middle ground as Koyomi attempts to recapture her four limbs by challenging three powerful vampire hunters.<br><br>\n\nThis hellish spring break, the final one of his high school life, is only just beginning.<br><br>\n\n(Source: KIZUMONOGATARI -Koyomi Vamp- Official USA Website, edited)"
+    },
+    {
+      "id": "tt29402528",
+      "type": "movie",
+      "name": "Doraemon: Nobita no Chikyuu Symphony",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166976-oq43bwzCtPZO.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt29402528"
+      },
+      "description": "Genres: Adventure, Comedy, Music, Sci-Fi\nTags:Kids/Primarily Child Cast\nMusic exists in our daily lives for granted. But what would happen if music disappeared from the earth? This is a completely original story about Doraemon and his friends who are trying to save the earth from a crisis with the familiar theme of music! <br><br>\n\n(Source: Crunchyroll News)"
     },
     {
       "id": "tt31474158",
