@@ -91,16 +91,6 @@
       "description": "Genres: Adventure, Comedy, Music, Sci-Fi\nTags:Kids/Classical Music/Primarily Child Cast\nMusic exists in our daily lives for granted. But what would happen if music disappeared from the earth? This is a completely original story about Doraemon and his friends who are trying to save the earth from a crisis with the familiar theme of music! <br><br>\n\n(Source: Crunchyroll News)"
     },
     {
-      "id": "tt34348665",
-      "type": "movie",
-      "name": "Oshiri Tantei: Saraba Itoshiki Oshiri yo",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172016-vQMRmP6YozQi.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt34348665"
-      },
-      "description": "Genres: Comedy, Mystery\nTags:\nWill Oshiri Tantei be able to solve the biggest mystery in history??"
-    },
-    {
       "id": "tt30971662",
       "type": "movie",
       "name": "Detective Conan vs. Kid the Phantom Thief",
@@ -109,6 +99,16 @@
         "defaultVideoId": "tt30971662"
       },
       "description": "Genres: Action, Adventure, Mystery\nTags:\nThe movie contains cuts from episodes featuring the confrontations between Conan and Kid the Phantom Thief: “Conan vs. Kid the Phantom Thief” and “The Detectives Come Together! Kudo vs. Kid the Phantom Thief”. From birth of the Moonlight Magician, Kid the Phantom Thief, and the first encounter between the greatest and eternal rival Conan / Shinichi, this is a special compilation film of TV series with new footage!"
+    },
+    {
+      "id": "tt34348665",
+      "type": "movie",
+      "name": "Oshiri Tantei: Saraba Itoshiki Oshiri yo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172016-vQMRmP6YozQi.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt34348665"
+      },
+      "description": "Genres: Comedy, Mystery\nTags:\nWill Oshiri Tantei be able to solve the biggest mystery in history??"
     },
     {
       "id": "tt31392425",
