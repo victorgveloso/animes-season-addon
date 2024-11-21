@@ -119,6 +119,16 @@
         "defaultVideoId": "tt33615466"
       },
       "description": "Genres: Comedy\nTags:Ninja\nnull"
+    },
+    {
+      "id": "tt33428606",
+      "type": "movie",
+      "name": "Solo Leveling -ReAwakening-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184694-EmVoCuV4uAGv.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt33428606"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:\nA movie compilation of the first season and first two episodes of the second season of the <i>Ore dake Level Up na Ken</i> series."
     }
   ]
 }
