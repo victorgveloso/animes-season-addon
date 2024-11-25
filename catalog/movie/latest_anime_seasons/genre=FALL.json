@@ -101,16 +101,6 @@
       "description": "Genres: Action, Comedy, Sci-Fi\nTags:\nTheatrical cut of the Kintama Arc (episodes 253-256). The movie is a part of the \"Gintama 20th Anniversary Project\"."
     },
     {
-      "id": "tt27746914",
-      "type": "movie",
-      "name": "BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta & FILM LIVE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182241-0CqKdLrXSh1E.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt27746914"
-      },
-      "description": "Genres: Drama, Music\nTags:\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The second of the Bandori MyGO compilation movie duology."
-    },
-    {
       "id": "tt33428606",
       "type": "movie",
       "name": "Solo Leveling -ReAwakening-",
@@ -119,6 +109,16 @@
         "defaultVideoId": "tt33428606"
       },
       "description": "Genres: Action, Adventure, Fantasy\nTags:\nA movie compilation of the first season and first two episodes of the second season of the <i>Solo Leveling</i> series."
+    },
+    {
+      "id": "tt27746914",
+      "type": "movie",
+      "name": "BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta & FILM LIVE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182241-0CqKdLrXSh1E.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt27746914"
+      },
+      "description": "Genres: Drama, Music\nTags:\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The second of the Bandori MyGO compilation movie duology."
     },
     {
       "id": "tt33615466",
