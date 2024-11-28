@@ -81,6 +81,16 @@
       "description": "Genres: Action, Sports\nTags:Football\nAdaptation of the prologue of \"Inazuma Eleven: Victory Road\" video game."
     },
     {
+      "id": "tt33428606",
+      "type": "movie",
+      "name": "Solo Leveling -ReAwakening-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184694-EmVoCuV4uAGv.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt33428606"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:\nA movie compilation of the first season and first two episodes of the second season of the <i>Solo Leveling</i> series."
+    },
+    {
       "id": "tt32579772",
       "type": "movie",
       "name": "PUI PUI Molcar the Movie MOLMAX",
@@ -99,16 +109,6 @@
         "defaultVideoId": "tt30008198"
       },
       "description": "Genres: Action, Comedy, Sci-Fi\nTags:\nTheatrical cut of the Kintama Arc (episodes 253-256). The movie is a part of the \"Gintama 20th Anniversary Project\"."
-    },
-    {
-      "id": "tt33428606",
-      "type": "movie",
-      "name": "Solo Leveling -ReAwakening-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184694-EmVoCuV4uAGv.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt33428606"
-      },
-      "description": "Genres: Action, Adventure, Fantasy\nTags:\nA movie compilation of the first season and first two episodes of the second season of the <i>Solo Leveling</i> series."
     },
     {
       "id": "tt27746914",
