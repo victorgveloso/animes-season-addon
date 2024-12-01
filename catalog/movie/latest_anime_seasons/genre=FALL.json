@@ -41,6 +41,16 @@
       "description": "Genres: Action, Drama, Mystery, Supernatural\nTags:Tokusatsu/Henshin/Detective\nWhat happened to Shotarou, Phillip, and Sokichi Narumi on the night \"Kamen Rider W\" was born?.....<br><br>\nAn adaptation of Fuuto P.I. volume #6, which is a extended version of the \"Begins' Night\" chapter from the original Live-Action series."
     },
     {
+      "id": "tt33428606",
+      "type": "movie",
+      "name": "Solo Leveling -ReAwakening-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184694-EmVoCuV4uAGv.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt33428606"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:\nA movie compilation of the first season and first two episodes of the second season of the <i>Solo Leveling</i> series."
+    },
+    {
       "id": "tt33318428",
       "type": "movie",
       "name": "Inazuma Eleven: Soushuuhen - Densetsu no Kickoff",
@@ -59,16 +69,6 @@
         "defaultVideoId": "tt27746914"
       },
       "description": "Genres: Drama, Music\nTags:Band/Primarily Female Cast\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The first of the Bandori MyGO compilation movie duology."
-    },
-    {
-      "id": "tt33428606",
-      "type": "movie",
-      "name": "Solo Leveling -ReAwakening-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184694-EmVoCuV4uAGv.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt33428606"
-      },
-      "description": "Genres: Action, Adventure, Fantasy\nTags:\nA movie compilation of the first season and first two episodes of the second season of the <i>Solo Leveling</i> series."
     },
     {
       "id": "tt34810833",
@@ -91,12 +91,12 @@
       "description": "Genres: Action, Sports\nTags:Football\nAdaptation of the prologue of \"Inazuma Eleven: Victory Road\" video game."
     },
     {
-      "id": "tt32579772",
+      "id": "tt34810885",
       "type": "movie",
       "name": "PUI PUI Molcar the Movie MOLMAX",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173884-2jNt8jq28FTV.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt32579772"
+        "defaultVideoId": "tt34810885"
       },
       "description": "Genres: Comedy\nTags:CGI/Artificial Intelligence/Cars/Animals\nThe story begins with the emergence of the first high-tech molcar in Molcity, with drivers beginning to ride state-of-the-art AI-driven Molcars. Potato and friends get involved in a chase between a mysterious organization and a Molcar AI named Cannon, and are saved by a talented driver. Potato finds out that the driver is in search of his missing Molcar, and gets the idea to use Cannon's AI functionality to help with the search.\n<br><br>\n(Source: Anime News Network, edited)<br><br>\n<i>Note: Relations are provisional and will be updated when more info is announced.</i>"
     },

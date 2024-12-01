@@ -1,134 +1,124 @@
 {
   "metas": [
     {
-      "id": "tt30317151",
+      "id": "tt3398540",
       "type": "movie",
-      "name": "Fureru.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171109-L8VMss7mdCKU.jpg",
+      "name": "HAIKYU!! The Dumpster Battle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt30317151"
+        "defaultVideoId": "tt3398540"
       },
-      "description": "Genres: Drama, Supernatural\nTags:Coming of Age/Work/Primarily Adult Cast/Bar\n<i>Fureru</i> is a coming-of-age film set in present-day Tokyo, centering on childhood friends who find a creature with mysterious powers that pushes them to discover the bonds that tie the three students together. <br><br>\n(Source: Crunchyroll News, edited)"
+      "description": "Genres: Comedy, Drama, Sports\nTags:Volleyball/Shounen/School Club/Ensemble Cast/Male Protagonist/Primarily Male Cast/Coming of Age/POV/Primarily Teen Cast\nTheatrical follow-up to <i>Haikyuu!! TO THE TOP 2</i>. The first film of Haikyuu!! FINAL.<br><br>\n\nThe Spring Nationals tournament continues on, with Karasuno High matched against rivals Nekoma High, the fated battle between cats versus crows, also known as the highly anticipated “Dumpster Battle”. This match is the long awaited ultimate showdown between two opposing underdog teams.<br><br>\n(Source: Crunchyroll, edited)"
     },
     {
-      "id": "kitsu:48666",
+      "id": "tt28813303",
       "type": "movie",
-      "name": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176470-QfMtYL4BEmDn.jpg",
+      "name": "Dead Dead Demon's Dededededestruction Zenshou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146609-Fy5EYCtLqMr2.jpg",
       "behaviorHints": {
-        "defaultVideoId": "kitsu:48666"
+        "defaultVideoId": "tt28813303"
       },
-      "description": "Genres: Comedy, Romance, Slice of Life, Supernatural\nTags:Boys' Love\nMovie compiling <i>30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii</i> which also has new footage content not in the TV anime."
+      "description": "Genres: Comedy, Drama, Sci-Fi, Slice of Life\nTags:Seinen/Female Protagonist/Urban/Politics/Dystopian/Military/Coming of Age/Philosophy/Aliens/Primarily Female Cast/Language Barrier/Surreal Comedy/School\nThe first film of the <i>Dead Dead Demon's Dededededestruction</i> duology.\n<br><br>\nThe Japan Self-Defense Forces are still looking for a way to combat the alien threat, but so far conventional weapons have had no effect. Maybe it’s time to try something unconventional.<br>\n<br>\nMeanwhile, Kadode Koyama and her best friend avidly track the aliens’ movements on social media and less enthusiastically study for college entrance exams. When the end of the world looms overhead, you learn to take things one step at a time.<br>\n<br>\n(Source: Viz Media)"
     },
     {
-      "id": "tt33311726",
+      "id": "tt31257225",
       "type": "movie",
-      "name": "Ganbatte Ikimasshoi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176245-OoBRZRVUwO7t.png",
+      "name": "Given: Hiiragi mix",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162987-gRFCJagC9bm2.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt33311726"
+        "defaultVideoId": "tt31257225"
       },
-      "description": "Genres: Drama, Sports\nTags:Full CGI/School Club/Female Protagonist/Primarily Teen Cast/Primarily Female Cast\nA high-school girl, Etsuko, just spends her days without any aims or purpose, until one day, Riina, a transfer student, asks her help to set up a boat club. Although Etsuko reluctantly accepts after hearing Riina speak passionately about her dream, she gradually starts to embrace the club after spending time with her teammates. <br><br>\n(Source: Annecy Festival)"
+      "description": "Genres: Drama, Music, Romance\nTags:Boys' Love/Male Protagonist/Primarily Male Cast/LGBTQ+ Themes/Band/Primarily Teen Cast/Urban/Rock Music/Kuudere\nSequel to the first <i>Given Movie</i>."
     },
     {
-      "id": "tt32809227",
+      "id": "tt32235713",
       "type": "movie",
-      "name": "Fuuto Tantei: Kamen Rider Skull no Shouzou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178774-Uyut226cubzL.jpg",
+      "name": "Ya Boy Kongming! Road to Summer Sonia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171026-vGW0uvrXjrxn.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt32809227"
+        "defaultVideoId": "tt32235713"
       },
-      "description": "Genres: Action, Drama, Mystery, Supernatural\nTags:Tokusatsu/Henshin/Detective\nWhat happened to Shotarou, Phillip, and Sokichi Narumi on the night \"Kamen Rider W\" was born?.....<br><br>\nAn adaptation of Fuuto P.I. volume #6, which is a extended version of the \"Begins' Night\" chapter from the original Live-Action series."
+      "description": "Genres: Comedy, Drama, Music, Supernatural\nTags:Bar/Idol/Work/Urban/Seinen/Primarily Adult Cast/Found Family/Female Protagonist/Male Protagonist/Hip-hop Music\nCompilation film of <i>Ya Boy Kongming!</i> The film features new footage in some of Eiko's performances.<br><br>\nThe music industry becomes a battlefield when ancient strategist Kongming is transported from historical China to modern Japan. He’ll use military tactics to turn his new friend Eiko into a music star, and together they’ll take the party hotspot of Shibuya by storm! The story is a clever take (and smart twist) on fish-out-of-water and person-out-of-time themes with out-of-this-world results for <i>Ya Boy Kongming!</i><br><br>\n\n(Source: HIDIVE) "
     },
     {
-      "id": "tt33318428",
+      "id": "kitsu:47834",
       "type": "movie",
-      "name": "Inazuma Eleven: Soushuuhen - Densetsu no Kickoff",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180804-XedQP8o3pUCO.jpg",
+      "name": "Oomuro-ke: dear sisters",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167984-vZELUFDNk0Ax.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt33318428"
+        "defaultVideoId": "kitsu:47834"
       },
-      "description": "Genres: Action, Sports\nTags:\nCompilation film of <i>Inazuma Eleven;</i> a recap of the original video game and the first 26 episodes of the series which focuses on the matches."
+      "description": "Genres: Comedy, Slice of Life\nTags:Primarily Female Cast/Female Protagonist/Family Life/Yuri/Cute Girls Doing Cute Things/School/LGBTQ+ Themes/Primarily Teen Cast/Episodic/Tsundere/Slapstick/Primarily Child Cast\nA spin-off of the <i>Yuru Yuri</i> series featuring Sakurako and her sisters. The first film of the <i>Oomuro-ke</i> duology.<br><br>\n(Source: Anime News Network, edited)"
     },
     {
-      "id": "tt27746914",
+      "id": "tt14759062",
       "type": "movie",
-      "name": "BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173174-PhUFHaaVnvgv.png",
+      "name": "Mobile Suit Gundam SEED FREEDOM",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134761-UCVG3V6t6gJq.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt27746914"
+        "defaultVideoId": "tt14759062"
       },
-      "description": "Genres: Drama, Music\nTags:Band/Primarily Female Cast\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The first of the Bandori MyGO compilation movie duology."
+      "description": "Genres: Action, Drama, Mecha, Romance, Sci-Fi\nTags:Real Robot/Conspiracy/Ensemble Cast/Military/Heterosexual/Space Opera/Space/CGI/Class Struggle/Politics/Clone/Love Triangle\nA new Gundam SEED Movie announced as part of the project \"Mobile Suit Gundam SEED PROJECT Ignited\" in celebration of Gundam SEED's upcoming 20th anniversary in 2022.\n<br><br>\nIt is now Cosmic Era (C.E.) 75, two years after the dismantlement of the Destiny Plan, but warfare still continues to rage on between Naturals and Coordinators.\nIndependence movements are now sprouting up across Earth, and invasions by Blue Cosmos grow exponentially stronger...\nTo deal with these predicaments, a World Peace Supervision Organization known as COMPASS has been established, with PLANT Chairwoman Lacus Clyne as the founding leader.\nKira Yamato and the others, as its new members, intervene into various battles for the sake of this peace.\nHowever, as these battles take place, an emergent nation known as 'FOUNDATION' appears, and they propose a joint operation to attack the Blue Cosmos Headquarters.\n\nWill Destiny run its course, or will Kira still have the Freedom to resist against impossible odds?"
     },
     {
-      "id": "tt33428606",
+      "id": "tt29666664",
       "type": "movie",
-      "name": "Solo Leveling -ReAwakening-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184694-EmVoCuV4uAGv.png",
+      "name": "BLOODY ESCAPE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144770-t4BpclqKxnzM.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt33428606"
+        "defaultVideoId": "tt29666664"
       },
-      "description": "Genres: Action, Adventure, Fantasy\nTags:\nA movie compilation of the first season and first two episodes of the second season of the <i>Solo Leveling</i> series."
+      "description": "Genres: Action, Drama, Supernatural\nTags:Cyborg/Full CGI/Yakuza/Vampire/Anti-Hero\nAfter human experimentation turns Kisaragi into a cyborg, he finds himself pursued by multiple organizations: An undying coven of vampires bent on the conquest of Tokyo, and an immortal order of Knights, and a group of Yakuza, sworn to avenge the killing of their leader.<br><br>\n<i>\"I might not have any reason to live, but that's no reason to let them kill me.\"</i><br><br>\nKisaragi will have to use his cyborg-body and his unique \"blood\", as well as anything else he can to make his big escape!!!<br><br>\n(Source: Polygon Pictures)"
     },
     {
-      "id": "tt34810833",
+      "id": "tt31152166",
       "type": "movie",
-      "name": "Genjitsu no Yohane: SUNSHINE in the MIRROR Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178782-mku5CEwIWOhO.jpg",
+      "name": "Kizumonogatari: Koyomi Vamp",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181970-dqNqPsJcBk5I.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt34810833"
+        "defaultVideoId": "tt31152166"
       },
-      "description": "Genres: Fantasy, Music, Slice of Life\nTags:\nTheatrical compilation of <i>Genjitsu no Yohane: Sunshine in the Mirror</i> announced during the <i>Love Live! Sunshine! Aqours 9th Anniversary Project Presentation</i>."
+      "description": "Genres: Action, Drama, Horror, Mystery, Supernatural\nTags:Vampire\nCompilation film of the three <i>Kizumonogatari</i> movies.<br><br>\n\nSpring break, an interval of time between the second and third year of high school. It was one fateful evening when Koyomi Araragi encounters her.<br><br>\n\nKiss-shot Acerola-orion Heart-under-blade.<br>\nLegendary Vampire. Killer of Apparitions. King of Apparitions.<br><br>\n\nHer legs and arms were cruelly torn apart, her extravagant dress soaked in red; she's a monster who finds herself in a tragic state, laying in a pool of her own blood. However, Koyomi finds her to be beautiful this way. <br><br>\n\nOn the brink of death after losing her four limbs, she asks Koyomi to save her. After experiencing fear, chaos, and finally conflict, Koyomi gives his own blood in order to save her.\nBut when he awakens, he finds himself re-born as her vampire kin.<br><br>\n\nKoyomi wishes to revert to being a human from a vampire. However, he must take back all of Kiss-shot's limbs to do so. Working as a negotiator, Meme Oshino stands in middle ground as Koyomi attempts to recapture her four limbs by challenging three powerful vampire hunters.<br><br>\n\nThis hellish spring break, the final one of his high school life, is only just beginning.<br><br>\n\n(Source: KIZUMONOGATARI -Koyomi Vamp- Official USA Website, edited)"
     },
     {
-      "id": "tt33318548",
+      "id": "tt29402528",
       "type": "movie",
-      "name": "Inazuma Eleven: Aratanaru Eiyuutachi no Joshou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180806-K1PAxlhjN2TN.jpg",
+      "name": "Doraemon: Nobita no Chikyuu Symphony",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166976-oq43bwzCtPZO.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt33318548"
+        "defaultVideoId": "tt29402528"
       },
-      "description": "Genres: Action, Sports\nTags:Football\nAdaptation of the prologue of \"Inazuma Eleven: Victory Road\" video game."
+      "description": "Genres: Adventure, Comedy, Music, Sci-Fi\nTags:Kids/Classical Music/Primarily Child Cast\nMusic exists in our daily lives for granted. But what would happen if music disappeared from the earth? This is a completely original story about Doraemon and his friends who are trying to save the earth from a crisis with the familiar theme of music! <br><br>\n\n(Source: Crunchyroll News)"
     },
     {
-      "id": "tt32579772",
+      "id": "tt30971662",
       "type": "movie",
-      "name": "PUI PUI Molcar the Movie MOLMAX",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173884-2jNt8jq28FTV.jpg",
+      "name": "Detective Conan vs. Kid the Phantom Thief",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184369-vJd1ox7UogTI.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt32579772"
+        "defaultVideoId": "tt30971662"
       },
-      "description": "Genres: Comedy\nTags:CGI/Artificial Intelligence/Cars/Animals\nThe story begins with the emergence of the first high-tech molcar in Molcity, with drivers beginning to ride state-of-the-art AI-driven Molcars. Potato and friends get involved in a chase between a mysterious organization and a Molcar AI named Cannon, and are saved by a talented driver. Potato finds out that the driver is in search of his missing Molcar, and gets the idea to use Cannon's AI functionality to help with the search.\n<br><br>\n(Source: Anime News Network, edited)<br><br>\n<i>Note: Relations are provisional and will be updated when more info is announced.</i>"
+      "description": "Genres: Action, Adventure, Mystery\nTags:\nThe movie contains cuts from episodes featuring the confrontations between Conan and Kid the Phantom Thief: “Conan vs. Kid the Phantom Thief” and “The Detectives Come Together! Kudo vs. Kid the Phantom Thief”. From birth of the Moonlight Magician, Kid the Phantom Thief, and the first encounter between the greatest and eternal rival Conan / Shinichi, this is a special compilation film of TV series with new footage!"
     },
     {
-      "id": "tt30008198",
+      "id": "tt34348665",
       "type": "movie",
-      "name": "Gintama on Theater 2D: Kintama-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178436-2xnxkYycFNCM.jpg",
+      "name": "Oshiri Tantei: Saraba Itoshiki Oshiri yo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172016-vQMRmP6YozQi.png",
       "behaviorHints": {
-        "defaultVideoId": "tt30008198"
+        "defaultVideoId": "tt34348665"
       },
-      "description": "Genres: Action, Comedy, Sci-Fi\nTags:\nTheatrical cut of the Kintama Arc (episodes 253-256). The movie is a part of the \"Gintama 20th Anniversary Project\"."
+      "description": "Genres: Comedy, Mystery\nTags:\nWill Oshiri Tantei be able to solve the biggest mystery in history??"
     },
     {
-      "id": "tt27746914",
+      "id": "tt31392425",
       "type": "movie",
-      "name": "BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta & FILM LIVE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182241-0CqKdLrXSh1E.png",
+      "name": "Shimajirou Miracle-jima no Nanairo Carnation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172976-aVwpVKzEDr6G.png",
       "behaviorHints": {
-        "defaultVideoId": "tt27746914"
+        "defaultVideoId": "tt31392425"
       },
-      "description": "Genres: Drama, Music\nTags:\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The second of the Bandori MyGO compilation movie duology."
-    },
-    {
-      "id": "tt33615466",
-      "type": "movie",
-      "name": "Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175138-SLaKyfkWnY0y.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt33615466"
-      },
-      "description": "Genres: Comedy\nTags:Ninja\nnull"
+      "description": "Genres: Comedy, Fantasy\nTags:\nnull"
     }
   ]
 }
