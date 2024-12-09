@@ -11,16 +11,6 @@
       "description": "Genres: Drama, Supernatural\nTags:Coming of Age/Work/Primarily Adult Cast/Bar\n<i>Fureru</i> is a coming-of-age film set in present-day Tokyo, centering on childhood friends who find a creature with mysterious powers that pushes them to discover the bonds that tie the three students together. <br><br>\n(Source: Crunchyroll News, edited)"
     },
     {
-      "id": "kitsu:48666",
-      "type": "movie",
-      "name": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176470-QfMtYL4BEmDn.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:48666"
-      },
-      "description": "Genres: Comedy, Romance, Slice of Life, Supernatural\nTags:Boys' Love/LGBTQ+ Themes\nMovie compiling <i>30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii</i> which also has new footage content not in the TV anime."
-    },
-    {
       "id": "tt33428606",
       "type": "movie",
       "name": "Solo Leveling -ReAwakening-",
@@ -29,6 +19,16 @@
         "defaultVideoId": "tt33428606"
       },
       "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist\nA movie compilation of the first season and first two episodes of the second season of the <i>Solo Leveling</i> series."
+    },
+    {
+      "id": "kitsu:48666",
+      "type": "movie",
+      "name": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176470-QfMtYL4BEmDn.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:48666"
+      },
+      "description": "Genres: Comedy, Romance, Slice of Life, Supernatural\nTags:Boys' Love/LGBTQ+ Themes\nMovie compiling <i>30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii</i> which also has new footage content not in the TV anime."
     },
     {
       "id": "tt33311726",
