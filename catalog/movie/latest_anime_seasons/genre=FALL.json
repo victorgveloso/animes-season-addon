@@ -111,16 +111,6 @@
       "description": "Genres: Action, Comedy, Sci-Fi\nTags:\nTheatrical cut of the Kintama Arc (episodes 253-256). The movie is a part of the \"Gintama 20th Anniversary Project\"."
     },
     {
-      "id": "tt27746914",
-      "type": "movie",
-      "name": "BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta & FILM LIVE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182241-0CqKdLrXSh1E.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt27746914"
-      },
-      "description": "Genres: Drama, Music\nTags:\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The second of the Bandori MyGO compilation movie duology."
-    },
-    {
       "id": "tt14824600",
       "type": "movie",
       "name": "The Lord of the Rings: The War of the Rohirrim",
@@ -129,6 +119,16 @@
         "defaultVideoId": "tt14824600"
       },
       "description": "Genres: Action, Drama, Fantasy\nTags:War/Royal Affairs/CGI/Female Protagonist/Animals/Swordplay/Revenge/Arranged Marriage/Archery/Gore\n183 years before the events chronicled in the original trilogy, a sudden attack by Wulf, a clever and ruthless Dunlending lord seeking vengeance for the death of his father, forces Helm Hammerhand and his people to make a daring last stand in the ancient stronghold of the Hornburg. Finding herself in an increasingly desperate situation, Héra, the daughter of Helm, must summon the will to lead the resistance against a deadly enemy intent on their total destruction.<br>\n<br>\n(Source: Warner Bros.)"
+    },
+    {
+      "id": "tt27746914",
+      "type": "movie",
+      "name": "BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta & FILM LIVE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182241-0CqKdLrXSh1E.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt27746914"
+      },
+      "description": "Genres: Drama, Music\nTags:\nCompilation film of <i>BanG Dream! It's MyGO!!!!!</i>. The second of the Bandori MyGO compilation movie duology."
     },
     {
       "id": "tt33615466",
