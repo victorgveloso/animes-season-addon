@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.11.1",
+  "version": "1.12.1",
   "name": "Animes' season",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
@@ -60,6 +60,7 @@
         {
           "name": "genre",
           "options": [
+            "2024",
             "2023",
             "2022",
             "2021",
@@ -99,6 +100,7 @@
         {
           "name": "genre",
           "options": [
+            "2024",
             "2023",
             "2022",
             "2021",
@@ -135,5 +137,5 @@
     "tt",
     "kitsu"
   ],
-  "lastUpdatedAt": "2024-12-01T04:42:38.947Z"
+  "lastUpdatedAt": "2025-01-01T04:39:17.445Z"
 }
