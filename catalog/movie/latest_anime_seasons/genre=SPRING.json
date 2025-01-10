@@ -11,12 +11,12 @@
       "description": "Genres: Mystery\nTags:Detective/Crime\nThe 28th <i>Detective Conan</i> movie."
     },
     {
-      "id": "tt31078761",
+      "id": "tt35322712",
       "type": "movie",
       "name": "Boku to Roboco Movie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-TUrop163TkJ8.png",
       "behaviorHints": {
-        "defaultVideoId": "tt31078761"
+        "defaultVideoId": "tt35322712"
       },
       "description": "Genres: Comedy, Slice of Life\nTags:Maids/Robots/Shounen\nnull"
     },
