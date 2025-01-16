@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "kitsu:49215",
+      "type": "movie",
+      "name": "Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181839-oNulf7nWUrPp.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:49215"
+      },
+      "description": "Genres: Fantasy, Slice of Life\nTags:Dragons/Seinen/Female Protagonist/Found Family/Maids\n<i>\"I don’t want to let go of her hand. Because, we are a family.\"</i>\n<br><br>\nTheatrical follow-up to the second season <i>Kobayashi-san Chi no Maidragon S</i> and <i>Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)</i> OVA.<br><br>\n\n(Source: Kyoto Animation YouTube Channel)"
+    },
+    {
       "id": "tt31474158",
       "type": "movie",
       "name": "Meitantei Conan: Sekigan no Flashback",
