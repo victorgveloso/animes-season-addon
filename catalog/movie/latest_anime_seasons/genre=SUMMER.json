@@ -19,6 +19,26 @@
         "defaultVideoId": "tt35009463"
       },
       "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:\nnull"
+    },
+    {
+      "id": "tt13894660",
+      "type": "movie",
+      "name": "ChaO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186169-QUHCNf0fyMPK.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt13894660"
+      },
+      "description": "Genres: Fantasy, Romance\nTags:Mermaid\nA future society where humans and mermaids coexist. Stephen, an office worker,  is suddenly asked to marry by Chao, a princess of the mermaid kingdom! A 100% pure love story!"
+    },
+    {
+      "id": "tt33256912",
+      "type": "movie",
+      "name": "Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186181-LEMnQMQXqDob.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt33256912"
+      },
+      "description": "Genres: Fantasy\nTags:\nnull"
     }
   ]
 }

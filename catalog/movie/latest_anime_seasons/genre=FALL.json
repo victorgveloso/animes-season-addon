@@ -1,3 +1,14 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt32237773",
+      "type": "movie",
+      "name": "Kimi to Idol Precure♪ (Movie) (Provisional Title)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183414-MukfxDHEElTy.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt32237773"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Idol/Primarily Female Cast/Magic/Henshin/Kids\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>.\n<br><br>\n<i>Note: Title and relations are provisional and will be updated when more info is announced.</i>"
+    }
+  ]
 }
