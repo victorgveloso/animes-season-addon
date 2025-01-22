@@ -41,6 +41,16 @@
       "description": "Genres: Mystery\nTags:\nAnnounced at the \"Mirage QUEEN Prefers Parties\" event, that a new <i>Mirage QUEEN</i> anime has been greenlit.<br><br>\n(Source: Anime News Network, edited)"
     },
     {
+      "id": "tt33050528",
+      "type": "movie",
+      "name": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172393-8dwjbJYYGi9W.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt33050528"
+      },
+      "description": "Genres: Music\nTags:Idol/Ensemble Cast\nThe third movie in the UtaPri franchise, spotlighting the idol group QUARTET NIGHT."
+    },
+    {
       "id": "tt30442574",
       "type": "movie",
       "name": "Tabekko Doubutsu THE MOVIE",

@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt23644356",
+      "type": "movie",
+      "name": "Peleliu: Rakuen no Guernica",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132776-U34wk1Zbx7pU.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt23644356"
+      },
+      "description": "Genres: Drama\nTags:Historical/War\nAnime adaptation of Kazuyoshi Takeda's <i>Peleliu: Rakuen no Guernica</i> manga.\n<br><br>\nThe story follows the daily lives of Japanese soldiers taking part in the Battle of Peleliu during World War II: a high-casualty, months-long campaign. The main character, Tamaru, dreams of returning home to become a mangaka, and sees their island outpost as a wild paradise that can one day be used as a setting for one of his stories. Most of his comrades, however, are prepared for the more realistic scenario - that they will not be leaving Peleliu alive."
+    },
+    {
       "id": "tt32237773",
       "type": "movie",
       "name": "Kimi to Idol Precure♪ (Movie) (Provisional Title)",
