@@ -47,7 +47,7 @@
       "type": "series",
       "name": "Sentai Daishikkaku 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178781-cd3h8xeQJPPU.jpg",
-      "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:Shounen\nThe second season of <i>Sentai Daishikkaku</i>."
+      "description": "Genres: Action, Comedy, Drama, Sci-Fi\nTags:Shounen/Urban Fantasy/Henshin/Monster Boy/Tokusatsu/Anti-Hero/Revenge/Shapeshifting/Aliens/Acting/Urban/School/Time Loop/Espionage/Delinquents\nThe second season of <i>Sentai Daishikkaku</i>."
     },
     {
       "id": "tt34735441",
@@ -68,7 +68,7 @@
       "type": "series",
       "name": "WITCH WATCH",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180367-C2sswwx7ZvuM.png",
-      "description": "Genres: Comedy, Drama, Fantasy, Romance, Slice of Life\nTags:Magic/Witch/Parody/Male Protagonist/Heterosexual/Found Family/Urban Fantasy/Primarily Teen Cast/Shounen/Female Protagonist/Werewolf/Youkai\nMorihito Otogi, a high school student who comes from a lineage of ogres, enjoys a peaceful, ordinary life until his childhood friend, Nico, moves in with him. Nico is a witch-in-training, and chooses Morihito to be her familiar. While Nico is thrilled to reunite with her old friend and crush, Morihito is tasked with the perilous duty to protect her from a foretold calamity. Between the unpredictable chaos caused by Nico’s magic, and the awkwardness of sharing a home, their lives become a whirlwind of supernatural hijinks and threats.\n<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Comedy, Drama, Fantasy, Romance, Slice of Life\nTags:Magic/Witch/Parody/Male Protagonist/Found Family/Heterosexual/Primarily Teen Cast/Shounen/Urban Fantasy/Female Protagonist/Werewolf/Youkai\nMorihito Otogi, a high school student who comes from a lineage of ogres, enjoys a peaceful, ordinary life until his childhood friend, Nico, moves in with him. Nico is a witch-in-training, and chooses Morihito to be her familiar. While Nico is thrilled to reunite with her old friend and crush, Morihito is tasked with the perilous duty to protect her from a foretold calamity. Between the unpredictable chaos caused by Nico’s magic, and the awkwardness of sharing a home, their lives become a whirlwind of supernatural hijinks and threats.\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt35346400",
@@ -225,6 +225,13 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Swordplay\nThe second season of <i>Bye Bye, Earth</i>."
     },
     {
+      "id": "tt7856872",
+      "type": "series",
+      "name": "Apocalypse Hotel",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180675-rEzDdz6F2kYz.png",
+      "description": "Genres: \nTags:Post-Apocalyptic/Inn/Robots/Urban\nThe earth where mankind has disappeared and civilization has collapsed.<br><br>\nIn a world of ruined towns and revived nature, one historic hotel remains.<br><br>\n\"0 customers currently staying, 0 customers planning to stay today, 0 homepage views yesterday. Goal not reached.”<br><br>\nThis is the story that unfolds in a hotel where humanity has disappeared.<br><br>\n(Official Website, Translated)"
+    },
+    {
       "id": "tt35351359",
       "type": "series",
       "name": "Ninja to Koroshiya no Futarigurashi",
@@ -237,13 +244,6 @@
       "name": "Nazotoki wa Dinner no Ato de",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184989-9i29Wrdrak11.png",
       "description": "Genres: Comedy, Drama, Mystery\nTags:Detective/Female Protagonist/Butler/Josei\nReiko is a rich heiress to a zaibatsu, but she chose to work as a detective. She resents her superior, Kazamatsuri, who always seem to be making illogical deductions that causes murder cases to become cold cases. One day, her butler suddenly announces his retirement, and he chooses Kageyama as his replacement. Reiko realizes that Kageyama's deduction skills are very good after Kageyama solved a seemingly unsolvable mystery.<br><br>\nAfter that, whenever Reiko meets an unsolvable case, she would lay out the details of the case for Kageyama, and he would explain to her how that particular case is solved after dinner. After every case, Kageyama also explains to Reiko some universal truth or human nature that led to each crime being committed.<br><br>\n(Source: Wikipedia)"
-    },
-    {
-      "id": "tt7856872",
-      "type": "series",
-      "name": "Apocalypse Hotel",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180675-rEzDdz6F2kYz.png",
-      "description": "Genres: \nTags:Post-Apocalyptic/Robots/Inn/Urban\nThe earth where mankind has disappeared and civilization has collapsed.<br><br>\nIn a world of ruined towns and revived nature, one historic hotel remains.<br><br>\n\"0 customers currently staying, 0 customers planning to stay today, 0 homepage views yesterday. Goal not reached.”<br><br>\nThis is the story that unfolds in a hotel where humanity has disappeared.<br><br>\n(Official Website, Translated)"
     },
     {
       "id": "tt34853325",
