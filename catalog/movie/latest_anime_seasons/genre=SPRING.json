@@ -59,6 +59,16 @@
         "defaultVideoId": "tt30442574"
       },
       "description": "Genres: Slice of Life\nTags:\nMovie based on the Tabekko Doubutsu brand of animal-shaped butter biscuits."
+    },
+    {
+      "id": "tt35720302",
+      "type": "movie",
+      "name": "Princess Principal: Crown Handler - Chapter 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186716-I873Q1vDa3Xt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt35720302"
+      },
+      "description": "Genres: Action, Adventure, Mystery, Sci-Fi\nTags:Female Protagonist\nThe fourth out of six movie sequels to the <i>Princess Prinicpal<i> TV series."
     }
   ]
 }
