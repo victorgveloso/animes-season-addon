@@ -8,7 +8,7 @@
       "behaviorHints": {
         "defaultVideoId": "kitsu:49215"
       },
-      "description": "Genres: Fantasy, Slice of Life\nTags:Dragons/Seinen/Female Protagonist/Found Family/Maids\n<i>\"I don’t want to let go of her hand. Because, we are a family.\"</i>\n<br><br>\nTheatrical follow-up to the second season <i>Kobayashi-san Chi no Maidragon S</i> and <i>Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)</i> OVA.<br><br>\n\n(Source: Kyoto Animation YouTube Channel)"
+      "description": "Genres: Fantasy, Slice of Life\nTags:Dragons/Seinen/Maids/Found Family/Female Protagonist\n<i>\"I don’t want to let go of her hand. Because, we are a family.\"</i>\n<br><br>\nTheatrical follow-up to the second season <i>Kobayashi-san Chi no Maidragon S</i> and <i>Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)</i> OVA.<br><br>\n\n(Source: Kyoto Animation YouTube Channel)"
     },
     {
       "id": "tt35444710",
@@ -18,7 +18,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt35444710"
       },
-      "description": "Genres: Mystery\nTags:Detective/Crime\nThe 28th <i>Detective Conan</i> movie."
+      "description": "Genres: Mystery\nTags:Crime/Detective\nThe 28th <i>Detective Conan</i> movie."
     },
     {
       "id": "tt35419807",
@@ -28,7 +28,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt35419807"
       },
-      "description": "Genres: Comedy, Slice of Life\nTags:Maids/Robots/Shounen\nnull"
+      "description": "Genres: Comedy, Slice of Life\nTags:Robots/Shounen/Maids\nnull"
     },
     {
       "id": "tt35652362",
@@ -51,6 +51,16 @@
       "description": "Genres: Music\nTags:Idol/Ensemble Cast\nThe third movie in the UtaPri franchise, spotlighting the idol group QUARTET NIGHT."
     },
     {
+      "id": "tt35720302",
+      "type": "movie",
+      "name": "Princess Principal: Crown Handler - Chapter 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186716-I873Q1vDa3Xt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt35720302"
+      },
+      "description": "Genres: Action, Adventure, Mystery, Sci-Fi\nTags:Primarily Teen Cast/Primarily Female Cast/Politics/Espionage/Steampunk/Female Protagonist\nThe fourth out of six movie sequels to the <i>Princess Principal</i> TV series."
+    },
+    {
       "id": "tt30442574",
       "type": "movie",
       "name": "Tabekko Doubutsu THE MOVIE",
@@ -59,16 +69,6 @@
         "defaultVideoId": "tt30442574"
       },
       "description": "Genres: Slice of Life\nTags:\nMovie based on the Tabekko Doubutsu brand of animal-shaped butter biscuits."
-    },
-    {
-      "id": "tt35720302",
-      "type": "movie",
-      "name": "Princess Principal: Crown Handler - Chapter 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186716-I873Q1vDa3Xt.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt35720302"
-      },
-      "description": "Genres: Action, Adventure, Mystery, Sci-Fi\nTags:Female Protagonist\nThe fourth out of six movie sequels to the <i>Princess Prinicpal<i> TV series."
     }
   ]
 }
