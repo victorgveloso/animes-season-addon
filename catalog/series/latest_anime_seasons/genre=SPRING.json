@@ -75,7 +75,7 @@
       "type": "series",
       "name": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153554-ddOxuOTuP6cd.jpg",
-      "description": "Genres: Comedy, Romance\nTags:Heterosexual/School/Horticulture\nAt a rural junior high school, a boy and a girl vowed eternal friendship, and two years passed smoothly in their relationship......! <br>\n<br>\nThe story follows the lives of two young people, Inuzuka Himari, who has yet to find her first love, and Natsume Yuu, a flower-loving boy, who remained best friends in their second year of high school, together in the gardening club. Sometimes Hiyori will tease him by say things like, \"If Yu can't get married, I'll have to take the blame. It's hard when your brother calls him 'brother-in-law!\" But when Yuu is reunited with his first crush from the past, the wheels of their relationship suddenly started to turn! Will Himari's newfound feelings help her break free from her \"ideal friend\" status? "
+      "description": "Genres: Comedy, Romance\nTags:Heterosexual/School\nAt a rural junior high school, a boy and a girl vowed eternal friendship, and two years passed smoothly in their relationship......! <br>\n<br>\nThe story follows the lives of two young people, Inuzuka Himari, who has yet to find her first love, and Natsume Yuu, a flower-loving boy, who remained best friends in their second year of high school, together in the gardening club. Sometimes Hiyori will tease him by say things like, \"If Yu can't get married, I'll have to take the blame. It's hard when your brother calls him 'brother-in-law!\" But when Yuu is reunited with his first crush from the past, the wheels of their relationship suddenly started to turn! Will Himari's newfound feelings help her break free from her \"ideal friend\" status? "
     },
     {
       "id": "tt33999377",
@@ -148,13 +148,6 @@
       "description": "Genres: Drama, Sports\nTags:Athletics/Primarily Female Cast/Female Protagonist/Kemonomimi/Seinen\nUmamusume: Cinderella Gray tells the tale of a lone girl in the destitute countryside of Kasamatsu who will soon rock Japan with her feet. This Cinderella story of youthful drama and running begins at a humble starting gate!"
     },
     {
-      "id": "tt34814625",
-      "type": "series",
-      "name": "Ore wa Seikan Kokka no Akutoku Ryoushu! ",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-fGCQJVV1zHP4.png",
-      "description": "Genres: Action, Adventure, Comedy, Ecchi, Fantasy, Mecha, Romance, Sci-Fi\nTags:\nIn his last life, Liam lived as a moral, responsible person...but died deep in debt and betrayed by his wife. Reborn into the ruling family of a vast interstellar empire, Liam knows that life is divided into the downtrodden and the ones who do the stomping, so this time he's going to take what he wants and live for himself. But somehow, things refuse to work out that way. Despite doing his best to become a tyrant, Liam's decisions lead to nothing but peace and prosperity for the empire under his rule, and he just gets more and more popular!\n<br><br>\n(Source: Seven Seas Entertainment)"
-    },
-    {
       "id": "tt32513973",
       "type": "series",
       "name": "Your Forma",
@@ -162,11 +155,25 @@
       "description": "Genres: Action, Drama, Mystery, Sci-Fi\nTags:Female Protagonist/Detective/Male Protagonist/Crime\nIn 1992, a pandemic of viral encephalitis shook the world. The medical technology that saved humanity evolved into <i>“Your Forma”</i>—an invasive information device implanted into the brain. In this world where every sight, sound, and even emotion is recorded, investigating major crimes means diving into the collective data, a job reserved for special detectives called “Electronic Investigator.”\n<br><br>\nEchika Hieda, a prodigious “Electronic Investigator” assigned at an astonishingly young age, stands isolated by her exceptional talent. Her newly assigned partner is Harold, a blonde, blue-eyed humanoid “Amicus.” Together, this unrivaled duo will expose every hidden secret.\n<br><br>\n(Source: \"It’s Anime\" YouTube Channel)"
     },
     {
+      "id": "tt34814625",
+      "type": "series",
+      "name": "Ore wa Seikan Kokka no Akutoku Ryoushu! ",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-fGCQJVV1zHP4.png",
+      "description": "Genres: Action, Adventure, Comedy, Ecchi, Fantasy, Mecha, Romance, Sci-Fi\nTags:\nIn his last life, Liam lived as a moral, responsible person...but died deep in debt and betrayed by his wife. Reborn into the ruling family of a vast interstellar empire, Liam knows that life is divided into the downtrodden and the ones who do the stomping, so this time he's going to take what he wants and live for himself. But somehow, things refuse to work out that way. Despite doing his best to become a tyrant, Liam's decisions lead to nothing but peace and prosperity for the empire under his rule, and he just gets more and more popular!\n<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
       "id": "tt32779862",
       "type": "series",
       "name": "Aru Majo ga Shinu Made",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178701-ZUZAcQi6bYHD.jpg",
       "description": "Genres: Adventure, Drama, Fantasy\nTags:Female Protagonist/Primarily Female Cast/Magic/Witch/Curses\nOn her seventeenth birthday, the apprentice witch Meg learns that she only has one year left to live. Her teacher, the long-lived witch Faust, explains that the only way to undo the death curse is to collect tears of joy and grow the seed of life. To find them, Meg will have to leave the sheltered life she's always known and head out into the world. There will be meetings, partings, and friendships aplenty, and of course many tears. Meg will learn that the most important lessons for a witch are bright, sweet, and somewhat heart-wrenching.<br>\n<br>\n(Source: Yen Press) "
+    },
+    {
+      "id": "tt35436997",
+      "type": "series",
+      "name": "mono",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176246-ndH8bKh7cmzf.jpg",
+      "description": "Genres: Comedy, Slice of Life\nTags:School Club/Photography/Cute Girls Doing Cute Things/Female Protagonist\nThe <i>mono</i> manga is centered around high school girls who belong to the Cinephoto Club, which is a combination photography club and video research club set around Kofu City, Yamanashi Prefecture. The girls go about their daily lives using cameras tied to kites, action cameras and even drones around the city and prefecture. <br><br> (Source: Crunchyroll News, edited)"
     },
     {
       "id": "tt34702901",
@@ -188,13 +195,6 @@
       "name": "Zatsu Tabi: That's Journey",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165445-1LPs4hBqLl14.png",
       "description": "Genres: Adventure, Comedy, Drama, Slice of Life\nTags:Travel/Iyashikei/Female Protagonist/Seinen\nChika Suzugamori, a rookie manga artist, has been getting rejected every time she submits a new draft. On the verge of giving up, she suddenly gets the idea of going on a journey.\n<br><br>\n<i>*Based on the real life travels of mangaka Chika Suzugamori.</i>"
-    },
-    {
-      "id": "tt35436997",
-      "type": "series",
-      "name": "mono",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176246-ndH8bKh7cmzf.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:School Club/Photography/Cute Girls Doing Cute Things/Female Protagonist\nThe <i>mono</i> manga is centered around high school girls who belong to the Cinephoto Club, which is a combination photography club and video research club set around Kofu City, Yamanashi Prefecture. The girls go about their daily lives using cameras tied to kites, action cameras and even drones around the city and prefecture. <br><br> (Source: Crunchyroll News, edited)"
     },
     {
       "id": "tt35436553",
@@ -256,7 +256,7 @@
       "id": "tt23844810",
       "type": "series",
       "name": "Bye Bye, Earth Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-f6TUPnCndXRx.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-zBCMinL0WhzA.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Swordplay/Kemonomimi/Magic/Gore/Classical Music/Philosophy/Heterosexual/War\nThe second season of <i>Bye Bye, Earth</i>."
     },
     {
