@@ -113,18 +113,18 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Seinen/Animals/Female Protagonist\nIf it looks like a dog and acts like a dog and insists it's a dog, it's...a dog? Probably? She adopted it anyway, and her life with this \"dog\" will never be boring! \n<br><br>\n(Source: Kodansha USA)"
     },
     {
-      "id": "tt35652489",
-      "type": "series",
-      "name": "GaCen Shoujo to Ibunka Kouryuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180794-VIhFqmne6Xih.jpg",
-      "description": "Genres: Comedy, Romance\nTags:Otaku Culture/Video Games\nThe story follows Renji Kusakabe, a young man who works part time at a game center arcade. One day, Renji encounters an English girl named Lily, and the two of them trade diaries and begin an unlikely friendship of cultural exchange...\n<br><br>\n(Source: Crunchyroll News)"
-    },
-    {
       "id": "tt35335095",
       "type": "series",
       "name": "Futari Solo Camp",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185965-LlzTLSTBUbEA.jpg",
       "description": "Genres: Slice of Life\nTags:Camping/Seinen\nKinokura Gen loves camping solo. He enjoys the quiet solitude away from the hustle and bustle of the city, and being able to appreciate nature all by himself. But on one camping trip, his solitude is broken by the appearance of Kusano Shizuku, a young woman who wanted to camp solo herself, but is ill-prepared and completely out of her league. While he tries to get her to go home so he can camp in peace, she refuses, and stubbornly insists on accompanying him on future camping trips until she's ready to camp solo. Thus Gen and Shizuku's days of solo camping together begin."
+    },
+    {
+      "id": "tt35652489",
+      "type": "series",
+      "name": "GaCen Shoujo to Ibunka Kouryuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180794-VIhFqmne6Xih.jpg",
+      "description": "Genres: Comedy, Romance\nTags:Otaku Culture/Video Games\nThe story follows Renji Kusakabe, a young man who works part time at a game center arcade. One day, Renji encounters an English girl named Lily, and the two of them trade diaries and begin an unlikely friendship of cultural exchange...\n<br><br>\n(Source: Crunchyroll News)"
     },
     {
       "id": "kitsu:49357",
@@ -134,18 +134,18 @@
       "description": "Genres: Comedy, Drama, Slice of Life, Supernatural\nTags:Seinen\n\"I can't die because I'm banned from the afterlife.\"<br>\nA suspicious “self-proclaimed hermit” mole, Mogura Momoyuki, has been banned from the afterlife for some reason, and is collecting the \"light\" possessed by ghosts in a signal light in the hopes of returning to the afterlife.<br><br>\n\nIt is said that when you meet him, you start seeing strange things.<br><br>\n\n(Source: Official Website, Translated)"
     },
     {
-      "id": "tt35652469",
-      "type": "series",
-      "name": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179879-cGCVUUPS6sbV.png",
-      "description": "Genres: Drama, Romance\nTags:Josei/Female Protagonist\nWith unmaintained red hair and shabby clothes, Marie, the baron's daughter, has been treated like a servant all her life. Count Granado, the country's richest man, who is said to be a difficult misogynist, falls in love with her at first sight. However, due to a misunderstanding, Count Granado proposes to her sister Anastasia, who looks like a princess, instead of the ragged Marie. A very popular work from \"Become a Novelist\"! Marie's Cinderella story that began with a hero's misunderstanding!\n<BR><BR>\n(Source: Pocket Comics)"
-    },
-    {
       "id": "tt30643971",
       "type": "series",
       "name": "Yuusha Party wo Tsuihou Sareta Hikuma Doushi, S Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179885-YQsKgm162AsF.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nTags:\nOne day, Lloyd, a white mage, is banished from the hero’s party. Lloyd, who has lost his job, happens to accompany an S-rank party on a quest by chance. At that time, no one knew that the hero’s party would collapse and Lloyd would gain fame - yet. This is the story of an extraordinary support magic-user who thinks he is normal, becomes an adventurer, while he is unaware how he eventually becomes peerless."
+    },
+    {
+      "id": "tt35652469",
+      "type": "series",
+      "name": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179879-cGCVUUPS6sbV.png",
+      "description": "Genres: Drama, Romance\nTags:Josei/Female Protagonist\nWith unmaintained red hair and shabby clothes, Marie, the baron's daughter, has been treated like a servant all her life. Count Granado, the country's richest man, who is said to be a difficult misogynist, falls in love with her at first sight. However, due to a misunderstanding, Count Granado proposes to her sister Anastasia, who looks like a princess, instead of the ragged Marie. A very popular work from \"Become a Novelist\"! Marie's Cinderella story that began with a hero's misunderstanding!\n<BR><BR>\n(Source: Pocket Comics)"
     },
     {
       "id": "tt31435652",
@@ -160,6 +160,13 @@
       "name": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178869-iNDlhrWx01tN.jpg",
       "description": "Genres: Action, Drama, Fantasy\nTags:\nThe story centers on the the titular Clevatess, the lord of all magical beasts, who wields both uncanny intellect and destructive power. Frustrated by the 13 heroes tasked to destroy him, he has decided to be rid of humanity once and for all. However, he has been charged with one nuisance: the care of a newborn human baby. Now the world stands upon the brink of Armageddon, with the obligation of raising one child holding it all back.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt16027074",
+      "type": "series",
+      "name": "Pokémon Concierge (Zoku-hen)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175035-lv7WMuMVYQk4.jpg",
+      "description": "Genres: Fantasy, Slice of Life\nTags:Female Protagonist/Animals/Work/Iyashikei\nContinuation of <i>Pokémon Concierge</i>."
     },
     {
       "id": "tt34710683",
@@ -188,6 +195,13 @@
       "name": "My Melody & Kuromi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186043-fTvbTiVpuDdq.png",
       "description": "Genres: Slice of Life\nTags:Stop Motion/Animals\nGet ready for a delightful adventure as My Melody & Kuromi brings the beloved Sanrio characters to life in a charming stop-motion animation series, premiering in July 2025. Celebrating the 50th anniversary of My Melody and the 20th anniversary of Kuromi, the series takes viewers on an adventure in Mariland, their whimsical home. A special sneak peek reveals the characters in their adorable stop-motion form  — and they’re so cute you’ll want to reach out and touch them!<br><br>\n(Source: Netflix)"
+    },
+    {
+      "id": "tt0085032",
+      "type": "series",
+      "name": "Hotel Inhumans",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184034-EZEoi29Te3kS.jpg",
+      "description": "Genres: Action, Drama\nTags:\nThe most exquisite hotels in the world have certain standards: the finest food, the most sublime comfort, captivating entertainment, the latest weapons, reliable identity fabrication, and untraceable corpse disposal.\n<br><br>\nThe name of this place where the people who have “forgotten their humanity” visit is “Hotel Inhumans.” The hitmen guests are welcomed by the concierges who never say \"no.\""
     },
     {
       "id": "tt32985844",
