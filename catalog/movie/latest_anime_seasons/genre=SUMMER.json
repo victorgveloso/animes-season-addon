@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt32820897",
+      "type": "movie",
+      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178788-ePmnABYuFdcE.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt32820897"
+      },
+      "description": "Genres: Action, Adventure, Drama, Supernatural\nTags:War/Male Protagonist/Demons/Revenge/Swordplay/Dungeon/Shounen/Curses\n<i>The All-Out War Begins.</i>\n\n<br><br>\nTheatrical trilogy adaptation of the Infinity Castle Arc."
+    },
+    {
       "id": "tt33256912",
       "type": "movie",
       "name": "Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland",
