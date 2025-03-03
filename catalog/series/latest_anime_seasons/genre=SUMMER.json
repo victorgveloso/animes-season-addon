@@ -92,13 +92,6 @@
       "description": "Genres: Comedy\nTags:School/Female Protagonist/Primarily Female Cast/Cute Girls Doing Cute Things/Yuri/LGBTQ+ Themes\nThe story follows Yuu Yutani, a first-year high school student who is a good girl. However, to attract the attention of the school's disciplinary committee chairman and \"madonna\" Atori Mizutori, she begins to act like a delinquent.<br>\n<br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt31987539",
-      "type": "series",
-      "name": "cocoon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166527-0sPHL9124m39.jpg",
-      "description": "Genres: Drama\nTags:Josei/War/Female Protagonist/Historical/Primarily Female Cast/Rural/Survival/Primarily Teen Cast\nSan and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield."
-    },
-    {
       "id": "tt34754751",
       "type": "series",
       "name": "Hell Teacher: Jigoku Sensei Nube (2025)",
@@ -106,11 +99,18 @@
       "description": "Genres: Action, Comedy, Horror, Supernatural\nTags:Teacher/Shounen/Youkai/Demons/Exorcism/School/Primarily Child Cast\nA new anime project for <i>Jigoku Sensei Nube</i>.\n<br><br>\nThe story follows Meisuke Nueno, aka \"Nube,\" a psychic teacher with a demon hand, as he battles evil spirits and monsters to protect his students in this saga that employs elements of Japanese mythology and folklore to tell a fan-pleasing action story.\n<br><br>\nKnown for its occult and horror elements on school ghost stories and urban legends, Nube captivated readers across generations with his heroic efforts to save his students from supernatural threats."
     },
     {
+      "id": "tt31987539",
+      "type": "series",
+      "name": "cocoon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166527-0sPHL9124m39.jpg",
+      "description": "Genres: Drama\nTags:Josei/War/Female Protagonist/Historical/Primarily Female Cast/Rural/Survival/Primarily Teen Cast\nSan and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield."
+    },
+    {
       "id": "tt34852961",
       "type": "series",
       "name": "Ame to Kimi to",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180425-c97mbuFNlTzw.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:Seinen/Animals/Female Protagonist\nIf it looks like a dog and acts like a dog and insists it's a dog, it's...a dog? Probably? She adopted it anyway, and her life with this \"dog\" will never be boring! \n<br><br>\n(Source: Kodansha USA)"
+      "description": "Genres: Comedy, Slice of Life\nTags:Seinen/Female Protagonist/Animals\nIf it looks like a dog and acts like a dog and insists it's a dog, it's...a dog? Probably? She adopted it anyway, and her life with this \"dog\" will never be boring! \n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt35335095",
@@ -155,18 +155,18 @@
       "description": "Genres: Horror\nTags:Pandemic\nIn the near future, a unique disease has swept across the planet: a virus that transforms humans into cats! And the horde is expanding, since if these adorable kitties snuggle with a human, the human is transformed into yet another cat. A small group of cat-loving survivors is trying to escape the madness, but how can you defend yourself against a threat you just want to cuddle and pet?! This wild new take on a post-apocalyptic survival tale will make you roll over and purr with delight!\n<br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "tt16027074",
-      "type": "series",
-      "name": "Pokémon Concierge (Zoku-hen)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175035-lv7WMuMVYQk4.jpg",
-      "description": "Genres: Fantasy, Slice of Life\nTags:Female Protagonist/Animals/Work/Iyashikei\nContinuation of <i>Pokémon Concierge</i>.<br><br>\nThis September, the adorable stop-motion animation series <i>Pokémon Concierge</i> returns with four new episodes, inviting viewers back to the Pokémon Resort — a vibrant haven where Pokémon come to relax and enjoy. The story follows Haru, a concierge at the Pokémon Resort, as she grows through her interactions with Pokémon guests and learns valuable life lessons along the way.\n<br><br>\n(Source: Netflix)"
-    },
-    {
       "id": "tt32991344",
       "type": "series",
       "name": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178869-iNDlhrWx01tN.jpg",
       "description": "Genres: Action, Drama, Fantasy\nTags:\nThe story centers on the the titular Clevatess, the lord of all magical beasts, who wields both uncanny intellect and destructive power. Frustrated by the 13 heroes tasked to destroy him, he has decided to be rid of humanity once and for all. However, he has been charged with one nuisance: the care of a newborn human baby. Now the world stands upon the brink of Armageddon, with the obligation of raising one child holding it all back.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt16027074",
+      "type": "series",
+      "name": "Pokémon Concierge (Zoku-hen)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175035-lv7WMuMVYQk4.jpg",
+      "description": "Genres: Fantasy, Slice of Life\nTags:Female Protagonist/Animals/Work/Iyashikei\nContinuation of <i>Pokémon Concierge</i>.<br><br>\nThis September, the adorable stop-motion animation series <i>Pokémon Concierge</i> returns with four new episodes, inviting viewers back to the Pokémon Resort — a vibrant haven where Pokémon come to relax and enjoy. The story follows Haru, a concierge at the Pokémon Resort, as she grows through her interactions with Pokémon guests and learns valuable life lessons along the way.\n<br><br>\n(Source: Netflix)"
     },
     {
       "id": "tt34710683",
@@ -183,18 +183,18 @@
       "description": "Genres: Comedy, Slice of Life\nTags:\nThe fourth season of <i>Osomatsu-san</i>. "
     },
     {
-      "id": "tt32333055",
-      "type": "series",
-      "name": "Utagoe wa Mille-Feuille",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166215-K2woVAaY3rxs.jpg",
-      "description": "Genres: Music\nTags:School/Primarily Female Cast/Coming of Age\nAnime adaptation of the a cappella music project <i>Utagoe wa Mille-Feuille</i>."
-    },
-    {
       "id": "tt0085032",
       "type": "series",
       "name": "Hotel Inhumans",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184034-EZEoi29Te3kS.jpg",
       "description": "Genres: Action, Drama\nTags:\nThe most exquisite hotels in the world have certain standards: the finest food, the most sublime comfort, captivating entertainment, the latest weapons, reliable identity fabrication, and untraceable corpse disposal.\n<br><br>\nThe name of this place where the people who have “forgotten their humanity” visit is “Hotel Inhumans.” The hitmen guests are welcomed by the concierges who never say \"no.\""
+    },
+    {
+      "id": "tt32333055",
+      "type": "series",
+      "name": "Utagoe wa Mille-Feuille",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166215-K2woVAaY3rxs.jpg",
+      "description": "Genres: Music\nTags:School/Primarily Female Cast/Coming of Age\nAnime adaptation of the a cappella music project <i>Utagoe wa Mille-Feuille</i>."
     },
     {
       "id": "tt35323313",
