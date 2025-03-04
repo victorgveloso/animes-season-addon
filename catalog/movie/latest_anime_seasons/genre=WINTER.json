@@ -101,6 +101,16 @@
       "description": "Genres: Action, Drama, Fantasy\nTags:Puppetry\nTheatrical follow-up to <i>Thunderbolt Fantasy: Touriken Yuuki 4</i>."
     },
     {
+      "id": "tt34571222",
+      "type": "movie",
+      "name": "Hypnosis Mic: Division Rap Battle Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187305-Mzyh5PICkk9X.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt34571222"
+      },
+      "description": "Genres: Action, Music, Sci-Fi\nTags:Hip-hop Music/Primarily Male Cast/Ensemble Cast/Super Power/Band/Matriarchy/CGI\n\"In a world where words mean power, they risk all that they stand for\".\n<br><br>\nThe final Division Rap Battle begins. 48 different patterns, 16 new songs and 7 possible endings.\n<br><br>\nThis film will be Japan's first-ever interactive movie, where the audience's choices will change the development and outcome of each screening. The story unfolds differently based on the audience’s decisions, offering an entirely new participatory cinematic experience.\n<br><br>\n(Source: Hypnosis Mic Youtube Channel, edited)"
+    },
+    {
       "id": "tt35438167",
       "type": "movie",
       "name": "Oshiri Tantei: Star and Moon",
@@ -109,16 +119,6 @@
         "defaultVideoId": "tt35438167"
       },
       "description": "Genres: Comedy, Mystery\nTags:\nStory begins when Koala asks Butt Detective to find a missing relative who disappeared from an idol contest. The case takes Butt Detective to Stardust Island, the site of the contest, and also the home of the international criminal organization Phantom Thief Academy, headed by Phantom Thief G. Here, the organization advances its secret conspiracy, codenamed the Dark Age Plan. Butt Detective enters Stardust Island under the guise of an idol. At the same time, he joins forces with Phantom Thief U, who is out to steal back the valuable Moonlight Stone from Phantom Thief G. The story will also reveal more about Brown's past.\n<br><br>\n(Source: Anime News Network, edited)\n"
-    },
-    {
-      "id": "tt34571222",
-      "type": "movie",
-      "name": "Hypnosis Mic: Division Rap Battle Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187305-Mzyh5PICkk9X.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt34571222"
-      },
-      "description": "Genres: Action, Music, Sci-Fi\nTags:Hip-hop Music/Primarily Male Cast/Ensemble Cast/Super Power/Band/Matriarchy/CGI\n\"In a world where words mean power they risk all they stand for\"\n<br><br>\nThe final Division Rap Battle begins. This is Japan`s first voting-based interactive movie, with 48 different patterns, 16 new songs and 7 possible endings."
     }
   ]
 }
