@@ -21,16 +21,6 @@
       "description": "Genres: Mystery\nTags:Crime/Detective\nThe 28th <i>Detective Conan</i> movie."
     },
     {
-      "id": "tt35419807",
-      "type": "movie",
-      "name": "Boku to Roboco Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-xSh58SpvcYCI.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt35419807"
-      },
-      "description": "Genres: Comedy, Slice of Life\nTags:Robots/Shounen/Maids\nnull"
-    },
-    {
       "id": "tt35720302",
       "type": "movie",
       "name": "Princess Principal: Crown Handler - Chapter 4",
@@ -39,6 +29,16 @@
         "defaultVideoId": "tt35720302"
       },
       "description": "Genres: Action, Adventure, Mystery, Sci-Fi\nTags:Primarily Teen Cast/Primarily Female Cast/Politics/Espionage/Steampunk/Female Protagonist\nThe fourth out of six movie sequels to the <i>Princess Principal</i> TV series."
+    },
+    {
+      "id": "tt35419807",
+      "type": "movie",
+      "name": "Boku to Roboco Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-xSh58SpvcYCI.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt35419807"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Robots/Shounen/Maids\nnull"
     },
     {
       "id": "tt35652362",
