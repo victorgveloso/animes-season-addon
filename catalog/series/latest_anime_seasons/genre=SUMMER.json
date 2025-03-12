@@ -113,18 +113,18 @@
       "description": "Genres: Drama\nTags:Josei/War/Female Protagonist/Historical/Primarily Female Cast/Rural/Survival/Primarily Teen Cast\nSan and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield."
     },
     {
-      "id": "tt34852961",
-      "type": "series",
-      "name": "Ame to Kimi to",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180425-c97mbuFNlTzw.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:Seinen/Female Protagonist/Animals\nIf it looks like a dog and acts like a dog and insists it's a dog, it's...a dog? Probably? She adopted it anyway, and her life with this \"dog\" will never be boring! \n<br><br>\n(Source: Kodansha USA)"
-    },
-    {
       "id": "tt35335095",
       "type": "series",
       "name": "Futari Solo Camp",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185965-LlzTLSTBUbEA.jpg",
       "description": "Genres: Slice of Life\nTags:Camping/Seinen\nKinokura Gen loves camping solo. He enjoys the quiet solitude away from the hustle and bustle of the city, and being able to appreciate nature all by himself. But on one camping trip, his solitude is broken by the appearance of Kusano Shizuku, a young woman who wanted to camp solo herself, but is ill-prepared and completely out of her league. While he tries to get her to go home so he can camp in peace, she refuses, and stubbornly insists on accompanying him on future camping trips until she's ready to camp solo. Thus Gen and Shizuku's days of solo camping together begin."
+    },
+    {
+      "id": "tt34852961",
+      "type": "series",
+      "name": "Ame to Kimi to",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180425-c97mbuFNlTzw.jpg",
+      "description": "Genres: Comedy, Slice of Life\nTags:Seinen/Female Protagonist/Animals\nIf it looks like a dog and acts like a dog and insists it's a dog, it's...a dog? Probably? She adopted it anyway, and her life with this \"dog\" will never be boring! \n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt36074011",
@@ -197,18 +197,18 @@
       "description": "Genres: Action, Drama\nTags:Inn/Assassins\nThe most exquisite hotels in the world have certain standards: the finest food, the most sublime comfort, captivating entertainment, the latest weapons, reliable identity fabrication, and untraceable corpse disposal.\n<br><br>\nThe name of this place where the people who have “forgotten their humanity” visit is “Hotel Inhumans.” The hitmen guests are welcomed by the concierges who never say \"no.\""
     },
     {
-      "id": "tt33374124",
-      "type": "series",
-      "name": "Osomatsu-san 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-3zUHnP39qk5k.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:\nThe fourth season of <i>Osomatsu-san</i>. "
-    },
-    {
       "id": "tt32333055",
       "type": "series",
       "name": "Utagoe wa Mille-Feuille",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166215-K2woVAaY3rxs.jpg",
       "description": "Genres: Music\nTags:School/Primarily Female Cast/Coming of Age\nAnime adaptation of the a cappella music project <i>Utagoe wa Mille-Feuille</i>."
+    },
+    {
+      "id": "tt33374124",
+      "type": "series",
+      "name": "Osomatsu-san 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-3zUHnP39qk5k.jpg",
+      "description": "Genres: Comedy, Slice of Life\nTags:\nThe fourth season of <i>Osomatsu-san</i>. "
     },
     {
       "id": "tt35323313",
@@ -223,6 +223,13 @@
       "name": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179541-lZwENMAHZS9Y.jpg",
       "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Male Protagonist/Family Life\nThe series follows Ageha, who is born into the world as the disliked son of a corrupt count. Ageha possesses all of the knowledge of his previous life, and learns that his half-brother Regulus will eventually attempt to kill him and take his title. Even with this awareness, Ageha decides to use all of the skills from his past life to raise his little brother. <br><br>\n(Source: Anime News Network) "
+    },
+    {
+      "id": "tt13175478",
+      "type": "series",
+      "name": "Fermat no Ryouri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186003-WP6dKDFSI9UW.jpg",
+      "description": "Genres: Drama, Slice of Life\nTags:Food/Shounen/Male Protagonist/Work\nKitada Gaku is a prodigy in Mathematics and a scholarship holder at Wels Private Academy, a renowned institution with a long history in the International Mathematical Olympiad. After a series of unfortunate events, he meets Asakura Kai, a culinary prodigy with his own catering business. What does the future hold for these two geniuses, and how do their paths intertwine with each other's?"
     },
     {
       "id": "tt34621652",

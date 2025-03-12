@@ -91,16 +91,6 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Kids\nDoraemon, Nobita, and friends enter a painting into a medieval European world. In the painting, they meet Claire and Milo, children from the country of Artoria. They also encounter a small demon with wings named Chai. Together, they face a powerful enemy for a legendary jewel.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt31957398",
-      "type": "movie",
-      "name": "Thunderbolt Fantasy: Touriken Yuuki - Saishuushou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176432-jqq2IZrjYaiZ.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt31957398"
-      },
-      "description": "Genres: Action, Drama, Fantasy\nTags:Puppetry\nTheatrical follow-up to <i>Thunderbolt Fantasy: Touriken Yuuki 4</i>."
-    },
-    {
       "id": "tt34571222",
       "type": "movie",
       "name": "Hypnosis Mic: Division Rap Battle Movie",
@@ -109,6 +99,16 @@
         "defaultVideoId": "tt34571222"
       },
       "description": "Genres: Action, Music, Sci-Fi\nTags:Hip-hop Music/Primarily Male Cast/Ensemble Cast/Super Power/Band/Matriarchy/CGI\n\"In a world where words mean power, they risk all that they stand for\".\n<br><br>\nThe final Division Rap Battle begins. 48 different patterns, 16 new songs and 7 possible endings.\n<br><br>\nThis film will be Japan's first-ever interactive movie, where the audience's choices will change the development and outcome of each screening. The story unfolds differently based on the audience’s decisions, offering an entirely new participatory cinematic experience.\n<br><br>\n(Source: Hypnosis Mic Youtube Channel, edited)"
+    },
+    {
+      "id": "tt31957398",
+      "type": "movie",
+      "name": "Thunderbolt Fantasy: Touriken Yuuki - Saishuushou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176432-jqq2IZrjYaiZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt31957398"
+      },
+      "description": "Genres: Action, Drama, Fantasy\nTags:Puppetry\nTheatrical follow-up to <i>Thunderbolt Fantasy: Touriken Yuuki 4</i>."
     },
     {
       "id": "tt35438167",
