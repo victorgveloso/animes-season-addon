@@ -111,6 +111,16 @@
       "description": "Genres: Action, Drama, Fantasy\nTags:Puppetry\nTheatrical follow-up to <i>Thunderbolt Fantasy: Touriken Yuuki 4</i>."
     },
     {
+      "id": "tt36132876",
+      "type": "movie",
+      "name": "Shimajirou: Shimajirou to Yuuki no Uta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183412-aquaVDg24IRw.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt36132876"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:\nThe story centers on Miley, a young white tiger who is offered the lead role of Captain Hat by an acting troupe. Miley has no confidence in herself, so Shimajirou comes up with a plan to encourage her. Suddenly, they are sucked into a magical bag, and must embark on an adventure in the world within the bag.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
       "id": "tt35438167",
       "type": "movie",
       "name": "Oshiri Tantei: Star and Moon",
