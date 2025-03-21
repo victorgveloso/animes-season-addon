@@ -18,7 +18,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt33050528"
       },
-      "description": "Genres: Drama, Music\nTags:Band/Vocal synth/Primarily Teen Cast/Primarily Female Cast/Idol/Urban Fantasy/Artificial Intelligence/Transgender/Urban/Female Protagonist/Virtual World\nSet in modern day Shibuya, Ichika Hoshino, a high school girl and street musician, encounters an unknown version of Hatsune Miku after hearing a Miku song that she'd never heard before in a CD store. Ichika learns that this version of Miku is having trouble reaching people with her songs, so together they team up to try to touch the hearts of their audience through music.<br><br>\n\n(Source: Crunchyroll News, edited)"
+      "description": "Genres: Drama, Music\nTags:Band/Vocal synth/Transgender/Urban/Primarily Teen Cast/Primarily Female Cast/Idol/Urban Fantasy/Artificial Intelligence/Ensemble Cast/Female Protagonist/Virtual World\nSet in modern day Shibuya, Ichika Hoshino, a high school girl and street musician, encounters an unknown version of Hatsune Miku after hearing a Miku song that she'd never heard before in a CD store. Ichika learns that this version of Miku is having trouble reaching people with her songs, so together they team up to try to touch the hearts of their audience through music.<br><br>\n\n(Source: Crunchyroll News, edited)"
     },
     {
       "id": "tt33503342",
@@ -58,7 +58,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt35301440"
       },
-      "description": "Genres: Fantasy, Horror, Mystery, Psychological, Supernatural\nTags:Male Protagonist/Youkai/Cosmic Horror\nSequel to <i>Mononoke: Karakasa</i> and second movie in the <i>Mononoke</i> movie trilogy."
+      "description": "Genres: Fantasy, Horror, Mystery, Psychological, Supernatural\nTags:Youkai/Cosmic Horror/Male Protagonist\nSequel to <i>Mononoke: Karakasa</i> and second movie in the <i>Mononoke</i> movie trilogy."
     },
     {
       "id": "tt35109348",
@@ -69,6 +69,16 @@
         "defaultVideoId": "tt35109348"
       },
       "description": "Genres: Action, Drama, Mecha, Sci-Fi\nTags:Super Robot\nA movie compilation of the first and second cours of <i>Aldnoah.Zero</i> and also includes the new animation to conclude the series, <i>Aldnoah.Zero: Ame no Danshou</i>."
+    },
+    {
+      "id": "tt32508210",
+      "type": "movie",
+      "name": "Batman Ninja vs. Yakuza League",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177778-rTowp5yXU23X.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt32508210"
+      },
+      "description": "Genres: Action, Sci-Fi\nTags:Yakuza/Superhero\nIn this sequel to Batman Ninja, the Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City. At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it’s up to Batman and his allies to save Gotham!\n<br><br>\n(Source: Amazon Prime Video)\n<br><br>\n<i>Note: Release date reflect the release in Japan, it was release in the US on March 18, 2025</i>."
     },
     {
       "id": "tt34602994",
