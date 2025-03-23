@@ -41,16 +41,6 @@
       "description": "Genres: Slice of Life\nTags:Anthropomorphism/Iyashikei/Animals/Urban\nKozame-chan's everyday life is full of fun and excitement! This time, the next destination is the big city. What awaits Kozame-chan is an unfamiliar place, and new friends. A big adventure filed with tiny miracles is about to begin.\n<br><br>\n(Source: Trailer)"
     },
     {
-      "id": "tt35009463",
-      "type": "movie",
-      "name": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185537-bHzg7pq3EIKe.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt35009463"
-      },
-      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:\nnull"
-    },
-    {
       "id": "tt32221196",
       "type": "movie",
       "name": "AS ONE",
@@ -59,6 +49,16 @@
         "defaultVideoId": "tt32221196"
       },
       "description": "Genres: Mecha, Sci-Fi\nTags:\nSquare Enix’s sci-fi arcade game <i>Starwing Paradox</i> is making a comeback as a prequel anime movie. A new anime feature film titled <i>AS ONE</i> has been announced as a prequel story set 20 years before the events of the game, expanding the game’s universe with a new story. The movie is set to premiere in Summer 2025.<br><br>\n(Source: Anime Corner)"
+    },
+    {
+      "id": "tt35009463",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185537-bHzg7pq3EIKe.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt35009463"
+      },
+      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:\nnull"
     },
     {
       "id": "tt36270843",
