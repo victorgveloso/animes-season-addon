@@ -11,6 +11,16 @@
       "description": "Genres: Drama, Music, Slice of Life\nTags:Rock Music/Female Protagonist/Band\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
     },
     {
+      "id": "tt32919667",
+      "type": "movie",
+      "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183384-z8c1WrfLol9N.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt32919667"
+      },
+      "description": "Genres: Music, Slice of Life\nTags:Idol\nThe second in the trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA."
+    },
+    {
       "id": "tt35684792",
       "type": "movie",
       "name": "Peleliu: Rakuen no Guernica",
