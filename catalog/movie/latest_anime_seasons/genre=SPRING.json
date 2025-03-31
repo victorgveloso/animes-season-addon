@@ -11,16 +11,6 @@
       "description": "Genres: Fantasy, Slice of Life\nTags:Dragons/Seinen/Maids/Found Family/Female Protagonist\n<i>\"I don’t want to let go of her hand. Because, we are a family.\"</i>\n<br><br>\nTheatrical follow-up to the second season <i>Kobayashi-san Chi no Maidragon S</i> and <i>Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)</i> OVA.<br><br>\n\n(Source: Kyoto Animation YouTube Channel)"
     },
     {
-      "id": "tt35444710",
-      "type": "movie",
-      "name": "Meitantei Conan: Sekigan no Flashback",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185212-fMiVtbxva98b.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt35444710"
-      },
-      "description": "Genres: Mystery\nTags:Crime/Detective/Male Protagonist\nThe 28th <i>Detective Conan</i> movie."
-    },
-    {
       "id": "tt35720302",
       "type": "movie",
       "name": "Princess Principal: Crown Handler - Chapter 4",
@@ -29,6 +19,16 @@
         "defaultVideoId": "tt35720302"
       },
       "description": "Genres: Action, Adventure, Mystery, Sci-Fi\nTags:Primarily Teen Cast/Primarily Female Cast/Politics/Espionage/Steampunk/Female Protagonist\nThe fourth out of six movie sequels to the <i>Princess Principal</i> TV series."
+    },
+    {
+      "id": "tt35444710",
+      "type": "movie",
+      "name": "Meitantei Conan: Sekigan no Flashback",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185212-fMiVtbxva98b.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt35444710"
+      },
+      "description": "Genres: Mystery\nTags:Crime/Detective/Male Protagonist\nThe 28th <i>Detective Conan</i> movie."
     },
     {
       "id": "tt35419807",
