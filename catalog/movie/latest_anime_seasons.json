@@ -21,6 +21,16 @@
       "description": "Genres: Action, Adventure, Mystery, Sci-Fi\nTags:Primarily Teen Cast/Primarily Female Cast/Politics/Espionage/Steampunk/Female Protagonist\nThe fourth out of six movie sequels to the <i>Princess Principal</i> TV series."
     },
     {
+      "id": "tt34812090",
+      "type": "movie",
+      "name": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185084-E4OfVMlZUxU8.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt34812090"
+      },
+      "description": "Genres: Action\nTags:\n<i>You haven't seen the real Lupin III yet.</i><br><br>\n\nThe fourth movie under the <i>LUPIN THE IIIRD</i> series of films.\n\n<br><br>\n<i>Note: The current relations are provisional and may change when more info is announced.</i>"
+    },
+    {
       "id": "tt35444710",
       "type": "movie",
       "name": "Meitantei Conan: Sekigan no Flashback",
