@@ -53,7 +53,7 @@
       "id": "tt17069148",
       "type": "series",
       "name": "SAKAMOTO DAYS Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-UUYVRjFZTw1e.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-OJAksU2fsIPx.jpg",
       "description": "Genres: Action, Comedy\nTags:Assassins/Shounen/Crime/Criminal Organization/Guns/Found Family/Male Protagonist/Konbini/Yakuza/Primarily Adult Cast/Super Power/Family Life/Gangs/Gore\nThe second part of <i>SAKAMOTO DAYS</i>."
     },
     {
@@ -118,6 +118,13 @@
       "name": "CITY THE ANIMATION",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181841-xg2brEzNHvjU.png",
       "description": "Genres: Comedy, Slice of Life\nTags:Slapstick/Seinen/Urban/Female Protagonist/Ensemble Cast\nThis town, is not just a normal town.<br>\nThere's laughter, love and emotional moments.<br>\nAn unpredictable ordinary life presented by the residents.<br>\nExciting stuffs come one after another. Welcome to CITY. \n<br><br>\n(Source: Kyoto Animation)"
+    },
+    {
+      "id": "tt14400866",
+      "type": "series",
+      "name": "Kakkou no Iinazuke 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179828-HzHGKWeAt0cE.jpg",
+      "description": "Genres: Comedy, Romance\nTags:School/Heterosexual/Male Protagonist/Arranged Marriage/Inseki/Shounen/Female Protagonist\nThe second season of <i>Kakkou no Iinazuke</i>."
     },
     {
       "id": "tt8740614",
@@ -323,13 +330,6 @@
       "description": "Genres: Drama, Slice of Life\nTags:Food/Shounen/Male Protagonist/Work\nKitada Gaku is a prodigy in Mathematics and a scholarship holder at Wels Private Academy, a renowned institution with a long history in the International Mathematical Olympiad. After a series of unfortunate events, he meets Asakura Kai, a culinary prodigy with his own catering business. What does the future hold for these two geniuses, and how do their paths intertwine with each other's?"
     },
     {
-      "id": "tt33374124",
-      "type": "series",
-      "name": "Osomatsu-san 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-3zUHnP39qk5k.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:\nThe fourth season of <i>Osomatsu-san</i>. "
-    },
-    {
       "id": "tt34533412",
       "type": "series",
       "name": "Muchuu sa, Kimi ni.",
@@ -337,11 +337,11 @@
       "description": "Genres: Slice of Life\nTags:Seinen/Boys' Love\nHayashi’s frank, guileless demeanor quietly draws the attention of classmates and strangers as he counts all the stairs in school, photographs street signs, and dries sweet potatoes on the classroom balcony. In a world shaped by conformity, Hayashi is refreshingly and unapologetically true to himself. Conversely, Nikaidou has worked very hard to perfect a gloomy, dour façade that keeps his classmates far, far away. While much of the school regards Nikaidou as a bad omen, one student catches a glimpse behind the mask and—undeterred by rumors of bad luck and supernatural powers—begins to pick away Nikaidou’s carefully crafted persona…<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt32332831",
+      "id": "tt33374124",
       "type": "series",
-      "name": "Tamaranai no wa Koi nano ka",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187362-Qz6YXMv0TcRJ.jpg",
-      "description": "Genres: Romance\nTags:Boys' Love/Shoujo/LGBTQ+ Themes/Male Protagonist/Delinquents/School/Primarily Male Cast/Tsundere/Unrequited Love\nMisuzu was branded a delinquent when a small incident left him isolated. But one day, he sees the top student, Kitahara, get surrounded by bullies and decides to help him out. That sparked Kitahara's interest in the lonely boy, but Misuzu pushes Kitahara away. \"If you get involved with me, you'll get ostracized by everyone else too.\" But it won't take long for Misuzu's resolve to falter...<br><br>\n\n(Source: K Manga)"
+      "name": "Osomatsu-san 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-3zUHnP39qk5k.jpg",
+      "description": "Genres: Comedy, Slice of Life\nTags:\nThe fourth season of <i>Osomatsu-san</i>. "
     }
   ]
 }
