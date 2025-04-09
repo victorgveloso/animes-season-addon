@@ -78,18 +78,18 @@
       "description": "Genres: Action, Comedy, Ecchi, Supernatural\nTags:Female Protagonist/Angels/Anti-Hero/Parody/Surreal Comedy/Demons/Swordplay/Guns\nThe second season of <i>Panty & Stocking with Garterbelt</i>. Unveiled at Anime Expo 2022's <i>\"TRIGGER 10 YEAR ANNIVERSARY & ANNOUNCEMENT\"</i> panel."
     },
     {
-      "id": "tt9058120",
-      "type": "series",
-      "name": "Grand Blue Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-v6KlwnBL8awk.jpg",
-      "description": "Genres: Comedy, Slice of Life, Sports\nTags:College/School Club/Scuba Diving/Seinen/Male Protagonist/Nudity/Coastal/Slapstick/Surreal Comedy\nThe second season of <i>Grand Blue</i>."
-    },
-    {
       "id": "tt35050741",
       "type": "series",
       "name": "Dr.STONE SCIENCE FUTURE Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-EJQHOFjLoK2k.png",
       "description": "Genres: Action, Adventure, Comedy, Sci-Fi\nTags:Male Protagonist/Post-Apocalyptic/Foreign/Shounen\nThe second cour of the fourth season of <i>Dr.STONE</i>.<br><br>\n"
+    },
+    {
+      "id": "tt9058120",
+      "type": "series",
+      "name": "Grand Blue Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-v6KlwnBL8awk.jpg",
+      "description": "Genres: Comedy, Slice of Life, Sports\nTags:College/School Club/Scuba Diving/Seinen/Male Protagonist/Nudity/Coastal/Slapstick/Surreal Comedy\nThe second season of <i>Grand Blue</i>."
     },
     {
       "id": "tt31624309",
@@ -169,18 +169,11 @@
       "description": "Genres: Action, Comedy, Drama, Mystery, Supernatural\nTags:\nSequel to <i>Jibaku Shounen Hanako-kun 2</i>.<br><br>\n\n<i>Note: Title is provisional and subject to change when more info is announced.</i>"
     },
     {
-      "id": "kitsu:49012",
+      "id": "tt36469298",
       "type": "series",
       "name": "Mikadono Sanshimai wa Angai, Choroi.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178886-Q79QMeGQAJL7.jpg",
       "description": "Genres: Comedy, Romance\nTags:Shounen/Heterosexual/School\nThough Ayase Yuu is the son of a renowned and talented actress, he is below average in anything he does. He is entrusted to live under the care of his mother's friend and later discovers that he will also be rooming with the three sisters from his school who possess both beauty and talent. Though Yuu thought that an understanding would be impossible to reach between an ordinary person and those blessed with talent, the three sisters are surprisingly...?!"
-    },
-    {
-      "id": "tt35652446",
-      "type": "series",
-      "name": "Bad Girl",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178675-ABQbvWvnDvKh.png",
-      "description": "Genres: Comedy\nTags:School/Female Protagonist/Primarily Female Cast/Cute Girls Doing Cute Things/Yuri/LGBTQ+ Themes/Primarily Teen Cast/Delinquents\nThe story follows Yuu Yutani, a first-year high school student who is a good girl. However, to attract the attention of the school's disciplinary committee chairman and \"madonna\" Atori Mizutori, she begins to act like a delinquent.<br>\n<br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt35335095",
@@ -188,6 +181,13 @@
       "name": "Solo Camping for Two",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185965-LlzTLSTBUbEA.jpg",
       "description": "Genres: Slice of Life\nTags:Camping/Seinen\nGen Kinokura, 34 years old.<br><br>\n\nA solitary camper who cherishes his alone time in nature, Gen enjoys his usual solo camping trips. However, he unexpectedly encounters Shizuku Kusano, a complete beginner in camping. Reluctantly, Gen ends up camping with Shizuku, despite it being the last thing he wanted to do.\n<br><br>\nWhat will become of Gen’s peaceful camping life now that it’s turned upside down by this new companion?<br><br>\n(Source: Pony Canyon)"
+    },
+    {
+      "id": "tt35652446",
+      "type": "series",
+      "name": "Bad Girl",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178675-ABQbvWvnDvKh.png",
+      "description": "Genres: Comedy\nTags:School/Female Protagonist/Primarily Female Cast/Cute Girls Doing Cute Things/Yuri/LGBTQ+ Themes/Primarily Teen Cast/Delinquents\nThe story follows Yuu Yutani, a first-year high school student who is a good girl. However, to attract the attention of the school's disciplinary committee chairman and \"madonna\" Atori Mizutori, she begins to act like a delinquent.<br>\n<br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt30643971",
@@ -295,6 +295,13 @@
       "description": "Genres: Action, Drama\nTags:Inn/Assassins\nThe most exquisite hotels in the world have certain standards: the finest food, the most sublime comfort, captivating entertainment, the latest weapons, reliable identity fabrication, and untraceable corpse disposal.\n<br><br>\nThe name of this place where the people who have “forgotten their humanity” visit is “Hotel Inhumans.” The hitmen guests are welcomed by the concierges who never say \"no.\""
     },
     {
+      "id": "tt36469273",
+      "type": "series",
+      "name": "Kamitsubaki-shi Kensetsuchuu.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173335-A1Xgm9qN9d6w.jpg",
+      "description": "Genres: \nTags:\nAnnounced in the \"Kamitsubaki Yoyogi Kessen 2024: V.W.P 2nd ONE-MAN LIVE - Genshou II\" Day 1 concert."
+    },
+    {
       "id": "tt35677101",
       "type": "series",
       "name": "Kizetsu Yuusha to Ansatsu Hime",
@@ -316,18 +323,18 @@
       "description": "Genres: Comedy, Music\nTags:Seinen/Male Protagonist\nNothing worries Satomi Oka more than the upcoming final choir competition of his middle school career -- right up until he is accosted by a stranger from the shadows who demands, “Let’s go karaoke!” As a yakuza, Kyouji Narita doesn’t scare easily, but a terrifying prospect has driven him to seek Satomi’s help. The boss is holding a karaoke contest, with the loser forced to get a tattoo to be selected and torturously applied by the boss himself! Oka has been to many vocal rehearsals over the years, but never one-on-one karaoke sessions with a gangster!!<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt35323313",
-      "type": "series",
-      "name": "My Melody & Kuromi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186043-fTvbTiVpuDdq.png",
-      "description": "Genres: Slice of Life\nTags:Stop Motion/Animals\nGet ready for a delightful adventure as My Melody & Kuromi brings the beloved Sanrio characters to life in a charming stop-motion animation series, premiering in July 2025. Celebrating the 50th anniversary of My Melody and the 20th anniversary of Kuromi, the series takes viewers on an adventure in Mariland, their whimsical home. A special sneak peek reveals the characters in their adorable stop-motion form  — and they’re so cute you’ll want to reach out and touch them!<br><br>\n(Source: Netflix)"
-    },
-    {
       "id": "tt36131958",
       "type": "series",
       "name": "Fermat no Ryouri",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186003-WP6dKDFSI9UW.jpg",
       "description": "Genres: Drama, Slice of Life\nTags:Food/Shounen/Male Protagonist/Work\nKitada Gaku is a prodigy in Mathematics and a scholarship holder at Wels Private Academy, a renowned institution with a long history in the International Mathematical Olympiad. After a series of unfortunate events, he meets Asakura Kai, a culinary prodigy with his own catering business. What does the future hold for these two geniuses, and how do their paths intertwine with each other's?"
+    },
+    {
+      "id": "tt35323313",
+      "type": "series",
+      "name": "My Melody & Kuromi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186043-fTvbTiVpuDdq.png",
+      "description": "Genres: Slice of Life\nTags:Stop Motion/Animals\nGet ready for a delightful adventure as My Melody & Kuromi brings the beloved Sanrio characters to life in a charming stop-motion animation series, premiering in July 2025. Celebrating the 50th anniversary of My Melody and the 20th anniversary of Kuromi, the series takes viewers on an adventure in Mariland, their whimsical home. A special sneak peek reveals the characters in their adorable stop-motion form  — and they’re so cute you’ll want to reach out and touch them!<br><br>\n(Source: Netflix)"
     },
     {
       "id": "tt34533412",
@@ -337,11 +344,11 @@
       "description": "Genres: Slice of Life\nTags:Seinen/Boys' Love\nHayashi’s frank, guileless demeanor quietly draws the attention of classmates and strangers as he counts all the stairs in school, photographs street signs, and dries sweet potatoes on the classroom balcony. In a world shaped by conformity, Hayashi is refreshingly and unapologetically true to himself. Conversely, Nikaidou has worked very hard to perfect a gloomy, dour façade that keeps his classmates far, far away. While much of the school regards Nikaidou as a bad omen, one student catches a glimpse behind the mask and—undeterred by rumors of bad luck and supernatural powers—begins to pick away Nikaidou’s carefully crafted persona…<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt33374124",
+      "id": "tt32332831",
       "type": "series",
-      "name": "Osomatsu-san 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-3zUHnP39qk5k.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:\nThe fourth season of <i>Osomatsu-san</i>. "
+      "name": "Tamaranai no wa Koi nano ka",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187362-Qz6YXMv0TcRJ.jpg",
+      "description": "Genres: Romance\nTags:Boys' Love/Shoujo/LGBTQ+ Themes/Male Protagonist/Delinquents/School/Primarily Male Cast/Tsundere/Unrequited Love\nMisuzu was branded a delinquent when a small incident left him isolated. But one day, he sees the top student, Kitahara, get surrounded by bullies and decides to help him out. That sparked Kitahara's interest in the lonely boy, but Misuzu pushes Kitahara away. \"If you get involved with me, you'll get ostracized by everyone else too.\" But it won't take long for Misuzu's resolve to falter...<br><br>\n\n(Source: K Manga)"
     }
   ]
 }
