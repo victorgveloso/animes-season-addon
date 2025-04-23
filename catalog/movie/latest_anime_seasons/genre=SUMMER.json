@@ -89,6 +89,16 @@
         "defaultVideoId": "tt34807878"
       },
       "description": "Genres: Comedy, Fantasy\nTags:\nThe film centers on Chapon, a mysterious boy who falls from the sky without any knowledge of where he came from. Staying with Anpanman, he one day helps someone out and gets to know the joy of making someone smile, and dreams of becoming a hero like Anpanman. But when Baikinman arrives, and reveals the secret of Chapon's origins, Chapon must figure out if his origins or his dreams define who he is.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt32881486",
+      "type": "movie",
+      "name": "JUNK WORLD",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191370-w0h51nHzJ1Qo.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt32881486"
+      },
+      "description": "Genres: Action, Adventure, Sci-Fi, Thriller\nTags:Philosophy/Stop Motion\nA sequel film to <i>Junk Head</i>."
     }
   ]
 }
