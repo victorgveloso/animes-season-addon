@@ -8,7 +8,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt32362494"
       },
-      "description": "Genres: Drama, Music, Slice of Life\nTags:Band/Female Protagonist/Rock Music\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
+      "description": "Genres: Drama, Music, Slice of Life\nTags:Female Protagonist/Rock Music/Band\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
     },
     {
       "id": "tt32600395",
@@ -18,7 +18,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt32600395"
       },
-      "description": "Genres: Drama, Sports\nTags:Coming of Age/Athletics/Rotoscoping/Outdoor Activities/Fitness/Male Protagonist/Shounen\n<i>100 METERS</i> follows Togashi, a track star who is born to run. As a kid, he is naturally gifted and wins every 100-meter race without effort. But in sixth grade, he meets Komiya, a transfer student who is full of determination but lacks technique. In teaching him, Togashi gives Komiya a new purpose: to win no matter what. Years pass by, and Togashi and Komiya meet again as rivals on the track and reveal their true selves.\n<br><br>\n(Source: GKIDS)"
+      "description": "Genres: Drama, Sports\nTags:Rotoscoping/Coming of Age/Athletics/Outdoor Activities/Fitness/Male Protagonist/Shounen\n<i>100 METERS</i> follows Togashi, a track star who is born to run. As a kid, he is naturally gifted and wins every 100-meter race without effort. But in sixth grade, he meets Komiya, a transfer student who is full of determination but lacks technique. In teaching him, Togashi gives Komiya a new purpose: to win no matter what. Years pass by, and Togashi and Komiya meet again as rivals on the track and reveal their true selves.\n<br><br>\n(Source: GKIDS)"
     },
     {
       "id": "tt36454732",
@@ -34,11 +34,11 @@
       "id": "tt36639400",
       "type": "movie",
       "name": "The Last Blossom",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177686-EcSKRm37aem5.png",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177686-9CwCvp3mkDI3.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt36639400"
       },
-      "description": "Genres: Drama\nTags:\n\"What a pathetic life it’s been.\" An elderly inmate serving a life sentence awaits a lonely death in his solitary cell—until a voice calls out to him. It belongs to a balsam flower, Housenka, that speaks like a human. Through their \"conversation,\" the old man begins to reflect on the life he’s led.\n<br><br>\n(Source: Annecy Festival)"
+      "description": "Genres: Drama\nTags:Prison/Male Protagonist\n<i>\"What a pathetic life it’s been.\"</i><br><br> An elderly inmate serving a life sentence awaits a lonely death in his solitary cell—until a voice calls out to him. It belongs to a balsam flower, Housenka, that speaks like a human. Through their \"conversation,\" the old man begins to reflect on the life he’s led.\n<br><br>\n(Source: Annecy Festival)"
     },
     {
       "id": "tt35684792",
@@ -61,6 +61,16 @@
       "description": "Genres: Mahou Shoujo, Music\nTags:Idol/Primarily Female Cast/Magic/Henshin/Kids\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>."
     },
     {
+      "id": "tt36635947",
+      "type": "movie",
+      "name": "Aikatsu! x Pripara THE MOVIE -Deai no Kiseki-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BdxxbLbPLdgE.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt36635947"
+      },
+      "description": "Genres: Music\nTags:Idol/Crossover/Female Protagonist\nnull"
+    },
+    {
       "id": "tt6208148",
       "type": "movie",
       "name": "Sumikko Gurashi Movie 4 (Provisional Title)",
@@ -69,16 +79,6 @@
         "defaultVideoId": "tt6208148"
       },
       "description": "Genres: Comedy\nTags:Kids\nFourth <i>Sumikko Gurashi</i> movie.\n<br><br>\n<i>Note: The current title is provisional and may change when more info is announced.</i>"
-    },
-    {
-      "id": "tt33319618",
-      "type": "movie",
-      "name": "Aikatsu! x Pripara THE MOVIE -Deai no Kiseki-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BdxxbLbPLdgE.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt33319618"
-      },
-      "description": "Genres: Music\nTags:Idol/Crossover/Female Protagonist\nnull"
     }
   ]
 }
