@@ -113,13 +113,6 @@
       "description": "Genres: Drama, Music\nTags:Classical Music\nThe second season of <i>Ao no Orchestra</i>."
     },
     {
-      "id": "kitsu:49297",
-      "type": "series",
-      "name": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183291-EDtdJLW13yV0.jpg",
-      "description": "Genres: Fantasy, Romance\nTags:Shoujo/Food/Female Protagonist/Royal Affairs\nLike any proper noble lady, one must have certain acquired tastes. For Melphiera Marchalrayd, she just happens to crave a rather exotic protein—monsters! But do not judge! Despite its bad reputation, monster meat can be used in exquisite cuisine and Melphiera is determined to change the kingdom’s opinion of it! Unfortunately, since debuting in society, Melphiera has been struggling to find her perfect match…until she meets the fearless “Blood-Mad Duke” of Galbraith!\n<br><br>\n(Source: Kodansha USA)"
-    },
-    {
       "id": "tt33258199",
       "type": "series",
       "name": "Yasei no Last Boss ga Arawareta!",
@@ -127,11 +120,11 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Magic/Gender Bending/Super Power/Virtual World\nThe year is 2800 and Lufas Maphaahl – The Black-Winged Tyrant, Great Conqueror, and leader of the Twelve Heavenly Stars – has returned.\nA man wakes up in the body of his MMO character 200 years after her defeat during a player-made event in the game, Exgate Online. Now, he's stuck in her body. But this isn't a game, it's real. With her reign long over, and her legacy one of fear, Lufas must journey through the world of Exgate, looking for answers, possible comrades, and all the monsters her “death” unleashed upon the world... \n<br><br>\n(Source: J-Novel Club)"
     },
     {
-      "id": "kitsu:49700",
+      "id": "kitsu:49297",
       "type": "series",
-      "name": "DIGIMON BEATBREAK",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-ild1mOLxOaTC.jpg",
-      "description": "Genres: Adventure, Fantasy, Sci-Fi\nTags:\nOnline fan event DIGIMON CON 2025 has revealed that a brand-new Digimon anime series titled <i>DIGIMON BEATBREAK</i> is in production and will begin airing in October 2025. <br><br>\n(Source: Crunchyroll News, edited)"
+      "name": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183291-EDtdJLW13yV0.jpg",
+      "description": "Genres: Fantasy, Romance\nTags:Shoujo/Food/Female Protagonist/Royal Affairs\nLike any proper noble lady, one must have certain acquired tastes. For Melphiera Marchalrayd, she just happens to crave a rather exotic protein—monsters! But do not judge! Despite its bad reputation, monster meat can be used in exquisite cuisine and Melphiera is determined to change the kingdom’s opinion of it! Unfortunately, since debuting in society, Melphiera has been struggling to find her perfect match…until she meets the fearless “Blood-Mad Duke” of Galbraith!\n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt36593277",
@@ -139,6 +132,13 @@
       "name": "Hime Kishi wa Barbaroi no Yome",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-t2uE576wNzzb.jpg",
       "description": "Genres: Comedy, Fantasy, Romance\nTags:Female Protagonist/Foreign/Shounen/Heterosexual/War\nSerafina de Lavillant, the strongest female knight in the West, was sent to subjugate the barbaric tribes of the East. But when her mission fails spectacularly, she’s captured alive and imprisoned. Humiliated and dreading what horrific torture she’ll endure, she asks to be put to death. To her surprise, rather than tearing her limb from limb, the tribe leader asks for her hand…in marriage! Will Serafina face a cruel and abusive arranged marriage? Or will she discover that these tribes aren’t as barbaric as she was led to believe?<br>\n<br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "kitsu:49700",
+      "type": "series",
+      "name": "DIGIMON BEATBREAK",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-ild1mOLxOaTC.jpg",
+      "description": "Genres: Adventure, Fantasy, Sci-Fi\nTags:\nOnline fan event DIGIMON CON 2025 has revealed that a brand-new Digimon anime series titled <i>DIGIMON BEATBREAK</i> is in production and will begin airing in October 2025. <br><br>\n(Source: Crunchyroll News, edited)"
     },
     {
       "id": "tt36593047",
