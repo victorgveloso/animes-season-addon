@@ -41,16 +41,6 @@
       "description": "Genres: Mystery\nTags:Crime/Detective/Male Protagonist\nThe 28th <i>Detective Conan</i> movie."
     },
     {
-      "id": "tt36583287",
-      "type": "movie",
-      "name": "Boku to Roboco Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-GOWftJA89enZ.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt36583287"
-      },
-      "description": "Genres: Comedy, Slice of Life\nTags:Robots/Shounen/Maids\nTheatrical follow-up to <i>Boku to Roboco</i>."
-    },
-    {
       "id": "tt35652362",
       "type": "movie",
       "name": "Kaitou Queen no Yuuga na Vacances",
@@ -59,6 +49,16 @@
         "defaultVideoId": "tt35652362"
       },
       "description": "Genres: Mystery\nTags:\nAnnounced at the \"Mirage QUEEN Prefers Parties\" event, that a new <i>Mirage QUEEN</i> anime has been greenlit.<br><br>\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "tt36583287",
+      "type": "movie",
+      "name": "Boku to Roboco Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-GOWftJA89enZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt36583287"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Robots/Shounen/Maids\nTheatrical follow-up to <i>Boku to Roboco</i>."
     },
     {
       "id": "tt35652414",
