@@ -131,7 +131,7 @@
       "type": "series",
       "name": "Rock is a Lady’s Modesty",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-7zhc0T6IImor.jpg",
-      "description": "Genres: Drama, Music\nTags:Ojou-sama/Rock Music/Band/Female Protagonist/School/Yuri/Seinen/Primarily Female Cast/Urban/Primarily Teen Cast/LGBTQ+ Themes/CGI/Bullying\nAt an elite all-girls' academy where refined young ladies gather, Lilisa Suzunomiya, now the daughter of a real estate tycoon after her mother remarried, is forced to abandon her guitar and rock music to fit in. However, her passion is reignited by sounds from the old school building, where she meets a skilled drummer who shares her love for rock. Together, they embrace their inner rockstars, elegantly clashing and shouting their way through the academy in this captivating tale of grace and rebellion.\n<br><br>\n(Source: HIDIVE)"
+      "description": "Genres: Drama, Music\nTags:Ojou-sama/Rock Music/Band/Female Protagonist/School/Yuri/Seinen/Primarily Female Cast/Urban/CGI/Primarily Teen Cast/LGBTQ+ Themes/Bullying\nAt an elite all-girls' academy where refined young ladies gather, Lilisa Suzunomiya, now the daughter of a real estate tycoon after her mother remarried, is forced to abandon her guitar and rock music to fit in. However, her passion is reignited by sounds from the old school building, where she meets a skilled drummer who shares her love for rock. Together, they embrace their inner rockstars, elegantly clashing and shouting their way through the academy in this captivating tale of grace and rebellion.\n<br><br>\n(Source: HIDIVE)"
     },
     {
       "id": "tt28082379",
@@ -173,7 +173,7 @@
       "type": "series",
       "name": "Lycoris Recoil -Friends are thieves of time.-",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179706-NvVrmMxnDatB.jpg",
-      "description": "Genres: Slice of Life\nTags:Cute Girls Doing Cute Things/Restaurant/Kuudere/Primarily Female Cast/Episodic/Urban/Work/Female Protagonist/LGBTQ+ Themes/Yuri\nA series of shorts showing the daily lives of Chisato, Takina, and others employed in Cafe LycoReco. "
+      "description": "Genres: Slice of Life\nTags:Cute Girls Doing Cute Things/Restaurant/Kuudere/Primarily Female Cast/Episodic/Urban/Work/Female Protagonist/Yuri/LGBTQ+ Themes\nA series of shorts showing the daily lives of Chisato, Takina, and others employed in Cafe LycoReco. "
     },
     {
       "id": "tt32779862",
@@ -197,18 +197,18 @@
       "description": "Genres: Fantasy, Romance\nTags:Shoujo/Kuudere/Magic/Female Protagonist/Heterosexual/Royal Affairs/Chibi/Iyashikei\nPhilia’s family has produced saints for generations. It’s no surprise that she’s known as the greatest saint of all time—and set to marry the second prince, Julius. What no one expects is for Julius to call off the engagement, claiming that Philia’s perfection makes her charmless and unlikable. To add insult to injury, Philia is packed off to a neighboring country in exchange for gold and resources, forcing her to leave her homeland! Despite bracing herself for mistreatment, Philia finds a warm welcome in her new town, where she puts her saintly abilities to good use erecting barriers against monsters and curing epidemics. But even as she flourishes in her new life, her homeland is under threat of destruction!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Note: Each episode streamed 1 week early on ABEMA. The original TV broadcast started on April 3rd 2025.</i>"
     },
     {
+      "id": "tt35351359",
+      "type": "series",
+      "name": "A Ninja and an Assassin Under One Roof",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177120-xRucIg2WDr77.png",
+      "description": "Genres: Comedy\nTags:Female Protagonist/Urban/Primarily Female Cast/Ninja/Assassins/Slapstick/Cute Girls Doing Cute Things/Surreal Comedy/Yuri/Fugitive/Yandere/LGBTQ+ Themes/Artificial Intelligence/Robots/School/Shounen\nOn the way home from school one day, Konoha Koga rescues Satoko Kusagakure, a ninja who escaped her village. Soon, pursuers from the village show up in search of Satoko only to be deftly dealt with by Konoha. As it turns out, the unassuming high schooler is actually an assassin. Thus, the potentially cutthroat cohabitation of a ninja and an assassin begins!\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt32513973",
       "type": "series",
       "name": "YOUR FORMA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167142-dJwdHptpILkF.jpg",
       "description": "Genres: Action, Drama, Mystery, Sci-Fi\nTags:Detective/Female Protagonist/Cyberpunk/Crime/Male Protagonist/Robots\nIn 1992, a pandemic of viral encephalitis shook the world. The medical technology that saved humanity evolved into <i>“Your Forma”</i>—an invasive information device implanted into the brain. In this world where every sight, sound, and even emotion is recorded, investigating major crimes means diving into the collective data, a job reserved for special detectives called “Electronic Investigator.”\n<br><br>\nEchika Hieda, a prodigious “Electronic Investigator” assigned at an astonishingly young age, stands isolated by her exceptional talent. Her newly assigned partner is Harold, a blonde, blue-eyed humanoid “Amicus.” Together, this unrivaled duo will expose every hidden secret.\n<br><br>\n(Source: \"It’s Anime\" YouTube Channel)"
-    },
-    {
-      "id": "tt35351359",
-      "type": "series",
-      "name": "A Ninja and an Assassin Under One Roof",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177120-xRucIg2WDr77.png",
-      "description": "Genres: Comedy\nTags:Female Protagonist/Urban/Slapstick/Primarily Female Cast/Ninja/Assassins/Cute Girls Doing Cute Things/Surreal Comedy/Fugitive/Robots/Yuri/Yandere/Artificial Intelligence/LGBTQ+ Themes/School/Shounen\nOn the way home from school one day, Konoha Koga rescues Satoko Kusagakure, a ninja who escaped her village. Soon, pursuers from the village show up in search of Satoko only to be deftly dealt with by Konoha. As it turns out, the unassuming high schooler is actually an assassin. Thus, the potentially cutthroat cohabitation of a ninja and an assassin begins!\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt33332400",
@@ -320,7 +320,7 @@
       "type": "series",
       "name": "Maebashi Witches",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180825-trzjP1VDF19U.jpg",
-      "description": "Genres: Drama, Music, Supernatural\nTags:Magic/Witch/Primarily Female Cast/Idol/Primarily Teen Cast/Female Protagonist/Dancing/CGI/Urban/Urban Fantasy/Animals/Henshin/Fashion/Coming of Age/Cute Girls Doing Cute Things/Isekai\nWelcome to Maebashi City, Gunma Prefecture. For first-year high school student Yuina Akagi, her middling life takes a wild turn the moment a mysterious frog named Keroppe shows up and asks her, “Why don’t you become a witch?” Alongside Azu Niisato, Kyouka Kitahara, Choco Mitsumata, and Mai Kamiizumi, Yuina and her friends are excited to make people’s dreams come true as the Maebashi Witches.\n<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Drama, Music, Supernatural\nTags:Female Protagonist/Magic/Witch/Primarily Female Cast/Idol/Primarily Teen Cast/Dancing/CGI/Urban/Urban Fantasy/Animals/Henshin/Fashion/Coming of Age/Cute Girls Doing Cute Things/Isekai\nWelcome to Maebashi City, Gunma Prefecture. For first-year high school student Yuina Akagi, her middling life takes a wild turn the moment a mysterious frog named Keroppe shows up and asks her, “Why don’t you become a witch?” Alongside Azu Niisato, Kyouka Kitahara, Choco Mitsumata, and Mai Kamiizumi, Yuina and her friends are excited to make people’s dreams come true as the Maebashi Witches.\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt36361934",
