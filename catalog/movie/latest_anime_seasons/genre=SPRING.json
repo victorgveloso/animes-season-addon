@@ -61,16 +61,6 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Shounen/Robots/Maids\nTheatrical follow-up to <i>Boku to Roboco</i>."
     },
     {
-      "id": "tt35652414",
-      "type": "movie",
-      "name": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172393-8dwjbJYYGi9W.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt35652414"
-      },
-      "description": "Genres: Music\nTags:Idol/Ensemble Cast\nThe third movie in the UtaPri franchise, spotlighting the idol group QUARTET NIGHT."
-    },
-    {
       "id": "tt36956670",
       "type": "movie",
       "name": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
@@ -79,6 +69,16 @@
         "defaultVideoId": "tt36956670"
       },
       "description": "Genres: Action, Drama, Supernatural\nTags:Curses/Shounen\n<i>\"The strongest duo—A youth they can never return to.\"</i><br><br>\n\nCompilation film of <i>Jujutsu Kaisen 2nd Season's</i> \"Kaigyoku・Gyokusetsu\" (Hidden Inventory / Premature Death) arc.\n\n<br><br>\nBefore they were enemies, Satoru Gojo and Suguru Geto were high school classmates and friends. The two most powerful sorcerers are tasked with protecting Riko Amanai, a student who has been designated to be sacrificed as the Star Plasma Vessel, until she can fulfill her duty. Pursued by a religious cult and other curse users, they are the only sorcerers capable of carrying out such a difficult task – but this mission will set their destinies, and challenge the two sorcerers in ways unimaginable.<br><br>\n\n(Source: GKIDS)"
+    },
+    {
+      "id": "tt35652414",
+      "type": "movie",
+      "name": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172393-8dwjbJYYGi9W.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt35652414"
+      },
+      "description": "Genres: Music\nTags:Idol/Ensemble Cast\nThe third movie in the UtaPri franchise, spotlighting the idol group QUARTET NIGHT."
     },
     {
       "id": "tt28664733",
