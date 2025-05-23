@@ -81,16 +81,6 @@
       "description": "Genres: Music\nTags:Idol/Crossover/Female Protagonist\nnull"
     },
     {
-      "id": "tt6208148",
-      "type": "movie",
-      "name": "Sumikko Gurashi Movie 4 (Provisional Title)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188522-D9HcHk2PPFgE.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt6208148"
-      },
-      "description": "Genres: Comedy\nTags:Kids\nFourth <i>Sumikko Gurashi</i> movie.\n<br><br>\n<i>Note: The current title is provisional and may change when more info is announced.</i>"
-    },
-    {
       "id": "tt34388944",
       "type": "movie",
       "name": "Toritsukare Otoko",
@@ -99,6 +89,16 @@
         "defaultVideoId": "tt34388944"
       },
       "description": "Genres: Music\nTags:\nThe story centers on a young man named Giuseppe, who is called \"Toristukare Otoko\" by the townspeople because once he gets absorbed in something, he cannot look at anything else. One day, he falls in love at first sight with a girl selling balloons named Pechka. He goes crazy and tries to get closer to Pechka, but she has a sadness in her heart and... For the sake of his beloved Pechyka, Giuseppe and his partner, the mouse Cielo, secretly solve her worries by using the many tricks he has been obsessed with.<br><br>\n\n(Source: Crunchyroll News, edited)"
+    },
+    {
+      "id": "tt6208148",
+      "type": "movie",
+      "name": "Sumikko Gurashi Movie 4 (Provisional Title)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188522-D9HcHk2PPFgE.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6208148"
+      },
+      "description": "Genres: Comedy\nTags:Kids\nFourth <i>Sumikko Gurashi</i> movie.\n<br><br>\n<i>Note: The current title is provisional and may change when more info is announced.</i>"
     }
   ]
 }
