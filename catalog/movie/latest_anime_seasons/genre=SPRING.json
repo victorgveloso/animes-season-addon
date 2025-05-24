@@ -51,16 +51,6 @@
       "description": "Genres: Action, Drama, Supernatural\nTags:Curses/Shounen/Boys' Love\n<i>\"The strongest duo—A youth they can never return to.\"</i><br><br>\n\nCompilation film of <i>Jujutsu Kaisen 2nd Season's</i> \"Kaigyoku・Gyokusetsu\" (Hidden Inventory / Premature Death) arc.\n\n<br><br>\nBefore they were enemies, Satoru Gojo and Suguru Geto were high school classmates and friends. The two most powerful sorcerers are tasked with protecting Riko Amanai, a student who has been designated to be sacrificed as the Star Plasma Vessel, until she can fulfill her duty. Pursued by a religious cult and other curse users, they are the only sorcerers capable of carrying out such a difficult task – but this mission will set their destinies, and challenge the two sorcerers in ways unimaginable.<br><br>\n\n(Source: GKIDS)"
     },
     {
-      "id": "tt35652362",
-      "type": "movie",
-      "name": "Kaitou Queen no Yuuga na Vacances",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162682-HxgVCRRBRykN.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt35652362"
-      },
-      "description": "Genres: Mystery\nTags:Detective/Crime\nAnnounced at the \"Mirage QUEEN Prefers Parties\" event, that a new <i>Mirage QUEEN</i> anime has been greenlit.<br><br>\n(Source: Anime News Network, edited)"
-    },
-    {
       "id": "tt36583287",
       "type": "movie",
       "name": "Boku to Roboco Movie",
@@ -69,6 +59,16 @@
         "defaultVideoId": "tt36583287"
       },
       "description": "Genres: Comedy, Slice of Life\nTags:Shounen/Robots/Maids\nTheatrical follow-up to <i>Boku to Roboco</i>."
+    },
+    {
+      "id": "tt35652362",
+      "type": "movie",
+      "name": "Kaitou Queen no Yuuga na Vacances",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162682-HxgVCRRBRykN.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt35652362"
+      },
+      "description": "Genres: Mystery\nTags:Detective/Crime\nAnnounced at the \"Mirage QUEEN Prefers Parties\" event, that a new <i>Mirage QUEEN</i> anime has been greenlit.<br><br>\n(Source: Anime News Network, edited)"
     },
     {
       "id": "tt35652414",
