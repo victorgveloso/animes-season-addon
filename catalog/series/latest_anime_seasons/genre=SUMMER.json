@@ -29,18 +29,18 @@
       "description": "Genres: Comedy, Drama, Romance\nTags:Heterosexual/Primarily Teen Cast/School/Urban/Food/Male Protagonist/Shounen/Female Protagonist/Iyashikei/Ensemble Cast/Delinquents\nChidori High is a boys’ school that takes in the dregs of society with the lowest grades. Next door stands Kikyo Girls’ High, where the wealthy, high-class families send their precious daughters. Chidori second-year Rintaro, who has a fierce face but a gentle heart, is helping at his family’s patisserie when he meets a girl named Kaoruko. The two hit it off right away…but this blissful peace is quickly disturbed when Rintaro discovers that Kaoruko is actually a student at Kikyo. Worse, she doesn’t seem to realize what a huge problem this really is! Will these two be able to forge a path for themselves, and sidestep the traps (metaphorical and literal) laid by their classmates?\n<br><br>\n(Source: Kodansha USA)"
     },
     {
-      "id": "tt32612521",
-      "type": "series",
-      "name": "Gachiakuta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-x5UuicfDH0xk.jpg",
-      "description": "Genres: Action, Drama, Fantasy\nTags:Shounen/Dystopian/Super Power/Post-Apocalyptic/Ensemble Cast/Male Protagonist/Urban Fantasy/Revenge/Survival\nA boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…\n<br><br>\n(Source: Kodansha USA)"
-    },
-    {
       "id": "tt17069148",
       "type": "series",
       "name": "SAKAMOTO DAYS Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-OJAksU2fsIPx.jpg",
       "description": "Genres: Action, Comedy\nTags:Assassins/Shounen/Crime/Criminal Organization/Guns/Male Protagonist/Found Family/Konbini/Yakuza/Primarily Adult Cast/Super Power/Family Life/Gangs/Gore/Urban\nThe second part of <i>SAKAMOTO DAYS</i>."
+    },
+    {
+      "id": "tt32612521",
+      "type": "series",
+      "name": "Gachiakuta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-x5UuicfDH0xk.jpg",
+      "description": "Genres: Action, Drama, Fantasy\nTags:Shounen/Dystopian/Super Power/Post-Apocalyptic/Ensemble Cast/Male Protagonist/Urban Fantasy/Revenge/Survival\nA boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…\n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt15975122",
@@ -152,7 +152,7 @@
       "type": "series",
       "name": "Takopii no Genzai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185407-K8o5pta80AU0.jpg",
-      "description": "Genres: Drama, Psychological, Sci-Fi\nTags:Denpa/Bullying/Shounen/Female Protagonist/Aliens\nTakopi travels from his home of Happy Planet to spread happiness across Earth, but meets the unsmiling Shizuka upon landing. Her friends at school and home life seem to be the source of her somber expression—and the pure-hearted Takopi is determined to change things for the better! But what truths await him when the curtains rise in this shocking drama?!\n<br><br>\n(Source: MANGA Plus)"
+      "description": "Genres: Drama, Psychological, Sci-Fi\nTags:Bullying/Denpa/Shounen/Female Protagonist/Aliens\nTakopi travels from his home of Happy Planet to spread happiness across Earth, but meets the unsmiling Shizuka upon landing. Her friends at school and home life seem to be the source of her somber expression—and the pure-hearted Takopi is determined to change things for the better! But what truths await him when the curtains rise in this shocking drama?!\n<br><br>\n(Source: MANGA Plus)"
     },
     {
       "id": "tt33050376",
@@ -209,6 +209,13 @@
       "name": "Bad Girl",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178675-ABQbvWvnDvKh.png",
       "description": "Genres: Comedy\nTags:School/Female Protagonist/Primarily Female Cast/Cute Girls Doing Cute Things/Primarily Teen Cast/Delinquents/Yuri/LGBTQ+ Themes\nThe story follows Yuu Yutani, a first-year high school student who is a good girl. However, to attract the attention of the school's disciplinary committee chairman and \"madonna\" Atori Mizutori, she begins to act like a delinquent.<br>\n<br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt35785804",
+      "type": "series",
+      "name": "Ruri no Houseki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180929-ytdzqbrOhots.jpg",
+      "description": "Genres: Slice of Life\nTags:Cute Girls Doing Cute Things/Primarily Female Cast/Outdoor Activities/Female Protagonist/Seinen/Wilderness/Rural\nMineral collecting is like a modern-day treasure hunt!\n<br><br>\nRuri, a high school girl who loves jewelry and accessories, gets into the world of mineral collecting, venturing into mountains, rivers, and caves. The first volume features numerous minerals, including quartz, garnet, pyrite, gold sand, and fluorite. The manga is full of fascinating scenes focusing on specialized tools such as a panning dish, hammer, and topographical maps. An authentic scientific adventure based on the author's solid knowledge of mineralogy!\n<br><br>\n(Source: Harta, translated)"
     },
     {
       "id": "tt36592820",
@@ -342,13 +349,6 @@
       "name": "9-nine- Shihaisha no Oukan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177761-do0GDaRnt6gB.jpg",
       "description": "Genres: Mystery, Supernatural\nTags:Male Protagonist/Female Harem\n9-nine- is a tale of the town of Shiromitsugawa, host to mysterious Artifacts and the superpowers they bestow on their Users. A tale of growing trust and budding romance between the protagonist and the heroine, and also a murder mystery where they hunt down the culprit behind a series of supernatural murders.<br><br>\n(Source: Steam Description)"
-    },
-    {
-      "id": "tt36469273",
-      "type": "series",
-      "name": "KAMITSUBAKI CITY UNDER CONSTRUCTION",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173335-A1Xgm9qN9d6w.jpg",
-      "description": "Genres: Mystery, Supernatural\nTags:\nSeven years after humanity was devastated by a major disaster, a beacon of science and prosperity rises in Kamitsubaki City. But lurking in its shadows are Tesseractor, monsters born from human darkness. Only the Witchling, five girls with voices that wield magic, stand against them. With every note, they fight, not just to protect the peace of the city, but to heal a broken world.<br><br>\n(Source: Crunchyroll)<br><br>\n<i>Note: Announced in the \"Kamitsubaki Yoyogi Kessen 2024: V.W.P 2nd ONE-MAN LIVE - Genshou II\" Day 1 concert.<i>"
     }
   ]
 }
