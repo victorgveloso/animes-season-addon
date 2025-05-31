@@ -51,16 +51,6 @@
       "description": "Genres: Fantasy, Romance\nTags:Mermaid\nA future society where humans and mermaids coexist. One day, Stefan, an office worker who works at a shipbuilding company, is suddenly proposed to by ChaO, the princess of the mermaid kingdom! Without knowing why, Stefan ends up living with Chao!? Receiving Chao's pure and straightforward love, Stefan slowly finds himself drawn to her. What will become of their love!?<br><br>\n(Source: Official Website, Translated)"
     },
     {
-      "id": "tt36592995",
-      "type": "movie",
-      "name": "Odekake Kozame: Tokai no Otomodachi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177518-uS1k7uaDNfzh.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt36592995"
-      },
-      "description": "Genres: Slice of Life\nTags:Anthropomorphism/Iyashikei/Animals/Urban/War\nKozame-chan's everyday life is full of fun and excitement! This time, the next destination is the big city. What awaits Kozame-chan is an unfamiliar place, and new friends. A big adventure filed with tiny miracles is about to begin.\n<br><br>\n(Source: Youtube)"
-    },
-    {
       "id": "tt36857472",
       "type": "movie",
       "name": "AS ONE",
@@ -69,6 +59,16 @@
         "defaultVideoId": "tt36857472"
       },
       "description": "Genres: Mecha, Sci-Fi\nTags:\nSquare Enix’s sci-fi arcade game <i>Starwing Paradox</i> is making a comeback as a prequel anime movie. A new anime feature film titled <i>AS ONE</i> has been announced as a prequel story set 20 years before the events of the game, expanding the game’s universe with a new story. The movie is set to premiere in Summer 2025.<br><br>\n(Source: Anime Corner)"
+    },
+    {
+      "id": "tt36592995",
+      "type": "movie",
+      "name": "Odekake Kozame: Tokai no Otomodachi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177518-uS1k7uaDNfzh.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt36592995"
+      },
+      "description": "Genres: Slice of Life\nTags:Anthropomorphism/Iyashikei/Animals/Urban/War\nKozame-chan's everyday life is full of fun and excitement! This time, the next destination is the big city. What awaits Kozame-chan is an unfamiliar place, and new friends. A big adventure filed with tiny miracles is about to begin.\n<br><br>\n(Source: Youtube)"
     },
     {
       "id": "tt35009463",
