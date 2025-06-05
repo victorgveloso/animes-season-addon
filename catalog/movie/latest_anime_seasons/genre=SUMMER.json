@@ -28,7 +28,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt32600395"
       },
-      "description": "Genres: Drama, Sports\nTags:Athletics/Coming of Age/Rotoscoping/Male Protagonist/Shounen/Outdoor Activities/Fitness\n<i>100 METERS</i> follows Togashi, a track star who is born to run. As a kid, he is naturally gifted and wins every 100-meter race without effort. But in sixth grade, he meets Komiya, a transfer student who is full of determination but lacks technique. In teaching him, Togashi gives Komiya a new purpose: to win no matter what. Years pass by, and Togashi and Komiya meet again as rivals on the track and reveal their true selves.\n<br><br>\n(Source: GKIDS)"
+      "description": "Genres: Drama, Sports\nTags:Athletics/Coming of Age/Rotoscoping/Shounen/Outdoor Activities/Fitness/Male Protagonist\n<i>100 METERS</i> follows Togashi, a track star who is born to run. As a kid, he is naturally gifted and wins every 100-meter race without effort. But in sixth grade, he meets Komiya, a transfer student who is full of determination but lacks technique. In teaching him, Togashi gives Komiya a new purpose: to win no matter what. Years pass by, and Togashi and Komiya meet again as rivals on the track and reveal their true selves.\n<br><br>\n(Source: GKIDS)"
     },
     {
       "id": "tt34881132",
@@ -48,7 +48,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36592916"
       },
-      "description": "Genres: Fantasy, Romance\nTags:Mermaid\nA future society where humans and mermaids coexist. One day, Stefan, an office worker who works at a shipbuilding company, is suddenly proposed to by ChaO, the princess of the mermaid kingdom! Without knowing why, Stefan ends up living with Chao!? Receiving Chao's pure and straightforward love, Stefan slowly finds himself drawn to her. What will become of their love!?<br><br>\n(Source: Official Website, Translated)"
+      "description": "Genres: Fantasy, Romance\nTags:Mermaid\n In a futuristic world where humans and mermaids coexist, <i>ChaO</i> follows Stephan, a mild-mannered office worker at a shipbuilding company, whose life is upended when he is suddenly proposed to by Chao — a princess from the mermaid kingdom. With no time to make sense of what’s happening, Stephan soon finds himself living with the unpredictable, wholehearted Chao. As her sincere love begins to break down his emotional barriers, an unexpected and touching romance begins to unfold.<br><br>\n(Source: GKIDS)"
     },
     {
       "id": "tt36857472",
@@ -58,7 +58,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36857472"
       },
-      "description": "Genres: Mecha, Sci-Fi\nTags:\nSquare Enix’s sci-fi arcade game <i>Starwing Paradox</i> is making a comeback as a prequel anime movie. A new anime feature film titled <i>AS ONE</i> has been announced as a prequel story set 20 years before the events of the game, expanding the game’s universe with a new story. The movie is set to premiere in Summer 2025.<br><br>\n(Source: Anime Corner)"
+      "description": "Genres: Mecha, Sci-Fi\nTags:Full CGI\nSquare Enix’s sci-fi arcade game <i>Starwing Paradox</i> is making a comeback as a prequel anime movie. A new anime feature film titled <i>AS ONE</i> has been announced as a prequel story set 20 years before the events of the game, expanding the game’s universe with a new story. The movie is set to premiere in Summer 2025.<br><br>\n(Source: Anime Corner)"
     },
     {
       "id": "tt36592995",
@@ -68,7 +68,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36592995"
       },
-      "description": "Genres: Slice of Life\nTags:Anthropomorphism/Iyashikei/Animals/Urban/War\nKozame-chan's everyday life is full of fun and excitement! This time, the next destination is the big city. What awaits Kozame-chan is an unfamiliar place, and new friends. A big adventure filed with tiny miracles is about to begin.\n<br><br>\n(Source: Youtube)"
+      "description": "Genres: Slice of Life\nTags:Urban/Anthropomorphism/Iyashikei/Animals/War\nKozame-chan's everyday life is full of fun and excitement! This time, the next destination is the big city. What awaits Kozame-chan is an unfamiliar place, and new friends. A big adventure filed with tiny miracles is about to begin.\n<br><br>\n(Source: Youtube)"
     },
     {
       "id": "tt35009463",
@@ -81,16 +81,6 @@
       "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:\nnull"
     },
     {
-      "id": "tt36270843",
-      "type": "movie",
-      "name": "KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184756-sxp4ftnikI4n.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt36270843"
-      },
-      "description": "Genres: Music, Sports\nTags:Idol/Ice Skating/Primarily Male Cast/CGI\nThis time King of Prism is \"Prism☆Tours\"! Shin Ichijou and the other six members of SePTENTRION will travel across time and worlds in a time machine to the origins of Prism Shows. \n<br><br>\nIt will cross the boundaries of the series and intertwine with the worlds of the \"Pretty Rhythm\" series, \"PriPara\" series , \"Kiratto Pri☆Chan\", and \"Waccha PriMagi!\" to deliver a sparkling Prism☆Tours.\n<br><br>\nFated boy meets boy, our worlds are now connected by the prism's sparkle!\n<br><br>\n(Source: Official Website, translated)"
-    },
-    {
       "id": "tt34798832",
       "type": "movie",
       "name": "Tooi-san wa Seishun Shitai! \"Baka to SmaPho to Romance to\"",
@@ -99,6 +89,16 @@
         "defaultVideoId": "tt34798832"
       },
       "description": "Genres: Comedy\nTags:\nTooi, an ordinary high school girl, was expecting a normal school life—until everything changed on her very first day.\n<br><br>\nAfter catching the attention of the unpredictable and overly energetic classmate Jel, she's suddenly roped into the mysterious \"Youth Romance Club,\" a bizarre school group dedicated to chasing down anything that feels \"youthful\" or \"romantic.\"\n<br><br>\nWhat should've been a carefree club quickly spirals into chaotic antics, with Tooi constantly playing the straight man to everyone's nonsense. To make things even wilder, the club's antics start getting streamed online!\n<br><br>\nBetween laughter, unexpected twists, and even a mysterious incident, this unpredictable school life is just getting started."
+    },
+    {
+      "id": "tt36270843",
+      "type": "movie",
+      "name": "KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184756-sxp4ftnikI4n.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt36270843"
+      },
+      "description": "Genres: Music, Sports\nTags:Idol/Ice Skating/Primarily Male Cast/CGI\nThis time King of Prism is \"Prism☆Tours\"! Shin Ichijou and the other six members of SePTENTRION will travel across time and worlds in a time machine to the origins of Prism Shows. \n<br><br>\nIt will cross the boundaries of the series and intertwine with the worlds of the \"Pretty Rhythm\" series, \"PriPara\" series , \"Kiratto Pri☆Chan\", and \"Waccha PriMagi!\" to deliver a sparkling Prism☆Tours.\n<br><br>\nFated boy meets boy, our worlds are now connected by the prism's sparkle!\n<br><br>\n(Source: Official Website, translated)"
     },
     {
       "id": "tt32881486",
