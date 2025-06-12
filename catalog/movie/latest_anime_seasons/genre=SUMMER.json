@@ -71,16 +71,6 @@
       "description": "Genres: Slice of Life\nTags:Anthropomorphism/Iyashikei/Animals/Urban/War\nKozame-chan's everyday life is full of fun and excitement! This time, the next destination is the big city. What awaits Kozame-chan is an unfamiliar place, and new friends. A big adventure filed with tiny miracles is about to begin.\n<br><br>\n(Source: Youtube)"
     },
     {
-      "id": "tt35009463",
-      "type": "movie",
-      "name": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185537-bHzg7pq3EIKe.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt35009463"
-      },
-      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:\nnull"
-    },
-    {
       "id": "tt34798832",
       "type": "movie",
       "name": "Tooi-san wa Seishun Shitai! \"Baka to SmaPho to Romance to\"",
@@ -89,6 +79,16 @@
         "defaultVideoId": "tt34798832"
       },
       "description": "Genres: Comedy\nTags:\nTooi, an ordinary high school girl, was expecting a normal school life—until everything changed on her very first day.\n<br><br>\nAfter catching the attention of the unpredictable and overly energetic classmate Jel, she's suddenly roped into the mysterious \"Youth Romance Club,\" a bizarre school group dedicated to chasing down anything that feels \"youthful\" or \"romantic.\"\n<br><br>\nWhat should've been a carefree club quickly spirals into chaotic antics, with Tooi constantly playing the straight man to everyone's nonsense. To make things even wilder, the club's antics start getting streamed online!\n<br><br>\nBetween laughter, unexpected twists, and even a mysterious incident, this unpredictable school life is just getting started."
+    },
+    {
+      "id": "tt35009463",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185537-bHzg7pq3EIKe.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt35009463"
+      },
+      "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:\nnull"
     },
     {
       "id": "tt36270843",
