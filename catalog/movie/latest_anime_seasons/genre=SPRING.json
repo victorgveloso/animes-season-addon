@@ -111,16 +111,6 @@
       "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:Yuri/Gods/Space/Aliens/LGBTQ+ Themes/School/Primarily Female Cast/Urban Fantasy/Coastal/Swordplay/Female Protagonist/Urban\nSecond film of <i>Wasure Hoshi no Volicia</i> film trilogy.<br><br>\n\nAt the last stronghold of humanity, the Heavenly Crest (Astronomy) Club, Akio learns the fate of the world. Two pilots are needed to battle the two remaining Usurpers which are targeting the faded Fire of Life. During the battle against the second enemy, during the curse of happy times, the choice between the happy present and the future Akio must dedicate her soul to approaches.<br><br>\n\n(Source: Official Site, translated)"
     },
     {
-      "id": "tt36851989",
-      "type": "movie",
-      "name": "Dream Animals THE MOVIE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180124-kLrE636DrdKx.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt36851989"
-      },
-      "description": "Genres: Action, Adventure, Fantasy\nTags:\nDream Animals biscuits, a long-selling snack beloved by Japanese since its launch in 1978 has been sold in more than 20 countries around the world and features the animal names written in English on the biscuits. The product has enjoyed an explosion in popularity in recent years as merchandise, especially among young people. Now for the first time, the product is given treatment as an animated movie called Dream Animals: The Movie. How will these animal biscuit characters behave and sound as they embark upon a thrilling adventure while tugging at your heartstrings with endearingly rich personalities.\n<br><br>\n(Source: TBS)"
-    },
-    {
       "id": "tt33319618",
       "type": "movie",
       "name": "Aikatsu! Memorial Stage: Kagayaki no Unit Cup",
@@ -129,6 +119,16 @@
         "defaultVideoId": "tt33319618"
       },
       "description": "Genres: Music\nTags:Primarily Female Cast/Female Protagonist/Idol/Fashion/School/Acting/Kids/CGI\nCompilation film of <i>Aikatsu!</i>'s 3rd Season's \"Aikatsu Restaurant\" episode (ep. 140), followed by the \"Unit Cup\" arc (eps. 136-138), also featuring new segments with commentary from Akari, Madoka, Juri and Sumire. A part of the 10th anniversary celebrations of the <i>Akari Generation</i>.\n<br><br>\nAfter an announcement that a \"Unit Cup\" will be held at Starlight Academy's middle school, the eight performing two-member units are as motivated as they can be. This time, the event's broadcast will also feature a special corner where the idols report on each other's true faces behind the scenes. Is it time for the idols to clash with each other more passionately than ever?! The curtain rises on the Unit Cup right here and now!\n<br><br>\n(Source: Official Website, translated)"
+    },
+    {
+      "id": "tt36851989",
+      "type": "movie",
+      "name": "Dream Animals THE MOVIE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180124-kLrE636DrdKx.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt36851989"
+      },
+      "description": "Genres: Action, Adventure, Fantasy\nTags:\nDream Animals biscuits, a long-selling snack beloved by Japanese since its launch in 1978 has been sold in more than 20 countries around the world and features the animal names written in English on the biscuits. The product has enjoyed an explosion in popularity in recent years as merchandise, especially among young people. Now for the first time, the product is given treatment as an animated movie called Dream Animals: The Movie. How will these animal biscuit characters behave and sound as they embark upon a thrilling adventure while tugging at your heartstrings with endearingly rich personalities.\n<br><br>\n(Source: TBS)"
     }
   ]
 }
