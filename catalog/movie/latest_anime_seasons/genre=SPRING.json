@@ -61,16 +61,6 @@
       "description": "Genres: Mystery\nTags:Police/Detective/Crime/Male Protagonist\nThe 28th <i>Detective Conan</i> movie."
     },
     {
-      "id": "tt36583287",
-      "type": "movie",
-      "name": "Boku to Roboco Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-GOWftJA89enZ.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt36583287"
-      },
-      "description": "Genres: Comedy, Slice of Life\nTags:Maids/Robots/Shounen\nTheatrical follow-up to <i>Boku to Roboco</i>."
-    },
-    {
       "id": "tt35652362",
       "type": "movie",
       "name": "Kaitou Queen no Yuuga na Vacances",
@@ -79,6 +69,16 @@
         "defaultVideoId": "tt35652362"
       },
       "description": "Genres: Mystery\nTags:Detective/Crime\nAnnounced at the \"Mirage QUEEN Prefers Parties\" event, that a new <i>Mirage QUEEN</i> anime has been greenlit.<br><br>\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "tt36583287",
+      "type": "movie",
+      "name": "Boku to Roboco Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-GOWftJA89enZ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt36583287"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Maids/Robots/Shounen\nTheatrical follow-up to <i>Boku to Roboco</i>."
     },
     {
       "id": "tt35652414",
@@ -111,14 +111,14 @@
       "description": "Genres: Action, Adventure, Sci-Fi, Thriller\nTags:Philosophy/Stop Motion\nA prequel film to <i>Junk Head</i>."
     },
     {
-      "id": "tt33830021",
+      "id": "tt12574330",
       "type": "movie",
-      "name": "Wasure Hoshi no Volicia Dai Ni Shou: Gunjou",
+      "name": "Bousei no Volicia Dai Ni Shou: Gunjou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194706-MJ5gea97481Z.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt33830021"
+        "defaultVideoId": "tt12574330"
       },
-      "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:Yuri/Gods/Space/Aliens/Primarily Female Cast/Swordplay/Coastal/Urban Fantasy/LGBTQ+ Themes/School/Female Protagonist/Urban\nSecond film of <i>Wasure Hoshi no Volicia</i> film trilogy.<br><br>\n\nAt the last stronghold of humanity, the Heavenly Crest (Astronomy) Club, Akio learns the fate of the world. Two pilots are needed to battle the two remaining Usurpers which are targeting the faded Fire of Life. During the battle against the second enemy, during the curse of happy times, the choice between the happy present and the future Akio must dedicate her soul to approaches.<br><br>\n\n(Source: Official Site, translated)"
+      "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:Yuri/Gods/Space/Aliens/Primarily Female Cast/Swordplay/Coastal/Urban Fantasy/LGBTQ+ Themes/School/Female Protagonist/Urban\nSecond film of <i>Bousei no Volicia</i> film trilogy.<br><br>\n\nAt the last stronghold of humanity, the Heavenly Crest (Astronomy) Club, Akio learns the fate of the world. Two pilots are needed to battle the two remaining Usurpers which are targeting the faded Fire of Life. During the battle against the second enemy, during the curse of happy times, the choice between the happy present and the future Akio must dedicate her soul to approaches.<br><br>\n\n(Source: Official Site, translated)"
     },
     {
       "id": "tt33319618",
