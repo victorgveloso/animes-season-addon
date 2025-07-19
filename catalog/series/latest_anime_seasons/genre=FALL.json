@@ -11,7 +11,7 @@
       "id": "tt35636246",
       "type": "series",
       "name": "My Hero Academia FINAL SEASON",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182896-Y8qmTjn2nkPU.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182896-mvxTVHGdDB4q.jpg",
       "description": "Genres: Action, Adventure\nTags:War/Superhero/Male Protagonist/Super Power/Shounen/Rescue\nThe eighth and final season of <i>Boku no Hero Academia</i>."
     },
     {
@@ -197,18 +197,18 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Magic/Dungeon/Male Protagonist\nnull"
     },
     {
-      "id": "tt32832412",
-      "type": "series",
-      "name": "With You, Our Love Will Make It Through",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-nRJptSuYKEQP.jpg",
-      "description": "Genres: Drama, Fantasy, Romance\nTags:Shoujo/Anthropomorphism/Heterosexual/Female Protagonist/School/Kemonomimi\nWhen high schooler Mari bumps into a fellow tardy student, she's surprised to find out he's a beastfolk who's to attend her school! After all, it's not rare for beastfolk to coexist alongside humans, but it's still uncommon, with the prejudice and all. Nervous to meet one at first, Mari soon learns there's more to him than his furry exterior. In fact, the more she gets to know him, the more she finds herself drawn to him, his steadfastness, his kindheartedness, and…his body…\n<BR><BR>\n(Source: Yen Press)"
-    },
-    {
       "id": "tt36593047",
       "type": "series",
       "name": "Egao no Taenai Shokuba desu.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173523-dXMn5evjma8K.png",
       "description": "Genres: Comedy, Slice of Life\nTags:Female Protagonist/Primarily Female Cast/Cute Girls Doing Cute Things/Drawing/Yuri/Work/LGBTQ+ Themes\nNew shoujo manga artist Nana Futami works hard every day while being supported by Kaede Satou, her female editor who is older than her, and Mizuki Hazama, her assistant. According to the girl herself, she sometimes drums up intense daydream delusions of occupational illness! A working girls comedy set in the entertainment industry, brought to you by an author who always draws various girls. "
+    },
+    {
+      "id": "tt32832412",
+      "type": "series",
+      "name": "With You, Our Love Will Make It Through",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-nRJptSuYKEQP.jpg",
+      "description": "Genres: Drama, Fantasy, Romance\nTags:Shoujo/Anthropomorphism/Heterosexual/Female Protagonist/School/Kemonomimi\nWhen high schooler Mari bumps into a fellow tardy student, she's surprised to find out he's a beastfolk who's to attend her school! After all, it's not rare for beastfolk to coexist alongside humans, but it's still uncommon, with the prejudice and all. Nervous to meet one at first, Mari soon learns there's more to him than his furry exterior. In fact, the more she gets to know him, the more she finds herself drawn to him, his steadfastness, his kindheartedness, and…his body…\n<BR><BR>\n(Source: Yen Press)"
     },
     {
       "id": "tt32731400",
@@ -330,6 +330,13 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Shoujo/Agriculture/Autobiographical/Rural/Female Protagonist\nThe third season of <i>Hyakushou Kizoku</i>."
     },
     {
+      "id": "tt34623148",
+      "type": "series",
+      "name": "Kagaku×Bouken Survival! 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186736-zYDrRDuC55s5.png",
+      "description": "Genres: \nTags:\nThe second season of <i>Kagaku×Bouken Survival!</i>"
+    },
+    {
       "id": "tt35064754",
       "type": "series",
       "name": "Honey Blonde 2",
@@ -342,13 +349,6 @@
       "name": "MUZIK TIGER In the Forest 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195383-AyOuZF3hSI6F.png",
       "description": "Genres: Slice of Life\nTags:Primarily Animal Cast\nSecond season of <i>Muzik Tiger In the Forest</i>."
-    },
-    {
-      "id": "tt34623130",
-      "type": "series",
-      "name": "SHIBUYA♡HACHI Part 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195173-PU4wmxGmtuYl.jpg",
-      "description": "Genres: Slice of Life\nTags:Kids/Animals/Primarily Animal Cast\nSequel to <i>SHIBUYA♡HACHI Part 3.</i>"
     }
   ]
 }
