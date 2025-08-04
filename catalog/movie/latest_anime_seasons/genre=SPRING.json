@@ -111,16 +111,6 @@
       "description": "Genres: Fantasy, Supernatural\nTags:\nnull"
     },
     {
-      "id": "tt37679220",
-      "type": "movie",
-      "name": "JUNK WORLD",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191370-w0h51nHzJ1Qo.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt37679220"
-      },
-      "description": "Genres: Action, Adventure, Sci-Fi, Thriller\nTags:Philosophy/Stop Motion\nA prequel film to <i>Junk Head</i>."
-    },
-    {
       "id": "tt12574330",
       "type": "movie",
       "name": "Bousei no Volicia Dai Ni Shou: Gunjou",
@@ -129,6 +119,16 @@
         "defaultVideoId": "tt12574330"
       },
       "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:Yuri/Swordplay/Space/Aliens/Gods/LGBTQ+ Themes/School/Primarily Female Cast/Urban Fantasy/Coastal/Female Protagonist/Urban\nSecond film of <i>Bousei no Volicia</i> film trilogy.<br><br>\n\nAt the last stronghold of humanity, the Heavenly Crest (Astronomy) Club, Akio learns the fate of the world. Two pilots are needed to battle the two remaining Usurpers which are targeting the faded Fire of Life. During the battle against the second enemy, during the curse of happy times, the choice between the happy present and the future Akio must dedicate her soul to approaches.<br><br>\n\n(Source: Official Site, translated)"
+    },
+    {
+      "id": "tt37679220",
+      "type": "movie",
+      "name": "JUNK WORLD",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191370-w0h51nHzJ1Qo.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt37679220"
+      },
+      "description": "Genres: Action, Adventure, Sci-Fi, Thriller\nTags:Philosophy/Stop Motion\nA prequel film to <i>Junk Head</i>."
     },
     {
       "id": "tt36635947",
