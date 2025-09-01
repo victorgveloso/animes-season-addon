@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.14.1",
+  "version": "1.15.1",
   "name": "Animes' season",
   "description": "A catalog addon for the latest anime seasons",
   "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
@@ -20,10 +20,10 @@
         {
           "name": "genre",
           "options": [
-            "SUMMER",
             "FALL",
             "WINTER",
-            "SPRING"
+            "SPRING",
+            "SUMMER"
           ],
           "isRequired": false
         }
@@ -40,10 +40,10 @@
         {
           "name": "genre",
           "options": [
-            "SUMMER",
             "FALL",
             "WINTER",
-            "SPRING"
+            "SPRING",
+            "SUMMER"
           ],
           "isRequired": false
         }
@@ -137,5 +137,5 @@
     "tt",
     "kitsu"
   ],
-  "lastUpdatedAt": "2025-06-01T04:52:06.128Z"
+  "lastUpdatedAt": "2025-09-01T04:46:28.542Z"
 }
