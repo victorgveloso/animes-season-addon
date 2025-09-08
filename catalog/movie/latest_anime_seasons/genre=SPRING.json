@@ -101,16 +101,6 @@
       "description": "Genres: Drama, Music, Psychological\nTags:\nFrom birth to death, each person goes through life with a variety of nicknames, and sometimes derogatory. The story depicts the beautiful yet sorrowful life of the protagonist who, unintentionally, rises to the top, against a backdrop of problems we are facing today, such as elderly drivers, the dark side of the entertainment industry, the unknown deaths of young people, and war.\n<br><br>\n(Annecy Festival Website)"
     },
     {
-      "id": "tt36551651",
-      "type": "movie",
-      "name": "Dragon Heart: Reikai Tanbouki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186935-WPDw5KNiCSGb.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt36551651"
-      },
-      "description": "Genres: Fantasy, Supernatural\nTags:\nnull"
-    },
-    {
       "id": "tt12574330",
       "type": "movie",
       "name": "Bousei no Volicia Dai Ni Shou: Gunjou",
@@ -119,6 +109,16 @@
         "defaultVideoId": "tt12574330"
       },
       "description": "Genres: Action, Mecha, Romance, Sci-Fi\nTags:Yuri/Swordplay/Coastal/Space/Aliens/Gods/LGBTQ+ Themes/School/Primarily Female Cast/Urban Fantasy/Female Protagonist/Urban\nSecond film of <i>Bousei no Volicia</i> film trilogy.<br><br>\n\nAt the last stronghold of humanity, the Heavenly Crest (Astronomy) Club, Akio learns the fate of the world. Two pilots are needed to battle the two remaining Usurpers which are targeting the faded Fire of Life. During the battle against the second enemy, during the curse of happy times, the choice between the happy present and the future Akio must dedicate her soul to approaches.<br><br>\n\n(Source: Official Site, translated)"
+    },
+    {
+      "id": "tt36551651",
+      "type": "movie",
+      "name": "Dragon Heart: Reikai Tanbouki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186935-WPDw5KNiCSGb.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt36551651"
+      },
+      "description": "Genres: Fantasy, Supernatural\nTags:\nnull"
     },
     {
       "id": "tt37679220",
