@@ -85,18 +85,18 @@
       "description": "Genres: Action, Comedy, Sci-Fi, Supernatural\nTags:Shounen/Male Protagonist/Female Protagonist/Super Power\nA one-hour special that adapts the \"Winter Arc\", scheduled to broadcast in 2025."
     },
     {
-      "id": "tt32508529",
-      "type": "series",
-      "name": "Nageki no Bourei wa Intai shitai 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185801-ovFdmbEoQvRn.jpg",
-      "description": "Genres: Action, Comedy, Fantasy\nTags:Male Protagonist/Magic\nThe sequel of <i>Nageki no Bourei wa Intai shitai</i>."
-    },
-    {
       "id": "tt35127440",
       "type": "series",
       "name": "SANDA",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179302-gWWAh5BfQyl4.jpg",
       "description": "Genres: Drama, Mystery\nTags:Male Protagonist/Female Protagonist/Shounen\nThe story starts with Sanda, a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn't make sense of the situation at first, he gradually came to believe that Fuyumura's actions were just mean acts stemming off from the latter having a peculiar puberty phase.\n<br><br>\nBut that is all a misunderstanding. Fuyumura actually suspects that Sanda is the descendant of a certain lineage..."
+    },
+    {
+      "id": "tt32508529",
+      "type": "series",
+      "name": "Nageki no Bourei wa Intai shitai 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185801-ovFdmbEoQvRn.jpg",
+      "description": "Genres: Action, Comedy, Fantasy\nTags:Male Protagonist/Magic\nThe sequel of <i>Nageki no Bourei wa Intai shitai</i>."
     },
     {
       "id": "tt34660911",
@@ -183,6 +183,13 @@
       "description": "Genres: Fantasy, Romance\nTags:Magic/Isekai\n\"I became the spirit of elements when I reincarnated?!\" Ellen is a young girl reincarnated from modern-day Japan as a half-spirit. Her father, Rovel, is the legendary hero who saved the kingdom, and her mother, Origin, is the primordial queen and ruler of all spirits. Furthermore, she herself has the overpowered ability to manipulate the elements. While looking absolutely adorable, this perfect little girl will fall back on her past life's knowledge and the power of the spirits to protect her precious family!\n<br><br>\n(Source: MANGA UP!)"
     },
     {
+      "id": "tt36833523",
+      "type": "series",
+      "name": "Tatsuki Fujimoto 17-26",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198188-mlScDGb4cucY.jpg",
+      "description": "Genres: \nTags:Anthology/School/Mermaid/Vampire/Aliens/Nudity/Drawing/Heterosexual\nAn anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Osamu Honma, P.A.WORKS)\n"
+    },
+    {
       "id": "tt32731400",
       "type": "series",
       "name": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!",
@@ -195,13 +202,6 @@
       "name": "Pass the Monster Meat, Milady!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183291-mXF5NbzjQZGL.jpg",
       "description": "Genres: Fantasy, Romance\nTags:Shoujo/Female Protagonist/Royal Affairs/Food\nLike any proper noble lady, one must have certain acquired tastes. For Melphiera Marchalrayd, she just happens to crave a rather exotic protein—monsters! But do not judge! Despite its bad reputation, monster meat can be used in exquisite cuisine and Melphiera is determined to change the kingdom’s opinion of it! Unfortunately, since debuting in society, Melphiera has been struggling to find her perfect match…until she meets the fearless “Blood-Mad Duke” of Galbraith!\n<br><br>\n(Source: Kodansha USA)"
-    },
-    {
-      "id": "tt36833523",
-      "type": "series",
-      "name": "Tatsuki Fujimoto 17-26",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198188-mlScDGb4cucY.jpg",
-      "description": "Genres: \nTags:Anthology/School/Mermaid/Vampire/Aliens/Nudity/Drawing/Heterosexual\nAn anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Osamu Honma, P.A.WORKS)\n"
     },
     {
       "id": "tt36631539",
