@@ -21,12 +21,12 @@
       "description": "Genres: Fantasy\nTags:Revenge/Full CGI\nScarlet, the protagonist of this work, is a princess whose father, the king of a certain country, was murdered. However, after failing to exact revenge, Scarlet wakes up to find herself in the \"Land of the Dead.\"<br><br>\n\nIn this \"Land of the Dead,\" filled with madness, it is said that if one does not exact revenge on their nemesis and reach the \"Endless Place,\" they will become \"nothingness\" and disappear from existence.<br><br>\n\nWill Scarlet be able to exact revenge on her nemesis without becoming \"nothingness\"? The story unfolds as the endless journey for revenge begins.<br><br>\n(Source: Animate Times, Translated)"
     },
     {
-      "id": "tt28834646",
+      "id": "tt37441935",
       "type": "movie",
       "name": "GIRLS BAND CRY: Seishun Kyousoukyoku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186714-tQVs0CUEoM6Y.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt28834646"
+        "defaultVideoId": "tt37441935"
       },
       "description": "Genres: Drama, Music, Slice of Life\nTags:Rock Music/Female Protagonist/Band/Coming of Age\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
     },
@@ -41,16 +41,6 @@
       "description": "Genres: Drama\nTags:Male Protagonist/Prison/Yakuza\n<i>\"What a pathetic life it’s been.\"</i><br><br> An elderly inmate serving a life sentence awaits a lonely death in his solitary cell—until a voice calls out to him. It belongs to a balsam flower, Housenka, that speaks like a human. Through their \"conversation,\" the old man begins to reflect on the life he’s led.\n<br><br>\n(Source: Annecy Festival)"
     },
     {
-      "id": "tt36454732",
-      "type": "movie",
-      "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183384-ecrP3DzrDvhM.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt36454732"
-      },
-      "description": "Genres: Music, Slice of Life\nTags:Idol/Female Protagonist\nThe second in the trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA."
-    },
-    {
       "id": "tt35684792",
       "type": "movie",
       "name": "Peleliu: Rakuen no Guernica",
@@ -59,6 +49,16 @@
         "defaultVideoId": "tt35684792"
       },
       "description": "Genres: Drama\nTags:Historical/War/Male Protagonist\nAnime adaptation of Kazuyoshi Takeda's <i>Peleliu: Rakuen no Guernica</i> manga.\n<br><br>\nThe story follows the daily lives of Japanese soldiers taking part in the Battle of Peleliu during World War II: a high-casualty, months-long campaign. The main character, Tamaru, dreams of returning home to become a mangaka, and sees their island outpost as a wild paradise that can one day be used as a setting for one of his stories. Most of his comrades, however, are prepared for the more realistic scenario - that they will not be leaving Peleliu alive."
+    },
+    {
+      "id": "tt36454732",
+      "type": "movie",
+      "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183384-ecrP3DzrDvhM.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt36454732"
+      },
+      "description": "Genres: Music, Slice of Life\nTags:Idol/Female Protagonist\nThe second in the trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA."
     },
     {
       "id": "tt36607192",
