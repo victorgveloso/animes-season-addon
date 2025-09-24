@@ -28,7 +28,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt37441935"
       },
-      "description": "Genres: Drama, Music, Slice of Life\nTags:Rock Music/Female Protagonist/Band/Coming of Age\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
+      "description": "Genres: Drama, Music, Slice of Life\nTags:Rock Music/Female Protagonist/Band/Coming of Age/Full CGI\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
     },
     {
       "id": "tt36639400",
@@ -99,6 +99,16 @@
         "defaultVideoId": "tt6208148"
       },
       "description": "Genres: Comedy\nTags:Kids\nFourth <i>Sumikko Gurashi</i> movie."
+    },
+    {
+      "id": "tt37441935",
+      "type": "movie",
+      "name": "GIRLS BAND CRY: Naa, Mirai.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-fg9cK44z196l.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt37441935"
+      },
+      "description": "Genres: Drama, Music, Slice of Life\nTags:Female Protagonist/Band/Primarily Female Cast/Full CGI/Rock Music\nCompilation film of <i>GIRLS BAND CRY</i>. The second of the GBC compilation movie duology."
     }
   ]
 }
