@@ -61,6 +61,16 @@
       "description": "Genres: Music, Slice of Life\nTags:Idol/Female Protagonist\nThe second in the trilogy of <i>Love Live! Nijigasaki Gakuen School Idol Doukoukai</i> films that continues the story beyond season two and the OVA."
     },
     {
+      "id": "tt37441935",
+      "type": "movie",
+      "name": "GIRLS BAND CRY: Naa, Mirai.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-fg9cK44z196l.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt37441935"
+      },
+      "description": "Genres: Drama, Music, Slice of Life\nTags:Female Protagonist/Band/Primarily Female Cast/Full CGI/Rock Music\nCompilation film of <i>GIRLS BAND CRY</i>. The second of the GBC compilation movie duology."
+    },
+    {
       "id": "tt36607192",
       "type": "movie",
       "name": "Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive!",
@@ -99,16 +109,6 @@
         "defaultVideoId": "tt6208148"
       },
       "description": "Genres: Comedy\nTags:Kids\nFourth <i>Sumikko Gurashi</i> movie."
-    },
-    {
-      "id": "tt37441935",
-      "type": "movie",
-      "name": "GIRLS BAND CRY: Naa, Mirai.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-fg9cK44z196l.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt37441935"
-      },
-      "description": "Genres: Drama, Music, Slice of Life\nTags:Female Protagonist/Band/Primarily Female Cast/Full CGI/Rock Music\nCompilation film of <i>GIRLS BAND CRY</i>. The second of the GBC compilation movie duology."
     }
   ]
 }
