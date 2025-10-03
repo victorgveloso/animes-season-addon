@@ -44,7 +44,7 @@
       "id": "tt37441935",
       "type": "movie",
       "name": "GIRLS BAND CRY: Naa, Mirai.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-fg9cK44z196l.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-uqZFZ49UJzuv.jpg",
       "behaviorHints": {
         "defaultVideoId": "tt37441935"
       },
@@ -81,16 +81,6 @@
       "description": "Genres: Mahou Shoujo, Music\nTags:Fairy/Female Protagonist/Idol/Primarily Female Cast/Magic/Henshin/Kids/Crossover\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>."
     },
     {
-      "id": "tt36635947",
-      "type": "movie",
-      "name": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt36635947"
-      },
-      "description": "Genres: Music\nTags:Idol/Crossover/Female Protagonist/Primarily Female Cast\nnull"
-    },
-    {
       "id": "tt37061307",
       "type": "movie",
       "name": "Toritsukare Otoko",
@@ -99,6 +89,16 @@
         "defaultVideoId": "tt37061307"
       },
       "description": "Genres: Music\nTags:\nThe story centers on a young man named Giuseppe, who is called \"Toristukare Otoko\" by the townspeople because once he gets absorbed in something, he cannot look at anything else. One day, he falls in love at first sight with a girl selling balloons named Pechka. He goes crazy and tries to get closer to Pechka, but she has a sadness in her heart and... For the sake of his beloved Pechka, Giuseppe and his partner, the mouse Cielo, secretly solve her worries by using the many tricks he has been obsessed with.<br><br>\n\n(Source: Crunchyroll News, edited)"
+    },
+    {
+      "id": "tt36635947",
+      "type": "movie",
+      "name": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt36635947"
+      },
+      "description": "Genres: Music\nTags:Idol/Crossover/Female Protagonist/Primarily Female Cast\nnull"
     },
     {
       "id": "tt6208148",
