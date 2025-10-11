@@ -121,16 +121,6 @@
       "description": "Genres: Action, Drama, Fantasy\nTags:Puppetry/Primarily Adult Cast/Swordplay/Demons/Martial Arts/Wuxia/Gore\nTheatrical follow-up to <i>Thunderbolt Fantasy: Touriken Yuuki 4</i>."
     },
     {
-      "id": "tt36132876",
-      "type": "movie",
-      "name": "Shimajirou: Shimajirou to Yuuki no Uta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183412-aquaVDg24IRw.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt36132876"
-      },
-      "description": "Genres: Adventure, Comedy, Fantasy\nTags:\nThe story centers on Miley, a young white tiger who is offered the lead role of Captain Hat by an acting troupe. Miley has no confidence in herself, so Shimajirou comes up with a plan to encourage her. Suddenly, they are sucked into a magical bag, and must embark on an adventure in the world within the bag.\n<br><br>\n(Source: Anime News Network)"
-    },
-    {
       "id": "tt35438167",
       "type": "movie",
       "name": "Oshiri Tantei: Star and Moon",
@@ -139,6 +129,16 @@
         "defaultVideoId": "tt35438167"
       },
       "description": "Genres: Comedy, Mystery\nTags:\nStory begins when Koala asks Butt Detective to find a missing relative who disappeared from an idol contest. The case takes Butt Detective to Stardust Island, the site of the contest, and also the home of the international criminal organization Phantom Thief Academy, headed by Phantom Thief G. Here, the organization advances its secret conspiracy, codenamed the Dark Age Plan. Butt Detective enters Stardust Island under the guise of an idol. At the same time, he joins forces with Phantom Thief U, who is out to steal back the valuable Moonlight Stone from Phantom Thief G. The story will also reveal more about Brown's past.\n<br><br>\n(Source: Anime News Network, edited)\n"
+    },
+    {
+      "id": "tt36132876",
+      "type": "movie",
+      "name": "Shimajirou: Shimajirou to Yuuki no Uta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183412-aquaVDg24IRw.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt36132876"
+      },
+      "description": "Genres: Adventure, Comedy, Fantasy\nTags:\nThe story centers on Miley, a young white tiger who is offered the lead role of Captain Hat by an acting troupe. Miley has no confidence in herself, so Shimajirou comes up with a plan to encourage her. Suddenly, they are sucked into a magical bag, and must embark on an adventure in the world within the bag.\n<br><br>\n(Source: Anime News Network)"
     }
   ]
 }
