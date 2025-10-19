@@ -8,7 +8,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt35658228"
       },
-      "description": "Genres: Comedy, Music, Supernatural\nTags:Idol/Zombie/Female Protagonist/Ensemble Cast/Primarily Female Cast/Transgender/LGBTQ+ Themes/Cute Girls Doing Cute Things\nAnime movie announced during the live concert \"Zombieland Saga LIVE ～FranChouChou Saga yo tomoni waite kure～\" held on Oct 17, 2021."
+      "description": "Genres: Comedy, Music, Supernatural\nTags:Idol/Zombie/Female Protagonist/Ensemble Cast/Primarily Female Cast/Transgender/Cute Girls Doing Cute Things/LGBTQ+ Themes\nAnime movie announced during the live concert \"Zombieland Saga LIVE ～FranChouChou Saga yo tomoni waite kure～\" held on Oct 17, 2021."
     },
     {
       "id": "tt38491451",
@@ -18,7 +18,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt38491451"
       },
-      "description": "Genres: \nTags:Anthology/Aliens/School/Mermaid/Heterosexual/Drawing/Nudity/Vampire\nAn anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Dir. Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Dir. Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Dir. Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Dir. Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Dir. Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Dir. Osamu Honma, P.A.WORKS)\n<br><br>\n<i>Note: This anime had a pre-release world premiere at the \"Global Stage Hollywood 2025\" film festival on October 5, 2025. A general two-week theatrical run in Japan divided into two parts released on the same day October 17, 2025. The anime series later streamed worldwide in Amazon Prime Video on November 8, 2025.</i>"
+      "description": "Genres: \nTags:Anthology/Aliens/School/Heterosexual/Drawing/Nudity/Vampire/Mermaid\nAn anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Dir. Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Dir. Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Dir. Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Dir. Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Dir. Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Dir. Osamu Honma, P.A.WORKS)\n<br><br>\n<i>Note: This anime had a pre-release world premiere at the \"Global Stage Hollywood 2025\" film festival on October 5, 2025. A general two-week theatrical run in Japan divided into two parts released on the same day October 17, 2025. The anime series later streamed worldwide in Amazon Prime Video on November 8, 2025.</i>"
     },
     {
       "id": "tt35114460",
@@ -38,7 +38,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36474012"
       },
-      "description": "Genres: Drama, Music, Slice of Life\nTags:Band/Female Protagonist/Rock Music/Full CGI/Coming of Age\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
+      "description": "Genres: Drama, Music, Slice of Life\nTags:Rock Music/Female Protagonist/Band/Coming of Age/Full CGI\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
     },
     {
       "id": "tt36639400",
@@ -48,7 +48,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36639400"
       },
-      "description": "Genres: Drama\nTags:Male Protagonist/Prison/Yakuza\n<i>\"What a pathetic life it’s been.\"</i><br><br> An elderly inmate serving a life sentence awaits a lonely death in his solitary cell—until a voice calls out to him. It belongs to a balsam flower, Housenka, that speaks like a human. Through their \"conversation,\" the old man begins to reflect on the life he’s led.\n<br><br>\n(Source: Annecy Festival)"
+      "description": "Genres: Drama\nTags:Prison/Male Protagonist/Yakuza\n<i>\"What a pathetic life it’s been.\"</i><br><br> An elderly inmate serving a life sentence awaits a lonely death in his solitary cell—until a voice calls out to him. It belongs to a balsam flower, Housenka, that speaks like a human. Through their \"conversation,\" the old man begins to reflect on the life he’s led.\n<br><br>\n(Source: Annecy Festival)"
     },
     {
       "id": "tt36474012",
@@ -88,17 +88,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36607192"
       },
-      "description": "Genres: Mahou Shoujo, Music\nTags:Female Protagonist/Fairy/Kids/Henshin/Magic/Primarily Female Cast/Idol/Crossover\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>."
-    },
-    {
-      "id": "tt36635947",
-      "type": "movie",
-      "name": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt36635947"
-      },
-      "description": "Genres: Music\nTags:Idol/Crossover/Female Protagonist/Primarily Female Cast\nAkari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)"
+      "description": "Genres: Mahou Shoujo, Music\nTags:Female Protagonist/Fairy/Henshin/Kids/Primarily Female Cast/Idol/Magic/Crossover\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>."
     },
     {
       "id": "tt37061307",
@@ -111,6 +101,16 @@
       "description": "Genres: Music\nTags:\nThe story centers on a young man named Giuseppe, who is called \"Toristukare Otoko\" by the townspeople because once he gets absorbed in something, he cannot look at anything else. One day, he falls in love at first sight with a girl selling balloons named Pechka. He goes crazy and tries to get closer to Pechka, but she has a sadness in her heart and... For the sake of his beloved Pechka, Giuseppe and his partner, the mouse Cielo, secretly solve her worries by using the many tricks he has been obsessed with.<br><br>\n\n(Source: Crunchyroll News, edited)"
     },
     {
+      "id": "tt36635947",
+      "type": "movie",
+      "name": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt36635947"
+      },
+      "description": "Genres: Music\nTags:Idol/Female Protagonist/Crossover/Primarily Female Cast\nAkari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)"
+    },
+    {
       "id": "tt6208148",
       "type": "movie",
       "name": "Sumikko Gurashi: Sora no Ookoku to Futari no Ko",
@@ -119,6 +119,16 @@
         "defaultVideoId": "tt6208148"
       },
       "description": "Genres: Comedy\nTags:Kids\nFourth <i>Sumikko Gurashi</i> movie."
+    },
+    {
+      "id": "tt2188356",
+      "type": "movie",
+      "name": "Wadachi wo Koete Yuke",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200642-awSEn9xCjqr2.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2188356"
+      },
+      "description": "Genres: Drama, Sci-Fi\nTags:Military/Primarily Female Cast/Female Protagonist/Snowscape\nIn the shadow of a ruinous war, three young women are serving as soldiers in a barren, snow-swept landscape. Their task is to scour the frozen wastes for stragglers of the Iron Army, eerie, formerly human flesh-weapons. Gros and especially the inexperienced Leichte admire Esus, stronger and wiser than they. Esus has her weaknesses, though, and unhealed wounds in her heart. Somewhere out there in the vast, deadly sea of snow lie answers—to Esus' pain, and to the awful secret of this war.\n<br><br>\n(Source: fantasiafestival.com)"
     }
   ]
 }
