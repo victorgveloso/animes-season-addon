@@ -31,12 +31,12 @@
       "description": "Genres: Fantasy\nTags:Revenge/Full CGI\nScarlet, the protagonist of this work, is a princess whose father, the king of a certain country, was murdered. However, after failing to exact revenge, Scarlet wakes up to find herself in the \"Land of the Dead.\"<br><br>\n\nIn this \"Land of the Dead,\" filled with madness, it is said that if one does not exact revenge on their nemesis and reach the \"Endless Place,\" they will become \"nothingness\" and disappear from existence.<br><br>\n\nWill Scarlet be able to exact revenge on her nemesis without becoming \"nothingness\"? The story unfolds as the endless journey for revenge begins.<br><br>\n(Source: Animate Times, Translated)"
     },
     {
-      "id": "tt36474012",
+      "id": "tt28834646",
       "type": "movie",
       "name": "GIRLS BAND CRY: Seishun Kyousoukyoku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186714-tQVs0CUEoM6Y.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt36474012"
+        "defaultVideoId": "tt28834646"
       },
       "description": "Genres: Drama, Music, Slice of Life\nTags:Rock Music/Female Protagonist/Band/Coming of Age/Full CGI\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
     },
@@ -51,12 +51,12 @@
       "description": "Genres: Drama\nTags:Prison/Male Protagonist/Yakuza\n<i>\"What a pathetic life it’s been.\"</i><br><br> An elderly inmate serving a life sentence awaits a lonely death in his solitary cell—until a voice calls out to him. It belongs to a balsam flower, Housenka, that speaks like a human. Through their \"conversation,\" the old man begins to reflect on the life he’s led.\n<br><br>\n(Source: Annecy Festival)"
     },
     {
-      "id": "tt36474012",
+      "id": "tt28834646",
       "type": "movie",
       "name": "GIRLS BAND CRY: Naa, Mirai.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-uqZFZ49UJzuv.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt36474012"
+        "defaultVideoId": "tt28834646"
       },
       "description": "Genres: Drama, Music, Slice of Life\nTags:Rock Music/Full CGI/Primarily Female Cast/Band/Female Protagonist\nCompilation film of <i>GIRLS BAND CRY</i>. The second of the GBC compilation movie duology."
     },
@@ -91,16 +91,6 @@
       "description": "Genres: Mahou Shoujo, Music\nTags:Female Protagonist/Fairy/Henshin/Kids/Primarily Female Cast/Idol/Magic/Crossover\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>."
     },
     {
-      "id": "tt37061307",
-      "type": "movie",
-      "name": "Toritsukare Otoko",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193294-cWRDRpwqGYDA.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt37061307"
-      },
-      "description": "Genres: Music\nTags:\nThe story centers on a young man named Giuseppe, who is called \"Toristukare Otoko\" by the townspeople because once he gets absorbed in something, he cannot look at anything else. One day, he falls in love at first sight with a girl selling balloons named Pechka. He goes crazy and tries to get closer to Pechka, but she has a sadness in her heart and... For the sake of his beloved Pechka, Giuseppe and his partner, the mouse Cielo, secretly solve her worries by using the many tricks he has been obsessed with.<br><br>\n\n(Source: Crunchyroll News, edited)"
-    },
-    {
       "id": "tt36635947",
       "type": "movie",
       "name": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
@@ -109,6 +99,16 @@
         "defaultVideoId": "tt36635947"
       },
       "description": "Genres: Music\nTags:Idol/Female Protagonist/Crossover/Primarily Female Cast\nAkari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)"
+    },
+    {
+      "id": "tt37061307",
+      "type": "movie",
+      "name": "Toritsukare Otoko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193294-cWRDRpwqGYDA.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt37061307"
+      },
+      "description": "Genres: Music\nTags:\nThe story centers on a young man named Giuseppe, who is called \"Toristukare Otoko\" by the townspeople because once he gets absorbed in something, he cannot look at anything else. One day, he falls in love at first sight with a girl selling balloons named Pechka. He goes crazy and tries to get closer to Pechka, but she has a sadness in her heart and... For the sake of his beloved Pechka, Giuseppe and his partner, the mouse Cielo, secretly solve her worries by using the many tricks he has been obsessed with.<br><br>\n\n(Source: Crunchyroll News, edited)"
     },
     {
       "id": "tt6208148",
