@@ -91,16 +91,6 @@
       "description": "Genres: Mahou Shoujo, Music\nTags:Female Protagonist/Fairy/Henshin/Kids/Primarily Female Cast/Idol/Magic/Crossover\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>."
     },
     {
-      "id": "tt36635947",
-      "type": "movie",
-      "name": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt36635947"
-      },
-      "description": "Genres: Music\nTags:Idol/Female Protagonist/Crossover/Primarily Female Cast\nAkari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)"
-    },
-    {
       "id": "tt37061307",
       "type": "movie",
       "name": "Toritsukare Otoko",
@@ -109,6 +99,16 @@
         "defaultVideoId": "tt37061307"
       },
       "description": "Genres: Music\nTags:\nThe story centers on a young man named Giuseppe, who is called \"Toristukare Otoko\" by the townspeople because once he gets absorbed in something, he cannot look at anything else. One day, he falls in love at first sight with a girl selling balloons named Pechka. He goes crazy and tries to get closer to Pechka, but she has a sadness in her heart and... For the sake of his beloved Pechka, Giuseppe and his partner, the mouse Cielo, secretly solve her worries by using the many tricks he has been obsessed with.<br><br>\n\n(Source: Crunchyroll News, edited)"
+    },
+    {
+      "id": "tt36635947",
+      "type": "movie",
+      "name": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt36635947"
+      },
+      "description": "Genres: Music\nTags:Idol/Female Protagonist/Crossover/Primarily Female Cast\nAkari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)"
     },
     {
       "id": "tt6208148",
