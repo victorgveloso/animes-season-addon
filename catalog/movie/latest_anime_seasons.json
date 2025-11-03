@@ -111,16 +111,6 @@
       "description": "Genres: Music\nTags:Idol/Female Protagonist/Crossover/Primarily Female Cast\nAkari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)"
     },
     {
-      "id": "tt6208148",
-      "type": "movie",
-      "name": "Sumikko Gurashi: Sora no Ookoku to Futari no Ko",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188522-7SmOUONrHvrL.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt6208148"
-      },
-      "description": "Genres: Comedy\nTags:Kids\nFourth <i>Sumikko Gurashi</i> movie."
-    },
-    {
       "id": "tt2188356",
       "type": "movie",
       "name": "Wadachi wo Koete Yuke",
@@ -129,6 +119,16 @@
         "defaultVideoId": "tt2188356"
       },
       "description": "Genres: Drama, Sci-Fi\nTags:Military/Primarily Female Cast/Female Protagonist/Snowscape\nIn the shadow of a ruinous war, three young women are serving as soldiers in a barren, snow-swept landscape. Their task is to scour the frozen wastes for stragglers of the Iron Army, eerie, formerly human flesh-weapons. Gros and especially the inexperienced Leichte admire Esus, stronger and wiser than they. Esus has her weaknesses, though, and unhealed wounds in her heart. Somewhere out there in the vast, deadly sea of snow lie answers—to Esus' pain, and to the awful secret of this war.\n<br><br>\n(Source: fantasiafestival.com)"
+    },
+    {
+      "id": "tt6208148",
+      "type": "movie",
+      "name": "Sumikko Gurashi: Sora no Ookoku to Futari no Ko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188522-7SmOUONrHvrL.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt6208148"
+      },
+      "description": "Genres: Comedy\nTags:Kids\nFourth <i>Sumikko Gurashi</i> movie."
     }
   ]
 }
