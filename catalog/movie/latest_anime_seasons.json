@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt38491451",
+      "type": "movie",
+      "name": "Tatsuki Fujimoto 17-26",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198188-h3w6uICVNhqh.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt38491451"
+      },
+      "description": "Genres: Action, Comedy, Drama, Romance, Sci-Fi, Slice of Life, Supernatural\nTags:Episodic/Anthology/Surreal Comedy/Family Life/Female Protagonist/Male Protagonist/School/Aliens/Found Family/Gender Bending/Heterosexual/Nudity/Dystopian/Shapeshifting/Assassins/Coastal/Urban/LGBTQ+ Themes/Drawing/Mermaid/Language Barrier/Monster Girl/Vampire/Disability\nAn anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Dir. Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Dir. Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Dir. Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Dir. Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Dir. Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Dir. Osamu Honma, P.A.WORKS)\n<br><br>\n<i>Note: This anime had a pre-release world premiere at the \"Global Stage Hollywood 2025\" film festival on October 5, 2025. A general two-week theatrical run in Japan divided into two parts released on the same day October 17, 2025. The anime series later streamed worldwide in Amazon Prime Video on November 8, 2025.</i>"
+    },
+    {
       "id": "tt35658228",
       "type": "movie",
       "name": "Zombieland Saga: Yume Ginga Paradise",
@@ -9,16 +19,6 @@
         "defaultVideoId": "tt35658228"
       },
       "description": "Genres: Comedy, Music, Supernatural\nTags:Idol/Zombie/Female Protagonist/Ensemble Cast/Primarily Female Cast/Transgender/LGBTQ+ Themes/Cute Girls Doing Cute Things\nAnime movie announced during the live concert \"Zombieland Saga LIVE ～FranChouChou Saga yo tomoni waite kure～\" held on Oct 17, 2021."
-    },
-    {
-      "id": "tt38491451",
-      "type": "movie",
-      "name": "Tatsuki Fujimoto 17-26",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198188-h3w6uICVNhqh.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt38491451"
-      },
-      "description": "Genres: Action, Comedy, Drama, Romance, Sci-Fi, Slice of Life, Supernatural\nTags:Episodic/Anthology/LGBTQ+ Themes/Surreal Comedy/Family Life/Female Protagonist/Male Protagonist/School/Gender Bending/Aliens/Found Family/Dystopian/Shapeshifting/Assassins/Coastal/Urban/Heterosexual/Nudity/Drawing/Language Barrier/Monster Girl/Vampire/Mermaid/Disability\nAn anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Dir. Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Dir. Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Dir. Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Dir. Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Dir. Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Dir. Osamu Honma, P.A.WORKS)\n<br><br>\n<i>Note: This anime had a pre-release world premiere at the \"Global Stage Hollywood 2025\" film festival on October 5, 2025. A general two-week theatrical run in Japan divided into two parts released on the same day October 17, 2025. The anime series later streamed worldwide in Amazon Prime Video on November 8, 2025.</i>"
     },
     {
       "id": "tt35114460",
@@ -38,7 +38,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36474012"
       },
-      "description": "Genres: Drama, Music, Slice of Life\nTags:Rock Music/Female Protagonist/Band/Coming of Age/Full CGI\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
+      "description": "Genres: Drama, Music, Slice of Life\nTags:Female Protagonist/Band/Rock Music/Coming of Age/Full CGI\nCompilation film of <i>GIRLS BAND CRY</i>. The first of the GBC compilation movie duology."
     },
     {
       "id": "tt36639400",
@@ -48,7 +48,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36639400"
       },
-      "description": "Genres: Drama\nTags:Prison/Male Protagonist/Yakuza\n<i>\"What a pathetic life it’s been.\"</i><br><br> An elderly inmate serving a life sentence awaits a lonely death in his solitary cell—until a voice calls out to him. It belongs to a balsam flower, Housenka, that speaks like a human. Through their \"conversation,\" the old man begins to reflect on the life he’s led.\n<br><br>\n(Source: Annecy Festival)"
+      "description": "Genres: Drama\nTags:Male Protagonist/Prison/Yakuza\n<i>\"What a pathetic life it’s been.\"</i><br><br> An elderly inmate serving a life sentence awaits a lonely death in his solitary cell—until a voice calls out to him. It belongs to a balsam flower, Housenka, that speaks like a human. Through their \"conversation,\" the old man begins to reflect on the life he’s led.\n<br><br>\n(Source: Annecy Festival)"
     },
     {
       "id": "tt36474012",
@@ -88,7 +88,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36607192"
       },
-      "description": "Genres: Mahou Shoujo, Music\nTags:Fairy/Female Protagonist/Henshin/Idol/Primarily Female Cast/Magic/Kids/Crossover\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>."
+      "description": "Genres: Mahou Shoujo, Music\nTags:Fairy/Female Protagonist/Henshin/Magic/Kids/Primarily Female Cast/Idol/Crossover\nMovie of <i>Kimi to Idol Precure♪</i>, initially revealed at theatrical screenings of <i>Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken!</i>."
     },
     {
       "id": "tt37061307",
@@ -108,7 +108,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt36635947"
       },
-      "description": "Genres: Music\nTags:Idol/Crossover/Female Protagonist/Primarily Female Cast\nAkari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)"
+      "description": "Genres: Music\nTags:Idol/Female Protagonist/Crossover/Primarily Female Cast\nAkari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)"
     },
     {
       "id": "tt2188356",
