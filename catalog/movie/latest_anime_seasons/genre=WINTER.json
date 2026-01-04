@@ -81,16 +81,6 @@
       "description": "Genres: Action, Comedy, Sci-Fi\nTags:Samurai/Shounen/Gore/Parody\nMovie remake of the Yoshiwara Enjou arc.\n<br><br>\n\nUpon meeting a young boy named Haruta who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hiwa, Yoshiwara's number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Haruta's wish, but standing in their way is Housen, the Night King who rules Yoshiwara.\n<br><br>\n<i>Note: This anime was announced at the \"Gintama Multiverse Festival,\" an event held on August 16th, as part of the \"Gintama 20th Anniversary Project.\" This movie features volumes 25 and 26 of the manga, and the TV anime series spans eight episodes, from episodes 139 to 146.</i>"
     },
     {
-      "id": "tt39195826",
-      "type": "movie",
-      "name": "Girls und Panzer: Motto Love Love Sakusen desu!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-hlwafdUZhjwD.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt39195826"
-      },
-      "description": "Genres: Comedy\nTags:Parody/Female Protagonist/Primarily Female Cast\nFour part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga.\n<br><br>\n(Source: Natalie Comics)"
-    },
-    {
       "id": "tt37874634",
       "type": "movie",
       "name": "Paris ni Saku Étoile",
@@ -99,6 +89,16 @@
         "defaultVideoId": "tt37874634"
       },
       "description": "Genres: \nTags:Female Protagonist/Foreign/Ballet\n<i>\"I want to blossom, in this city.\"</i>\n<br><br>\nThe story follows two Japanese girls who never give up in reaching for étoile (stars) during the difficult times at the start of 20th century. Fujiko, who dreams of becoming a painter, and Chizuru, who is drawn into the world of ballet, meet by chance in Yokohama. Then, as if guided by fate, they meet again in Paris and work hard to follow their dreams together. <br><br>\n\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt39195826",
+      "type": "movie",
+      "name": "Girls und Panzer: Motto Love Love Sakusen desu!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-hlwafdUZhjwD.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt39195826"
+      },
+      "description": "Genres: Comedy\nTags:Parody/Female Protagonist/Primarily Female Cast\nFour part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga.\n<br><br>\n(Source: Natalie Comics)"
     },
     {
       "id": "tt36461929",
