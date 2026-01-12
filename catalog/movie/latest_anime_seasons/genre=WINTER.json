@@ -71,12 +71,12 @@
       "description": "Genres: \nTags:\nThe Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.\n<br><br>\n(Source: Marché  du Film Festival de Cannes)\n<br><br>\n*<i>The film was selected for the 77th Cannes Film Festival’s 2024 Annecy Animation Showcase.</i>\n<br>*<i>Note: Initially slated for a 2025 release, on May 20th of the same year the movie was delayed to 2026. </i> "
     },
     {
-      "id": "tt38201958",
+      "id": "tt39310261",
       "type": "movie",
       "name": "Shin Gintama Movie: Yoshiwara Daienjou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197474-jTeY1G9gtD8i.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt38201958"
+        "defaultVideoId": "tt39310261"
       },
       "description": "Genres: Action, Comedy, Sci-Fi\nTags:Gore/Samurai/Shounen/Parody\nMovie remake of the Yoshiwara Enjou arc.\n<br><br>\n\nUpon meeting a young boy named Haruta who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hiwa, Yoshiwara's number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Haruta's wish, but standing in their way is Housen, the Night King who rules Yoshiwara.\n<br><br>\n<i>Note: This anime was announced at the \"Gintama Multiverse Festival,\" an event held on August 16th, as part of the \"Gintama 20th Anniversary Project.\" This movie features volumes 25 and 26 of the manga, and the TV anime series spans eight episodes, from episodes 139 to 146.</i>"
     },
@@ -91,12 +91,12 @@
       "description": "Genres: \nTags:Female Protagonist/Foreign/Ballet\n<i>\"I want to blossom, in this city.\"</i>\n<br><br>\nThe story follows two Japanese girls who never give up in reaching for étoile (stars) during the difficult times at the start of 20th century. Fujiko, who dreams of becoming a painter, and Chizuru, who is drawn into the world of ballet, meet by chance in Yokohama. Then, as if guided by fate, they meet again in Paris and work hard to follow their dreams together. <br><br>\n\n(Source: Anime News Network)"
     },
     {
-      "id": "tt39195826",
+      "id": "tt39304277",
       "type": "movie",
       "name": "Girls und Panzer: Motto Love Love Sakusen desu!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-hlwafdUZhjwD.png",
       "behaviorHints": {
-        "defaultVideoId": "tt39195826"
+        "defaultVideoId": "tt39304277"
       },
       "description": "Genres: Comedy\nTags:Parody/Female Protagonist/Primarily Female Cast\nFour part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga.\n<br><br>\n(Source: Natalie Comics)"
     },
@@ -138,7 +138,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt38201958"
       },
-      "description": "Genres: Fantasy\nTags:\n10,000 meters below sea level. On this Earth, there lies a world no one has yet to uncover.\n\nNote: This is a remake of the 1983 movie [Doraemon: Nobita no Kaitei Kiganjou](https://anilist.co/anime/2667/Doraemon-Nobitas-Undersea-Fortress/)"
+      "description": "Genres: Fantasy\nTags:\n10,000 meters below sea level. On this Earth, there lies a world no one has yet to uncover.\n<br><br>\nNote: This is a remake of the 1983 movie <i>Doraemon: Nobita no Kaitei Kiganjou</i>."
     }
   ]
 }
