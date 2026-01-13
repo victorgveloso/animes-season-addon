@@ -176,7 +176,7 @@
       "description": "Genres: Comedy, Romance, Slice of Life\nTags:Yuri/Female Protagonist/Primarily Female Cast/Primarily Adult Cast/College/Seinen/Cute Girls Doing Cute Things/Food/Ensemble Cast/LGBTQ+ Themes\nKamiina Botan is a 20-year-old college student.\nAt the welcome party for the dorm she was assigned to, the dorm leader Ibuki gives her a highball to drink and she becomes tipsy, leading to her involvement with Ibuki from now on... A tipsy teasing girl's comedy! "
     },
     {
-      "id": "kitsu:48878",
+      "id": "tt31806040",
       "type": "series",
       "name": "Diamond no Ace act II: Second Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png",
@@ -197,6 +197,13 @@
       "description": "Genres: Drama, Romance\nTags:Josei/Female Protagonist/Royal Affairs/Foreign/Magic/Historical/Villainess/Ancient China\nIn the Kingdom of Ei, five clans put forth their maidens as imperial consorts—but only one will be crowned empress. Just when frail and beautiful “court butterfly” Kou Reirin seems poised to marry the crown prince, jealous “court rat” Shu Keigetsu steals her body! Reirin wakes up in the dungeons as the conspirator, and things look dire…or do they? Now that she’s got a robust new body, not even the looming threat of execution can stop her! <br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
+      "id": "tt39123061",
+      "type": "series",
+      "name": "The Ramparts of Ice",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:School/Ensemble Cast/Shoujo\nSocially inept, Higawa Koyuki maintains a wall between herself and other people. She spends her time in high school alone, until she meets Amamiya Minato, a boy who keeps trying to close the distance between them for some reason?!\n<BR><BR>\nThe loner Koyuki, the popular Miki, the boundary-less Minato, and the kind basketball player Youta. This is the story about four complicated and confused young people and their mixed up lives!\n<BR><BR>\n(Source: Margaret, translated)"
+    },
+    {
       "id": "tt38939893",
       "type": "series",
       "name": "Tenshou shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
@@ -211,13 +218,6 @@
       "description": "Genres: \nTags:Female Protagonist/Animals/Heterosexual/Magic/Curses/Shapeshifting/Witch\nSpica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n<br><br>\n(Source: K Manga)"
     },
     {
-      "id": "tt37388613",
-      "type": "series",
-      "name": "Awajima Hyakkei",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-M44dXbBb3wbQ.png",
-      "description": "Genres: Drama, Music, Romance\nTags:School/Primarily Female Cast/Episodic/Ensemble Cast/Seinen\nAwajima Opera School—where countless girls from across the country flock in hopes of one day standing on the big stage. As they work toward achieving their dreams of stardom, their time at Awajima is filled with as much friendship and admiration as competition and jealousy. The precious feelings of girls who are at once both classmates and rivals, tenderly captured in the portraits of an ensemble cast!\n<br><br>\n(Source: Yen Press)"
-    },
-    {
       "id": "tt37577523",
       "type": "series",
       "name": "MAO",
@@ -225,11 +225,11 @@
       "description": "Genres: Drama, Romance, Supernatural\nTags:Female Protagonist/Shounen/Male Protagonist\nNanoka passes through a portal into the Taisho era, where exorcist Mao reluctantly rescues her from the jaws of a grotesque yokai. When Nanoka gets back to the present, she discovers she has some new, incredible abilities. She returns to the past looking for answers, only to get caught up in Mao’s investigation of a series of gruesome murders. As her questions about herself multiply, Nanoka learns that Mao is cursed by a cat demon named Byoki—and so is his sword. If anyone but Mao attempts to wield it, they are doomed. But when Mao’s life is in jeopardy, Nanoka picks up his blade and swings!\n<br><br>(Source: VIZ Media)"
     },
     {
-      "id": "tt39123061",
+      "id": "tt37388613",
       "type": "series",
-      "name": "The Ramparts of Ice",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
-      "description": "Genres: Comedy, Romance, Slice of Life\nTags:School/Ensemble Cast/Shoujo\nSocially inept, Higawa Koyuki maintains a wall between herself and other people. She spends her time in high school alone, until she meets Amamiya Minato, a boy who keeps trying to close the distance between them for some reason?!\n<BR><BR>\nThe loner Koyuki, the popular Miki, the boundary-less Minato, and the kind basketball player Youta. This is the story about four complicated and confused young people and their mixed up lives!\n<BR><BR>\n(Source: Margaret, translated)"
+      "name": "Awajima Hyakkei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-M44dXbBb3wbQ.png",
+      "description": "Genres: Drama, Music, Romance\nTags:School/Primarily Female Cast/Episodic/Ensemble Cast/Seinen\nAwajima Opera School—where countless girls from across the country flock in hopes of one day standing on the big stage. As they work toward achieving their dreams of stardom, their time at Awajima is filled with as much friendship and admiration as competition and jealousy. The precious feelings of girls who are at once both classmates and rivals, tenderly captured in the portraits of an ensemble cast!\n<br><br>\n(Source: Yen Press)"
     },
     {
       "id": "tt38840807",
@@ -253,6 +253,13 @@
       "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Youkai/Rural/Iyashikei\nDeep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least, it was full until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n<br><br>\n (Source: Yen Press)"
     },
     {
+      "id": "tt39317979",
+      "type": "series",
+      "name": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist\nWith no other options, Luck makes the choice to hold the line against the unending demonic hordes alone, to make sure his comrades can escape with their lives. However, through a combination of fortune, skill, and ingenuity, he holds that line for ten straight years, eventually coming out on top single handedly. Now he has to tackle the dilemma of how to occupy himself in a world where he holds a myriad of roles: that of a legend, that of a veteran, and that of a brand new face. <br><br>\n(Source: Comikey) "
+    },
+    {
       "id": "tt38040630",
       "type": "series",
       "name": "Maid-san wa Taberu dake",
@@ -265,13 +272,6 @@
       "name": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201817-aYS2EN0WthQI.jpg",
       "description": "Genres: Fantasy, Romance\nTags:Heterosexual/Shoujo\nFrom a very young age, people noticed that Maria, the youngest daughter of a duke, was filled with potential. She was raised as the heiress of her house, until the birth of her baby brother relieves her of her duties. She scrambles to find a husband, but all the eligible bachelors in her duchy are taken!\n<BR><BR>\nAt this rate, she's doomed to the life of a spinster!\n<BR><BR>\nMaria decides to study abroad in Rubini in hopes of finding a husband, with the help of her distant relative, Aida. But in a twist of fate, the Crown Prince breaks off his engagement with Maria, even though they've never met before!<BR>\n<BR>\n\"Huh?! I don't remember getting engaged!?\"\n<BR><BR>\nEnjoy this fluffy romcom with a late-blooming villainess!\n<BR><BR>\n(Source: Manga UP! Global)"
-    },
-    {
-      "id": "tt39317979",
-      "type": "series",
-      "name": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist\nWith no other options, Luck makes the choice to hold the line against the unending demonic hordes alone, to make sure his comrades can escape with their lives. However, through a combination of fortune, skill, and ingenuity, he holds that line for ten straight years, eventually coming out on top single handedly. Now he has to tackle the dilemma of how to occupy himself in a world where he holds a myriad of roles: that of a legend, that of a veteran, and that of a brand new face. <br><br>\n(Source: Comikey) "
     },
     {
       "id": "tt39122622",

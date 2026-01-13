@@ -91,16 +91,6 @@
       "description": "Genres: \nTags:Female Protagonist/Foreign/Ballet\n<i>\"I want to blossom, in this city.\"</i>\n<br><br>\nThe story follows two Japanese girls who never give up in reaching for étoile (stars) during the difficult times at the start of 20th century. Fujiko, who dreams of becoming a painter, and Chizuru, who is drawn into the world of ballet, meet by chance in Yokohama. Then, as if guided by fate, they meet again in Paris and work hard to follow their dreams together. <br><br>\n\n(Source: Anime News Network)"
     },
     {
-      "id": "tt39304277",
-      "type": "movie",
-      "name": "Girls und Panzer: Motto Love Love Sakusen desu!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-hlwafdUZhjwD.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt39304277"
-      },
-      "description": "Genres: Comedy\nTags:Parody/Female Protagonist/Primarily Female Cast\nFour part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga.\n<br><br>\n(Source: Natalie Comics)"
-    },
-    {
       "id": "tt36461929",
       "type": "movie",
       "name": "Kusunoki no Bannin",
@@ -109,6 +99,16 @@
         "defaultVideoId": "tt36461929"
       },
       "description": "Genres: Drama, Mystery\nTags:\nAdaptation of Keigo Hagashino's <i>Kusunoki no Bannin</i> novel about a mysterious camphor tree that is said to grant wishes if you pray to it, and the young man who becomes its guardian."
+    },
+    {
+      "id": "tt39304277",
+      "type": "movie",
+      "name": "Girls und Panzer: Motto Love Love Sakusen desu!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-hlwafdUZhjwD.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt39304277"
+      },
+      "description": "Genres: Comedy\nTags:Parody/Female Protagonist/Primarily Female Cast\nFour part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga.\n<br><br>\n(Source: Natalie Comics)"
     },
     {
       "id": "tt38128471",
