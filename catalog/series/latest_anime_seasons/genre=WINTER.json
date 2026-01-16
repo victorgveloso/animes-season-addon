@@ -19,7 +19,7 @@
       "type": "series",
       "name": "Hell’s Paradise Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166613-uHB8q3D4qbon.jpg",
-      "description": "Genres: Action, Adventure, Mystery, Supernatural\nTags:Ninja/Body Horror/Survival/Samurai/Gore/Ensemble Cast/Shounen/Amnesia/Swordplay/Gender Bending/Super Power/Battle Royale\nThe second season of <i>Jigokuraku</i>."
+      "description": "Genres: Action, Adventure, Mystery, Supernatural\nTags:Ninja/Body Horror/Survival/Samurai/Gore/Ensemble Cast/Shounen/Amnesia/Swordplay/Gender Bending/Super Power/Battle Royale/LGBTQ+ Themes\nThe second season of <i>Jigokuraku</i>."
     },
     {
       "id": "tt32536168",
@@ -57,13 +57,6 @@
       "description": "Genres: Action, Adventure, Drama, Mystery, Supernatural\nTags:Travel/Super Power/Cowboys/Seinen/Historical/Male Protagonist/Disability/Foreign/Primarily Adult Cast/Philosophy/Desert/Politics/Gore/Religion/Heterosexual/Primarily Male Cast/Indigenous Cultures/Wilderness/Coastal/Nun\nThe seventh story arc of the long-running <i>JoJo's Bizarre Adventure</i> series.<br><br>\n\nIt’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Spanning around 4,000 miles, the race offered 50 million dollars as the winning prize.\n<br><br>\nJohnny Joestar, once being hailed as a genius jockey, is now paralysed and lost in despair.\n<br><br>\nHe finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the Steel Ball Run Race.<br><br>\n\nEach having their own goal in mind, the two form an alliance and set foot upon the gruelling adventure and race.<br><br>\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site)<br><br>\n\n<i>Note: The first episode aired with a runtime of 47 minutes.</i>"
     },
     {
-      "id": "tt16156736",
-      "type": "series",
-      "name": "Chained Soldier Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176276-rtF8mYd2OWw2.png",
-      "description": "Genres: Action, Adventure, Drama, Ecchi, Fantasy, Romance\nTags:Female Harem/Heterosexual/Super Power/Slavery/Male Protagonist/Shounen/Creature Taming/Femdom/Urban Fantasy/Primarily Female Cast/Ensemble Cast/Isekai/LGBTQ+ Themes\nThe second season of <i>Mato Seihei no Slave.</i>"
-    },
-    {
       "id": "tt37532731",
       "type": "series",
       "name": "You and I Are Polar Opposites",
@@ -71,18 +64,25 @@
       "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:Heterosexual/Iyashikei/Gyaru/Coming of Age/School/Female Protagonist/Shounen/Primarily Teen Cast/Male Protagonist\nSuzuki’s a high school girl in love, but the guy she’s fallen for is nothing like her! While she’s cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn’t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don’t attract?\n<br><br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt35636246",
+      "id": "tt16156736",
       "type": "series",
-      "name": "My Hero Academia: Vigilantes Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
-      "description": "Genres: Action, Adventure, Drama, Fantasy\nTags:Shounen\nThe second season of <i>Vigilante: Boku no Hero Academia ILLEGALS</i>."
+      "name": "Chained Soldier Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176276-rtF8mYd2OWw2.png",
+      "description": "Genres: Action, Adventure, Drama, Ecchi, Fantasy, Romance\nTags:Female Harem/Heterosexual/Super Power/Slavery/Male Protagonist/Shounen/Creature Taming/Femdom/Urban Fantasy/Primarily Female Cast/Ensemble Cast/Isekai/LGBTQ+ Themes\nThe second season of <i>Mato Seihei no Slave.</i>"
     },
     {
       "id": "tt33309549",
       "type": "series",
       "name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
-      "description": "Genres: Action, Drama, Mystery, Thriller\nTags:Death Game/Primarily Female Cast/Female Protagonist/Kuudere/Philosophy/Achronological Order/Maids\nAt just seventeen, Yuki is a professional death game player. She’s survived enough rounds to know that survival is calculation, not luck—and that failure is final. For most players, the games are a nightmare with no escape. For Yuki, they’re simply business. Yet in a world where rooms turn into graves and every choice could be her last, even experience offers no protection.\n<br><br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: The first episode aired with a runtime of ~47 minutes as opposed to the standard 24 minute long episode.</i>"
+      "description": "Genres: Action, Drama, Mystery, Thriller\nTags:Death Game/Primarily Female Cast/Female Protagonist/Achronological Order/Philosophy/Kuudere/Maids\nAt just seventeen, Yuki is a professional death game player. She’s survived enough rounds to know that survival is calculation, not luck—and that failure is final. For most players, the games are a nightmare with no escape. For Yuki, they’re simply business. Yet in a world where rooms turn into graves and every choice could be her last, even experience offers no protection.\n<br><br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: The first episode aired with a runtime of ~47 minutes as opposed to the standard 24 minute long episode.</i>"
+    },
+    {
+      "id": "tt35636246",
+      "type": "series",
+      "name": "My Hero Academia: Vigilantes Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
+      "description": "Genres: Action, Adventure, Drama, Fantasy\nTags:Shounen\nThe second season of <i>Vigilante: Boku no Hero Academia ILLEGALS</i>."
     },
     {
       "id": "tt38648925",
@@ -180,7 +180,7 @@
       "type": "series",
       "name": "The Holy Grail of Eris",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183270-CmZikKu34WPd.jpg",
-      "description": "Genres: Drama, Fantasy, Mystery, Romance, Supernatural\nTags:Female Protagonist/Royal Affairs/Ghost/Revenge/Villainess/Politics/Anti-Hero/Detective/Historical/Shoujo/Foreign/Ojou-sama/Heterosexual\nBetrayed by her fiancé’s lover and sentenced to public execution, Constance Grail, a plain viscount’s daughter known for her honesty, faces death—until a mysterious voice offers salvation. Scarlett Castiel, a noblewoman long thought dead, may be her only hope. Together, these unlikely allies uncover a dark conspiracy lurking in the heart of high society, where betrayal, secrets, and power collide.\n<br><br>\n(Source: Crunchyroll)\n"
+      "description": "Genres: Drama, Fantasy, Mystery, Romance, Supernatural\nTags:Female Protagonist/Ghost/Royal Affairs/Revenge/Villainess/Politics/Anti-Hero/Detective/Historical/Shoujo/Foreign/Ojou-sama/Heterosexual\nBetrayed by her fiancé’s lover and sentenced to public execution, Constance Grail, a plain viscount’s daughter known for her honesty, faces death—until a mysterious voice offers salvation. Scarlett Castiel, a noblewoman long thought dead, may be her only hope. Together, these unlikely allies uncover a dark conspiracy lurking in the heart of high society, where betrayal, secrets, and power collide.\n<br><br>\n(Source: Crunchyroll)\n"
     },
     {
       "id": "tt38646634",
@@ -190,13 +190,6 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Creature Taming/Isekai/Male Protagonist/Magic\nThirty-five-year-old Kenichi Yamada has spent his life playing every single MMORPG he can get his hands on. Tired of new games that cater to casual players, he leaps at the chance to try out a never-ending game with an intimidating “Hell Mode” that raises the difficulty (and chances to level up) to impossible heights. But, as soon as he selects the “Summoner,” Kenichi finds himself transported into the world of the game and reborn to a family of serfs as a baby named Allen! With nothing but his memories and wits to guide him, Allen sets off to conquer Hell Mode, unearth the secrets of the Summoner class, and free his newfound family from their fate.<br>\n<br>\n(Source: HIDIVE)"
     },
     {
-      "id": "tt38647911",
-      "type": "series",
-      "name": "The Invisible Man and His Soon-to-Be Wife",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185039-rVofxrbEyaL9.jpg",
-      "description": "Genres: Comedy, Romance, Supernatural\nTags:Disability/Heterosexual/Female Protagonist/Monster Girl/Monster Boy/Urban/Male Protagonist/Iyashikei/Detective/Office Lady/Anthropomorphism/Elf/Seinen/Work/Aliens\nAkira Tounome is an invisible gentleman who runs a detective agency, and Shizuka Yakou is a mild-mannered human female who works there. Shizuka can always find Akira even when he turns completely invisible. A quiet love begins to blossom between them as the invisible man and blind girl grow closer to each other…<br>\n<br>\n(Source: Crunchyroll)"
-    },
-    {
       "id": "tt38977386",
       "type": "series",
       "name": "Easygoing Territory Defense by the Optimistic Lord",
@@ -204,11 +197,18 @@
       "description": "Genres: Adventure, Fantasy\nTags:Male Protagonist/Kingdom Management/Medieval/Magic/Isekai/Maids\nVan, fourth son of a marquis, is just a toddler when he realizes he’s been reincarnated. Thanks to his literal lifetime of knowledge, he’s raised as a child prodigy—until his production magic manifests, and it’s the last thing his snooty mage family wants to see! His disappointed father banishes him to a podunk town on the verge of collapse, yet Van can only see the place’s potential. Can our hero’s bastion of battlements build a better life than battle magic ever could?!\n<br><br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt38647911",
+      "type": "series",
+      "name": "The Invisible Man and His Soon-to-Be Wife",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185039-rVofxrbEyaL9.jpg",
+      "description": "Genres: Comedy, Romance, Supernatural\nTags:Disability/Heterosexual/Female Protagonist/Monster Girl/Monster Boy/Urban/Male Protagonist/Iyashikei/Detective/Office Lady/Anthropomorphism/Elf/Seinen/Work/Aliens\nAkira Tounome is an invisible gentleman who runs a detective agency, and Shizuka Yakou is a mild-mannered human female who works there. Shizuka can always find Akira even when he turns completely invisible. A quiet love begins to blossom between them as the invisible man and blind girl grow closer to each other…<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt37901124",
       "type": "series",
       "name": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png",
-      "description": "Genres: Action, Adventure, Drama, Fantasy, Horror\nTags:Female Protagonist/Yuri/Gore/Slavery/Medieval/Magic/Religion/Demons/Swordplay/Body Horror/Zombie/LGBTQ+ Themes/Foreign\nFlum has been chosen by God to be in the hero's party despite having stats of zero across the board. All she has is the \"Reversal\" ability that she still doesn't fully understand. Predictably, she proves useless in battle, but she refuses to give up and continues to do all she can for the party. Her partymate Jean, a genius and renowned sage, picks on her at every opportunity and eventually sells her off into slavery. Even as a slave, she's treated as incompetent and persecuted, and ultimately thrown to monsters as bait for her master's entertainment. Flum is left with two options: take up the cursed sword that inevitably brings death to its wielder, or be eaten by monsters. The moment she chooses to fight back is when the \"Reversal\" of her life begins...\n<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Action, Adventure, Drama, Fantasy, Horror\nTags:Female Protagonist/Yuri/Gore/Slavery/Medieval/Magic/Religion/Demons/Swordplay/Body Horror/Zombie/Werewolf/Chimera/LGBTQ+ Themes/Foreign\nFlum has been chosen by God to be in the hero's party despite having stats of zero across the board. All she has is the \"Reversal\" ability that she still doesn't fully understand. Predictably, she proves useless in battle, but she refuses to give up and continues to do all she can for the party. Her partymate Jean, a genius and renowned sage, picks on her at every opportunity and eventually sells her off into slavery. Even as a slave, she's treated as incompetent and persecuted, and ultimately thrown to monsters as bait for her master's entertainment. Flum is left with two options: take up the cursed sword that inevitably brings death to its wielder, or be eaten by monsters. The moment she chooses to fight back is when the \"Reversal\" of her life begins...\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt37533007",
@@ -225,18 +225,18 @@
       "description": "Genres: Comedy, Romance, Slice of Life\nTags:Iyashikei/Work/Female Protagonist/Amnesia/Educational/Coastal\nFor the past two years, cheerful and hardworking Kinme Wakana has run a small laundry shop in the seaside hot springs town of Atami. As she goes about her quiet days, Wakana finds herself drawn into the bittersweet, heartwarming stories of the people around her.\n<br><br>\n(Source: Crunchyroll)\n"
     },
     {
-      "id": "tt11043632",
-      "type": "series",
-      "name": "BEASTARS Final Season Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-9CTI2dejZhEP.jpg",
-      "description": "Genres: Drama, Mystery, Psychological, Slice of Life\nTags:Animals/CGI/Full CGI/Anthropomorphism/Male Protagonist/Primarily Animal Cast/Coming of Age/Psychosexual/Heterosexual/Shounen\nThe second part of <i>BEASTARS Final Season</i>.\n<br><br>\nDesiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts.\n<br><br>\n(Source: Netflix Anime)"
-    },
-    {
       "id": "tt38253018",
       "type": "series",
       "name": "You Can't Be In a Rom-Com with Your Childhood Friends!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg",
       "description": "Genres: Comedy, Romance\nTags:Heterosexual/Love Triangle/Male Protagonist/Shounen/Tanned Skin/School/Parody/Tsundere/Tomboy/Meta\nEeyuu, a high school boy, has a problem! Two childhood friends \"Shio\" and \"Akari\" who go to the same high school are too cute! If they find out that I'm the only one looking sexually at them now that they've grown up, even though I have no intention of doing so... that would be too much! On the other hand, the two childhood friends also have their own secrets...? It's so awkward! It's complicated! But childhood friends are the best! A sweet and impatient love triangle love comedy where you can't be honest!\n<br><br>\n(Source: Kodansha, translated)"
+    },
+    {
+      "id": "tt11043632",
+      "type": "series",
+      "name": "BEASTARS Final Season Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-9CTI2dejZhEP.jpg",
+      "description": "Genres: Drama, Mystery, Psychological, Slice of Life\nTags:Animals/CGI/Full CGI/Anthropomorphism/Male Protagonist/Primarily Animal Cast/Coming of Age/Psychosexual/Heterosexual/Shounen\nThe second part of <i>BEASTARS Final Season</i>.\n<br><br>\nDesiring a future where he can be with Haru and where carnivores and herbivores can coexist, Legoshi continues down the difficult path of opposing the wicked and fighting his own instincts.\n<br><br>\n(Source: Netflix Anime)"
     },
     {
       "id": "tt38652044",
@@ -260,18 +260,18 @@
       "description": "Genres: Fantasy, Music, Sci-Fi\nTags:Female Protagonist/Primarily Female Cast/Idol/Virtual World/Kemonomimi\nA tale of otherworldly beauty and celestial secrets unfolds in this new take on Japan’s oldest folktale.<br><br>\n\nInspired by The Tale of the Bamboo Cutter, the film reimagines Japan’s oldest folktale with a modern touch by integrating music, fantasy, and contemporary animation.<br><br>\n\nSet in the virtual realm of Tsukuyomi, the story unfolds as a live performance marrying original music with Yamashita’s signature style of polished visuals, emotive pacing, and dynamic 3D camerawork to boldly transform this classic tale for a new generation.<br><br>\n\n(Source: Netflix, edited)"
     },
     {
-      "id": "tt37137805",
-      "type": "series",
-      "name": "Champignon Witch",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185514-mfJqhtz22l1Z.jpg",
-      "description": "Genres: Drama, Fantasy, Supernatural\nTags:Witch/Medieval/Shoujo/Female Protagonist/Heterosexual/Medicine/Magic/Rural\nLuna, a black witch who lives quietly in a poisonous mushroom house, deep in the Black Forest. She lives in the city making high-efficiency medicines, but it is said that if the \"Mushroom Witch\" touches you, you'll die, and she is avoided ... The life of a witch who doesn't know the warmth of people is carefully and momentarily drawn."
-    },
-    {
       "id": "tt38179614",
       "type": "series",
       "name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195518-XXcYHi6tXM6v.jpg",
       "description": "Genres: Fantasy, Romance\nTags:Heterosexual/Shoujo/Isekai/Villainess\nOn the day before her downfall, Lady Tiararose Lapis Clementille recalls that she is in an otome game that she had once played in her former life. She used to adore the main love interest Prince Hartknights Lapis-Lazuli Lactomuth, but unfortunately, she was not reincarnated as the heroine, but rather as is his worst enemy—the villainess fiancée.<br><br>\n\nAt their graduation ceremony, without blinking an eye, Hartknights condemns Tiararose for alleged crimes, breaks off his engagement, and proclaims the heroine Akari as his new bride-to-be. No matter whether Tiararose is innocent, he banishes her from the kingdom. But before her sentence can be carried out, a shocking figure appears. Aquasteed Marineforest, the prince of a powerful neighboring country, has been harboring feelings for Tiararose for quite some time, and announces his intention to marry her!<br><br>\n\nAdored by the prince of another kingdom, what awaits the villainess on her path to a happy ending?<br><br>\n\n(Source: MAL Rewrite)"
+    },
+    {
+      "id": "tt37137805",
+      "type": "series",
+      "name": "Champignon Witch",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185514-mfJqhtz22l1Z.jpg",
+      "description": "Genres: Drama, Fantasy, Supernatural\nTags:Heterosexual/Witch/Shoujo/Medieval/Female Protagonist/Age Regression/Magic/Rural/Medicine\nLuna, a black witch who lives quietly in a poisonous mushroom house, deep in the Black Forest. She lives in the city making high-efficiency medicines, but it is said that if the \"Mushroom Witch\" touches you, you'll die, and she is avoided ... The life of a witch who doesn't know the warmth of people is carefully and momentarily drawn."
     },
     {
       "id": "tt38969275",
@@ -285,7 +285,7 @@
       "type": "series",
       "name": "Hana-Kimi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177580-ujQw6Ws3oVCi.jpg",
-      "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:Shoujo/Athletics/Female Protagonist/Gender Bending/Male Harem/Crossdressing/Primarily Teen Cast/Boarding School/Primarily Male Cast/School/Heterosexual/Tomboy/Urban\nMizuki Ashiya is on a mission: disguise herself as a boy and enroll in a male boarding school to meet her idol, high jump star Izumi Sano. But after successfully infiltrating the school, she discovers he’s suddenly quit the sport! Now Mizuki must dodge suspicion, protect her cover, and somehow reach the boy she came all this way for—all while surviving the chaos of an all-boys dorm!\n<br><br>\n(Source: Crunchyroll)"
+      "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:Shoujo/Athletics/Female Protagonist/Primarily Teen Cast/Gender Bending/Male Harem/Crossdressing/Boarding School/Primarily Male Cast/School/Tomboy/Heterosexual/Urban\nMizuki Ashiya is on a mission: disguise herself as a boy and enroll in a male boarding school to meet her idol, high jump star Izumi Sano. But after successfully infiltrating the school, she discovers he’s suddenly quit the sport! Now Mizuki must dodge suspicion, protect her cover, and somehow reach the boy she came all this way for—all while surviving the chaos of an all-boys dorm!\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt38631545",
@@ -295,18 +295,18 @@
       "description": "Genres: Comedy, Horror, Slice of Life\nTags:Female Protagonist/Ghost/Super Power/Seinen/Primarily Child Cast/School/Episodic/Work/Body Horror/Urban Fantasy/Cosmic Horror/Anti-Hero/Curses\nKaya-chan attends Hanamugi Kindergarten, and she has an incredibly strong sixth sense. She secretly beats up the ghosts that stalk her friends and family, but in turn, she’s treated like a troublemaker since nobody understands her strange behavior. Everything changes when her teacher, Chie, discovers her secret. Kaya-chan's fists will go flying at any sinister spirits that show up!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "kitsu:48667",
-      "type": "series",
-      "name": "'Tis Time for \"Torture,\" Princess Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176370-hz2H4TUeyGgt.png",
-      "description": "Genres: Comedy, Fantasy\nTags:Female Protagonist/Cute Girls Doing Cute Things/Monster Girl/Demons/Iyashikei/Episodic/Shounen\nAs the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe?\n<br><br>\n(Source: Crunchyroll)"
-    },
-    {
       "id": "tt38647627",
       "type": "series",
       "name": "An Adventurer’s Daily Grind at Age 29",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg",
       "description": "Genres: Adventure, Fantasy, Slice of Life\nTags:Iyashikei/Male Protagonist/Demons/Medieval/Rural/Survival\nHaving spent his childhood in the slums, Hajime Shinonome desperately sought strength to survive.\n<br><br>\nNow, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village.\n<br><br>\nOne day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime!\n<br><br>\nThe girl's name was Lirui. Having been abandoned by her parents, she had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn't just leave her there, so he took her back to the village to live with him!<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "kitsu:48667",
+      "type": "series",
+      "name": "'Tis Time for \"Torture,\" Princess Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176370-hz2H4TUeyGgt.png",
+      "description": "Genres: Comedy, Fantasy\nTags:Female Protagonist/Cute Girls Doing Cute Things/Monster Girl/Demons/Iyashikei/Episodic/Shounen\nAs the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe?\n<br><br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt28299608",
@@ -323,18 +323,18 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Dragons/Male Protagonist/Animals/Isekai/Female Protagonist/Rural/Magic\nOur hero needs to come out of his shell... literally! Reborn in another world inside a dragon egg, he doesn’t have the amazing magic or mighty physical strength of your typical isekai’d adventurer just yet. He’ll need to break free and grow from a weak hatchling and into a fearsome beast if he wants to escape the deep, dark forest unscathed. What battles and adventures await him in this unique take on the isekai phenomenon?\n<br><br>\n(Source: HIDIVE)"
     },
     {
+      "id": "tt36632066",
+      "type": "series",
+      "name": "A Gentle Noble's Vacation Recommendation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182771-KVq712ii32fJ.jpg",
+      "description": "Genres: Adventure, Fantasy, Slice of Life\nTags:LGBTQ+ Themes/Isekai/Primarily Male Cast/Male Protagonist/Josei\nLizel, a brilliant young chancellor of a powerful nation in a fantasy realm, suddenly finds himself transported to another world—mid-conversation, no less. Unfazed, he decides to treat it like a vacation and become an adventurer! Teaming up with Gil, a lone wolf top-ranker, Lizel uses his wit, charm, and intellect to navigate this new world. So begin the whimsical adventures of a noble off duty!<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt39255171",
       "type": "series",
       "name": "Does it Count if You Lose Your Innocence to an Android?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
       "description": "Genres: Comedy, Ecchi, Romance, Sci-Fi\nTags:Female Protagonist/Yuri/Nudity/Primarily Adult Cast/Artificial Intelligence/Robots/Large Breasts/Fingering/Defloration/LGBTQ+ Themes/Bisexual\nOffice Lady Tsuda Akane, age 28, seems like she’s got it all together. Beautiful, brainy, and an indispensable office worker for a robotics manufacturer, Akane’s admired at work…because her colleagues can’t see her at home. Privately, Akane’s a hot mess with an apartment that looks more like a landfill than a living space. Good thing she drunkenly ordered a new android named Nadeshiko to help her clean up! Well, maybe not good, because the beautiful lady android that arrives is a horny hottie. Akane’s about to get more service than she expected!\n<br><br>\n(Source: Seven Seas Entertainment)"
-    },
-    {
-      "id": "tt36632066",
-      "type": "series",
-      "name": "A Gentle Noble's Vacation Recommendation",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182771-KVq712ii32fJ.jpg",
-      "description": "Genres: Adventure, Fantasy, Slice of Life\nTags:LGBTQ+ Themes/Isekai/Male Protagonist/Primarily Male Cast/Josei\nLizel, a brilliant young chancellor of a powerful nation in a fantasy realm, suddenly finds himself transported to another world—mid-conversation, no less. Unfazed, he decides to treat it like a vacation and become an adventurer! Teaming up with Gil, a lone wolf top-ranker, Lizel uses his wit, charm, and intellect to navigate this new world. So begin the whimsical adventures of a noble off duty!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt36290183",
