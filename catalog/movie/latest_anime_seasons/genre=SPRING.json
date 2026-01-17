@@ -51,6 +51,16 @@
       "description": "Genres: Mystery\nTags:Crime/Police/Detective\nThe 29th <i>Detective Conan</i> movie."
     },
     {
+      "id": "tt39371353",
+      "type": "movie",
+      "name": "Entotsu-machi no Poupelle: Yakusoku no Tokei-dai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190668-8r3mK40eIm3E.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt39371353"
+      },
+      "description": "Genres: Fantasy\nTags:\nSequel to <i>Entotsu-machi no Poupelle</i>.<br><br>\nAfter losing his friend Poupelle, young Lubicchi wanders into a mysterious realm where a clock in a tower is frozen at 11:59. To return home, he must restart it – and find the courage to believe again.<br><br>\n\n(Source: Berlin International Film Festival)"
+    },
+    {
       "id": "tt39060110",
       "type": "movie",
       "name": "Himitsu no AiPri: Mankai Buzzrium Live!",
