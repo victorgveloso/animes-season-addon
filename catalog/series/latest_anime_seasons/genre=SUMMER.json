@@ -124,14 +124,7 @@
       "type": "series",
       "name": "World Is Dancing",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-6WkOcMo6n1OS.jpg",
-      "description": "Genres: Drama\nTags:Dancing/Historical/Acting/Coming of Age\nBorn into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. \"Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?\" It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br>\n\n(Source: Kodansha Comics)"
-    },
-    {
-      "id": "tt39311004",
-      "type": "series",
-      "name": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-ySe47TZyb57n.jpg",
-      "description": "Genres: Action, Comedy, Drama, Fantasy, Mahou Shoujo\nTags:Female Protagonist/Magic\n\"Magical Girl Lyrical Nanoha\" completely new TV anime announced for the series' 20th anniversary:<br>\n<i>Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance</i>"
+      "description": "Genres: Drama\nTags:Dancing/Historical/Acting/Coming of Age/Male Protagonist\nBorn into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. \"Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?\" It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br>\n\n(Source: Kodansha Comics)"
     },
     {
       "id": "tt0388629",
@@ -139,6 +132,13 @@
       "name": "ONE PIECE HEROINES",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
       "description": "Genres: Action, Adventure\nTags:Pirates/Anthology/Primarily Female Cast/Achronological Order/Female Protagonist/Fashion\nThe ladies of <i>One Piece</i> take the helm in these exciting short tales!<br><br>\n\nGo behind the runway as style icon Nami stars in a life-changing fashion show, observe wise Robin as she helps to decipher an ancient tablet with Koala and Sabo, watch as solemn Princess Vivi receives a love letter from an unexpected admirer, and check out Ghost Princess Perona’s battle over the last bottle of wine with Zoro and Mihawk!<br><br>\n\n(Source: VIZ, edited)"
+    },
+    {
+      "id": "tt39311004",
+      "type": "series",
+      "name": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-ySe47TZyb57n.jpg",
+      "description": "Genres: Action, Comedy, Drama, Fantasy, Mahou Shoujo\nTags:Female Protagonist/Magic\n\"Magical Girl Lyrical Nanoha\" completely new TV anime announced for the series' 20th anniversary:<br>\n<i>Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance</i>"
     },
     {
       "id": "tt39551330",
@@ -169,6 +169,13 @@
       "description": "Genres: Drama, Fantasy\nTags:Female Protagonist/Revenge/Shounen/Royal Affairs/Magic\nElizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n<br><br>\n(Source: J-Novel Club)"
     },
     {
+      "id": "tt37678470",
+      "type": "series",
+      "name": "Sora wa Akai Kawa no Hotori",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-oxE6MkP88LKf.jpg",
+      "description": "Genres: Action, Adventure, Drama, Fantasy, Romance\nTags:Politics/Swordplay/Kingdom Management/Royal Affairs/Female Protagonist/Historical/Indigenous Cultures/Shoujo/Foreign/Isekai\nYuri, a pretty Japanese girl, is ecstatic after passing her college entrance exam and having her first kiss with her childhood friend-turned boyfriend. However, her luck soon changes. She starts to notice that water becomes agitated whenever she goes near it. One night, hands appear out of a puddle on the street and drag her into the water! Transported to an ancient village in the Middle East, she is then captured by armed troops and taken to the Queen's palace for a human sacrifice.\n<br><br>\n(Source: VIZ Media)"
+    },
+    {
       "id": "tt38267477",
       "type": "series",
       "name": "BanG Dream! Yume∞Mita",
@@ -183,11 +190,11 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Medieval\nCorporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n<br><br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt37678470",
+      "id": "tt38273525",
       "type": "series",
-      "name": "Sora wa Akai Kawa no Hotori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-oxE6MkP88LKf.jpg",
-      "description": "Genres: Action, Adventure, Drama, Fantasy, Romance\nTags:Politics/Swordplay/Kingdom Management/Royal Affairs/Female Protagonist/Historical/Indigenous Cultures/Shoujo/Foreign/Isekai\nYuri, a pretty Japanese girl, is ecstatic after passing her college entrance exam and having her first kiss with her childhood friend-turned boyfriend. However, her luck soon changes. She starts to notice that water becomes agitated whenever she goes near it. One night, hands appear out of a puddle on the street and drag her into the water! Transported to an ancient village in the Middle East, she is then captured by armed troops and taken to the Queen's palace for a human sacrifice.\n<br><br>\n(Source: VIZ Media)"
+      "name": "Tefuda ga Oume no Victoria",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-KnZCqdH7fu3F.png",
+      "description": "Genres: Action, Drama, Fantasy, Romance\nTags:\nIn an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n<br><br>\n(Source: Yen Press)"
     },
     {
       "id": "tt36290385",
@@ -195,13 +202,6 @@
       "name": "Kore Kaite Shine",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-TBVfJaCZrcfg.jpg",
       "description": "Genres: Comedy, Slice of Life\nTags:Female Protagonist/Coastal/Drawing/Primarily Female Cast/Cute Girls Doing Cute Things\n<i>Kore Kaite Shine</i> is set in Izu Oshima, an island 120 kilometers south of Tokyo. The story centers on Ai Yasumi, a high school girl who loves to read manga, and learns about the joy and pain of drawing her own manga\n<br><br>\n(Source: Anime News Network)"
-    },
-    {
-      "id": "tt38273525",
-      "type": "series",
-      "name": "Tefuda ga Oume no Victoria",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-KnZCqdH7fu3F.png",
-      "description": "Genres: Action, Drama, Fantasy, Romance\nTags:\nIn an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n<br><br>\n(Source: Yen Press)"
     },
     {
       "id": "tt39249304",
