@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt14523706",
+      "type": "movie",
+      "name": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133007-5gOUXDvzxy9S.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt14523706"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Magic/Female Protagonist/Primarily Female Cast/Philosophy/Witch/Super Power/Urban Fantasy/Kuudere/Guns/Curses\nThe 10th anniversary online event for the <i>Mahou Shoujo Madoka☆Magica</i> anime revealed that the franchise is getting a new anime film titled <i>Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten</i>. The film will be an official sequel to the <i>Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari</i> film that opened in October 2013. The tagline on the new film's visual reads, <i>\"Now, let's continue the story.\"</i><br><br>\n(Source: Anime News Network, edited)"
+    },
+    {
       "id": "tt39026173",
       "type": "movie",
       "name": "Chiikawa: Ningyo no Shima no Himitsu",
