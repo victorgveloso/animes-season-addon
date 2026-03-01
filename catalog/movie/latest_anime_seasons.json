@@ -1,134 +1,74 @@
 {
   "metas": [
     {
-      "id": "tt38650409",
+      "id": "tt38652027",
       "type": "movie",
-      "name": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182206-LcitQfDLsdnC.png",
+      "name": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178707-Ys8zvR7BLECi.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt38650409"
+        "defaultVideoId": "tt38652027"
       },
-      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Isekai/Medieval/Demons/Agender/Male Protagonist/Shounen/Femboy\nThe second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br>\nAfter concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br>\n\n(Source: Crunchyroll)<br><br>\n<i>Note: Relations are provisional and subject to change.</i>"
+      "description": "Genres: Action, Romance, Sci-Fi, Supernatural\nTags:Magic\nMovie adaptation of <i>Mahouka Koukou no Rettousei's</i> Yotsuba Succession Arc.<br>\n<br>\nThe invitation has arrived. It is time for the New Year’s Reception at the Yotsuba family residence. This year, Miyuki and other candidates will gather there to decide who will be the next leader of their powerful clan. If chosen as the successor, she would never have to see her brother live as a pariah ever again. At the same time, such a position surely entails a political marriage, plunging her mind into complete turmoil. Complicating matters, the current head of their family sows doubt with the shocking claim that Miyuki is not Tatsuya’s sister. When the new year comes, their relationship may be changed forever...<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt38650422",
+      "id": "tt39123182",
       "type": "movie",
-      "name": "The Dangers in My Heart: The Movie",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182317-zzpOnAECrM2o.png",
+      "name": "Saishuu Gakushou Hibike! Euphonium - Zenpen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188035-wTA4Yse8APa1.png",
       "behaviorHints": {
-        "defaultVideoId": "tt38650422"
+        "defaultVideoId": "tt39123182"
       },
-      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Heterosexual/Coming of Age/Male Protagonist/Female Protagonist/Primarily Teen Cast/School/Tsundere/Food/Chuunibyou/Shounen\nA re-edit of both anime seasons featuring newly added footage and will depict the story of Ichikawa and Yamada after the events of the TV series."
+      "description": "Genres: Drama, Music, Slice of Life\nTags:Band/Female Protagonist/Coming of Age/Classical Music/School Club/School/Primarily Teen Cast/Primarily Female Cast\nThe music isn’t over yet!<br><br>\n\n<i>“Sound! Euphonium, The Final Movie”</i> is coming in 2026!"
     },
     {
-      "id": "tt36148135",
+      "id": "tt36282134",
       "type": "movie",
-      "name": "ALL YOU NEED IS KILL",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187892-8xwQPygNv9SG.jpg",
+      "name": "Mononoke: Hebigami",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179874-JXaQoBDuaYlq.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt36148135"
+        "defaultVideoId": "tt36282134"
       },
-      "description": "Genres: Action, Sci-Fi, Supernatural, Thriller\nTags:Aliens/Time Loop/War/Gore/Female Protagonist/Robots/Survival/Heterosexual\nAfter an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. <i> \"I've been repeating this day too,\" </i> he says. Two lost souls, trapped in an endless war. Could their meeting change fate?\n<br><br>\n(Source: Warner Bros. Japan Anime)\n<br><br>\n<i>Note: The film received an early premiere at the 2025 Annecy International Animation Film Festival  on June 9, 2025.</i>"
+      "description": "Genres: Fantasy, Horror, Mystery, Psychological, Supernatural\nTags:Youkai/Cosmic Horror\nThe third movie in the <i>Mononoke</i> movie trilogy."
     },
     {
-      "id": "tt38649153",
+      "id": "tt39123173",
       "type": "movie",
-      "name": "Ansatsu Kyoushitsu: Minna no Jikan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198373-bJ7PYyknp4ln.jpg",
+      "name": "Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194167-kPUIZQFObAau.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt38649153"
+        "defaultVideoId": "tt39123173"
       },
-      "description": "Genres: Action, Comedy, Sci-Fi, Supernatural\nTags:Assassins/Shounen\nA new movie to commemorate <i>Assassination Classroom's</i> 10th anniversary of the TV anime.<br>\n<br>\nIt adapts episodes previously omitted in the original anime series."
+      "description": "Genres: Music\nTags:Idol/Female Protagonist/Full CGI/Primarily Female Cast/Dancing/Ensemble Cast\nnull"
     },
     {
-      "id": "tt32915652",
+      "id": "tt39123115",
       "type": "movie",
-      "name": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113971-y2wxyDYUqiHz.png",
+      "name": "Meitantei Conan: Highway no Datenshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198369-SCQoqNEk325p.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt32915652"
+        "defaultVideoId": "tt39123115"
       },
-      "description": "Genres: Action, Drama, Mecha, Sci-Fi\nTags:Real Robot/Military\nSecond movie in the Hathaway trilogy celebrating the Gundam franchise's 40th anniversary, and the second project in the \"UC NexT 0100 Project\" that will tackle the future of the UC timeline.\n<br><br>\nHaunted by past trauma, Hathaway is drawn to the mysterious girl Gigi Andalucia, whose strange powers stir memories within him. While swayed by her cryptic words, he continues preparing for Mafty’s mission — the attack on the Adelaide Conference. Meanwhile, Kenneth Sleg of the Federation Forces prepares a defense operation for the Adelaide Conference and a plan to eliminate Mafty, when he is approached by Handley Yoxon of the Criminal Police Organization with a secret proposal. As Hathaway and Kenneth pursue their respective goals, Gigi also sets off for Hong Kong to fulfill her own role. \n<br><br>\n(Source: GundamInfo)"
+      "description": "Genres: Mystery\nTags:Crime/Police/Detective\nThe 29th <i>Detective Conan</i> movie."
     },
     {
-      "id": "tt32192760",
+      "id": "tt39371353",
       "type": "movie",
-      "name": "Hanarokushou ga Akeru Hi ni",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177132-V5P7e5f5OzNB.jpg",
+      "name": "Entotsu-machi no Poupelle: Yakusoku no Tokei-dai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190668-8r3mK40eIm3E.png",
       "behaviorHints": {
-        "defaultVideoId": "tt32192760"
+        "defaultVideoId": "tt39371353"
       },
-      "description": "Genres: \nTags:\nThe Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.\n<br><br>\n(Source: Marché  du Film Festival de Cannes)\n<br><br>\n*<i>The film was selected for the 77th Cannes Film Festival’s 2024 Annecy Animation Showcase.</i>\n<br>*<i>Note: Initially slated for a 2025 release, on May 20th of the same year the movie was delayed to 2026. </i> "
+      "description": "Genres: Fantasy\nTags:\nSequel to <i>Entotsu-machi no Poupelle</i>.<br><br>\nAfter losing his friend Poupelle, young Lubicchi wanders into a mysterious realm where a clock in a tower is frozen at 11:59. To return home, he must restart it – and find the courage to believe again.<br><br>\n\n(Source: Berlin International Film Festival)"
     },
     {
-      "id": "tt37931873",
+      "id": "tt39060110",
       "type": "movie",
-      "name": "Shin Gintama Movie: Yoshiwara Daienjou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197474-jTeY1G9gtD8i.jpg",
+      "name": "Himitsu no AiPri: Mankai Buzzrium Live!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203100-RBKJFcTcGS82.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt37931873"
+        "defaultVideoId": "tt39060110"
       },
-      "description": "Genres: Action, Comedy, Sci-Fi\nTags:Gore/Samurai/Shounen/Parody/Male Protagonist/Gender Bending/Aliens/Swordplay\nMovie remake of the Yoshiwara Enjou arc.\n<br><br>\n\nUpon meeting a young boy named Haruta who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hiwa, Yoshiwara's number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Haruta's wish, but standing in their way is Housen, the Night King who rules Yoshiwara.\n<br><br>\n<i>Note: This anime was announced at the \"Gintama Multiverse Festival,\" an event held on August 16th, as part of the \"Gintama 20th Anniversary Project.\" This movie features volumes 25 and 26 of the manga, and the TV anime series spans eight episodes, from episodes 139 to 146.</i>"
-    },
-    {
-      "id": "tt37874634",
-      "type": "movie",
-      "name": "Paris ni Saku Étoile",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197097-adHgYO4T73vA.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt37874634"
-      },
-      "description": "Genres: \nTags:Ballet/Foreign/Female Protagonist\n<i>\"I want to blossom, in this city.\"</i>\n<br><br>\nThe story follows two Japanese girls who never give up in reaching for étoile (stars) during the difficult times at the start of 20th century. Fujiko, who dreams of becoming a painter, and Chizuru, who is drawn into the world of ballet, meet by chance in Yokohama. Then, as if guided by fate, they meet again in Paris and work hard to follow their dreams together. <br><br>\n\n(Source: Anime News Network)"
-    },
-    {
-      "id": "tt36461929",
-      "type": "movie",
-      "name": "Kusunoki no Bannin",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189956-6CFMaDqxTTNl.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt36461929"
-      },
-      "description": "Genres: Drama, Mystery, Supernatural\nTags:\nAdaptation of Keigo Hagashino's <i>Kusunoki no Bannin</i> novel about a mysterious camphor tree that is said to grant wishes if you pray to it, and the young man who becomes its guardian."
-    },
-    {
-      "id": "tt39195826",
-      "type": "movie",
-      "name": "Girls und Panzer: Motto Love Love Sakusen desu!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-hlwafdUZhjwD.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt39195826"
-      },
-      "description": "Genres: Comedy\nTags:Female Protagonist/Parody/Ensemble Cast/School Club/Cute Girls Doing Cute Things/School/Primarily Female Cast/Yuri\nFour part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga.\n<br><br>\n(Source: Natalie Comics)"
-    },
-    {
-      "id": "tt38507195",
-      "type": "movie",
-      "name": "LABYRINTH",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195384-mi810JewTu08.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt38507195"
-      },
-      "description": "Genres: Horror, Sci-Fi\nTags:Female Protagonist/Isekai/Denpa/Full CGI/Cosmic Horror\nOne day, Shiori Maezawa, an ordinary high school girl, cracked her smartphone while falling down a staircase. As she wakes up, she finds herself in a deserted, parallel world that looks like Yokohama.\n<br><br>\nWhen she looks at her smartphone, she finds a photo of herself that she doesn't remember posting on social media. What’s the source of this mysterious post?\n<br><br>\nWill she be able to escape from this strange smartphone labyrinth?\n<br><br>\n(Source: Official Site, translated)"
-    },
-    {
-      "id": "tt39228706",
-      "type": "movie",
-      "name": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204949-aLHdk5zHtnXv.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt39228706"
-      },
-      "description": "Genres: Adventure, Comedy, Fantasy, Sci-Fi\nTags:Space/Trains\nTheatrical version of <i>Ginga Tokkyuu Milky☆Subway</i> with additional new scenes."
-    },
-    {
-      "id": "tt38201958",
-      "type": "movie",
-      "name": "Doraemon: Shin Nobita no Kaitei Kiganjou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt38201958"
-      },
-      "description": "Genres: Fantasy\nTags:\n10,000 meters below sea level. On this Earth, there lies a world no one has yet to uncover.\n<br><br>\nNote: This is a remake of the 1983 movie <i>Doraemon: Nobita no Kaitei Kiganjou</i>."
+      "description": "Genres: Music\nTags:\nMovie of <i>Himitsu no AiPri</i>, first announced at the Pretty Series Crossing Live 2025."
     }
   ]
 }
