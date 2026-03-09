@@ -51,16 +51,6 @@
       "description": "Genres: Supernatural\nTags:Coastal\nThe short is set in a coastal town in Kumamoto at the tail end of summer 1996. The 10-year-old boy Minato lives a precarious life with his drunkard father. Minato's only source of strength is Ben-chan, a goddess in the form of a young girl that appeared in Benten Island. The time he spends with her are the only times where he feels like himself. But when he is about to be separated from Ben-chan due to being sent to a children's home, Minato prays to a Shiranuhi, a mysterious light floating above the sea, to grant him one wish. His wish, filled with hatred towards his father, eventually becomes a curse.<br><br>\n(Source: Anime News Network)<br><br>\n<i>Note: Initially teased at AnimeJapan 2024 in the CoMix Wave Films booth, a visual of this project was shown off with a description being a new animation project by a \"rookie director\".</i>"
     },
     {
-      "id": "tt37529019",
-      "type": "movie",
-      "name": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206682-CV51UmTvQJ84.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt37529019"
-      },
-      "description": "Genres: Comedy, Fantasy\nTags:\nPantan is a red panda who seeks to find the treasure thought to be in a rainbow star in the night sky, in order to keep a promise made to an adventurer long ago. When Pantan and Anpanman encounter each other, Anpanman lends his abilities to help out Pantan.\n<br><br>\n(Source: Anime News Network)"
-    },
-    {
       "id": "tt35009463",
       "type": "movie",
       "name": "Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation",
@@ -69,6 +59,16 @@
         "defaultVideoId": "tt35009463"
       },
       "description": "Genres: Action, Adventure, Comedy\nTags:\nThe Nohara family go to Hiroshi's hometown of Akita to attend a famous fireworks festival during the summer. However, an incident causes youkai to escape from their land and will wreak havoc in Akita and in other areas throughout Japan. The Nohara family then go to the land of youkai and find themselves in a mysterious yet nostalgic world, where they go on an unpredictable adventure.\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt39522766",
+      "type": "movie",
+      "name": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206682-CV51UmTvQJ84.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt39522766"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:\nPantan is a red panda who seeks to find the treasure thought to be in a rainbow star in the night sky, in order to keep a promise made to an adventurer long ago. When Pantan and Anpanman encounter each other, Anpanman lends his abilities to help out Pantan.\n<br><br>\n(Source: Anime News Network)"
     }
   ]
 }
