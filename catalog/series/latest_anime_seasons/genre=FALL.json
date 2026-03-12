@@ -5,14 +5,21 @@
       "type": "series",
       "name": "Kusuriya no Hitorigoto 3rd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-FWHIFQMvCjVj.jpg",
-      "description": "Genres: Drama, Mystery\nTags:Medicine/Female Protagonist/Ancient China/Politics/Seinen/Detective/Historical/Heterosexual/Class Struggle/Femboy\nThe third season of <i>Kusuriya no Hitorigoto</i>."
+      "description": "Genres: Drama, Mystery\nTags:Medicine/Female Protagonist/Politics/Ancient China/Seinen/Detective/Historical/Heterosexual/Class Struggle/Femboy\nThe third season of <i>Kusuriya no Hitorigoto</i>."
     },
     {
       "id": "tt32639706",
       "type": "series",
       "name": "Ao no Hako Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-A9TQrCXyWBhN.jpg",
-      "description": "Genres: Romance, Slice of Life, Sports\nTags:Primarily Teen Cast/Heterosexual/Iyashikei/School/Male Protagonist/Coming of Age/Badminton/Acrobatics/Shounen/Female Protagonist/Basketball\nThe second season of <i>Ao no Hako</i>.\n"
+      "description": "Genres: Romance, Slice of Life, Sports\nTags:Primarily Teen Cast/Heterosexual/Iyashikei/School/Male Protagonist/Coming of Age/Badminton/Acrobatics/Female Protagonist/Shounen/Basketball\nThe second season of <i>Ao no Hako</i>.\n"
+    },
+    {
+      "id": "tt15792808",
+      "type": "series",
+      "name": "Aoashi 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-y38vt4uRRHWK.jpg",
+      "description": "Genres: Sports\nTags:Football/Male Protagonist/Seinen\nThe second season of <i>Aoashi</i>."
     },
     {
       "id": "tt39394153",
@@ -40,7 +47,7 @@
       "type": "series",
       "name": "Mahou Shoujo Ikusei Keikaku: restart",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-aBWg5M8qdOMX.jpg",
-      "description": "Genres: Action, Fantasy, Mahou Shoujo, Thriller\nTags:Female Protagonist/Kuudere/Primarily Female Cast/Magic\nA stage reading in the Magical Girl Raising Project franchise announced that an anime adaptation of Asari Endou's Magical Girl Raising Project Restart light novel volumes has been green-lit. Hiroyuki Hashimoto reported on Twitter that he will return from the first Magical Girl Raising Project anime as the director. The franchise's Twitter account also teased that various initiatives are in the works for \"Project restart.\"<br><br>\n(Source: Anime News Network)"
+      "description": "Genres: Action, Fantasy, Mahou Shoujo, Thriller\nTags:Female Protagonist/Kuudere/Magic/Primarily Female Cast\nA stage reading in the Magical Girl Raising Project franchise announced that an anime adaptation of Asari Endou's Magical Girl Raising Project Restart light novel volumes has been green-lit. Hiroyuki Hashimoto reported on Twitter that he will return from the first Magical Girl Raising Project anime as the director. The franchise's Twitter account also teased that various initiatives are in the works for \"Project restart.\"<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt36326652",
@@ -54,7 +61,7 @@
       "type": "series",
       "name": "Kyoufu Collector",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203473-dIUb8kiwnpmo.jpg",
-      "description": "Genres: Horror, Mystery, Supernatural\nTags:Urban Fantasy/Youkai\nUrban legends come to life…Everyone’s heard an urban legend before, but few have ever come face-to-face with one. These phenomena are everywhere, existing in the shadows of reality. More and more of them have been appearing in the wake of the faceless kid sighted all over Japan. If you see her or one of the urban legends she brings―pray the boy in the red hood finds you before it’s too late. You won’t stand a chance on your own. But with his help, you may just live to see another day…\n<br><br>\n(Source: Yen Press)"
+      "description": "Genres: Horror, Mystery, Supernatural\nTags:Youkai/Urban Fantasy\nUrban legends come to life…Everyone’s heard an urban legend before, but few have ever come face-to-face with one. These phenomena are everywhere, existing in the shadows of reality. More and more of them have been appearing in the wake of the faceless kid sighted all over Japan. If you see her or one of the urban legends she brings―pray the boy in the red hood finds you before it’s too late. You won’t stand a chance on your own. But with his help, you may just live to see another day…\n<br><br>\n(Source: Yen Press)"
     },
     {
       "id": "tt38626513",
@@ -68,7 +75,14 @@
       "type": "series",
       "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
-      "description": "Genres: Action, Comedy, Sports\nTags:Foreign/Primarily Teen Cast/Ensemble Cast/Male Protagonist/Primarily Male Cast/Shounen/Tennis\nSequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL</i>."
+      "description": "Genres: Action, Comedy, Sports\nTags:Primarily Male Cast/Tennis/Shounen/Male Protagonist/Ensemble Cast/Foreign/Primarily Teen Cast\nSequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL</i>."
+    },
+    {
+      "id": "tt27570750",
+      "type": "series",
+      "name": "Junket Bank",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209132-uAEsususOR9h.png",
+      "description": "Genres: Drama, Psychological, Thriller\nTags:Seinen/Male Protagonist/Gambling/Primarily Adult Cast\nMitarai, a bank clerk bored with his everyday life and work, soon finds himself transferred to the \"Appraisal Unit.\" Guided by his new boss Usami, Mitarai's led through a secret underground passage within the bank where a new, exciting world of gambling awaits."
     }
   ]
 }
