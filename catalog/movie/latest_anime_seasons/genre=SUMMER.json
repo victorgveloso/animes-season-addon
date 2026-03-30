@@ -18,7 +18,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt41189965"
       },
-      "description": "Genres: Action, Drama, Mystery, Thriller\nTags:Coastal/Primarily Female Cast/Death Game/Female Protagonist\nTheatrical follow-up to <i>Shibou Yuugi de Meshi wo Kuu.</i>"
+      "description": "Genres: Action, Drama, Mystery, Thriller\nTags:Female Protagonist/Coastal/Primarily Female Cast/Death Game\nTheatrical follow-up to <i>Shibou Yuugi de Meshi wo Kuu.</i>"
     },
     {
       "id": "tt39026173",
@@ -29,16 +29,6 @@
         "defaultVideoId": "tt39026173"
       },
       "description": "Genres: Comedy, Slice of Life\nTags:Animals/Surreal Comedy/Mermaid/Primarily Animal Cast\nBased on a series of <i>Chiikawa</i> comics posted on X by Nagano from March to November 2023, known as the <i>\"Siren Arc\"</i>.<br><br>\nOne day, while Chiikawa and Hachiware were relaxing in the square, Usagi suddenly appeared with a flyer stuck to its face. When Hachiware checked the flyer, it was an invitation reading “Special Invitation to a Special Island.”<br><br>\n\nLured by promises like “Get 100x rewards for simple island quests!” and “Limited-edition island ramen, exclusive sweets—sweet and spicy treats all practically free!”, Chiikawa and the others decided to go on the island retreat. Boarding the ship alongside Rakko, who was suspicious of the flyer's contents, the group landed on the island... only to find something waiting for them there...!?<br><br>\n(Source: Official Site, translated)"
-    },
-    {
-      "id": "tt40843018",
-      "type": "movie",
-      "name": "Kimi to Hanabi to Yakusoku to",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206819-9VJOdSC6yFET.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt40843018"
-      },
-      "description": "Genres: Romance\nTags:\nThe story centers on two Tokyo high schoolers who connect over a painting of fireworks. They trace the painting to the Nagaoka Fireworks Festival in Niigata, one of Japan's three major fireworks festivals, and to a mysterious promise that connects the two to the past.<br><br>\n\n(Source: Crunchyroll News, edited) \n"
     },
     {
       "id": "tt37518144",
@@ -71,12 +61,12 @@
       "description": "Genres: Action, Adventure, Comedy\nTags:\nThe Nohara family go to Hiroshi's hometown of Akita to attend a famous fireworks festival during the summer. However, an incident causes youkai to escape from their land and will wreak havoc in Akita and in other areas throughout Japan. The Nohara family then go to the land of youkai and find themselves in a mysterious yet nostalgic world, where they go on an unpredictable adventure.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt37529019",
+      "id": "tt39193334",
       "type": "movie",
       "name": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206682-CV51UmTvQJ84.png",
       "behaviorHints": {
-        "defaultVideoId": "tt37529019"
+        "defaultVideoId": "tt39193334"
       },
       "description": "Genres: Comedy, Fantasy\nTags:\nPantan is a red panda who seeks to find the treasure thought to be in a rainbow star in the night sky, in order to keep a promise made to an adventurer long ago. When Pantan and Anpanman encounter each other, Anpanman lends his abilities to help out Pantan.\n<br><br>\n(Source: Anime News Network)"
     }

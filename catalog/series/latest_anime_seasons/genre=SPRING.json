@@ -5,7 +5,7 @@
       "type": "series",
       "name": "Witch Hat Atelier",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-FCr6MIsyurLw.jpg",
-      "description": "Genres: Adventure, Drama, Fantasy\nTags:Magic/Witch/Drawing/Female Protagonist/Coming of Age/Seinen/Found Family/Medieval/Philosophy/Primarily Female Cast/Travel/Heterosexual\nIn a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br>\n<br>\n(Source: Kodansha USA) "
+      "description": "Genres: Adventure, Drama, Fantasy\nTags:Magic/Witch/Drawing/Female Protagonist/Coming of Age/Seinen/Found Family/Medieval/Philosophy/Primarily Female Cast/Travel/Heterosexual/Primarily Child Cast\nIn a world where everyone takes wonders like magic spells and dragons for granted, Coco is a girl with a simple dream: she wants to be a witch. But everybody knows magicians are born, not made, and Coco was not born with a gift for magic. Resigned to her un-magical life, Coco is about to give up on her dream to become a witch … until the day she meets Qifrey, a mysterious, traveling magician. After secretly seeing Qifrey perform magic in a way she’s never seen before, Coco soon learns what everybody “knows” might not be the truth, and discovers that her magical dream may not be as far away as it may seem... <br>\n<br>\n(Source: Kodansha USA) "
     },
     {
       "id": "tt5607616",
@@ -148,6 +148,13 @@
       "description": "Genres: Comedy, Romance\nTags:Female Protagonist/Male Protagonist/Heterosexual/Primarily Teen Cast/Coming of Age/School/Tsundere/Shounen\nChildhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?\n<br><br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt39267868",
+      "type": "series",
+      "name": "Agents of the Four Seasons: Dance of Spring",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+      "description": "Genres: Drama, Fantasy, Romance\nTags:Heterosexual/Urban Fantasy/Mythology/Environmental/Ensemble Cast/Rehabilitation/Shoujo/Swordplay/Gods/Disability/Super Power/Crime/Politics\nWhen the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt37729351",
       "type": "series",
       "name": "Mistress Kanan is Devilishly Easy",
@@ -169,13 +176,6 @@
       "description": "Genres: Action, Supernatural\nTags:Shounen/Super Power/Male Protagonist/Historical\nTouya Senji is talentless. He's tried everything but he can't seem to excel at anything no matter how hard he tries. Then he meets Haito, a Kendo champion and... humanity's protector? She uses the Stem of Reincarnation to draw on the abilities of her past lives, but it only works when she slits her own throat. And now she wants Touya to join her?!\n<br><br>\n(Source: Mangamo, edited)"
     },
     {
-      "id": "tt37182080",
-      "type": "series",
-      "name": "Go For It, Nakamura-kun!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-ci7u74auhthr.jpg",
-      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Boys' Love/Unrequited Love/LGBTQ+ Themes/Cute Boys Doing Cute Things/School/Parody/Primarily Teen Cast/Primarily Male Cast/Male Protagonist\nNakamura is a shy boy who falls in love at first sight with one of his classmates–his dreamy high school classmate, Hirose. But there's a problem: they haven't met yet. And Nakamura is a total klutz who might bungle things before they even begin!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Note: The series streamed a week in advance on Hulu Japan starting with episode 2 released alongside episode 1.</i>"
-    },
-    {
       "id": "tt39443176",
       "type": "series",
       "name": "Gals Can't Be Kind to Otaku!?",
@@ -183,25 +183,18 @@
       "description": "Genres: Comedy, Romance\nTags:Gyaru/Otaku Culture/Heterosexual/Primarily Teen Cast/School/Seinen/Male Protagonist\nMeet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!\n<br><br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt35314706",
+      "id": "tt37182080",
+      "type": "series",
+      "name": "Go For It, Nakamura-kun!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-ci7u74auhthr.jpg",
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Boys' Love/Unrequited Love/LGBTQ+ Themes/Cute Boys Doing Cute Things/School/Parody/Primarily Teen Cast/Primarily Male Cast/Male Protagonist\nNakamura is a shy boy who falls in love at first sight with one of his classmates–his dreamy high school classmate, Hirose. But there's a problem: they haven't met yet. And Nakamura is a total klutz who might bungle things before they even begin!\n<br><br>\n(Source: Seven Seas Entertainment)\n<br><br>\n<i>Note: The series streamed a week in advance on Hulu Japan starting with episode 2 released alongside episode 1.</i>"
+    },
+    {
+      "id": "kitsu:49269",
       "type": "series",
       "name": "Yozakura-san Chi no Daisakusen 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
       "description": "Genres: Action, Comedy, Romance\nTags:Shounen/Espionage/Heterosexual/Male Protagonist/Female Protagonist/Family Life/Super Power\nThe second season of <i>Yozakura-san Chi no Daisakusen</i>."
-    },
-    {
-      "id": "tt39267868",
-      "type": "series",
-      "name": "Agents of the Four Seasons: Dance of Spring",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
-      "description": "Genres: Drama, Fantasy, Romance\nTags:Heterosexual/Urban Fantasy/Mythology/Environmental/Ensemble Cast/Rehabilitation/Shoujo/Swordplay/Gods/Crime/Politics/Super Power/Disability\nWhen the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.\n<br><br>\n(Source: Crunchyroll)"
-    },
-    {
-      "id": "tt11448214",
-      "type": "series",
-      "name": "Rent-a-Girlfriend Season 5",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
-      "description": "Genres: Comedy, Romance\nTags:Heterosexual/Fake Relationship/Female Harem/Male Protagonist/Primarily Adult Cast\nThe fifth season of <i>Kanojo, Okarishimasu</i>.\n<br><br>\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2025.</i>"
     },
     {
       "id": "tt39123061",
@@ -209,6 +202,13 @@
       "name": "The Ramparts of Ice",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
       "description": "Genres: Comedy, Romance, Slice of Life\nTags:Heterosexual/Ensemble Cast/Shoujo/School\nSocially inept, Higawa Koyuki maintains a wall between herself and other people. She spends her time in high school alone, until she meets Amamiya Minato, a boy who keeps trying to close the distance between them for some reason?!\n<BR><BR>\nThe loner Koyuki, the popular Miki, the boundary-less Minato, and the kind basketball player Youta. This is the story about four complicated and confused young people and their mixed up lives!\n<BR><BR>\n(Source: Margaret, translated)"
+    },
+    {
+      "id": "tt11448214",
+      "type": "series",
+      "name": "Rent-a-Girlfriend Season 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
+      "description": "Genres: Comedy, Romance\nTags:Heterosexual/Fake Relationship/Female Harem/Male Protagonist/Primarily Adult Cast\nThe fifth season of <i>Kanojo, Okarishimasu</i>.\n<br><br>\n<i>Note: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2025.</i>"
     },
     {
       "id": "tt39453866",
@@ -281,18 +281,18 @@
       "description": "Genres: Action, Comedy, Fantasy\nTags:Medieval\nThe third season of <i>Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou.</i>"
     },
     {
-      "id": "tt37256510",
-      "type": "series",
-      "name": "Diamond no Ace act II: Second Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png",
-      "description": "Genres: Sports\nTags:Baseball/Male Protagonist/Primarily Male Cast/Shounen/School Club/Boarding School/Primarily Teen Cast/Ensemble Cast/Cute Boys Doing Cute Things\nThe second season of <i>Diamond no Ace act II</i>."
-    },
-    {
       "id": "tt39122622",
       "type": "series",
       "name": "Haibara-kun no Tsuyokute Seishun New Game",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195333-KUIF1eqOdVdd.png",
       "description": "Genres: Romance, Slice of Life\nTags:Heterosexual/Age Regression\nWe all have embarrassing memories or deep regrets from high school, right? Socially anxious college senior Natsuki Haibara sure does. When he thinks back on that time of his life, all he has are fleeting fantasies of a happy adolescence that could have been. Imagine his bewilderment and surprise, then, when he inexplicably finds himself seven years in the past—one month before his first year of high school! Can Haibara avoid his previous mistakes, make his way to the top of the school social pyramid, and end up with the girl of his dreams? Or will he be forced to relive three years of solitude as the most hated guy in school? He’ll need all the help he can get in order to succeed, from a workout regimen to online how-to guides, a childhood friend, and plenty of sheer willpower. Watch as Haibara takes a second shot at his teenage years!\n<br><br>\n(Source: J-Novel Club)\n<br><br>\n<i>Note: The first 4 episodes had an advance screening on March 15th, 2026. The start date reflects the start of the regular series broadcasting.</i>\n\n"
+    },
+    {
+      "id": "tt31806040",
+      "type": "series",
+      "name": "Diamond no Ace act II: Second Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png",
+      "description": "Genres: Sports\nTags:Baseball/Male Protagonist/Primarily Male Cast/Shounen/School Club/Boarding School/Primarily Teen Cast/Ensemble Cast/Cute Boys Doing Cute Things\nThe second season of <i>Diamond no Ace act II</i>."
     },
     {
       "id": "tt40546998",
@@ -326,7 +326,7 @@
       "id": "tt39443399",
       "type": "series",
       "name": "Kill Ao",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-hn6ymUrUPhbf.png",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
       "description": "Genres: Action, Comedy\nTags:Age Regression/School Club/School/Assassins/Urban/Ensemble Cast/Shounen/Guns\nJuuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!<br><br>\n\nBefore he can even process what happened, his boss delivers a new order: “In that body, infiltrate a middle school.”<br><br>\n\nWhat awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?<br><br>\n(Source: Official Site)"
     },
     {
@@ -348,7 +348,7 @@
       "type": "series",
       "name": "Kusunoki's Garden of Gods",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
-      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Youkai/Rural/Iyashikei/Gods\nDeep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n<br><br>\n (Source: Yen Press)"
+      "description": "Genres: Comedy, Fantasy, Slice of Life\nTags:Youkai/Rural/Iyashikei/Gods/Animals\nDeep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n<br><br>\n (Source: Yen Press)"
     }
   ]
 }
