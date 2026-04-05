@@ -64,18 +64,18 @@
       "description": "Genres: Action, Drama, Fantasy\nTags:Medieval/Magic/Female Protagonist\nThe second season of <i>Clevatess: Majuu no Ou to Akago to Kabane no Yuusha</i>."
     },
     {
-      "id": "tt37610452",
-      "type": "series",
-      "name": "Nige Jouzu no Wakagimi 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
-      "description": "Genres: Action, Adventure\nTags:Samurai/War/Historical/Male Protagonist/Gore/Shounen/Primarily Male Cast\nThe second season of <i>Nige Jouzu no Wakagimi</i>."
-    },
-    {
       "id": "tt36517689",
       "type": "series",
       "name": "THE GHOST IN THE SHELL",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-R9HWvuoddh05.jpg",
       "description": "Genres: Action, Psychological, Sci-Fi\nTags:Philosophy/Cyberpunk/Cyborg/Artificial Intelligence/Robots/Female Protagonist/Seinen/Primarily Adult Cast/Guns\n<i>Ghost in the Shell</i> is a landmark work of cyberpunk science fiction set in a near-future when information networks envelop the world and highly advance highly advanced cyborg augmentation technology has enabled the creation of the cyberbrain. It follows the story of the full-body cyborg Motoko Kusanagi and the combat force she leads in the fight against cybercrime. <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)"
+    },
+    {
+      "id": "tt37610452",
+      "type": "series",
+      "name": "Nige Jouzu no Wakagimi 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
+      "description": "Genres: Action, Adventure\nTags:Samurai/War/Historical/Male Protagonist/Gore/Shounen/Primarily Male Cast\nThe second season of <i>Nige Jouzu no Wakagimi</i>."
     },
     {
       "id": "tt35346717",
@@ -218,18 +218,18 @@
       "description": "Genres: Adventure, Fantasy\nTags:Dragons/Animals\nThe story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.<br><br>\n\n(Source: Crunchyroll News)"
     },
     {
-      "id": "tt39311004",
-      "type": "series",
-      "name": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-86GIL6o4uhdK.png",
-      "description": "Genres: Action, Comedy, Drama, Fantasy, Mahou Shoujo\nTags:Female Protagonist/Magic\nThirty years ago, the world was nearly destroyed by the sudden appearance of unknown \"invasive alien species.\"\n<br><br>\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.\n<br><br>\nIn this world, the United Nations Hazardous Species Investigation Agency, \"EXCEEDS,\" has begun operations to ward off crises and disasters caused by invasive species.\n<br><br>\nThe story begins on the island nation of \"Mizuho\" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?\n<br><br>\n<i>Note: The first episode aired with a runtime of ~60 minutes as opposed to the standard 24 minute long episode.</i>"
-    },
-    {
       "id": "tt39304754",
       "type": "series",
       "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-YLPqiMg2nsTr.jpg",
       "description": "Genres: Drama, Romance\nTags:Heterosexual/Disability\nOn an April night in Tokyo, still too early for fireworks, university student Kakeru Sorano meets a woman named Koharu Fuyutsuki. She is a beautiful girl who stands out from the crowd, laughs a lot, and exudes a warmth that contrasts sharply with Kakeru's own introversion. But there was something Kakeru didn't know at first—she can't see.<br>\n<br>\nUnlike Kakeru, Koharu hasn't given up on anything, even with her blindness. She attends university daily, shows interest in clubs, makes friends—and dreams of launching fireworks one day. Kakeru wonders why, when she can't see them...but maybe it doesn't matter. And maybe he can start moving forward, too, for the girl who's always been by his side<br>\n<br>\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt39311004",
+      "type": "series",
+      "name": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-86GIL6o4uhdK.png",
+      "description": "Genres: Action, Comedy, Drama, Fantasy, Mahou Shoujo\nTags:Female Protagonist/Magic\nThirty years ago, the world was nearly destroyed by the sudden appearance of unknown \"invasive alien species.\"\n<br><br>\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.\n<br><br>\nIn this world, the United Nations Hazardous Species Investigation Agency, \"EXCEEDS,\" has begun operations to ward off crises and disasters caused by invasive species.\n<br><br>\nThe story begins on the island nation of \"Mizuho\" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?\n<br><br>\n<i>Note: The first episode aired with a runtime of ~60 minutes as opposed to the standard 24 minute long episode.</i>"
     },
     {
       "id": "tt40550160",
@@ -260,13 +260,6 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Medieval\nCorporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n<br><br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt20104608",
-      "type": "series",
-      "name": "Azur Lane: Bisoku Zenshin! Ni!!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
-      "description": "Genres: Ecchi, Slice of Life\nTags:Primarily Female Cast/Cute Girls Doing Cute Things/Female Protagonist\nThe second season of <i>Azur Lane: Bisoku Zenshin!</i> "
-    },
-    {
       "id": "tt41054252",
       "type": "series",
       "name": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
@@ -279,6 +272,13 @@
       "name": "Tefuda ga Oume no Victoria",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-KnZCqdH7fu3F.png",
       "description": "Genres: Action, Drama, Fantasy, Romance\nTags:Female Protagonist/Rural/Espionage/Heterosexual/Josei\nIn an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n<br><br>\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt20104608",
+      "type": "series",
+      "name": "Azur Lane: Bisoku Zenshin! Ni!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
+      "description": "Genres: Ecchi, Slice of Life\nTags:Primarily Female Cast/Cute Girls Doing Cute Things/Female Protagonist\nThe second season of <i>Azur Lane: Bisoku Zenshin!</i> "
     },
     {
       "id": "tt41276835",
