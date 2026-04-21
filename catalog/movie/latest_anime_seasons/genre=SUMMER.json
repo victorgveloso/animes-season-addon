@@ -79,6 +79,16 @@
         "defaultVideoId": "tt37529019"
       },
       "description": "Genres: Comedy, Fantasy\nTags:\nPantan is a red panda who seeks to find the treasure thought to be in a rainbow star in the night sky, in order to keep a promise made to an adventurer long ago. When Pantan and Anpanman encounter each other, Anpanman lends his abilities to help out Pantan.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt32915652",
+      "type": "movie",
+      "name": "Majo no Tani no Yoru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211232-Bthde3cpWCtq.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt32915652"
+      },
+      "description": "Genres: Fantasy\nTags:\nA short film only screened at the Cinema Orion at Ghibli Park in Nagakute.<br><br>\n\nThe film is set in Ghibli Park's \"Valley of the Witches\" and is the first original animated short film created by Studio Ghibli for Ghibli Park."
     }
   ]
 }
