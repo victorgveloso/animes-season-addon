@@ -69,6 +69,16 @@
         "defaultVideoId": "tt39060110"
       },
       "description": "Genres: Music\nTags:\nMovie of <i>Himitsu no AiPri</i>, first announced at the Pretty Series Crossing Live 2025."
+    },
+    {
+      "id": "tt34384661",
+      "type": "movie",
+      "name": "Kujira wo Yumemu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211331-aJXXrn8PR2Ll.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt34384661"
+      },
+      "description": "Genres: Drama\nTags:Graduation Project\nGraduation work of Shuzuku.<br><br>\n\nA girl wanders through a landscape of quiet ruin, alone except for her dog and a mysterious voice on her radio, reciting poems at a precise hour every day. A haunting memory of a nearby future.<br><br>\n(Source: Fantasia International  Film Festival)"
     }
   ]
 }

@@ -89,6 +89,16 @@
         "defaultVideoId": "tt37529019"
       },
       "description": "Genres: Comedy, Fantasy\nTags:\nPantan is a red panda who seeks to find the treasure thought to be in a rainbow star in the night sky, in order to keep a promise made to an adventurer long ago. When Pantan and Anpanman encounter each other, Anpanman lends his abilities to help out Pantan.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt27643239",
+      "type": "movie",
+      "name": "THE RIBBON HERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211308-DHKjEEttkfkT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt27643239"
+      },
+      "description": "Genres: \nTags:\nInspired by Osamu Tezuka's legendary manga \"Princess Knight,\" witness a lone hero attempt to overcome their harsh destiny in THE RIBBON HERO.<br><br>\n(Source: Netflix)"
     }
   ]
 }
