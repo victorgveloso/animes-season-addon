@@ -31,6 +31,16 @@
       "description": "Genres: Romance\nTags:\nThe story centers on two Tokyo high schoolers who connect over a painting of fireworks. They trace the painting to the Nagaoka Fireworks Festival in Niigata, one of Japan's three major fireworks festivals, and to a mysterious promise that connects the two to the past.<br><br>\n\n(Source: Crunchyroll News, edited) \n"
     },
     {
+      "id": "tt42019391",
+      "type": "movie",
+      "name": "THE RIBBON HERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211308-DHKjEEttkfkT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt42019391"
+      },
+      "description": "Genres: \nTags:\nInspired by Osamu Tezuka's legendary manga \"Princess Knight,\" witness a lone hero attempt to overcome their harsh destiny in THE RIBBON HERO.<br><br>\n(Source: Netflix)"
+    },
+    {
       "id": "tt39026173",
       "type": "movie",
       "name": "Chiikawa: Ningyo no Shima no Himitsu",
@@ -39,16 +49,6 @@
         "defaultVideoId": "tt39026173"
       },
       "description": "Genres: Comedy, Slice of Life\nTags:Animals/Surreal Comedy/Mermaid/Primarily Animal Cast\nBased on a series of <i>Chiikawa</i> comics posted on X by Nagano from March to November 2023, known as the <i>\"Siren Arc\"</i>.<br><br>\nOne day, while Chiikawa and Hachiware were relaxing in the square, Usagi suddenly appeared with a flyer stuck to its face. When Hachiware checked the flyer, it was an invitation reading “Special Invitation to a Special Island.”<br><br>\n\nLured by promises like “Get 100x rewards for simple island quests!” and “Limited-edition island ramen, exclusive sweets—sweet and spicy treats all practically free!”, Chiikawa and the others decided to go on the island retreat. Boarding the ship alongside Rakko, who was suspicious of the flyer's contents, the group landed on the island... only to find something waiting for them there...!?<br><br>\n(Source: Official Site, translated)"
-    },
-    {
-      "id": "tt27643239",
-      "type": "movie",
-      "name": "THE RIBBON HERO",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211308-DHKjEEttkfkT.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt27643239"
-      },
-      "description": "Genres: \nTags:\nInspired by Osamu Tezuka's legendary manga \"Princess Knight,\" witness a lone hero attempt to overcome their harsh destiny in THE RIBBON HERO.<br><br>\n(Source: Netflix)"
     },
     {
       "id": "tt37518144",
@@ -91,12 +91,12 @@
       "description": "Genres: Fantasy\nTags:\nA short film only screened at the Cinema Orion at Ghibli Park in Nagakute.<br><br>\n\nThe film is set in Ghibli Park's \"Valley of the Witches\" and is the first original animated short film created by Studio Ghibli for Ghibli Park."
     },
     {
-      "id": "tt37529019",
+      "id": "tt19035928",
       "type": "movie",
       "name": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206682-CV51UmTvQJ84.png",
       "behaviorHints": {
-        "defaultVideoId": "tt37529019"
+        "defaultVideoId": "tt19035928"
       },
       "description": "Genres: Comedy, Fantasy\nTags:\nPantan is a red panda who seeks to find the treasure thought to be in a rainbow star in the night sky, in order to keep a promise made to an adventurer long ago. When Pantan and Anpanman encounter each other, Anpanman lends his abilities to help out Pantan.\n<br><br>\n(Source: Anime News Network)"
     }
