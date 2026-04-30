@@ -71,16 +71,6 @@
       "description": "Genres: Fantasy\nTags:\nSequel to <i>Entotsu-machi no Poupelle</i>.<br><br>\nAfter losing his friend Poupelle, young Lubicchi wanders into a mysterious realm where a clock in a tower is frozen at 11:59. To return home, he must restart it – and find the courage to believe again.<br><br>\n\n(Source: Berlin International Film Festival)"
     },
     {
-      "id": "tt39060110",
-      "type": "movie",
-      "name": "Himitsu no AiPri: Mankai Buzzrium Live!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203100-RBKJFcTcGS82.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt39060110"
-      },
-      "description": "Genres: Music\nTags:\nMovie of <i>Himitsu no AiPri</i>, first announced at the Pretty Series Crossing Live 2025."
-    },
-    {
       "id": "tt34384661",
       "type": "movie",
       "name": "Kujira wo Yumemu",
@@ -89,6 +79,16 @@
         "defaultVideoId": "tt34384661"
       },
       "description": "Genres: Drama\nTags:Graduation Project/Female Protagonist\nGraduation work of Shuzuku.<br><br>\n\nA girl wanders through a landscape of quiet ruin, alone except for her dog and a mysterious voice on her radio, reciting poems at a precise hour every day. A haunting memory of a nearby future.<br><br>\n(Source: Fantasia International  Film Festival)"
+    },
+    {
+      "id": "tt39060110",
+      "type": "movie",
+      "name": "Himitsu no AiPri: Mankai Buzzrium Live!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203100-RBKJFcTcGS82.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt39060110"
+      },
+      "description": "Genres: Music\nTags:\nMovie of <i>Himitsu no AiPri</i>, first announced at the Pretty Series Crossing Live 2025."
     }
   ]
 }
