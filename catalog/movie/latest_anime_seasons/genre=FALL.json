@@ -18,7 +18,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt39927807"
       },
-      "description": "Genres: Drama, Psychological, Romance, Supernatural\nTags:Female Protagonist/Heterosexual/College/Male Protagonist/Urban/Primarily Adult Cast/Coming of Age\nTheatrical follow-up to <i>Seishun Buta Yarou wa Santa Claus no Yume wo Minai</i>."
+      "description": "Genres: Drama, Psychological, Romance, Supernatural\nTags:Heterosexual/Female Protagonist/College/Male Protagonist/Coming of Age/Primarily Adult Cast/Urban\nTheatrical follow-up to <i>Seishun Buta Yarou wa Santa Claus no Yume wo Minai</i>."
     },
     {
       "id": "tt39555283",
@@ -38,7 +38,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt31068334"
       },
-      "description": "Genres: Action, Mecha, Sci-Fi\nTags:Robots/Full CGI\nA sequel movie to the 2014 movie <i>Rakuen Tsuihou: Expelled From Paradise.</i>"
+      "description": "Genres: Action, Mecha, Sci-Fi\nTags:Full CGI/Robots\nA sequel movie to the 2014 movie <i>Rakuen Tsuihou: Expelled From Paradise.</i>"
     },
     {
       "id": "tt33549478",
@@ -78,7 +78,17 @@
       "behaviorHints": {
         "defaultVideoId": "tt39335288"
       },
-      "description": "Genres: Drama, Music\nTags:Primarily Female Cast/Yuri/Band/Female Protagonist/LGBTQ+ Themes/Primarily Teen Cast/Rock Music/Metal Music\n<i>Note: Relations are provisional and subject to change when more info is announced.</i>"
+      "description": "Genres: Drama, Music\nTags:Band/Primarily Female Cast/Yuri/Female Protagonist/LGBTQ+ Themes/Primarily Teen Cast/Rock Music/Metal Music\n<i>Note: Relations are provisional and subject to change when more info is announced.</i>"
+    },
+    {
+      "id": "tt38652027",
+      "type": "movie",
+      "name": "Soukou Kihei Votoms: Haiiro no Hexe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206163-c5DwZdBNCXEO.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt38652027"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nTags:Real Robot\nIn January 2026, Bandai Namco Filmworks announced an new anime project titled Armored Trooper VOTOMS: Die Graue Hexe. It is set to premiere in 2026 will be produced by Sunrise with production assistance by Production I.G, and will be part of a series of projects commemorating studio Sunrise's 50th anniversary to be released between 2026 and 2028.<br><br>\n<i>Note: Relations are provisional and subject to change.</i>"
     },
     {
       "id": "tt41494821",
