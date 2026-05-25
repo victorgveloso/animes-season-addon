@@ -8,7 +8,7 @@
       "description": "Genres: Adventure, Drama, Ecchi, Fantasy\nTags:Male Protagonist/Isekai/Coming of Age/Family Life/Heterosexual/Polyamorous/Magic/Medieval/Gods/Swordplay/Female Harem/Demons/Primarily Adult Cast/Elf/Disability/Politics/Love Triangle/Maids/Amnesia/Kemonomimi/College/Delinquents\nThe third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>."
     },
     {
-      "id": "kitsu:44778",
+      "id": "tt6455986",
       "type": "series",
       "name": "Youjo Senki II",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-9b3Nn8nmGZIG.jpg",
@@ -22,18 +22,18 @@
       "description": "Genres: Action, Adventure, Supernatural\nTags:Shounen/Male Protagonist/Swordplay/Gods/War/Urban Fantasy/Super Power/Gore\nThe fourth and final part of <i>BLEACH: Sennen Kessen-hen</i>. "
     },
     {
-      "id": "tt36056731",
-      "type": "series",
-      "name": "Kimi ga Shinu made Koi wo Shitai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-ZGbR8hF953lj.jpg",
-      "description": "Genres: Drama, Fantasy, Romance\nTags:War/Yuri/Primarily Female Cast/Magic/Primarily Teen Cast/School/Female Protagonist/LGBTQ+ Themes/Gore/Orphan\nAt the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n<br><br>\n(Source: Kodansha USA)"
-    },
-    {
       "id": "tt37614297",
       "type": "series",
       "name": "Smoking Behind the Supermarket with You",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-cXhET893v3Ag.png",
       "description": "Genres: Comedy, Romance, Slice of Life\nTags:Seinen/Iyashikei/Konbini/Heterosexual/Work/Primarily Adult Cast/Urban\nAt age forty-five, office worker Sasaki has had enough of the corporate grind. His only solace is smoking-and the friendly smile of supermarket cashier Yamada. When Sasaki can't find Yamada after a particularly trying day, a striking woman invites him to smoke with her. The despondent man thinks he's made a new smoking buddy in the cool, teasing Tayama, but Sasaki doesn't realize he already knows her!\n<br><br>\n(Source: Square Enix)"
+    },
+    {
+      "id": "tt36056731",
+      "type": "series",
+      "name": "Kimi ga Shinu made Koi wo Shitai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-ZGbR8hF953lj.jpg",
+      "description": "Genres: Drama, Fantasy, Romance\nTags:War/Yuri/Primarily Female Cast/Magic/Primarily Teen Cast/School/Female Protagonist/LGBTQ+ Themes/Gore/Orphan\nAt the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt39246964",
@@ -82,7 +82,7 @@
       "type": "series",
       "name": "THE GHOST IN THE SHELL",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
-      "description": "Genres: Action, Psychological, Sci-Fi\nTags:Philosophy/Cyberpunk/Cyborg/Artificial Intelligence/Robots/Urban/Female Protagonist/Seinen/Primarily Adult Cast/Guns\n<i>Ghost in the Shell</i> is a landmark work of cyberpunk science fiction set in a near-future when information networks envelop the world and highly advanced cyborg augmentation technology has enabled the creation of the cyberbrain. It follows the story of the full-body cyborg Motoko Kusanagi and the combat force she leads in the fight against cybercrime. <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)"
+      "description": "Genres: Action, Psychological, Sci-Fi\nTags:Philosophy/Cyberpunk/Cyborg/Female Protagonist/Artificial Intelligence/Seinen/Robots/Primarily Adult Cast/Guns/Urban\n<i>Ghost in the Shell</i> is a landmark work of cyberpunk science fiction set in a near-future when information networks envelop the world and highly advanced cyborg augmentation technology has enabled the creation of the cyberbrain. It follows the story of the full-body cyborg Motoko Kusanagi and the combat force she leads in the fight against cybercrime. <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)"
     },
     {
       "id": "tt35346717",
@@ -97,6 +97,13 @@
       "name": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-eWk93doU70he.png",
       "description": "Genres: Comedy, Ecchi, Romance\nTags:Female Harem/Polyamorous/Primarily Female Cast/Primarily Teen Cast/Slapstick/School/Male Protagonist/Heterosexual\nThe third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i>"
+    },
+    {
+      "id": "kitsu:49265",
+      "type": "series",
+      "name": "Nige Jouzu no Wakagimi 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
+      "description": "Genres: Action, Adventure\nTags:Samurai/War/Historical/Male Protagonist/Gore/Shounen/Primarily Male Cast\nThe second season of <i>Nige Jouzu no Wakagimi</i>."
     },
     {
       "id": "tt37532893",
@@ -155,18 +162,18 @@
       "description": "Genres: Drama, Romance\nTags:Josei/Female Protagonist/Magic/Royal Affairs/Foreign/Historical/Villainess/Ancient China\nAs maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.\n<br><br>\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt41279522",
-      "type": "series",
-      "name": "World Is Dancing",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
-      "description": "Genres: Drama\nTags:Dancing/Historical/Acting/Coming of Age/Male Protagonist\nBorn into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. \"Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?\" It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br>\n\n(Source: Kodansha Comics)"
-    },
-    {
       "id": "tt41278600",
       "type": "series",
       "name": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
       "description": "Genres: Comedy, Romance\nTags:Heterosexual\nA poor high school boy, Itsuki Tomonari, got caught up in a kidnapping attempt on Hinako Konohana, a young lady from one of Japan's largest conglomerates. On the surface, Hinako appears to be a brilliant and beautiful young woman, but in reality, she is a lazy girl with no life skills. However, due to family reasons, Hinako has to play the role of the \"perfect young lady\" at school. Wanting to protect her, Itsuki took on the job of caring for her. Eventually, Hinako began to spoil Itsuki with all her might -- \"I don't want...... Itsuki to leave my side right now.\" This is a love story that begins beyond the master-servant relationship featuring a princess with a beautiful facade.\n<br><br>\n(Source: HJ Bunko, translated)"
+    },
+    {
+      "id": "tt41279522",
+      "type": "series",
+      "name": "World Is Dancing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
+      "description": "Genres: Drama\nTags:Dancing/Historical/Acting/Coming of Age/Male Protagonist\nBorn into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. \"Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?\" It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br>\n\n(Source: Kodansha Comics)"
     },
     {
       "id": "tt35636246",
@@ -176,18 +183,18 @@
       "description": "Genres: \nTags:Female Protagonist/Urban Fantasy/Super Power/Superhero/Shounen\nFollowing the broadcast of My Hero Academia Episode 170+1, the series' official website and accounts revealed that a new short anime adapting the \"I Am a Hero Too\" bonus chapter will tell the story of Eri as a high-schooler when it releases this summer.<br><br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt0388629",
-      "type": "series",
-      "name": "ONE PIECE HEROINES",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
-      "description": "Genres: \nTags:Pirates/Primarily Female Cast/Female Protagonist/Fashion\nBased on the novel series <i>ONE PIECE novel HEROINES</i>, one chapter, “episode : NAMI” is getting an anime adaptation. \n<br><br>\nAfter buying poorly made shoes, Nami returns to the shop and meets Lebno, the designer. He offers to create a new pair from scratch, on the condition that she becomes his model. However, the craftsperson Miucha is the one who does the work.\n<br><br>\n(Source: Toei Animation Europe)"
-    },
-    {
       "id": "tt38262097",
       "type": "series",
       "name": "LV999 no Murabito",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197715-KLFLxU24U1uL.png",
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Male Protagonist/Demons/Magic\nIn this world, the concept of levels exist. Other than those who live off defeating monsters, most people are only around Level 1 to 5. What's more, not just anyone can go out to hunt monsters; it's heavily influenced by one's role anointed by god. There are eight such eligible roles. Warriors. Fighters. Clerics. Magicians. Rogues. Merchants. Hunters. Sorcerers. Those blessed with extraordinary power are divided into three types. Royalty. Heroes. Sages. But for the majority of the population, they have no such powers and live by farming or running shops. Towns are developed by those with the weakest role…Villagers.\n<br><br>\nFor the powerless Villagers going out to hunt monsters is equivalent to committing suicide. But one day, a certain two-year-old child given the role of Villager notices something.\n<br><br>\nOnce you defeat a monster… you can earn great wealth."
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "ONE PIECE HEROINES",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
+      "description": "Genres: \nTags:Pirates/Primarily Female Cast/Female Protagonist/Fashion\nBased on the novel series <i>ONE PIECE novel HEROINES</i>, one chapter, “episode : NAMI” is getting an anime adaptation. \n<br><br>\nAfter buying poorly made shoes, Nami returns to the shop and meets Lebno, the designer. He offers to create a new pair from scratch, on the condition that she becomes his model. However, the craftsperson Miucha is the one who does the work.\n<br><br>\n(Source: Toei Animation Europe)"
     },
     {
       "id": "tt41278615",
@@ -225,7 +232,7 @@
       "description": "Genres: Comedy, Romance, Supernatural\nTags:Heterosexual/Kaiju/Female Protagonist/Tokusatsu\nSuffering from a rare, incurable illness that causes frightening changes to her body, loner Kuroe Akaishi spends her high school days avoiding all her classmates—especially class idol Arata Minami and his groupies. But when Arata starts making her heart skip a beat with irritating regularity, Kuroe discovers that her illness actually has a big—make that MONSTER—secret: Romance turns her into Love-zilla…literally!<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt42206913",
+      "id": "tt34607637",
       "type": "series",
       "name": "Mobius Dust",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-aKpjh4JVayhd.png",
@@ -267,18 +274,18 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Medieval/Male Protagonist\nCorporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n<br><br>\n(Source: Yen Press)"
     },
     {
-      "id": "tt39551287",
-      "type": "series",
-      "name": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
-      "description": "Genres: Drama, Fantasy\nTags:Female Protagonist/Revenge/Villainess/Shounen/Royal Affairs/Magic\nElizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n<br><br>\n(Source: J-Novel Club)"
-    },
-    {
       "id": "tt32862795",
       "type": "series",
       "name": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-CUvez7DjwPf7.jpg",
       "description": "Genres: Action, Comedy, Drama, Fantasy, Romance\nTags:Heterosexual\nArnold, the seventh Imperial Prince of the Adrasia Empire, is called \"THE INSIPID PRINCE\" among people since his twin brother is genius and respected by all people. However, he has a secret identity -SILVER, one of the only five -SS-rank adventurers in the continent. When his younger brother Leo decides to aim for the throne, Arnold starts running things behind the scenes to support his brother. Unexpectedly the most beautiful lady becomes his assistant. The secret struggle of the strongest prince begins!\n<br><br>\n(Source: Kadokawa)"
+    },
+    {
+      "id": "tt39551287",
+      "type": "series",
+      "name": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
+      "description": "Genres: Drama, Fantasy\nTags:Female Protagonist/Revenge/Villainess/Shounen/Royal Affairs/Magic\nElizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n<br><br>\n(Source: J-Novel Club)"
     },
     {
       "id": "tt41054252",
