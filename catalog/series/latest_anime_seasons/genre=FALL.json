@@ -92,18 +92,11 @@
       "description": "Genres: Action, Mystery, Supernatural\nTags:Shounen/Demons/Guns\nSequel to <i>Tougen Anki</i>."
     },
     {
-      "id": "tt39395275",
+      "id": "tt4644488",
       "type": "series",
       "name": "Dragon Ball Super: Beerus",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-1NJiXCcdPatd.jpg",
       "description": "Genres: Action, Adventure\nTags:Super Power/Martial Arts/Shounen/Gods/Henshin/Male Protagonist/Aliens\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n<br><br>\n(Source: Dragon Ball Official Site)"
-    },
-    {
-      "id": "tt0112057",
-      "type": "series",
-      "name": "Magic Knight Rayearth (2026)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-74PoVpFE9oaO.jpg",
-      "description": "Genres: Adventure, Fantasy, Mahou Shoujo, Mecha\nTags:Female Protagonist/Shoujo/Isekai/Tomboy/Magic/Super Power/Super Robot/Henshin/Medieval/Primarily Female Cast/Ojou-sama/Primarily Child Cast/Robots/Archery/Swordplay\nIn celebration of <i>\"Magic Knight Rayearth”</i> animes' 30th anniversary, a new animation project has been launched!<br><br>\n\n<i>Note: Title and relations are provisional and subject to change.</i>"
     },
     {
       "id": "tt36593026",
@@ -111,6 +104,13 @@
       "name": "Hyouken no Majutsushi ga Sekai wo Suberu II",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-LEd6BaGLBq63.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nTags:Magic/School/Swordplay/Class Struggle\nThe second season of Hyouken no Majutsushi ga Sekai wo Suberu."
+    },
+    {
+      "id": "tt0112057",
+      "type": "series",
+      "name": "Magic Knight Rayearth (2026)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-74PoVpFE9oaO.jpg",
+      "description": "Genres: Adventure, Fantasy, Mahou Shoujo, Mecha\nTags:Female Protagonist/Shoujo/Isekai/Tomboy/Magic/Super Power/Super Robot/Henshin/Medieval/Primarily Female Cast/Ojou-sama/Primarily Child Cast/Robots/Archery/Swordplay\nIn celebration of <i>\"Magic Knight Rayearth”</i> animes' 30th anniversary, a new animation project has been launched!<br><br>\n\n<i>Note: Title and relations are provisional and subject to change.</i>"
     },
     {
       "id": "tt38939893",
@@ -183,18 +183,18 @@
       "description": "Genres: Action, Comedy, Horror, Mystery, Supernatural\nTags:Zombie/Post-Apocalyptic/Female Protagonist\nThe manga is set in a world where 90 percent of humans on Earth have contracted and died from a deadly, virulent disease; only to then rise again as zombies who only attack people. 13 years after that \"Red Day\" of societal and civilizational collapse, the surviving humans survive away from the big cities, while still hoping to retake them someday. An entirely new generation of people who know nothing of the pre-Red Day world are now coming into their own. The story begins when Aki and her close friends Haru and Natsuki begin a journey to find Aki's missing father.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt35995459",
-      "type": "series",
-      "name": "Hotel Inhumans 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
-      "description": "Genres: Action, Drama\nTags:\nThe second season of <i>Hotel Inhumans</i>."
-    },
-    {
       "id": "tt39308936",
       "type": "series",
       "name": "Kanojo no Tomodachi",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-EKreXXh4Xzo0.jpg",
       "description": "Genres: Drama, Ecchi, Romance\nTags:Heterosexual\nFor the first time in my life, I have a girlfriend. But her friend tempts me with a body that's so seductive... What would you do if your girlfriend's friend came on to you like this? \n<br><br>\n(Source: Yanmaga, translated)"
+    },
+    {
+      "id": "tt35995459",
+      "type": "series",
+      "name": "Hotel Inhumans 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
+      "description": "Genres: Action, Drama\nTags:\nThe second season of <i>Hotel Inhumans</i>."
     },
     {
       "id": "tt32524709",
@@ -211,7 +211,7 @@
       "description": "Genres: Comedy, Ecchi, Fantasy, Romance\nTags:Heterosexual/Nudity\nAmona, a dark summoner and demi-human who uses demonic powers, is the newest addition to the party of the uptight cleric Roni. Everyone expected the two to dislike each other and to have nothing to do with each other. But to their surprise, on their first day together as an adventuring party, they had a one-night stand...!\n<br><br>\n(Source: Comic Dragon Age, translated)"
     },
     {
-      "id": "tt38895862",
+      "id": "tt43509424",
       "type": "series",
       "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
@@ -253,6 +253,13 @@
       "description": "Genres: Action, Adventure, Comedy, Drama, Fantasy, Romance\nTags:Goblin/Magic\nOffice worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!\n<br><br>\n(Source: Yen Press)"
     },
     {
+      "id": "tt37196939",
+      "type": "series",
+      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-xfuf10GUke6L.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Magic/Fairy/Revenge\nIf there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?\n<br><br>\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
       "id": "tt42487863",
       "type": "series",
       "name": "Vertex Force",
@@ -265,13 +272,6 @@
       "name": "Choujun! Choujou Senpai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-E6KIgkFaJOfG.jpg",
       "description": "Genres: Comedy, Slice of Life\nTags:Police/Primarily Adult Cast/Super Power/Surreal Comedy/Urban/Shounen/Meta\nIn Chinjuku, the city that never sleeps, there is a psychic senior police officer who has powers beyond human comprehension! His name is Meguru Chojo! Along with his judo expert partner Nao Ippongi, this hilarious duo will keep the streets clean by any means necessary!"
-    },
-    {
-      "id": "tt37015024",
-      "type": "series",
-      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-xfuf10GUke6L.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Magic/Fairy\nIf there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?\n<br><br>\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt41295770",
@@ -302,6 +302,13 @@
       "description": "Genres: Comedy, Slice of Life\nTags:Shoujo/Male Protagonist/Iyashikei\nThe manga centers on Mitsutaka Oji, a 40-year-old man who by all appearances is attractive and cool and is excellent at his job. However, he has a secret: he absolutely loves small and cute things. The comedy manga follows his everyday life.\n<br><br>\n(Source: ANN)"
     },
     {
+      "id": "tt38752562",
+      "type": "series",
+      "name": "Mahou no Shimai LuluttoLilly Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-CERwax6jQJAd.jpg",
+      "description": "Genres: Mahou Shoujo\nTags:Magic\n<i>The second half of Mahou no Shimai LuluttoLilly.</i>"
+    },
+    {
       "id": "tt36986811",
       "type": "series",
       "name": "Kizu darake Seijo yori Houfuku wo Komete Season2",
@@ -321,13 +328,6 @@
       "name": "Jyuоu Mujin Dandivine",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213068-a8UT4sMVmbYk.jpg",
       "description": "Genres: Action, Mecha\nTags:Super Robot/Heterosexual\nThe story takes place 20 years after the robot Dandivine defeated the mysterious Aposdoll. The world is now in peace. However, toy manufacturer Kasuga, who relied on its toys of merchandise of Dandivine, has fallen into decline. Thus, Kasuga's president Genjuro Shijima prayed for Dandivine's revival, and the Aposdoll suddenly returned. High school student Gekiha Shijima gets an invitation from his uncle Yusaku Kuroiwa, the former main pilot of Dandivine, to pilot the giant robot himself.\n<br><br>\n(Source: Anime News Network)"
-    },
-    {
-      "id": "tt36594331",
-      "type": "series",
-      "name": "Pan Dorobou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194207-qhLou1C09vEf.png",
-      "description": "Genres: Comedy\nTags:Crime\nKadokawa announced on June 9th, 2025 that Keiko Shibata's Pan Dorobou (Bread Thief) picture book will have an anime adaptation. The announcement did not reveal the anime's format. The picture books center on a piece of bread that also steals bread from bakeries in the city.<br><br>\n(Source: Anime News Network)"
     }
   ]
 }
