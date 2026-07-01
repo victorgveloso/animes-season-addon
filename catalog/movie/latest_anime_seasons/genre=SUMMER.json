@@ -51,16 +51,6 @@
       "description": "Genres: Romance\nTags:Heterosexual\nThe story centers on two Tokyo high schoolers who connect over a painting of fireworks. They trace the painting to the Nagaoka Fireworks Festival in Niigata, one of Japan's three major fireworks festivals, and to a mysterious promise that connects the two to the past.<br><br>\n\n(Source: Crunchyroll News, edited) \n"
     },
     {
-      "id": "tt39026173",
-      "type": "movie",
-      "name": "Chiikawa: Ningyo no Shima no Himitsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202717-kHDn7BRiP9CR.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt39026173"
-      },
-      "description": "Genres: Comedy, Slice of Life\nTags:Animals/Primarily Animal Cast/Surreal Comedy/Mermaid\nBased on a series of <i>Chiikawa</i> comics posted on X by Nagano from March to November 2023, known as the <i>\"Siren Arc\"</i>.<br><br>\nOne day, while Chiikawa and Hachiware were relaxing in the square, Usagi suddenly appeared with a flyer stuck to its face. When Hachiware checked the flyer, it was an invitation reading “Special Invitation to a Special Island.”<br><br>\n\nLured by promises like “Get 100x rewards for simple island quests!” and “Limited-edition island ramen, exclusive sweets—sweet and spicy treats all practically free!”, Chiikawa and the others decided to go on the island retreat. Boarding the ship alongside Rakko, who was suspicious of the flyer's contents, the group landed on the island... only to find something waiting for them there...!?<br><br>\n(Source: Official Site, translated)"
-    },
-    {
       "id": "tt41830798",
       "type": "movie",
       "name": "Wareware wa Uchuujin",
@@ -69,6 +59,16 @@
         "defaultVideoId": "tt41830798"
       },
       "description": "Genres: Drama\nTags:Coming of Age/Rotoscoping\nOne summer in the third grade, a quiet boy named Tsubasa meets Kyotaro, a boy everyone in the class looked up to, and the two become close friends. Within their small world, they share irreplaceable moments—until a small incident suddenly tears them apart. Spanning more than thirty years, this gentle, contemplative story invites the audience to reflect on the meaning of life through the paths their lives take.<br><br>\n\n(Source: NOTHING NEW)"
+    },
+    {
+      "id": "tt39026173",
+      "type": "movie",
+      "name": "Chiikawa: Ningyo no Shima no Himitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202717-kHDn7BRiP9CR.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt39026173"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Animals/Primarily Animal Cast/Surreal Comedy/Mermaid\nBased on a series of <i>Chiikawa</i> comics posted on X by Nagano from March to November 2023, known as the <i>\"Siren Arc\"</i>.<br><br>\nOne day, while Chiikawa and Hachiware were relaxing in the square, Usagi suddenly appeared with a flyer stuck to its face. When Hachiware checked the flyer, it was an invitation reading “Special Invitation to a Special Island.”<br><br>\n\nLured by promises like “Get 100x rewards for simple island quests!” and “Limited-edition island ramen, exclusive sweets—sweet and spicy treats all practically free!”, Chiikawa and the others decided to go on the island retreat. Boarding the ship alongside Rakko, who was suspicious of the flyer's contents, the group landed on the island... only to find something waiting for them there...!?<br><br>\n(Source: Official Site, translated)"
     },
     {
       "id": "tt42411584",
