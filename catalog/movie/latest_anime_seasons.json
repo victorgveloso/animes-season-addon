@@ -38,7 +38,7 @@
       "behaviorHints": {
         "defaultVideoId": "tt43625959"
       },
-      "description": "Genres: Action, Adventure\nTags:Medieval/Swordplay/Full CGI/Virtual World\nThe world’s first full-dive VRMMO, Sword Art Online—known as SAO. What was meant to be a dream come true has instead transformed into a deadly game where dying in the virtual world means dying in reality.<br><br>\nEmirun and Rex, who once knew each other in the real world, reunite by chance within SAO. They join a scouting party to learn how to survive in this unforgiving world. One day, however, they encounter a mysterious PK (Player Killer) known only as the Black Swordsman. When Emirun rushes to the scene, she finds Rex collapsed in despair, and the Black Swordsman standing over him. The one who wiped out their entire scouting party—was the Black Swordsman.<br><br>\nDetermined to avenge their fallen comrades, Emirun and Rex seek out the legendary prodigy swordswoman Asuna, and begin intense training under her guidance. In a death game where even players turn against one another, what new beginning will these two reach at the end of their struggle…?<br><br>(Source: Official Site, translated)<br><br>\n<i>Note: Released as part of the Echoes of Aincrad: Sword Art Online's game limited edition.</i>"
+      "description": "Genres: Action, Adventure\nTags:Virtual World/Swordplay/Full CGI/Medieval\nThe world’s first full-dive VRMMO, Sword Art Online—known as SAO. What was meant to be a dream come true has instead transformed into a deadly game where dying in the virtual world means dying in reality.<br><br>\nEmirun and Rex, who once knew each other in the real world, reunite by chance within SAO. They join a scouting party to learn how to survive in this unforgiving world. One day, however, they encounter a mysterious PK (Player Killer) known only as the Black Swordsman. When Emirun rushes to the scene, she finds Rex collapsed in despair, and the Black Swordsman standing over him. The one who wiped out their entire scouting party—was the Black Swordsman.<br><br>\nDetermined to avenge their fallen comrades, Emirun and Rex seek out the legendary prodigy swordswoman Asuna, and begin intense training under her guidance. In a death game where even players turn against one another, what new beginning will these two reach at the end of their struggle…?<br><br>(Source: Official Site, translated)<br><br>\n<i>Note: Released as part of the Echoes of Aincrad: Sword Art Online's game limited edition.</i>"
     },
     {
       "id": "tt41293380",
@@ -119,6 +119,26 @@
         "defaultVideoId": "tt19035928"
       },
       "description": "Genres: Comedy, Fantasy\nTags:\nPantan is a red panda who seeks to find the treasure thought to be in a rainbow star in the night sky, in order to keep a promise made to an adventurer long ago. When Pantan and Anpanman encounter each other, Anpanman lends his abilities to help out Pantan.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt38552544",
+      "type": "movie",
+      "name": "Echo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214068-th35W8qQmycd.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt38552544"
+      },
+      "description": "Genres: Drama, Fantasy\nTags:Twins\nAmong a primordial ocean of stars, two innocent, identical children share a vessel. It comes to ground on a strange, liminal world, where a mischievous spirit appears, announcing itself as their guide on the nine-month journey ahead of them. Here in the world we know, meanwhile, a bereaved and pregnant woman struggles with grief and terrible uncertainty.<br><br>\n(Source: Fantasia Festival)<br><br>\n<i>Note: Originally released on March 6, 2026 as a part of \"Gemnibus Vol. 2\" anthology, however was also simultaneously selected to screen, and then later premiered at Fantasia International Film Festival.</i>"
+    },
+    {
+      "id": "tt8977670",
+      "type": "movie",
+      "name": "Dust of the Simulacrum",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214070-DvLRZXO5xGo6.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt8977670"
+      },
+      "description": "Genres: Action, Sci-Fi\nTags:Full CGI\nA young girl arrives of the surface of a harsh and dangerous world. There she meets a boy prepared to confront those dangers. Each is there with a purpose, as the world around them gradually falls apart, atom by atom—or rather, datum by datum.<br><br>\n(Source: Fantasia Festival)"
     }
   ]
 }
