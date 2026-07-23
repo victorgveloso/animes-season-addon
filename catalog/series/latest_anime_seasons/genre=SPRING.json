@@ -19,7 +19,7 @@
       "type": "series",
       "name": "Daemons of the Shadow Realm",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
-      "description": "Genres: Action, Adventure, Comedy, Fantasy, Supernatural\nTags:Shounen/Male Protagonist/Youkai/Archery/Proxy Battle/Creature Taming/Rural/Urban Fantasy/Twins/Demons/Gore\nIn a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)"
+      "description": "Genres: Action, Adventure, Comedy, Fantasy, Supernatural\nTags:Shounen/Male Protagonist/Youkai/Archery/Proxy Battle/Creature Taming/Rural/Twins/Demons/Urban Fantasy/Gore\nIn a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)"
     },
     {
       "id": "tt9054364",
@@ -29,13 +29,6 @@
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Kingdom Management/Isekai/Magic/Ensemble Cast/Crossdressing/Demons/Dungeon/Skeleton/Medieval/Politics/Spearplay/Agender/Swordplay/Henshin/Asexual/Male Protagonist/Femboy/Archery\nThe fourth season of <i>Tensei Shitara Slime Datta Ken</i>.<br><br>\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)"
     },
     {
-      "id": "tt7263328",
-      "type": "series",
-      "name": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png",
-      "description": "Genres: Drama, Psychological\nTags:Boarding School/Survival/Fugitive/Battle Royale/Male Protagonist/Anti-Hero/Philosophy/Primarily Teen Cast/School/Heterosexual/Bullying/Seinen/Coming of Age/Athletics/Disability/Delinquents/Love Triangle/Female Harem\nThe fourth season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br><br>\nAs Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n<br><br>\n(Source: Seven Seas)"
-    },
-    {
       "id": "tt31889371",
       "type": "series",
       "name": "Wistoria: Wand and Sword Season 2",
@@ -43,11 +36,18 @@
       "description": "Genres: Action, Adventure, Drama, Fantasy\nTags:Magic/Male Protagonist/Swordplay/Shounen/Elf/Primarily Teen Cast/Heterosexual/Primarily Male Cast/Medieval/Dungeon/Female Harem/Gore/Mixed Gender Harem/School\nThe second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br>\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br>\n(Source: Official Site)"
     },
     {
+      "id": "tt7263328",
+      "type": "series",
+      "name": "Classroom of the Elite 4th Season: Second Year, First Semester",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png",
+      "description": "Genres: Drama, Psychological\nTags:Boarding School/Survival/Fugitive/Battle Royale/Male Protagonist/Anti-Hero/Philosophy/Primarily Teen Cast/School/Heterosexual/Bullying/Seinen/Coming of Age/Athletics/Disability/Delinquents/Love Triangle/Female Harem\nThe fourth season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br><br>\nAs Ayanokouji and his classmates begin their second year at the Advanced Nurturing High School, they’re greeted by a fresh gauntlet of exams and a fresh batch of rather unique first-year students. They’ll have to get to know each other quickly, because the first special exam pairs the first-years with the second-years on a written test—with only the second-years facing expulsion if their team performs poorly! Worse yet? It seems one of the new first-years is also from the White Room. Can Ayanokouji avoid expulsion while sussing out the identity of this hidden foe?\n<br><br>\n(Source: Seven Seas)"
+    },
+    {
       "id": "tt37532971",
       "type": "series",
       "name": "I Made Friends with the Second Prettiest Girl in My Class",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
-      "description": "Genres: Comedy, Romance\nTags:Male Protagonist/School/Heterosexual/Primarily Teen Cast/Female Protagonist/Primarily Female Cast/Seinen/Otaku Culture/Chibi/Love Triangle\nMaki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Comedy, Romance\nTags:Male Protagonist/School/Heterosexual/Primarily Teen Cast/Female Protagonist/Primarily Female Cast/Otaku Culture/Seinen/Chibi/Love Triangle\nMaki Maehara, the class outcast, finally makes his first friend: Umi Asanagi, the second-prettiest girl in class and the center of everyone’s attention. He’s convinced she’s out of his league, but as their unlikely friendship grows, Maki starts to wonder…could there be more than just friendship between them?<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt39122769",
@@ -124,7 +124,7 @@
       "type": "series",
       "name": "Mistress Kanan is Devilishly Easy",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
-      "description": "Genres: Comedy, Ecchi, Fantasy, Romance\nTags:Demons/Tsundere/Heterosexual/School/Male Protagonist/Female Protagonist/Episodic/Yandere/Urban Fantasy/Reverse Isekai/Slapstick/Nudity/Female Harem/Gyaru/Shounen/Urban/Angels/Primarily Female Cast/Primarily Teen Cast/Ojou-sama/Parody/Yuri/Meta/LGBTQ+ Themes/Love Triangle/Henshin/Interspecies/Maids/Tanned Skin\nKanan, a female demon, infiltrates a high school with the goal of devouring some delicious human souls. She sets her sights on the perfect target, a teen boy named Kyougi Youji, and goes for the kill—only to somehow end up in a relationship with him instead?! Kanan’s never been in love before, and this oddly innocent demon creates absolute chaos as the two venture into romance with a first date and beyond!<br>\n<br>\n(Source: Crunchyroll)"
+      "description": "Genres: Comedy, Ecchi, Fantasy, Romance\nTags:Demons/Tsundere/Heterosexual/School/Male Protagonist/Female Protagonist/Episodic/Yandere/Urban Fantasy/Reverse Isekai/Slapstick/Nudity/Female Harem/Gyaru/Shounen/Urban/Angels/Primarily Female Cast/Primarily Teen Cast/Ojou-sama/Parody/Yuri/Meta/LGBTQ+ Themes/Love Triangle/Henshin/Interspecies/Maids/Tanned Skin/Volleyball\nKanan, a female demon, infiltrates a high school with the goal of devouring some delicious human souls. She sets her sights on the perfect target, a teen boy named Kyougi Youji, and goes for the kill—only to somehow end up in a relationship with him instead?! Kanan’s never been in love before, and this oddly innocent demon creates absolute chaos as the two venture into romance with a first date and beyond!<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
       "id": "tt39267868",
@@ -215,7 +215,7 @@
       "type": "series",
       "name": "Petals of Reincarnation",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
-      "description": "Genres: Action, Supernatural\nTags:Super Power/Conspiracy/Male Protagonist/Shounen/Historical/Artificial Intelligence/Gender Bending/Anti-Hero/Cosplay/Disability/Military/Ninja/Revenge/Cute Boys Doing Cute Things/Magic/Primarily Teen Cast/Twins/Heterosexual/Zombie/Swordplay\nTouya Senji is talentless. He's tried everything but he can't seem to excel at anything no matter how hard he tries. Then he meets Haito, a Kendo champion and... humanity's protector? She uses the Stem of Reincarnation to draw on the abilities of her past lives, but it only works when she slits her own throat. And now she wants Touya to join her?!\n<br><br>\n(Source: Mangamo, edited)"
+      "description": "Genres: Action, Supernatural\nTags:Super Power/Male Protagonist/Conspiracy/Shounen/Historical/Artificial Intelligence/Gender Bending/Anti-Hero/Cosplay/Disability/Military/Ninja/Revenge/Cute Boys Doing Cute Things/Magic/Primarily Teen Cast/Twins/Heterosexual/Zombie/Swordplay\nTouya Senji is talentless. He's tried everything but he can't seem to excel at anything no matter how hard he tries. Then he meets Haito, a Kendo champion and... humanity's protector? She uses the Stem of Reincarnation to draw on the abilities of her past lives, but it only works when she slits her own throat. And now she wants Touya to join her?!\n<br><br>\n(Source: Mangamo, edited)"
     },
     {
       "id": "tt37182080",
