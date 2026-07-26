@@ -101,16 +101,6 @@
       "description": "Genres: Action, Adventure, Comedy\nTags:Kids\nThe Nohara family go to Hiroshi's hometown of Akita to attend a famous fireworks festival during the summer. However, an incident causes youkai to escape from their land and will wreak havoc in Akita and in other areas throughout Japan. The Nohara family then go to the land of youkai and find themselves in a mysterious yet nostalgic world, where they go on an unpredictable adventure.\n<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt39215225",
-      "type": "movie",
-      "name": "Rusuban",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213908-ZBUHQxLVUzSW.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "tt39215225"
-      },
-      "description": "Genres: Slice of Life\nTags:\nSet in August 1987, the story follows one day in the life of Tokko as she stays at home in a large house while her family is away.\n<br><br>\n(Source: Anime News Network)"
-    },
-    {
       "id": "tt8977670",
       "type": "movie",
       "name": "Dust of the Simulacrum",
@@ -119,6 +109,16 @@
         "defaultVideoId": "tt8977670"
       },
       "description": "Genres: Action, Sci-Fi\nTags:Full CGI\nA young girl arrives of the surface of a harsh and dangerous world. There she meets a boy prepared to confront those dangers. Each is there with a purpose, as the world around them gradually falls apart, atom by atom—or rather, datum by datum.<br><br>\n(Source: Fantasia Festival)"
+    },
+    {
+      "id": "tt39215225",
+      "type": "movie",
+      "name": "Rusuban",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213908-ZBUHQxLVUzSW.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt39215225"
+      },
+      "description": "Genres: Slice of Life\nTags:\nSet in August 1987, the story follows one day in the life of Tokko as she stays at home in a large house while her family is away.\n<br><br>\n(Source: Anime News Network)"
     },
     {
       "id": "tt38552544",
