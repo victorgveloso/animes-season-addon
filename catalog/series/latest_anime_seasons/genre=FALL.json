@@ -155,18 +155,18 @@
       "description": "Genres: Adventure, Fantasy, Mahou Shoujo, Mecha\nTags:Female Protagonist/Shoujo/Isekai/Tomboy/Magic/Super Power/Super Robot/Henshin/Medieval/Primarily Female Cast/Ojou-sama/Primarily Child Cast/Robots/Archery/Swordplay\nIn celebration of <i>\"Magic Knight Rayearth”</i> animes' 30th anniversary, a new animation project has been launched!<br><br>\n\n<i>Note: Title and relations are provisional and subject to change.</i>"
     },
     {
-      "id": "tt38939893",
-      "type": "series",
-      "name": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-qPbg4OZlQXxL.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Dragons/Shounen\nFia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n<Br><br>\n(Source: Seven Seas Entertainment)"
-    },
-    {
       "id": "tt39303992",
       "type": "series",
       "name": "PSYREN",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-BV7R1PKHAY3M.png",
       "description": "Genres: Action, Adventure, Sci-Fi\nTags:Shounen/Death Game/Dystopian/Super Power/Male Protagonist\nOne day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br>\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.\n<br><br>\n(Source: PSYЯEN Official Site)"
+    },
+    {
+      "id": "tt38939893",
+      "type": "series",
+      "name": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-qPbg4OZlQXxL.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Dragons/Shounen\nFia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n<Br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt41298100",
@@ -323,6 +323,13 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:\nDuring Suikoden Live Broadcast, Konami announced <i>Suikoden: The Anime</i>, an anime adaptation of <i>Suikoden II</i>. <i>Suikoden: The Anime</i> will be the first anime series directly handled by Konami Animation.<br><br>\n(Source: finalweapon.net)"
     },
     {
+      "id": "kitsu:50740",
+      "type": "series",
+      "name": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212667-aQFGlCsxyYRn.jpg",
+      "description": "Genres: Ecchi, Supernatural\nTags:Youkai\nThe landlord finds a ring that can control yokai and proceeds to use it on a beautiful snow woman living in one of the apartments!<br><br>\n\n(Source: Irodori Comics)"
+    },
+    {
       "id": "tt43691383",
       "type": "series",
       "name": "Tensei Goblin Dakedo Shitsumon Aru?",
@@ -342,13 +349,6 @@
       "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-BW1GwqXSUyir.jpg",
       "description": "Genres: Adventure, Fantasy\nTags:Gods/Isekai/Male Protagonist/Magic/Seinen\nRPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.<br>\n<br>\n(Source: J-Novel Club)"
-    },
-    {
-      "id": "tt43691391",
-      "type": "series",
-      "name": "Choujun! Choujou Senpai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-E6KIgkFaJOfG.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:Police/Primarily Adult Cast/Super Power/Surreal Comedy/Urban/Shounen/Meta\nIn Chinjuku, the city that never sleeps, there is a psychic senior police officer who has powers beyond human comprehension! His name is Meguru Chojo! Along with his judo expert partner Nao Ippongi, this hilarious duo will keep the streets clean by any means necessary!"
     }
   ]
 }
