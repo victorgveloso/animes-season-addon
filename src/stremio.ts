@@ -42,9 +42,13 @@ export class Catalog {
     async populate(year:number, season:Season, type:TitleType) {
         const q = query(year, season, Sorting.POPULARITY_DESC, type);
         const anilist = new Anilist();
-        const response = await anilist.fetch(q);
+        const response = await anilist.fetch(q); // throws AnilistApiError on API failure
         const results = response?.data?.Page?.media;
-        if (!results) return;
+        if (!Array.isArray(results)) {
+            throw new Error(
+                `Unexpected Anilist response shape for ${type}/${season}/${year}: missing data.Page.media`
+            );
+        }
         for (const anime of results) {
             const originalName = anime.title.english ?? anime.title.romaji;
             let description = this.describe(anime);

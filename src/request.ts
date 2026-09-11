@@ -8,6 +8,12 @@ export class Imdb {
             );
     }
 }
+export class AnilistApiError extends Error {
+    constructor(message: string, public readonly status?: number, public readonly errors?: any) {
+        super(message);
+        this.name = "AnilistApiError";
+    }
+}
 export class Anilist {
     url = 'https://graphql.anilist.co';
     method = 'POST';
@@ -22,7 +28,16 @@ export class Anilist {
             body: JSON.stringify({query})
         };
         const response = await fetch(this.url, options);
-        return response.json();
+        const body = await response.json();
+        if (!response.ok || body?.errors) {
+            const message = body?.errors?.[0]?.message ?? response.statusText;
+            throw new AnilistApiError(
+                `Anilist API request failed (${response.status}): ${message}`,
+                response.status,
+                body?.errors
+            );
+        }
+        return body;
     }
 }
 export enum IdSource {

@@ -42,4 +42,11 @@ async function main() {
     await Promise.all(promises);
 }
 
-(async () => main())()
+(async () => {
+    try {
+        await main();
+    } catch (error) {
+        console.error("Fatal error while generating catalogs — aborting without writing partial/empty data:", error);
+        process.exitCode = 1;
+    }
+})();
