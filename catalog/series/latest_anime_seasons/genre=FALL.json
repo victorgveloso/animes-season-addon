@@ -75,7 +75,7 @@
       "type": "series",
       "name": "Firefly Wedding",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-      "description": "Genres: Drama, Romance\nTags:Josei/Yandere/Assassins/Heterosexual/Historical/Prostitution/Disability/Female Protagonist/Primarily Adult Cast/Marriage/Survival\nOn the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br>\n<br>\n(Source: VIZ Media)"
+      "description": "Genres: Drama, Romance\nTags:Yandere/Josei/Assassins/Heterosexual/Historical/Prostitution/Disability/Female Protagonist/Primarily Adult Cast/Marriage/Survival\nOn the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br>\n<br>\n(Source: VIZ Media)"
     },
     {
       "id": "tt15792808",
@@ -134,18 +134,18 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Magic/Gender Bending/Female Protagonist/Virtual World\nThe second season of <i>Yasei no Last Boss ga Arawareta!</i>"
     },
     {
-      "id": "tt27524116",
-      "type": "series",
-      "name": "Sasaki and Peeps Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
-      "description": "Genres: Comedy, Fantasy, Mahou Shoujo\nTags:Urban Fantasy/Animals/Male Protagonist/Isekai\nThe second season of <i>Sasaki to Pii-chan</i>."
-    },
-    {
       "id": "tt43691353",
       "type": "series",
       "name": "Overgeared",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
       "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Male Protagonist/Video Games/Virtual World/Magic\nSin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….<br><br>\n\n(Source: Tapas, edited)"
+    },
+    {
+      "id": "tt27524116",
+      "type": "series",
+      "name": "Sasaki and Peeps Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
+      "description": "Genres: Comedy, Fantasy, Mahou Shoujo\nTags:Urban Fantasy/Animals/Male Protagonist/Isekai\nThe second season of <i>Sasaki to Pii-chan</i>."
     },
     {
       "id": "tt35769369",
@@ -155,7 +155,7 @@
       "description": "Genres: Comedy, Romance\nTags:Female Harem/Primarily Female Cast/Primarily Teen Cast/School/Male Protagonist/Heterosexual/Philosophy\nThe second part of <i>Chitosekun wa Ramune Bin no Naka</i>."
     },
     {
-      "id": "kitsu:50723",
+      "id": "tt45956347",
       "type": "series",
       "name": "The Iceblade Sorcerer Shall Rule the World II",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
@@ -183,13 +183,6 @@
       "description": "Genres: Action, Comedy, Drama, Mecha, Romance, Sci-Fi\nTags:Isekai/Female Harem/Space/Heterosexual/Space Opera/Elf/Seinen\nSato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br>\n\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "tt38939893",
-      "type": "series",
-      "name": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Dragons/Shounen\nFia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n<Br><br>\n(Source: Seven Seas Entertainment)"
-    },
-    {
       "id": "tt41296544",
       "type": "series",
       "name": "Nia Liston: The Merciless Maiden",
@@ -200,8 +193,15 @@
       "id": "tt43650300",
       "type": "series",
       "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-JVPvPlAJED4S.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
       "description": "Genres: Fantasy, Romance\nTags:Witch/Hikikomori/Female Protagonist/Josei/Heterosexual/Rural/Medicine\n<b>“Make me a love potion.”</b>\n<br><br>\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?\n<br><br>\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt38939893",
+      "type": "series",
+      "name": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Dragons/Shounen\nFia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n<Br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt0112057",
