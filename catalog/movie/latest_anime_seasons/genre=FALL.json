@@ -81,16 +81,6 @@
       "description": "Genres: Action, Mecha, Sci-Fi\nTags:Robots/Full CGI\nA sequel movie to the 2014 movie <i>Rakuen Tsuihou: Expelled From Paradise.</i>"
     },
     {
-      "id": "tt42939636",
-      "type": "movie",
-      "name": "Saishuu Gakushou Hibike! Euphonium - Kouhen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194116-GAC8nkxwQuB4.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt42939636"
-      },
-      "description": "Genres: Drama, Music, Slice of Life\nTags:\nSequel to <i>Saishuu Gakushou Hibike! Euphonium - Zenpen</i>.<br><br>"
-    },
-    {
       "id": "tt39195693",
       "type": "movie",
       "name": "Girls und Panzer: Saishuushou 5",
