@@ -75,7 +75,7 @@
       "type": "series",
       "name": "Firefly Wedding",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-      "description": "Genres: Drama, Romance\nTags:Yandere/Josei/Assassins/Heterosexual/Historical/Prostitution/Disability/Female Protagonist/Primarily Adult Cast/Marriage/Survival\nOn the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br>\n<br>\n(Source: VIZ Media)"
+      "description": "Genres: Drama, Romance\nTags:Yandere/Josei/Assassins/Heterosexual/Prostitution/Historical/Disability/Female Protagonist/Primarily Adult Cast/Marriage/Survival\nOn the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br>\n<br>\n(Source: VIZ Media)"
     },
     {
       "id": "tt43613803",
@@ -141,18 +141,18 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Magic/Gender Bending/Female Protagonist/Virtual World\nThe second season of <i>Yasei no Last Boss ga Arawareta!</i>"
     },
     {
-      "id": "tt27524116",
-      "type": "series",
-      "name": "Sasaki and Peeps Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
-      "description": "Genres: Comedy, Fantasy, Mahou Shoujo\nTags:Urban Fantasy/Animals/Male Protagonist/Isekai\nThe second season of <i>Sasaki to Pii-chan</i>."
-    },
-    {
       "id": "tt35769369",
       "type": "series",
       "name": "Chitose Is in the Ramune Bottle 2nd Cour",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
       "description": "Genres: Comedy, Romance\nTags:Female Harem/Primarily Female Cast/Primarily Teen Cast/School/Male Protagonist/Heterosexual/Philosophy\nThe second part of <i>Chitosekun wa Ramune Bin no Naka</i>."
+    },
+    {
+      "id": "tt27524116",
+      "type": "series",
+      "name": "Sasaki and Peeps Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
+      "description": "Genres: Comedy, Fantasy, Mahou Shoujo\nTags:Urban Fantasy/Animals/Male Protagonist/Isekai\nThe second season of <i>Sasaki to Pii-chan</i>."
     },
     {
       "id": "tt25531288",
@@ -253,6 +253,13 @@
       "description": "Genres: Action, Comedy, Romance\nTags:\nThe second cour of the second season of <i>Yozakura-san Chi no Daisakusen</i>."
     },
     {
+      "id": "tt41153966",
+      "type": "series",
+      "name": "The Vermilion Mask",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
+      "description": "Genres: Action, Drama, Supernatural\nTags:Seinen/Curses/Magic\n\"The Mask” gives power to anyone who wears it.<br><br>\n\nAt times, that means endless possibility, or unimaginable tragedy…<br><br>\n\nPeru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.\n<br><br>\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.\n<br><br>\n(Source: The Vermillion Mask English Site)"
+    },
+    {
       "id": "tt43650454",
       "type": "series",
       "name": "Kanojo no Tomodachi",
@@ -281,13 +288,6 @@
       "description": "Genres: Action, Fantasy, Mahou Shoujo, Thriller\nTags:Female Protagonist/Magic/Kuudere/Primarily Female Cast\nA stage reading in the Magical Girl Raising Project franchise announced that an anime adaptation of Asari Endou's Magical Girl Raising Project Restart light novel volumes has been green-lit. Hiroyuki Hashimoto reported on Twitter that he will return from the first Magical Girl Raising Project anime as the director. The franchise's Twitter account also teased that various initiatives are in the works for \"Project restart.\"<br><br>\n(Source: Anime News Network)"
     },
     {
-      "id": "tt41153966",
-      "type": "series",
-      "name": "The Vermilion Mask",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
-      "description": "Genres: Action, Drama, Supernatural\nTags:Seinen/Curses/Magic\n\"The Mask” gives power to anyone who wears it.<br><br>\n\nAt times, that means endless possibility, or unimaginable tragedy…<br><br>\n\nPeru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.\n<br><br>\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.\n<br><br>\n(Source: The Vermillion Mask English Site)"
-    },
-    {
       "id": "tt43691408",
       "type": "series",
       "name": "The World's Strongest Witch",
@@ -309,18 +309,18 @@
       "description": "Genres: Comedy, Fantasy, Romance\nTags:Female Protagonist/Villainess/Heterosexual/Shoujo/Isekai\nI was reborn as a villainous daughter in a reverse harem otome game. \n<br><br>\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.\n<br><br>\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n<br><br>\nBut will her cunning fiancé let her go that easily?"
     },
     {
-      "id": "tt40552102",
-      "type": "series",
-      "name": "The Lonely Snow Widow and the Cursed Ring",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212667-8g5ktyrx34Yl.jpg",
-      "description": "Genres: Hentai, Supernatural\nTags:Heterosexual/Interspecies/Youkai/Female Protagonist/Male Protagonist\nWidowed Snow Woman Meets Young Man...<br>\nIt's the modern world, where humans, yokai, and various other races coexist...<br>\nOne day, Satoru—who works as the apartment manager—ends up angering his secret crush, Mifuyu, a snow woman who lives in the same building. <br>\nEager to make amends, he uses a mysterious ring that is said to help in communicating with yokai. However, he finds himself hotly pursued by Mifuyu, who has suddenly become extremely forward.<br>\nA socially aloof widowed snow woman and a young adult male who wants to support her. What awaits them at the end of their repeated physical encounters, fueled by the ring’s power…?<br><br>\n\n(Source: Official Website)\n<br><br>\n<i>Note: Episode 1 receives an advance distribution on AnimeFesta on September 11th, 2026. The start date reflects the start of the regular series broadcasting.</i>"
-    },
-    {
       "id": "tt43691424",
       "type": "series",
       "name": "#I'm Looking For a Zombie",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
       "description": "Genres: Action, Comedy, Horror, Mystery, Supernatural\nTags:Female Protagonist/Zombie/Post-Apocalyptic/Cute Girls Doing Cute Things/Shounen\nIt may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.\n<br><br>\n(Source: Cunchyroll)"
+    },
+    {
+      "id": "tt45831796",
+      "type": "series",
+      "name": "The Lonely Snow Widow and the Cursed Ring",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212667-8g5ktyrx34Yl.jpg",
+      "description": "Genres: Hentai, Supernatural\nTags:Heterosexual/Interspecies/Youkai/Female Protagonist/Male Protagonist\nWidowed Snow Woman Meets Young Man...<br>\nIt's the modern world, where humans, yokai, and various other races coexist...<br>\nOne day, Satoru—who works as the apartment manager—ends up angering his secret crush, Mifuyu, a snow woman who lives in the same building. <br>\nEager to make amends, he uses a mysterious ring that is said to help in communicating with yokai. However, he finds himself hotly pursued by Mifuyu, who has suddenly become extremely forward.<br>\nA socially aloof widowed snow woman and a young adult male who wants to support her. What awaits them at the end of their repeated physical encounters, fueled by the ring’s power…?<br><br>\n\n(Source: Official Website)\n<br><br>\n<i>Note: Episode 1 receives an advance distribution on AnimeFesta on September 11th, 2026. The start date reflects the start of the regular series broadcasting.</i>"
     },
     {
       "id": "tt41054228",
