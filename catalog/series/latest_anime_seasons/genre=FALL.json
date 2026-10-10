@@ -54,14 +54,7 @@
       "type": "series",
       "name": "Tokyo Revengers: War of the Three Titans Arc",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
-      "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Delinquents/Gangs/Shounen/Urban\nSequel to <i>Tokyo Revengers: Tenjiku-hen</i>."
-    },
-    {
-      "id": "tt39123061",
-      "type": "series",
-      "name": "The Ramparts of Ice Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
-      "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:School/Heterosexual/Shoujo/Love Triangle/Coming of Age/Primarily Teen Cast/Female Protagonist/Ensemble Cast/Male Protagonist/Kuudere\nKoyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Youta, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.\n<br><br>\nAs they grow closer, Koyuki and Minato begin to develop feelings for each other that go beyond mere friendship. Meanwhile, Youta finally confesses to Miki the feelings he's harbored for years. Some speak their hearts while others keep their emotions hidden, causing their paths — and their feelings for one another — to continuously cross and pass by… \n<br><br>\n(Source: Netflix)"
+      "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Delinquents/Gangs/Shounen/Urban/Male Protagonist/Primarily Male Cast/Mafia/Crime/Twins/Motorcycles/Guns/Heterosexual/Urban Fantasy/Ensemble Cast/Revenge\nSequel to <i>Tokyo Revengers: Tenjiku-hen</i>."
     },
     {
       "id": "tt43650242",
@@ -71,11 +64,11 @@
       "description": "Genres: Comedy, Ecchi, Slice of Life\nTags:School Club/Slapstick/School/Primarily Teen Cast/Nudity/Female Protagonist/Mixed Gender Harem/Femboy/Male Protagonist/Shounen/Yuri/Meta/Ensemble Cast/Cute Girls Doing Cute Things\nThis is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.\n<br><br>\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.\n<br><br>\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!\n<br><br>\n(Source: Even the Student Council Has Its Holes! Official Site)"
     },
     {
-      "id": "tt28313387",
+      "id": "tt39123061",
       "type": "series",
-      "name": "A Returner's Magic Should be Special Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist/Magic/CGI\nIn a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?\n<br><br>\n(Source: Crunchyroll)"
+      "name": "The Ramparts of Ice Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
+      "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:School/Heterosexual/Shoujo/Love Triangle/Coming of Age/Primarily Teen Cast/Female Protagonist/Ensemble Cast/Male Protagonist/Kuudere\nKoyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Youta, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.\n<br><br>\nAs they grow closer, Koyuki and Minato begin to develop feelings for each other that go beyond mere friendship. Meanwhile, Youta finally confesses to Miki the feelings he's harbored for years. Some speak their hearts while others keep their emotions hidden, causing their paths — and their feelings for one another — to continuously cross and pass by… \n<br><br>\n(Source: Netflix)"
     },
     {
       "id": "tt39394153",
@@ -85,6 +78,13 @@
       "description": "Genres: Drama, Romance\nTags:Yandere/Josei/Assassins/Heterosexual/Prostitution/Historical/Disability/Female Protagonist/Primarily Adult Cast/Marriage/Survival\nOn the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br>\n<br>\n(Source: VIZ Media)"
     },
     {
+      "id": "tt28313387",
+      "type": "series",
+      "name": "A Returner's Magic Should be Special Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist/Magic/CGI\nIn a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "tt13884052",
       "type": "series",
       "name": "The Detective Is Already Dead Season 2",
@@ -92,11 +92,18 @@
       "description": "Genres: Comedy, Drama, Mystery, Romance, Supernatural\nTags:Heterosexual/Detective/Aliens\nAfter thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!\n<br><br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt43691412",
+      "type": "series",
+      "name": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+      "description": "Genres: Adventure, Comedy, Fantasy, Slice of Life\nTags:Surreal Comedy/Urban Fantasy/Found Family/Magic/Chibi/Exiled/Male Protagonist/Slapstick/Shounen/Delinquents/Gangs\nRein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br>\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br>\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br>\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br>\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)"
+    },
+    {
       "id": "tt31975847",
       "type": "series",
       "name": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
-      "description": "Genres: Adventure, Fantasy\nTags:Isekai/Kingdom Management\nThe third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.\n<br><br>\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i>"
+      "description": "Genres: Adventure, Fantasy\nTags:Kingdom Management/Isekai/Medieval/Age Regression/Orphan\nThe third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>.\n<br><br>\n<i>Note: On September 4, 2026, it was announced that GeyeG Pictures would take over the production from studio MOTHER while keeping the same staff.</i>"
     },
     {
       "id": "tt43613803",
@@ -111,13 +118,6 @@
       "name": "Aoashi Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg",
       "description": "Genres: Sports\nTags:Football/Seinen/Male Protagonist/Ensemble Cast/Primarily Male Cast/Primarily Teen Cast\nAoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.\n<br><br>\n(Source: Crunchyroll)"
-    },
-    {
-      "id": "tt43691412",
-      "type": "series",
-      "name": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
-      "description": "Genres: Adventure, Comedy, Fantasy, Slice of Life\nTags:Surreal Comedy/Urban Fantasy/Found Family/Magic/Chibi/Exiled/Male Protagonist/Slapstick/Shounen/Delinquents/Gangs\nRein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.<br><br>\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.<br><br>\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.<br><br>\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where ideals and justice are easily crushed, adventurers fight on with nothing but their magic and their convictions.<br><br>\nThis is the story of those who have lost their place in the world finding a new way to live. Rein and his companions’ wild, free-spirited second life begins now!\n<br><br>(Source: The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Site)"
     },
     {
       "id": "tt33258199",
@@ -162,13 +162,6 @@
       "description": "Genres: Action, Adventure, Sci-Fi\nTags:Shounen/Death Game/Dystopian/Super Power/Male Protagonist\nOne day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br>\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.\n<br><br>\n(Source: PSYЯEN Official Site)"
     },
     {
-      "id": "tt41296506",
-      "type": "series",
-      "name": "Magical Explorer",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
-      "description": "Genres: Action, Adventure, Ecchi, Fantasy, Romance\nTags:Heterosexual/Magic/Isekai/Female Harem/Nudity/Male Protagonist/School/Maids/Urban Fantasy/Royal Affairs/Seinen\nFew titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!\n<br><br>\n(Source: Yen Press)\n<br><br>\n<i>Note: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.<i>"
-    },
-    {
       "id": "tt32344704",
       "type": "series",
       "name": "TOUGEN ANKI: Nikko Kegon Falls Arc",
@@ -176,25 +169,11 @@
       "description": "Genres: Action, Mystery, Supernatural\nTags:Shounen/Demons/Guns/Revenge/Urban Fantasy/CGI\nAfter battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their \"the total eradication of the Momotaro.\"\n<br><br>\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…\n<br><br>\n(Source: REMOW)"
     },
     {
-      "id": "tt32766897",
+      "id": "tt41296506",
       "type": "series",
-      "name": "Ranma1/2 (2024) Season 3",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
-      "description": "Genres: Action, Comedy, Romance\nTags:Gender Bending/Martial Arts/Shapeshifting/Arranged Marriage/Heterosexual/Love Triangle/School/Cohabitation/LGBTQ+ Themes/Shounen\nThe third season of <i>Ranma 1/2 (2024)</i>."
-    },
-    {
-      "id": "tt43691365",
-      "type": "series",
-      "name": "The Cold Sato-san is Only Sweet to Me",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
-      "description": "Genres: Comedy, Romance\nTags:Heterosexual/Seinen/School/Primarily Teen Cast/Work/Food/Photography\nSato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.\n<br><br>\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!\n<br><br>\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time."
-    },
-    {
-      "id": "tt43650419",
-      "type": "series",
-      "name": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Revenge/Magic/Fairy/Seinen/Economics/Bullying\nIf there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?\n<br><br>\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br>\n(Source: Seven Seas Entertainment)"
+      "name": "Magical Explorer",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
+      "description": "Genres: Action, Adventure, Ecchi, Fantasy, Romance\nTags:Heterosexual/Magic/Isekai/Female Harem/Nudity/Male Protagonist/School/Maids/Urban Fantasy/Royal Affairs/Seinen\nFew titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!\n<br><br>\n(Source: Yen Press)\n<br><br>\n<i>Note: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.<i>"
     },
     {
       "id": "tt25531288",
@@ -204,11 +183,39 @@
       "description": "Genres: Action, Adventure, Fantasy\nTags:Magic/School/Swordplay/Crossdressing/Class Struggle\nOnce dismissed as the sole ordinary student at the elite Arnold Academy of Sorcery, Ray White—secretly, the Iceblade Sorcerer—has finally earned his place. With a new school year comes a new challenge: The Magicks War, a grand competition pitting teams from rival schools against each other. But an ominous shadow looms over Ray and his friends as the other grand sorcerers plot their next moves.\n<br><br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "tt43691365",
+      "type": "series",
+      "name": "The Cold Sato-san is Only Sweet to Me",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
+      "description": "Genres: Comedy, Romance\nTags:Heterosexual/Seinen/School/Primarily Teen Cast/Work/Food/Photography\nSato-san is the unattainable flower of the class. She is always cold and curt with classmates, but only I know she's actually very cute when she smiles, even if she's not much of a photographer.\n<br><br>\nOshio-kun is friendly and lively, but only I know he works at his family's cafe after school. He does a great job with the cafe's SNS account, and his mischievous smile makes my heart skip a beat!\n<br><br>\nInnocent and sweet, but sometimes frustrating, this is a 120%-pure fluffy story about two people falling in love for the first time."
+    },
+    {
+      "id": "tt32766897",
+      "type": "series",
+      "name": "Ranma1/2 (2024) Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
+      "description": "Genres: Action, Comedy, Romance\nTags:Gender Bending/Martial Arts/Shapeshifting/Arranged Marriage/Heterosexual/Love Triangle/School/Cohabitation/LGBTQ+ Themes/Shounen\nThe third season of <i>Ranma 1/2 (2024)</i>."
+    },
+    {
+      "id": "tt43650419",
+      "type": "series",
+      "name": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Revenge/Magic/Fairy/Seinen/Economics/Bullying\nIf there's one thing you can never have enough of in a world of RPG-style swords and sorcery, it's magic points! Whether you're fueling spells, techniques, or showing off an incredible ability, you've gotta spend those points to do real damage. But what if you run out?\n<br><br>\nLent is part of the up-and-coming party known as the “Skypiercers,” and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious…until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
       "id": "tt43119470",
       "type": "series",
       "name": "FX Fighter Kurumi-chan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
       "description": "Genres: Drama, Slice of Life\nTags:Female Protagonist/Economics/Gambling/Denpa/Primarily Female Cast/Seinen/Educational/Primarily Adult Cast/Work/Large Breasts\nUniversity student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. \"I'll easily make it back,\" she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt43691383",
+      "type": "series",
+      "name": "So What's Wrong with Getting Reborn as a Goblin?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
+      "description": "Genres: Action, Adventure, Comedy, Drama, Fantasy, Romance\nTags:Goblin/Isekai/Magic/Seinen\nOffice worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!\n<br><br>\n(Source: Yen Press)<br><br>\n\n<i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i>"
     },
     {
       "id": "tt38939893",
@@ -225,18 +232,11 @@
       "description": "Genres: Action, Adventure, Sci-Fi\nTags:Super Power/Martial Arts/Gods/Shounen/Male Protagonist/Henshin/Aliens/Space/Angels\nSeveral years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.<br>\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.<br>\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.\n<br><br>\n(Source: Official Site)\n<br><br>\n<i>Note: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.</i>"
     },
     {
-      "id": "tt43691383",
-      "type": "series",
-      "name": "So What's Wrong with Getting Reborn as a Goblin?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
-      "description": "Genres: Action, Adventure, Comedy, Drama, Fantasy, Romance\nTags:Goblin/Isekai/Magic/Seinen\nOffice worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!\n<br><br>\n(Source: Yen Press)<br><br>\n\n<i>Note: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026</i>"
-    },
-    {
       "id": "tt27524116",
       "type": "series",
       "name": "Sasaki and Peeps Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
-      "description": "Genres: Comedy, Fantasy, Mahou Shoujo\nTags:Urban Fantasy/Animals/Male Protagonist/Isekai/Politics/Royal Affairs/Language Barrier/Magic/Demons/Angels/Female Harem\nThe second season of <i>Sasaki to Pii-chan</i>."
+      "description": "Genres: Comedy, Fantasy, Mahou Shoujo\nTags:Urban Fantasy/Animals/Male Protagonist/Isekai/Politics/Royal Affairs/Language Barrier/Magic/Female Harem/Demons/Angels\nThe second season of <i>Sasaki to Pii-chan</i>."
     },
     {
       "id": "tt35769369",
@@ -250,7 +250,7 @@
       "type": "series",
       "name": "Romelia War Chronicle",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
-      "description": "Genres: Adventure, Drama, Fantasy\nTags:Female Protagonist/Exiled/Politics/Military/Royal Affairs/Economics/Shounen/Villainess\nRomelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded \"dead weight\" for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.\n<br><br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i>"
+      "description": "Genres: Adventure, Drama, Fantasy\nTags:Female Protagonist/Shounen/Villainess/Exiled/Politics/Military/Royal Affairs/Economics\nRomelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle. In the aftermath, Romelia is branded \"dead weight\" for not fighting directly, and the Prince unilaterally breaks off their engagement. Denied a place in the victory celebrations, Romelia returns home, only to be met with cold indifference from her family and society. Yet, she refuses to break. She has already set her sights on the path that lies ahead.\n<br><br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: Romelia War Chronicle was streamed 2 days in advance of the TV broadcast on AnimeTimes, U-NEXT, and Netflix beginning October 3, 2026. Regular broadcasting began on October 5, 2026.</i>"
     },
     {
       "id": "tt43691408",
@@ -258,6 +258,13 @@
       "name": "The World's Strongest Witch",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
       "description": "Genres: Action, Comedy, Fantasy\nTags:Female Protagonist/Virtual World/Travel/Primarily Female Cast/Meta/Magic/Parody/Cute Girls Doing Cute Things/Shounen/Gods/Witch\nAfter using her SSS-Rank skill, Internet, to crush her former family’s ambitions, Lorna is free to travel the world. Her next stop is the port town of Aquas, where she hopes to see the sights and chow down on some fresh seafood. But when she arrives, the place is on the brink of destruction thanks to a certain Weekly Quest… Good thing Lorna has the gods on her side!\n<br><br>\n(Source: Crunchyroll)"
+    },
+    {
+      "id": "tt41295083",
+      "type": "series",
+      "name": "A Certain Dark Item",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+      "description": "Genres: Action, Sci-Fi\nTags:Primarily Female Cast/Urban Fantasy/Urban/Super Power/Human Experimentation/Crime/Dystopian/Anti-Hero\nThis is a story of four girls living in the \"Dark Side\" of Academy City.<br>\n<br>\nIn Academy City where \"ESP\" has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br>\n<br>\n\"ITEM\" is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br>\n<br>\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br>\n<br>\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br>\n<br>\n(Source: Kadokawa, translated)"
     },
     {
       "id": "tt43650454",
@@ -274,7 +281,7 @@
       "description": "Genres: Drama, Romance, Supernatural\nTags:Heterosexual/Shoujo/Marriage/Arranged Marriage/Female Protagonist/Historical/Urban Fantasy\nAs their big day draws closer, Miyo and Kiyoka feel their love deepening. And when Miyo attends a cooking class with Hazuki, she meets an old classmate!\n<br><br>\n(Source: Netflix Anime)"
     },
     {
-      "id": "tt0112057",
+      "id": "tt32813343",
       "type": "series",
       "name": "Magic Knight Rayearth (2026)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg",
@@ -288,13 +295,6 @@
       "description": "Genres: Comedy, Fantasy, Romance\nTags:Female Protagonist/Isekai/Villainess/Heterosexual/Shoujo\nI was reborn as a villainous daughter in a reverse harem otome game. \n<br><br>\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.\n<br><br>\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n<br><br>\nBut will her cunning fiancé let her go that easily?"
     },
     {
-      "id": "tt41295083",
-      "type": "series",
-      "name": "A Certain Dark Item",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
-      "description": "Genres: Action, Sci-Fi\nTags:Primarily Female Cast/Urban Fantasy/Urban/Super Power\nThis is a story of four girls living in the \"Dark Side\" of Academy City.<br>\n<br>\nIn Academy City where \"ESP\" has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br>\n<br>\n\"ITEM\" is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br>\n<br>\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br>\n<br>\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br>\n<br>\n(Source: Kadokawa, translated)"
-    },
-    {
       "id": "tt43691424",
       "type": "series",
       "name": "#I'm Looking For a Zombie",
@@ -306,7 +306,7 @@
       "type": "series",
       "name": "The Vermilion Mask",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
-      "description": "Genres: Action, Drama, Supernatural\nTags:Seinen/Curses/Magic\n\"The Mask” gives power to anyone who wears it.<br><br>\n\nAt times, that means endless possibility, or unimaginable tragedy…<br><br>\n\nPeru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.\n<br><br>\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.\n<br><br>\n(Source: The Vermillion Mask English Site)"
+      "description": "Genres: Action, Drama, Supernatural\nTags:Seinen/Curses/Magic/Male Protagonist\n\"The Mask” gives power to anyone who wears it.<br><br>\n\nAt times, that means endless possibility, or unimaginable tragedy…<br><br>\n\nPeru, pupil of the legendary mask maker Gaston Roux, becomes controlled by the “Mask of the Warrior God,” and unintentionally kills his friends, and even his own master.\n<br><br>\nIn order to prevent this type of tragedy from reoccurring, Peru swears to destroy all of Gaston’s masks that are spread around the world. Confronting the sins that he has committed, he embarks on his voyage. Meeting new friends, then confronting powerful foes. The boy continues on. Until the day he can atone for his sins against his master.\n<br><br>\n(Source: The Vermillion Mask English Site)"
     },
     {
       "id": "tt31131310",
@@ -320,7 +320,7 @@
       "type": "series",
       "name": "TANK CHAIR",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-S0sWFrCpft85.jpg",
-      "description": "Genres: Action, Sci-Fi\nTags:Disability/Rehabilitation/Dystopian/Full CGI/Assassins/Super Power/Shounen/Anthropomorphism/Gore/Body Horror\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n<br><br>\n(Source: Kodansha USA)"
+      "description": "Genres: Action, Sci-Fi\nTags:Disability/Full CGI/Rehabilitation/Dystopian/Assassins/Super Power/Shounen/Anthropomorphism/Gore/Body Horror\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt39240299",
